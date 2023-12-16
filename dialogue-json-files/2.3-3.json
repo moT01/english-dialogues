@@ -1,0 +1,59 @@
+{
+  "text": "Hi, Mark. How's the project going? Hi, Maria. I'm testing a new software tool to find problems. It's a nice experience so far But we're doing more tests to make sure everything works. We're also asking some people to tell us what they think It's a bit busy, but I'm learning a lot That's good to hear. I'm managing the team that's making a new part for the clients platform We're trying to work on it and talk to the client to make sure they like it. Nice. Good luck there",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 1.9,
+      "dialogue": {
+        "text": "Hi, Mark. How's the project going?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 2.76,
+      "finishTime": 7.58,
+      "dialogue": {
+        "text": "Hi, Maria. I'm testing a new software tool to find problems. It's a nice experience so far",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.58,
+      "finishTime": 13.48,
+      "dialogue": {
+        "text": "But we're doing more tests to make sure everything works. We're also asking some people to tell us what they think",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.48,
+      "finishTime": 16.3,
+      "dialogue": {
+        "text": "It's a bit busy, but I'm learning a lot",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.3,
+      "finishTime": 20.98,
+      "dialogue": {
+        "text": "That's good to hear. I'm managing the team that's making a new part for the clients platform",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.98,
+      "finishTime": 26.48,
+      "dialogue": {
+        "text": "We're trying to work on it and talk to the client to make sure they like it. Nice. Good luck there",
+        "align": "right"
+      }
+    }
+  ]
+}

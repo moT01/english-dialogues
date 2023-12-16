@@ -1,0 +1,104 @@
+{
+  "text": "Hey, I'm a bit stuck trying to integrate this framework into our project. Any advice? Which framework are you working with? It's a new one I found for handling user authentication, but the documentation is a bit confusing. I get that. Make sure you've included the framework library in our project dependencies. I did that, but now I'm not sure how to set it up to work with our existing login system. Okay, let's take it step by step. Check the framework documentation for initialization instructions. It usually involves configuring settings or initializing the library. I'll give that another look. Anything else? If you're still having trouble, check if there's a community forum or support channel for the framework. Other developers might have faced similar issues. Good point. Thanks.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.48,
+      "dialogue": {
+        "text": "Hey, I'm a bit stuck trying to integrate this framework into our project. Any advice?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.98,
+      "finishTime": 6.44,
+      "dialogue": {
+        "text": "Which framework are you working with?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.18,
+      "finishTime": 9.74,
+      "dialogue": {
+        "text": "It's a new one I found for handling user authentication,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.12,
+      "finishTime": 12.04,
+      "dialogue": {
+        "text": "but the documentation is a bit confusing.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.74,
+      "finishTime": 17.18,
+      "dialogue": {
+        "text": "I get that. Make sure you've included the framework library in our project dependencies.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.88,
+      "finishTime": 22.24,
+      "dialogue": {
+        "text": "I did that, but now I'm not sure how to set it up to work with our existing login system.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.64,
+      "finishTime": 27.2,
+      "dialogue": {
+        "text": "Okay, let's take it step by step. Check the framework documentation for initialization",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 27.2,
+      "finishTime": 31.52,
+      "dialogue": {
+        "text": "instructions. It usually involves configuring settings or initializing the library.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.12,
+      "finishTime": 34.1,
+      "dialogue": {
+        "text": "I'll give that another look. Anything else?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 34.42,
+      "finishTime": 38.9,
+      "dialogue": {
+        "text": "If you're still having trouble, check if there's a community forum or support channel for the",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.9,
+      "finishTime": 43.32,
+      "dialogue": {
+        "text": "framework. Other developers might have faced similar issues. Good point. Thanks.",
+        "align": "right"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "text": "Hey, have you met Anna yet? She's now in charge of the HR department. No, I haven't seen her yet. What can you tell me about her? She's a tall woman in her early 40s with long blonde hair and glasses. You'll recognize her right away. She's quite serious and organized, which makes her excellent at her job. She's been working with tech companies for about 10 years. 10 years? That's impressive. What does she do exactly? Well, she's responsible for hiring people and taking care of workers. She makes sure we follow the rules and that everyone is happy. Word is that she's strict but fair and she always looks out for the best interests of the team. Those are very positive things you've just said. I'm excited we have someone like her in our company. I'd love to chat with her sometime and learn from her experiences.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 3.9,
+      "dialogue": {
+        "text": "Hey, have you met Anna yet? She's now in charge of the HR department.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.54,
+      "finishTime": 6.86,
+      "dialogue": {
+        "text": "No, I haven't seen her yet. What can you tell me about her?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.18,
+      "finishTime": 11.7,
+      "dialogue": {
+        "text": "She's a tall woman in her early 40s with long blonde hair and glasses.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.94,
+      "finishTime": 15.48,
+      "dialogue": {
+        "text": "You'll recognize her right away. She's quite serious and organized,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.54,
+      "finishTime": 20.2,
+      "dialogue": {
+        "text": "which makes her excellent at her job. She's been working with tech companies for about 10 years.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.62,
+      "finishTime": 23.06,
+      "dialogue": {
+        "text": "10 years? That's impressive. What does she do exactly?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.44,
+      "finishTime": 26.98,
+      "dialogue": {
+        "text": "Well, she's responsible for hiring people and taking care of workers.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.98,
+      "finishTime": 30.62,
+      "dialogue": {
+        "text": "She makes sure we follow the rules and that everyone is happy.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.12,
+      "finishTime": 35.74,
+      "dialogue": {
+        "text": "Word is that she's strict but fair and she always looks out for the best interests of the team.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 36.42,
+      "finishTime": 38.34,
+      "dialogue": {
+        "text": "Those are very positive things you've just said.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.78,
+      "finishTime": 40.74,
+      "dialogue": {
+        "text": "I'm excited we have someone like her in our company.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.14,
+      "finishTime": 43.66,
+      "dialogue": {
+        "text": "I'd love to chat with her sometime and learn from her experiences.",
+        "align": "left"
+      }
+    }
+  ]
+}

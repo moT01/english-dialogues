@@ -1,0 +1,122 @@
+{
+  "text": "Hey Brian, I was looking at the project details and I noticed something a bit odd. The timeline you mentioned doesn't match what I found in the documentation. Really? That's strange. I double checked the project schedule and it should be accurate. Well, the documentation says we're starting the testing phase next week, but you mentioned it was the following week. Let me clarify. I believe the documentation is outdated. We discussed it yesterday and we decided to move the testing phase a week later. I'm pretty sure about this. Alright, that makes sense. And what about the budget allocation? You mentioned it was $10,000, but I found an email saying it's $15,000. I think there's a mix-up there. The budget we agreed upon was indeed $15,000, not $10,000. It should cover all the expenses. Got it, Brian. Thanks for clearing that up. It's essential that we're on the same page when it comes to project details.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.06,
+      "dialogue": {
+        "text": "Hey Brian, I was looking at the project details and I noticed something a bit odd.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.52,
+      "finishTime": 8,
+      "dialogue": {
+        "text": "The timeline you mentioned doesn't match what I found in the documentation.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.26,
+      "finishTime": 13.46,
+      "dialogue": {
+        "text": "Really? That's strange. I double checked the project schedule and it should be accurate.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.06,
+      "finishTime": 17.28,
+      "dialogue": {
+        "text": "Well, the documentation says we're starting the testing phase next week,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.28,
+      "finishTime": 19.16,
+      "dialogue": {
+        "text": "but you mentioned it was the following week.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.86,
+      "finishTime": 25.18,
+      "dialogue": {
+        "text": "Let me clarify. I believe the documentation is outdated. We discussed it yesterday and",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.18,
+      "finishTime": 29.74,
+      "dialogue": {
+        "text": "we decided to move the testing phase a week later. I'm pretty sure about this.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 30.32,
+      "finishTime": 33.34,
+      "dialogue": {
+        "text": "Alright, that makes sense. And what about the budget allocation?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.7,
+      "finishTime": 37.58,
+      "dialogue": {
+        "text": "You mentioned it was $10,000, but I found an email saying it's $15,000.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.68,
+      "finishTime": 42.96,
+      "dialogue": {
+        "text": "I think there's a mix-up there. The budget we agreed upon was indeed $15,000,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 43.7,
+      "finishTime": 46.7,
+      "dialogue": {
+        "text": "not $10,000. It should cover all the expenses.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 47.42,
+      "finishTime": 49.14,
+      "dialogue": {
+        "text": "Got it, Brian. Thanks for clearing that up.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 49.32,
+      "finishTime": 52,
+      "dialogue": {
+        "text": "It's essential that we're on the same page when it comes to project details.",
+        "align": "left"
+      }
+    }
+  ]
+}

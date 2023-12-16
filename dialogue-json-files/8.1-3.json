@@ -1,0 +1,158 @@
+{
+  "text": "Hey, Sarah, it's been a while since we hung out like this. Hey, work has kept me busy this week. I worked on the new app interface, designed some cool icons, and presented the layout to the team yesterday. That sounds awesome. I tested the app for bugs. We found a few, but the good news is we fixed them all. It seems pretty solid now. Nice work. I also attended a UX design workshop last month. I learned some great techniques for user research. I've applied them to our project and it helped improve the user experience. That's impressive. I met with the client yesterday and they loved our progress. They gave us the green light to move on to the next phase. Way to go. It looks like we're making great progress.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.46,
+      "dialogue": {
+        "text": "Hey, Sarah, it's been a while since we hung out like this.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.78,
+      "finishTime": 5.8,
+      "dialogue": {
+        "text": "Hey, work has kept me busy this week.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.04,
+      "finishTime": 10.2,
+      "dialogue": {
+        "text": "I worked on the new app interface, designed some cool icons, and presented the layout",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.2,
+      "finishTime": 11.12,
+      "dialogue": {
+        "text": "to the team yesterday.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.68,
+      "finishTime": 12.68,
+      "dialogue": {
+        "text": "That sounds awesome.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.78,
+      "finishTime": 14.16,
+      "dialogue": {
+        "text": "I tested the app for bugs.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.5,
+      "finishTime": 17.12,
+      "dialogue": {
+        "text": "We found a few, but the good news is we fixed them all.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.4,
+      "finishTime": 18.86,
+      "dialogue": {
+        "text": "It seems pretty solid now.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 19.76,
+      "finishTime": 20.4,
+      "dialogue": {
+        "text": "Nice work.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.78,
+      "finishTime": 23.58,
+      "dialogue": {
+        "text": "I also attended a UX design workshop last month.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.76,
+      "finishTime": 26.36,
+      "dialogue": {
+        "text": "I learned some great techniques for user research.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.36,
+      "finishTime": 29.88,
+      "dialogue": {
+        "text": "I've applied them to our project and it helped improve the user experience.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 30.28,
+      "finishTime": 31.08,
+      "dialogue": {
+        "text": "That's impressive.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.44,
+      "finishTime": 34.04,
+      "dialogue": {
+        "text": "I met with the client yesterday and they loved our progress.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 34.26,
+      "finishTime": 36.62,
+      "dialogue": {
+        "text": "They gave us the green light to move on to the next phase.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 37.28,
+      "finishTime": 37.82,
+      "dialogue": {
+        "text": "Way to go.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 38.04,
+      "finishTime": 39.62,
+      "dialogue": {
+        "text": "It looks like we're making great progress.",
+        "align": "left"
+      }
+    }
+  ]
+}

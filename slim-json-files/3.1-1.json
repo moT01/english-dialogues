@@ -1,0 +1,862 @@
+{
+  "text": "Good afternoon. Thanks for coming in for this interview. Can you tell me about your previous job experiences? Good afternoon. Sure. I was a programmer in Acme Tech. I was there for three years. I was responsible for developing web applications and maintaining the company's database. I was also a part of the software update team. That's excellent. Were there any specific projects you'd like to mention? Yes. In one of my team's projects, we were involved in the development of an e-commerce platform. We were responsible for the checkout process and it was a successful implementation. Great. Can you tell me about your qualifications? Were you educated in computer science? Yes. I have a bachelor's degree in computer science from California State University. During my studies, I was introduced to various programming languages and software development principles. Wonderful. We value candidates with a strong educational background. Thank you for sharing your experiences with us.",
+  "segments": [
+    {
+      "text": "Good afternoon. Thanks for coming in for this interview. Can you tell me about your previous",
+      "startTime": 0,
+      "finishTime": 4.5,
+      "words": [
+        {
+          "startTime": 0,
+          "finishTime": 0.4,
+          "word": "Good"
+        },
+        {
+          "startTime": 0.4,
+          "finishTime": 0.92,
+          "word": "afternoon."
+        },
+        {
+          "startTime": 1.28,
+          "finishTime": 1.52,
+          "word": "Thanks"
+        },
+        {
+          "startTime": 1.52,
+          "finishTime": 1.66,
+          "word": "for"
+        },
+        {
+          "startTime": 1.66,
+          "finishTime": 1.86,
+          "word": "coming"
+        },
+        {
+          "startTime": 1.86,
+          "finishTime": 2.06,
+          "word": "in"
+        },
+        {
+          "startTime": 2.06,
+          "finishTime": 2.18,
+          "word": "for"
+        },
+        {
+          "startTime": 2.18,
+          "finishTime": 2.42,
+          "word": "this"
+        },
+        {
+          "startTime": 2.42,
+          "finishTime": 2.76,
+          "word": "interview."
+        },
+        {
+          "startTime": 3.16,
+          "finishTime": 3.26,
+          "word": "Can"
+        },
+        {
+          "startTime": 3.26,
+          "finishTime": 3.38,
+          "word": "you"
+        },
+        {
+          "startTime": 3.38,
+          "finishTime": 3.52,
+          "word": "tell"
+        },
+        {
+          "startTime": 3.52,
+          "finishTime": 3.68,
+          "word": "me"
+        },
+        {
+          "startTime": 3.68,
+          "finishTime": 3.94,
+          "word": "about"
+        },
+        {
+          "startTime": 3.94,
+          "finishTime": 4.16,
+          "word": "your"
+        },
+        {
+          "startTime": 4.16,
+          "finishTime": 4.5,
+          "word": "previous"
+        }
+      ]
+    },
+    {
+      "text": "job experiences? Good afternoon. Sure. I was a programmer in Acme Tech. I was there for three",
+      "startTime": 4.5,
+      "finishTime": 10.82,
+      "words": [
+        {
+          "startTime": 4.5,
+          "finishTime": 4.78,
+          "word": "job"
+        },
+        {
+          "startTime": 4.78,
+          "finishTime": 5.32,
+          "word": "experiences?"
+        },
+        {
+          "startTime": 6.1,
+          "finishTime": 6.22,
+          "word": "Good"
+        },
+        {
+          "startTime": 6.22,
+          "finishTime": 6.8,
+          "word": "afternoon."
+        },
+        {
+          "startTime": 6.98,
+          "finishTime": 7.38,
+          "word": "Sure."
+        },
+        {
+          "startTime": 7.8,
+          "finishTime": 7.94,
+          "word": "I"
+        },
+        {
+          "startTime": 7.94,
+          "finishTime": 8.1,
+          "word": "was"
+        },
+        {
+          "startTime": 8.1,
+          "finishTime": 8.44,
+          "word": "a"
+        },
+        {
+          "startTime": 8.44,
+          "finishTime": 8.7,
+          "word": "programmer"
+        },
+        {
+          "startTime": 8.7,
+          "finishTime": 9.02,
+          "word": "in"
+        },
+        {
+          "startTime": 9.02,
+          "finishTime": 9.32,
+          "word": "Acme"
+        },
+        {
+          "startTime": 9.32,
+          "finishTime": 9.58,
+          "word": "Tech."
+        },
+        {
+          "startTime": 9.92,
+          "finishTime": 10.02,
+          "word": "I"
+        },
+        {
+          "startTime": 10.02,
+          "finishTime": 10.24,
+          "word": "was"
+        },
+        {
+          "startTime": 10.24,
+          "finishTime": 10.38,
+          "word": "there"
+        },
+        {
+          "startTime": 10.38,
+          "finishTime": 10.58,
+          "word": "for"
+        },
+        {
+          "startTime": 10.58,
+          "finishTime": 10.82,
+          "word": "three"
+        }
+      ]
+    },
+    {
+      "text": "years. I was responsible for developing web applications and maintaining the company's",
+      "startTime": 10.82,
+      "finishTime": 15.92,
+      "words": [
+        {
+          "startTime": 10.82,
+          "finishTime": 11.26,
+          "word": "years."
+        },
+        {
+          "startTime": 11.84,
+          "finishTime": 11.94,
+          "word": "I"
+        },
+        {
+          "startTime": 11.94,
+          "finishTime": 12.18,
+          "word": "was"
+        },
+        {
+          "startTime": 12.18,
+          "finishTime": 12.68,
+          "word": "responsible"
+        },
+        {
+          "startTime": 12.68,
+          "finishTime": 12.98,
+          "word": "for"
+        },
+        {
+          "startTime": 12.98,
+          "finishTime": 13.4,
+          "word": "developing"
+        },
+        {
+          "startTime": 13.4,
+          "finishTime": 13.64,
+          "word": "web"
+        },
+        {
+          "startTime": 13.64,
+          "finishTime": 14.32,
+          "word": "applications"
+        },
+        {
+          "startTime": 14.32,
+          "finishTime": 14.7,
+          "word": "and"
+        },
+        {
+          "startTime": 14.7,
+          "finishTime": 15.14,
+          "word": "maintaining"
+        },
+        {
+          "startTime": 15.14,
+          "finishTime": 15.44,
+          "word": "the"
+        },
+        {
+          "startTime": 15.44,
+          "finishTime": 15.92,
+          "word": "company's"
+        }
+      ]
+    },
+    {
+      "text": "database. I was also a part of the software update team. That's excellent. Were there any specific",
+      "startTime": 15.92,
+      "finishTime": 21.42,
+      "words": [
+        {
+          "startTime": 15.92,
+          "finishTime": 16.22,
+          "word": "database."
+        },
+        {
+          "startTime": 16.7,
+          "finishTime": 16.92,
+          "word": "I"
+        },
+        {
+          "startTime": 16.92,
+          "finishTime": 17.12,
+          "word": "was"
+        },
+        {
+          "startTime": 17.12,
+          "finishTime": 17.4,
+          "word": "also"
+        },
+        {
+          "startTime": 17.4,
+          "finishTime": 17.52,
+          "word": "a"
+        },
+        {
+          "startTime": 17.52,
+          "finishTime": 17.64,
+          "word": "part"
+        },
+        {
+          "startTime": 17.64,
+          "finishTime": 17.74,
+          "word": "of"
+        },
+        {
+          "startTime": 17.74,
+          "finishTime": 17.88,
+          "word": "the"
+        },
+        {
+          "startTime": 17.88,
+          "finishTime": 18.22,
+          "word": "software"
+        },
+        {
+          "startTime": 18.22,
+          "finishTime": 18.6,
+          "word": "update"
+        },
+        {
+          "startTime": 18.6,
+          "finishTime": 19,
+          "word": "team."
+        },
+        {
+          "startTime": 19.64,
+          "finishTime": 19.98,
+          "word": "That's"
+        },
+        {
+          "startTime": 19.98,
+          "finishTime": 20.36,
+          "word": "excellent."
+        },
+        {
+          "startTime": 20.54,
+          "finishTime": 20.66,
+          "word": "Were"
+        },
+        {
+          "startTime": 20.66,
+          "finishTime": 20.78,
+          "word": "there"
+        },
+        {
+          "startTime": 20.78,
+          "finishTime": 21,
+          "word": "any"
+        },
+        {
+          "startTime": 21,
+          "finishTime": 21.42,
+          "word": "specific"
+        }
+      ]
+    },
+    {
+      "text": "projects you'd like to mention? Yes. In one of my team's projects, we were involved in the development",
+      "startTime": 21.42,
+      "finishTime": 26.8,
+      "words": [
+        {
+          "startTime": 21.42,
+          "finishTime": 21.78,
+          "word": "projects"
+        },
+        {
+          "startTime": 21.78,
+          "finishTime": 22.02,
+          "word": "you'd"
+        },
+        {
+          "startTime": 22.02,
+          "finishTime": 22.08,
+          "word": "like"
+        },
+        {
+          "startTime": 22.08,
+          "finishTime": 22.26,
+          "word": "to"
+        },
+        {
+          "startTime": 22.26,
+          "finishTime": 22.56,
+          "word": "mention?"
+        },
+        {
+          "startTime": 22.92,
+          "finishTime": 23.38,
+          "word": "Yes."
+        },
+        {
+          "startTime": 23.66,
+          "finishTime": 23.86,
+          "word": "In"
+        },
+        {
+          "startTime": 23.86,
+          "finishTime": 24.02,
+          "word": "one"
+        },
+        {
+          "startTime": 24.02,
+          "finishTime": 24.16,
+          "word": "of"
+        },
+        {
+          "startTime": 24.16,
+          "finishTime": 24.34,
+          "word": "my"
+        },
+        {
+          "startTime": 24.34,
+          "finishTime": 24.74,
+          "word": "team's"
+        },
+        {
+          "startTime": 24.74,
+          "finishTime": 25.06,
+          "word": "projects,"
+        },
+        {
+          "startTime": 25.14,
+          "finishTime": 25.32,
+          "word": "we"
+        },
+        {
+          "startTime": 25.32,
+          "finishTime": 25.58,
+          "word": "were"
+        },
+        {
+          "startTime": 25.58,
+          "finishTime": 25.98,
+          "word": "involved"
+        },
+        {
+          "startTime": 25.98,
+          "finishTime": 26.24,
+          "word": "in"
+        },
+        {
+          "startTime": 26.24,
+          "finishTime": 26.46,
+          "word": "the"
+        },
+        {
+          "startTime": 26.46,
+          "finishTime": 26.8,
+          "word": "development"
+        }
+      ]
+    },
+    {
+      "text": "of an e-commerce platform. We were responsible for the checkout process and it was a successful",
+      "startTime": 26.8,
+      "finishTime": 32.54,
+      "words": [
+        {
+          "startTime": 26.8,
+          "finishTime": 27.06,
+          "word": "of"
+        },
+        {
+          "startTime": 27.06,
+          "finishTime": 27.3,
+          "word": "an"
+        },
+        {
+          "startTime": 27.3,
+          "finishTime": 27.56,
+          "word": "e"
+        },
+        {
+          "startTime": 27.56,
+          "finishTime": 27.88,
+          "word": "-commerce"
+        },
+        {
+          "startTime": 27.88,
+          "finishTime": 28.48,
+          "word": "platform."
+        },
+        {
+          "startTime": 28.88,
+          "finishTime": 29.04,
+          "word": "We"
+        },
+        {
+          "startTime": 29.04,
+          "finishTime": 29.32,
+          "word": "were"
+        },
+        {
+          "startTime": 29.32,
+          "finishTime": 29.96,
+          "word": "responsible"
+        },
+        {
+          "startTime": 29.96,
+          "finishTime": 30.26,
+          "word": "for"
+        },
+        {
+          "startTime": 30.26,
+          "finishTime": 30.46,
+          "word": "the"
+        },
+        {
+          "startTime": 30.46,
+          "finishTime": 30.74,
+          "word": "checkout"
+        },
+        {
+          "startTime": 30.74,
+          "finishTime": 31.28,
+          "word": "process"
+        },
+        {
+          "startTime": 31.28,
+          "finishTime": 31.52,
+          "word": "and"
+        },
+        {
+          "startTime": 31.52,
+          "finishTime": 31.68,
+          "word": "it"
+        },
+        {
+          "startTime": 31.68,
+          "finishTime": 31.88,
+          "word": "was"
+        },
+        {
+          "startTime": 31.88,
+          "finishTime": 31.98,
+          "word": "a"
+        },
+        {
+          "startTime": 31.98,
+          "finishTime": 32.54,
+          "word": "successful"
+        }
+      ]
+    },
+    {
+      "text": "implementation. Great. Can you tell me about your qualifications? Were you educated in computer",
+      "startTime": 32.54,
+      "finishTime": 37.76,
+      "words": [
+        {
+          "startTime": 32.54,
+          "finishTime": 33.4,
+          "word": "implementation."
+        },
+        {
+          "startTime": 34.3,
+          "finishTime": 34.48,
+          "word": "Great."
+        },
+        {
+          "startTime": 34.48,
+          "finishTime": 34.7,
+          "word": "Can"
+        },
+        {
+          "startTime": 34.7,
+          "finishTime": 34.8,
+          "word": "you"
+        },
+        {
+          "startTime": 34.8,
+          "finishTime": 34.96,
+          "word": "tell"
+        },
+        {
+          "startTime": 34.96,
+          "finishTime": 35.1,
+          "word": "me"
+        },
+        {
+          "startTime": 35.1,
+          "finishTime": 35.24,
+          "word": "about"
+        },
+        {
+          "startTime": 35.24,
+          "finishTime": 35.48,
+          "word": "your"
+        },
+        {
+          "startTime": 35.48,
+          "finishTime": 36.08,
+          "word": "qualifications?"
+        },
+        {
+          "startTime": 36.58,
+          "finishTime": 36.74,
+          "word": "Were"
+        },
+        {
+          "startTime": 36.74,
+          "finishTime": 36.98,
+          "word": "you"
+        },
+        {
+          "startTime": 36.98,
+          "finishTime": 37.24,
+          "word": "educated"
+        },
+        {
+          "startTime": 37.24,
+          "finishTime": 37.52,
+          "word": "in"
+        },
+        {
+          "startTime": 37.52,
+          "finishTime": 37.76,
+          "word": "computer"
+        }
+      ]
+    },
+    {
+      "text": "science? Yes. I have a bachelor's degree in computer science from California State University.",
+      "startTime": 37.76,
+      "finishTime": 44.02,
+      "words": [
+        {
+          "startTime": 37.76,
+          "finishTime": 38.2,
+          "word": "science?"
+        },
+        {
+          "startTime": 39.1,
+          "finishTime": 39.56,
+          "word": "Yes."
+        },
+        {
+          "startTime": 39.56,
+          "finishTime": 39.92,
+          "word": "I"
+        },
+        {
+          "startTime": 39.92,
+          "finishTime": 40.16,
+          "word": "have"
+        },
+        {
+          "startTime": 40.16,
+          "finishTime": 40.32,
+          "word": "a"
+        },
+        {
+          "startTime": 40.32,
+          "finishTime": 40.78,
+          "word": "bachelor's"
+        },
+        {
+          "startTime": 40.78,
+          "finishTime": 41.06,
+          "word": "degree"
+        },
+        {
+          "startTime": 41.06,
+          "finishTime": 41.32,
+          "word": "in"
+        },
+        {
+          "startTime": 41.32,
+          "finishTime": 41.72,
+          "word": "computer"
+        },
+        {
+          "startTime": 41.72,
+          "finishTime": 42.08,
+          "word": "science"
+        },
+        {
+          "startTime": 42.08,
+          "finishTime": 42.36,
+          "word": "from"
+        },
+        {
+          "startTime": 42.36,
+          "finishTime": 42.98,
+          "word": "California"
+        },
+        {
+          "startTime": 42.98,
+          "finishTime": 43.28,
+          "word": "State"
+        },
+        {
+          "startTime": 43.28,
+          "finishTime": 44.02,
+          "word": "University."
+        }
+      ]
+    },
+    {
+      "text": "During my studies, I was introduced to various programming languages and software development",
+      "startTime": 44.52,
+      "finishTime": 49.8,
+      "words": [
+        {
+          "startTime": 44.52,
+          "finishTime": 44.8,
+          "word": "During"
+        },
+        {
+          "startTime": 44.8,
+          "finishTime": 45.14,
+          "word": "my"
+        },
+        {
+          "startTime": 45.14,
+          "finishTime": 45.58,
+          "word": "studies,"
+        },
+        {
+          "startTime": 45.58,
+          "finishTime": 46.06,
+          "word": "I"
+        },
+        {
+          "startTime": 46.06,
+          "finishTime": 46.4,
+          "word": "was"
+        },
+        {
+          "startTime": 46.4,
+          "finishTime": 46.84,
+          "word": "introduced"
+        },
+        {
+          "startTime": 46.84,
+          "finishTime": 47.1,
+          "word": "to"
+        },
+        {
+          "startTime": 47.1,
+          "finishTime": 47.36,
+          "word": "various"
+        },
+        {
+          "startTime": 47.36,
+          "finishTime": 47.88,
+          "word": "programming"
+        },
+        {
+          "startTime": 47.88,
+          "finishTime": 48.36,
+          "word": "languages"
+        },
+        {
+          "startTime": 48.36,
+          "finishTime": 48.92,
+          "word": "and"
+        },
+        {
+          "startTime": 48.92,
+          "finishTime": 49.28,
+          "word": "software"
+        },
+        {
+          "startTime": 49.28,
+          "finishTime": 49.8,
+          "word": "development"
+        }
+      ]
+    },
+    {
+      "text": "principles. Wonderful. We value candidates with a strong educational background. Thank you for",
+      "startTime": 49.8,
+      "finishTime": 55.26,
+      "words": [
+        {
+          "startTime": 49.8,
+          "finishTime": 50.44,
+          "word": "principles."
+        },
+        {
+          "startTime": 51.02,
+          "finishTime": 51.52,
+          "word": "Wonderful."
+        },
+        {
+          "startTime": 51.72,
+          "finishTime": 51.94,
+          "word": "We"
+        },
+        {
+          "startTime": 51.94,
+          "finishTime": 52.22,
+          "word": "value"
+        },
+        {
+          "startTime": 52.22,
+          "finishTime": 52.66,
+          "word": "candidates"
+        },
+        {
+          "startTime": 52.66,
+          "finishTime": 52.9,
+          "word": "with"
+        },
+        {
+          "startTime": 52.9,
+          "finishTime": 53.1,
+          "word": "a"
+        },
+        {
+          "startTime": 53.1,
+          "finishTime": 53.3,
+          "word": "strong"
+        },
+        {
+          "startTime": 53.3,
+          "finishTime": 53.82,
+          "word": "educational"
+        },
+        {
+          "startTime": 53.82,
+          "finishTime": 54.36,
+          "word": "background."
+        },
+        {
+          "startTime": 54.76,
+          "finishTime": 54.96,
+          "word": "Thank"
+        },
+        {
+          "startTime": 54.96,
+          "finishTime": 55.06,
+          "word": "you"
+        },
+        {
+          "startTime": 55.06,
+          "finishTime": 55.26,
+          "word": "for"
+        }
+      ]
+    },
+    {
+      "text": "sharing your experiences with us.",
+      "startTime": 55.26,
+      "finishTime": 56.6,
+      "words": [
+        {
+          "startTime": 55.26,
+          "finishTime": 55.46,
+          "word": "sharing"
+        },
+        {
+          "startTime": 55.46,
+          "finishTime": 55.74,
+          "word": "your"
+        },
+        {
+          "startTime": 55.74,
+          "finishTime": 56.16,
+          "word": "experiences"
+        },
+        {
+          "startTime": 56.16,
+          "finishTime": 56.38,
+          "word": "with"
+        },
+        {
+          "startTime": 56.38,
+          "finishTime": 56.6,
+          "word": "us."
+        }
+      ]
+    }
+  ]
+}

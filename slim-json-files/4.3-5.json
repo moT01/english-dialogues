@@ -1,0 +1,962 @@
+{
+  "text": "Hey Maria, I wanted to check with you about the food we're going to get for the team meeting. I think there was a mix-up. Oh really? I thought it was all okay. What happened? Well, you mentioned we need 10 pounds of chicken wings, but I thought we agreed on 20 pounds. That's strange. I'm sure we decided on 10 pounds because it's a small gathering. Are you sure it's 20 pounds? You know, now that I think about it, I think I confused it with another event. Sorry. That's okay. And for the vegetarian options, you mentioned 5 large trays of salad, but I think 3 large trays is enough. There aren't many vegetarians on the team. That's my mistake too. It's definitely 3 trays of salad. I just wanted to make sure everyone has enough choices. And you're totally right to think this way. Thanks for double checking anyway. We want the team party to be a success.",
+  "segments": [
+    {
+      "text": "Hey Maria, I wanted to check with you about the food we're going to get for the team meeting.",
+      "startTime": 0,
+      "finishTime": 4.44,
+      "words": [
+        {
+          "startTime": 0,
+          "finishTime": 0.64,
+          "word": "Hey"
+        },
+        {
+          "startTime": 0.64,
+          "finishTime": 0.96,
+          "word": "Maria,"
+        },
+        {
+          "startTime": 1.24,
+          "finishTime": 1.42,
+          "word": "I"
+        },
+        {
+          "startTime": 1.42,
+          "finishTime": 1.62,
+          "word": "wanted"
+        },
+        {
+          "startTime": 1.62,
+          "finishTime": 1.78,
+          "word": "to"
+        },
+        {
+          "startTime": 1.78,
+          "finishTime": 2.02,
+          "word": "check"
+        },
+        {
+          "startTime": 2.02,
+          "finishTime": 2.18,
+          "word": "with"
+        },
+        {
+          "startTime": 2.18,
+          "finishTime": 2.36,
+          "word": "you"
+        },
+        {
+          "startTime": 2.36,
+          "finishTime": 2.56,
+          "word": "about"
+        },
+        {
+          "startTime": 2.56,
+          "finishTime": 2.78,
+          "word": "the"
+        },
+        {
+          "startTime": 2.78,
+          "finishTime": 2.94,
+          "word": "food"
+        },
+        {
+          "startTime": 2.94,
+          "finishTime": 3.16,
+          "word": "we're"
+        },
+        {
+          "startTime": 3.16,
+          "finishTime": 3.38,
+          "word": "going"
+        },
+        {
+          "startTime": 3.38,
+          "finishTime": 3.52,
+          "word": "to"
+        },
+        {
+          "startTime": 3.52,
+          "finishTime": 3.64,
+          "word": "get"
+        },
+        {
+          "startTime": 3.64,
+          "finishTime": 3.82,
+          "word": "for"
+        },
+        {
+          "startTime": 3.82,
+          "finishTime": 3.98,
+          "word": "the"
+        },
+        {
+          "startTime": 3.98,
+          "finishTime": 4.12,
+          "word": "team"
+        },
+        {
+          "startTime": 4.12,
+          "finishTime": 4.44,
+          "word": "meeting."
+        }
+      ]
+    },
+    {
+      "text": "I think there was a mix-up.",
+      "startTime": 4.6,
+      "finishTime": 6.18,
+      "words": [
+        {
+          "startTime": 4.6,
+          "finishTime": 4.86,
+          "word": "I"
+        },
+        {
+          "startTime": 4.86,
+          "finishTime": 5.04,
+          "word": "think"
+        },
+        {
+          "startTime": 5.04,
+          "finishTime": 5.2,
+          "word": "there"
+        },
+        {
+          "startTime": 5.2,
+          "finishTime": 5.4,
+          "word": "was"
+        },
+        {
+          "startTime": 5.4,
+          "finishTime": 5.58,
+          "word": "a"
+        },
+        {
+          "startTime": 5.58,
+          "finishTime": 5.82,
+          "word": "mix"
+        },
+        {
+          "startTime": 5.82,
+          "finishTime": 6.18,
+          "word": "-up."
+        }
+      ]
+    },
+    {
+      "text": "Oh really?",
+      "startTime": 6.48,
+      "finishTime": 6.92,
+      "words": [
+        {
+          "startTime": 6.48,
+          "finishTime": 6.64,
+          "word": "Oh"
+        },
+        {
+          "startTime": 6.64,
+          "finishTime": 6.92,
+          "word": "really?"
+        }
+      ]
+    },
+    {
+      "text": "I thought it was all okay.",
+      "startTime": 7.12,
+      "finishTime": 8.06,
+      "words": [
+        {
+          "startTime": 7.12,
+          "finishTime": 7.22,
+          "word": "I"
+        },
+        {
+          "startTime": 7.22,
+          "finishTime": 7.36,
+          "word": "thought"
+        },
+        {
+          "startTime": 7.36,
+          "finishTime": 7.48,
+          "word": "it"
+        },
+        {
+          "startTime": 7.48,
+          "finishTime": 7.62,
+          "word": "was"
+        },
+        {
+          "startTime": 7.62,
+          "finishTime": 7.8,
+          "word": "all"
+        },
+        {
+          "startTime": 7.8,
+          "finishTime": 8.06,
+          "word": "okay."
+        }
+      ]
+    },
+    {
+      "text": "What happened?",
+      "startTime": 8.22,
+      "finishTime": 8.76,
+      "words": [
+        {
+          "startTime": 8.22,
+          "finishTime": 8.38,
+          "word": "What"
+        },
+        {
+          "startTime": 8.38,
+          "finishTime": 8.76,
+          "word": "happened?"
+        }
+      ]
+    },
+    {
+      "text": "Well, you mentioned we need 10 pounds of chicken wings, but I thought we agreed on 20 pounds.",
+      "startTime": 9.24,
+      "finishTime": 14.26,
+      "words": [
+        {
+          "startTime": 9.24,
+          "finishTime": 9.6,
+          "word": "Well,"
+        },
+        {
+          "startTime": 9.84,
+          "finishTime": 10.06,
+          "word": "you"
+        },
+        {
+          "startTime": 10.06,
+          "finishTime": 10.24,
+          "word": "mentioned"
+        },
+        {
+          "startTime": 10.24,
+          "finishTime": 10.4,
+          "word": "we"
+        },
+        {
+          "startTime": 10.4,
+          "finishTime": 10.6,
+          "word": "need"
+        },
+        {
+          "startTime": 10.6,
+          "finishTime": 10.92,
+          "word": "10"
+        },
+        {
+          "startTime": 10.92,
+          "finishTime": 11.16,
+          "word": "pounds"
+        },
+        {
+          "startTime": 11.16,
+          "finishTime": 11.38,
+          "word": "of"
+        },
+        {
+          "startTime": 11.38,
+          "finishTime": 11.66,
+          "word": "chicken"
+        },
+        {
+          "startTime": 11.66,
+          "finishTime": 11.94,
+          "word": "wings,"
+        },
+        {
+          "startTime": 11.98,
+          "finishTime": 12.4,
+          "word": "but"
+        },
+        {
+          "startTime": 12.4,
+          "finishTime": 12.56,
+          "word": "I"
+        },
+        {
+          "startTime": 12.56,
+          "finishTime": 12.7,
+          "word": "thought"
+        },
+        {
+          "startTime": 12.7,
+          "finishTime": 13.06,
+          "word": "we"
+        },
+        {
+          "startTime": 13.06,
+          "finishTime": 13.22,
+          "word": "agreed"
+        },
+        {
+          "startTime": 13.22,
+          "finishTime": 13.46,
+          "word": "on"
+        },
+        {
+          "startTime": 13.46,
+          "finishTime": 13.78,
+          "word": "20"
+        },
+        {
+          "startTime": 13.78,
+          "finishTime": 14.26,
+          "word": "pounds."
+        }
+      ]
+    },
+    {
+      "text": "That's strange.",
+      "startTime": 14.76,
+      "finishTime": 15.44,
+      "words": [
+        {
+          "startTime": 14.76,
+          "finishTime": 15.12,
+          "word": "That's"
+        },
+        {
+          "startTime": 15.12,
+          "finishTime": 15.44,
+          "word": "strange."
+        }
+      ]
+    },
+    {
+      "text": "I'm sure we decided on 10 pounds because it's a small gathering.",
+      "startTime": 15.58,
+      "finishTime": 18.52,
+      "words": [
+        {
+          "startTime": 15.58,
+          "finishTime": 15.78,
+          "word": "I'm"
+        },
+        {
+          "startTime": 15.78,
+          "finishTime": 15.94,
+          "word": "sure"
+        },
+        {
+          "startTime": 15.94,
+          "finishTime": 16.16,
+          "word": "we"
+        },
+        {
+          "startTime": 16.16,
+          "finishTime": 16.46,
+          "word": "decided"
+        },
+        {
+          "startTime": 16.46,
+          "finishTime": 16.72,
+          "word": "on"
+        },
+        {
+          "startTime": 16.72,
+          "finishTime": 17,
+          "word": "10"
+        },
+        {
+          "startTime": 17,
+          "finishTime": 17.32,
+          "word": "pounds"
+        },
+        {
+          "startTime": 17.32,
+          "finishTime": 17.48,
+          "word": "because"
+        },
+        {
+          "startTime": 17.48,
+          "finishTime": 17.7,
+          "word": "it's"
+        },
+        {
+          "startTime": 17.7,
+          "finishTime": 17.86,
+          "word": "a"
+        },
+        {
+          "startTime": 17.86,
+          "finishTime": 18.02,
+          "word": "small"
+        },
+        {
+          "startTime": 18.02,
+          "finishTime": 18.52,
+          "word": "gathering."
+        }
+      ]
+    },
+    {
+      "text": "Are you sure it's 20 pounds?",
+      "startTime": 18.92,
+      "finishTime": 20.1,
+      "words": [
+        {
+          "startTime": 18.92,
+          "finishTime": 19.08,
+          "word": "Are"
+        },
+        {
+          "startTime": 19.08,
+          "finishTime": 19.24,
+          "word": "you"
+        },
+        {
+          "startTime": 19.24,
+          "finishTime": 19.38,
+          "word": "sure"
+        },
+        {
+          "startTime": 19.38,
+          "finishTime": 19.58,
+          "word": "it's"
+        },
+        {
+          "startTime": 19.58,
+          "finishTime": 19.82,
+          "word": "20"
+        },
+        {
+          "startTime": 19.82,
+          "finishTime": 20.1,
+          "word": "pounds?"
+        }
+      ]
+    },
+    {
+      "text": "You know, now that I think about it, I think I confused it with another event.",
+      "startTime": 20.86,
+      "finishTime": 24.76,
+      "words": [
+        {
+          "startTime": 20.86,
+          "finishTime": 21.06,
+          "word": "You"
+        },
+        {
+          "startTime": 21.06,
+          "finishTime": 21.38,
+          "word": "know,"
+        },
+        {
+          "startTime": 21.56,
+          "finishTime": 21.78,
+          "word": "now"
+        },
+        {
+          "startTime": 21.78,
+          "finishTime": 21.96,
+          "word": "that"
+        },
+        {
+          "startTime": 21.96,
+          "finishTime": 22.1,
+          "word": "I"
+        },
+        {
+          "startTime": 22.1,
+          "finishTime": 22.28,
+          "word": "think"
+        },
+        {
+          "startTime": 22.28,
+          "finishTime": 22.52,
+          "word": "about"
+        },
+        {
+          "startTime": 22.52,
+          "finishTime": 22.8,
+          "word": "it,"
+        },
+        {
+          "startTime": 22.8,
+          "finishTime": 23,
+          "word": "I"
+        },
+        {
+          "startTime": 23,
+          "finishTime": 23.16,
+          "word": "think"
+        },
+        {
+          "startTime": 23.16,
+          "finishTime": 23.46,
+          "word": "I"
+        },
+        {
+          "startTime": 23.46,
+          "finishTime": 23.72,
+          "word": "confused"
+        },
+        {
+          "startTime": 23.72,
+          "finishTime": 23.92,
+          "word": "it"
+        },
+        {
+          "startTime": 23.92,
+          "finishTime": 24.16,
+          "word": "with"
+        },
+        {
+          "startTime": 24.16,
+          "finishTime": 24.44,
+          "word": "another"
+        },
+        {
+          "startTime": 24.44,
+          "finishTime": 24.76,
+          "word": "event."
+        }
+      ]
+    },
+    {
+      "text": "Sorry.",
+      "startTime": 25.02,
+      "finishTime": 25.42,
+      "words": [
+        {
+          "startTime": 25.02,
+          "finishTime": 25.42,
+          "word": "Sorry."
+        }
+      ]
+    },
+    {
+      "text": "That's okay.",
+      "startTime": 26.08,
+      "finishTime": 26.62,
+      "words": [
+        {
+          "startTime": 26.08,
+          "finishTime": 26.32,
+          "word": "That's"
+        },
+        {
+          "startTime": 26.32,
+          "finishTime": 26.62,
+          "word": "okay."
+        }
+      ]
+    },
+    {
+      "text": "And for the vegetarian options, you mentioned 5 large trays of salad, but I think 3 large",
+      "startTime": 26.62,
+      "finishTime": 32.16,
+      "words": [
+        {
+          "startTime": 26.62,
+          "finishTime": 27.06,
+          "word": "And"
+        },
+        {
+          "startTime": 27.06,
+          "finishTime": 27.26,
+          "word": "for"
+        },
+        {
+          "startTime": 27.26,
+          "finishTime": 27.4,
+          "word": "the"
+        },
+        {
+          "startTime": 27.4,
+          "finishTime": 27.9,
+          "word": "vegetarian"
+        },
+        {
+          "startTime": 27.9,
+          "finishTime": 28.44,
+          "word": "options,"
+        },
+        {
+          "startTime": 28.86,
+          "finishTime": 28.94,
+          "word": "you"
+        },
+        {
+          "startTime": 28.94,
+          "finishTime": 29.26,
+          "word": "mentioned"
+        },
+        {
+          "startTime": 29.26,
+          "finishTime": 29.72,
+          "word": "5"
+        },
+        {
+          "startTime": 29.72,
+          "finishTime": 30.08,
+          "word": "large"
+        },
+        {
+          "startTime": 30.08,
+          "finishTime": 30.26,
+          "word": "trays"
+        },
+        {
+          "startTime": 30.26,
+          "finishTime": 30.56,
+          "word": "of"
+        },
+        {
+          "startTime": 30.56,
+          "finishTime": 30.8,
+          "word": "salad,"
+        },
+        {
+          "startTime": 30.92,
+          "finishTime": 31.1,
+          "word": "but"
+        },
+        {
+          "startTime": 31.1,
+          "finishTime": 31.2,
+          "word": "I"
+        },
+        {
+          "startTime": 31.2,
+          "finishTime": 31.46,
+          "word": "think"
+        },
+        {
+          "startTime": 31.46,
+          "finishTime": 31.76,
+          "word": "3"
+        },
+        {
+          "startTime": 31.76,
+          "finishTime": 32.16,
+          "word": "large"
+        }
+      ]
+    },
+    {
+      "text": "trays is enough.",
+      "startTime": 32.16,
+      "finishTime": 32.88,
+      "words": [
+        {
+          "startTime": 32.16,
+          "finishTime": 32.32,
+          "word": "trays"
+        },
+        {
+          "startTime": 32.32,
+          "finishTime": 32.6,
+          "word": "is"
+        },
+        {
+          "startTime": 32.6,
+          "finishTime": 32.88,
+          "word": "enough."
+        }
+      ]
+    },
+    {
+      "text": "There aren't many vegetarians on the team.",
+      "startTime": 33.34,
+      "finishTime": 34.84,
+      "words": [
+        {
+          "startTime": 33.34,
+          "finishTime": 33.4,
+          "word": "There"
+        },
+        {
+          "startTime": 33.4,
+          "finishTime": 33.56,
+          "word": "aren't"
+        },
+        {
+          "startTime": 33.56,
+          "finishTime": 33.8,
+          "word": "many"
+        },
+        {
+          "startTime": 33.8,
+          "finishTime": 34.34,
+          "word": "vegetarians"
+        },
+        {
+          "startTime": 34.34,
+          "finishTime": 34.54,
+          "word": "on"
+        },
+        {
+          "startTime": 34.54,
+          "finishTime": 34.68,
+          "word": "the"
+        },
+        {
+          "startTime": 34.68,
+          "finishTime": 34.84,
+          "word": "team."
+        }
+      ]
+    },
+    {
+      "text": "That's my mistake too.",
+      "startTime": 35.38,
+      "finishTime": 36.48,
+      "words": [
+        {
+          "startTime": 35.38,
+          "finishTime": 35.7,
+          "word": "That's"
+        },
+        {
+          "startTime": 35.7,
+          "finishTime": 35.82,
+          "word": "my"
+        },
+        {
+          "startTime": 35.82,
+          "finishTime": 36.14,
+          "word": "mistake"
+        },
+        {
+          "startTime": 36.14,
+          "finishTime": 36.48,
+          "word": "too."
+        }
+      ]
+    },
+    {
+      "text": "It's definitely 3 trays of salad.",
+      "startTime": 36.92,
+      "finishTime": 38.76,
+      "words": [
+        {
+          "startTime": 36.92,
+          "finishTime": 37.14,
+          "word": "It's"
+        },
+        {
+          "startTime": 37.14,
+          "finishTime": 37.58,
+          "word": "definitely"
+        },
+        {
+          "startTime": 37.58,
+          "finishTime": 38.08,
+          "word": "3"
+        },
+        {
+          "startTime": 38.08,
+          "finishTime": 38.32,
+          "word": "trays"
+        },
+        {
+          "startTime": 38.32,
+          "finishTime": 38.58,
+          "word": "of"
+        },
+        {
+          "startTime": 38.58,
+          "finishTime": 38.76,
+          "word": "salad."
+        }
+      ]
+    },
+    {
+      "text": "I just wanted to make sure everyone has enough choices.",
+      "startTime": 39.14,
+      "finishTime": 41.9,
+      "words": [
+        {
+          "startTime": 39.14,
+          "finishTime": 39.28,
+          "word": "I"
+        },
+        {
+          "startTime": 39.28,
+          "finishTime": 39.6,
+          "word": "just"
+        },
+        {
+          "startTime": 39.6,
+          "finishTime": 39.7,
+          "word": "wanted"
+        },
+        {
+          "startTime": 39.7,
+          "finishTime": 39.9,
+          "word": "to"
+        },
+        {
+          "startTime": 39.9,
+          "finishTime": 40.08,
+          "word": "make"
+        },
+        {
+          "startTime": 40.08,
+          "finishTime": 40.5,
+          "word": "sure"
+        },
+        {
+          "startTime": 40.5,
+          "finishTime": 40.88,
+          "word": "everyone"
+        },
+        {
+          "startTime": 40.88,
+          "finishTime": 41.18,
+          "word": "has"
+        },
+        {
+          "startTime": 41.18,
+          "finishTime": 41.4,
+          "word": "enough"
+        },
+        {
+          "startTime": 41.4,
+          "finishTime": 41.9,
+          "word": "choices."
+        }
+      ]
+    },
+    {
+      "text": "And you're totally right to think this way.",
+      "startTime": 42.68,
+      "finishTime": 44.24,
+      "words": [
+        {
+          "startTime": 42.68,
+          "finishTime": 42.76,
+          "word": "And"
+        },
+        {
+          "startTime": 42.76,
+          "finishTime": 42.88,
+          "word": "you're"
+        },
+        {
+          "startTime": 42.88,
+          "finishTime": 43.24,
+          "word": "totally"
+        },
+        {
+          "startTime": 43.24,
+          "finishTime": 43.46,
+          "word": "right"
+        },
+        {
+          "startTime": 43.46,
+          "finishTime": 43.66,
+          "word": "to"
+        },
+        {
+          "startTime": 43.66,
+          "finishTime": 43.76,
+          "word": "think"
+        },
+        {
+          "startTime": 43.76,
+          "finishTime": 44.02,
+          "word": "this"
+        },
+        {
+          "startTime": 44.02,
+          "finishTime": 44.24,
+          "word": "way."
+        }
+      ]
+    },
+    {
+      "text": "Thanks for double checking anyway.",
+      "startTime": 44.48,
+      "finishTime": 45.72,
+      "words": [
+        {
+          "startTime": 44.48,
+          "finishTime": 44.68,
+          "word": "Thanks"
+        },
+        {
+          "startTime": 44.68,
+          "finishTime": 44.86,
+          "word": "for"
+        },
+        {
+          "startTime": 44.86,
+          "finishTime": 45.14,
+          "word": "double"
+        },
+        {
+          "startTime": 45.14,
+          "finishTime": 45.36,
+          "word": "checking"
+        },
+        {
+          "startTime": 45.36,
+          "finishTime": 45.72,
+          "word": "anyway."
+        }
+      ]
+    },
+    {
+      "text": "We want the team party to be a success.",
+      "startTime": 46.14,
+      "finishTime": 47.74,
+      "words": [
+        {
+          "startTime": 46.14,
+          "finishTime": 46.26,
+          "word": "We"
+        },
+        {
+          "startTime": 46.26,
+          "finishTime": 46.4,
+          "word": "want"
+        },
+        {
+          "startTime": 46.4,
+          "finishTime": 46.56,
+          "word": "the"
+        },
+        {
+          "startTime": 46.56,
+          "finishTime": 46.7,
+          "word": "team"
+        },
+        {
+          "startTime": 46.7,
+          "finishTime": 46.92,
+          "word": "party"
+        },
+        {
+          "startTime": 46.92,
+          "finishTime": 47.1,
+          "word": "to"
+        },
+        {
+          "startTime": 47.1,
+          "finishTime": 47.24,
+          "word": "be"
+        },
+        {
+          "startTime": 47.24,
+          "finishTime": 47.34,
+          "word": "a"
+        },
+        {
+          "startTime": 47.34,
+          "finishTime": 47.74,
+          "word": "success."
+        }
+      ]
+    }
+  ]
+}

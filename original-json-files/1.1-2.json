@@ -1,0 +1,1574 @@
+{
+    "text": " Hi there. I'm Tom. I'm the new graphic designer. Oh, hi, Tom. I'm Sophie. I'm a developer. Where are you from, Tom? I'm from Texas. How about you? I'm from here in California. Welcome aboard. Thanks. Everybody is so nice around here. Hey, is this one of those standing desks? These are great. It's good to stand up a little instead of just sitting all the time. That's so true. I'm a bit inactive sitting all the time. This is a good alternative for me. But hey, now your desk is just like my desk. You're in luck. Awesome. My computer and drawing tablet are great too. Yeah, at this company, they're very attentive to these details. You're going to like it here if you're into cutting edge gadgets. This is so cool. A standing desk, an ergonomic chair, and an ergonomic mouse. Man, everything is perfect. I'm in love with this place. So nice to have someone so energetic like you and the team. Are you ready to begin? Yes, I sure am.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.52,
+            "text": " Hi there. I'm Tom. I'm the new graphic designer.",
+            "tokens": [
+                50364,
+                2421,
+                456,
+                13,
+                286,
+                478,
+                5041,
+                13,
+                286,
+                478,
+                264,
+                777,
+                14089,
+                11795,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " Hi",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.4673879146575928
+                },
+                {
+                    "word": " there.",
+                    "start": 0.42,
+                    "end": 0.84,
+                    "probability": 0.8125796914100647
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.12,
+                    "end": 1.42,
+                    "probability": 0.9899822473526001
+                },
+                {
+                    "word": " Tom.",
+                    "start": 1.42,
+                    "end": 1.82,
+                    "probability": 0.9665268063545227
+                },
+                {
+                    "word": " I'm",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.9964157044887543
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.46,
+                    "probability": 0.9971906542778015
+                },
+                {
+                    "word": " new",
+                    "start": 2.46,
+                    "end": 2.66,
+                    "probability": 0.9847326874732971
+                },
+                {
+                    "word": " graphic",
+                    "start": 2.66,
+                    "end": 2.98,
+                    "probability": 0.9706423878669739
+                },
+                {
+                    "word": " designer.",
+                    "start": 2.98,
+                    "end": 3.52,
+                    "probability": 0.9979208111763
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.2,
+            "end": 7.88,
+            "text": " Oh, hi, Tom. I'm Sophie. I'm a developer. Where are you from, Tom?",
+            "tokens": [
+                50556,
+                876,
+                11,
+                4879,
+                11,
+                5041,
+                13,
+                286,
+                478,
+                29645,
+                13,
+                286,
+                478,
+                257,
+                10754,
+                13,
+                2305,
+                366,
+                291,
+                490,
+                11,
+                5041,
+                30,
+                50768
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " Oh,",
+                    "start": 4.2,
+                    "end": 4.44,
+                    "probability": 0.8406451344490051
+                },
+                {
+                    "word": " hi,",
+                    "start": 4.44,
+                    "end": 4.64,
+                    "probability": 0.9525591135025024
+                },
+                {
+                    "word": " Tom.",
+                    "start": 4.74,
+                    "end": 4.96,
+                    "probability": 0.9932063817977905
+                },
+                {
+                    "word": " I'm",
+                    "start": 5.24,
+                    "end": 5.5,
+                    "probability": 0.9978393018245697
+                },
+                {
+                    "word": " Sophie.",
+                    "start": 5.5,
+                    "end": 5.78,
+                    "probability": 0.9600757360458374
+                },
+                {
+                    "word": " I'm",
+                    "start": 5.96,
+                    "end": 6.14,
+                    "probability": 0.9981235265731812
+                },
+                {
+                    "word": " a",
+                    "start": 6.14,
+                    "end": 6.24,
+                    "probability": 0.9990955591201782
+                },
+                {
+                    "word": " developer.",
+                    "start": 6.24,
+                    "end": 6.66,
+                    "probability": 0.9947146773338318
+                },
+                {
+                    "word": " Where",
+                    "start": 6.98,
+                    "end": 7.18,
+                    "probability": 0.9938549399375916
+                },
+                {
+                    "word": " are",
+                    "start": 7.18,
+                    "end": 7.3,
+                    "probability": 0.9911004900932312
+                },
+                {
+                    "word": " you",
+                    "start": 7.3,
+                    "end": 7.4,
+                    "probability": 0.9989342093467712
+                },
+                {
+                    "word": " from,",
+                    "start": 7.4,
+                    "end": 7.6,
+                    "probability": 0.9971696734428406
+                },
+                {
+                    "word": " Tom?",
+                    "start": 7.6,
+                    "end": 7.88,
+                    "probability": 0.9941277503967285
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.36,
+            "end": 10.22,
+            "text": " I'm from Texas. How about you?",
+            "tokens": [
+                50768,
+                286,
+                478,
+                490,
+                7885,
+                13,
+                1012,
+                466,
+                291,
+                30,
+                50880
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 8.36,
+                    "end": 8.56,
+                    "probability": 0.9939548373222351
+                },
+                {
+                    "word": " from",
+                    "start": 8.56,
+                    "end": 8.72,
+                    "probability": 0.9990799427032471
+                },
+                {
+                    "word": " Texas.",
+                    "start": 8.72,
+                    "end": 9.16,
+                    "probability": 0.9965733289718628
+                },
+                {
+                    "word": " How",
+                    "start": 9.4,
+                    "end": 9.62,
+                    "probability": 0.995810866355896
+                },
+                {
+                    "word": " about",
+                    "start": 9.62,
+                    "end": 9.8,
+                    "probability": 0.9867215156555176
+                },
+                {
+                    "word": " you?",
+                    "start": 9.8,
+                    "end": 10.22,
+                    "probability": 0.9979680180549622
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.6,
+            "end": 12.64,
+            "text": " I'm from here in California. Welcome aboard.",
+            "tokens": [
+                50880,
+                286,
+                478,
+                490,
+                510,
+                294,
+                5384,
+                13,
+                4027,
+                27488,
+                13,
+                51000
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 10.6,
+                    "end": 10.84,
+                    "probability": 0.9954541921615601
+                },
+                {
+                    "word": " from",
+                    "start": 10.84,
+                    "end": 11.02,
+                    "probability": 0.9984298348426819
+                },
+                {
+                    "word": " here",
+                    "start": 11.02,
+                    "end": 11.18,
+                    "probability": 0.9871496558189392
+                },
+                {
+                    "word": " in",
+                    "start": 11.18,
+                    "end": 11.38,
+                    "probability": 0.9914181232452393
+                },
+                {
+                    "word": " California.",
+                    "start": 11.38,
+                    "end": 11.76,
+                    "probability": 0.998646080493927
+                },
+                {
+                    "word": " Welcome",
+                    "start": 12.08,
+                    "end": 12.32,
+                    "probability": 0.9961851239204407
+                },
+                {
+                    "word": " aboard.",
+                    "start": 12.32,
+                    "end": 12.64,
+                    "probability": 0.9874975681304932
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.02,
+            "end": 15.7,
+            "text": " Thanks. Everybody is so nice around here.",
+            "tokens": [
+                51000,
+                2561,
+                13,
+                7646,
+                307,
+                370,
+                1481,
+                926,
+                510,
+                13,
+                51160
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " Thanks.",
+                    "start": 13.02,
+                    "end": 13.4,
+                    "probability": 0.984279990196228
+                },
+                {
+                    "word": " Everybody",
+                    "start": 13.86,
+                    "end": 14.3,
+                    "probability": 0.9905043244361877
+                },
+                {
+                    "word": " is",
+                    "start": 14.3,
+                    "end": 14.6,
+                    "probability": 0.9951570630073547
+                },
+                {
+                    "word": " so",
+                    "start": 14.6,
+                    "end": 14.78,
+                    "probability": 0.9990571141242981
+                },
+                {
+                    "word": " nice",
+                    "start": 14.78,
+                    "end": 15.04,
+                    "probability": 0.9991231560707092
+                },
+                {
+                    "word": " around",
+                    "start": 15.04,
+                    "end": 15.28,
+                    "probability": 0.9943978786468506
+                },
+                {
+                    "word": " here.",
+                    "start": 15.28,
+                    "end": 15.7,
+                    "probability": 0.9978126287460327
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 16.2,
+            "end": 19.64,
+            "text": " Hey, is this one of those standing desks? These are great.",
+            "tokens": [
+                51160,
+                1911,
+                11,
+                307,
+                341,
+                472,
+                295,
+                729,
+                4877,
+                730,
+                1694,
+                30,
+                1981,
+                366,
+                869,
+                13,
+                51352
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " Hey,",
+                    "start": 16.2,
+                    "end": 16.66,
+                    "probability": 0.9899342656135559
+                },
+                {
+                    "word": " is",
+                    "start": 16.88,
+                    "end": 17.08,
+                    "probability": 0.9913163185119629
+                },
+                {
+                    "word": " this",
+                    "start": 17.08,
+                    "end": 17.24,
+                    "probability": 0.9993934631347656
+                },
+                {
+                    "word": " one",
+                    "start": 17.24,
+                    "end": 17.38,
+                    "probability": 0.9979502558708191
+                },
+                {
+                    "word": " of",
+                    "start": 17.38,
+                    "end": 17.5,
+                    "probability": 0.9992916584014893
+                },
+                {
+                    "word": " those",
+                    "start": 17.5,
+                    "end": 17.66,
+                    "probability": 0.9926256537437439
+                },
+                {
+                    "word": " standing",
+                    "start": 17.66,
+                    "end": 17.98,
+                    "probability": 0.9818410277366638
+                },
+                {
+                    "word": " desks?",
+                    "start": 17.98,
+                    "end": 18.52,
+                    "probability": 0.9920852184295654
+                },
+                {
+                    "word": " These",
+                    "start": 18.92,
+                    "end": 19.12,
+                    "probability": 0.9938296675682068
+                },
+                {
+                    "word": " are",
+                    "start": 19.12,
+                    "end": 19.36,
+                    "probability": 0.9991782307624817
+                },
+                {
+                    "word": " great.",
+                    "start": 19.36,
+                    "end": 19.64,
+                    "probability": 0.999016284942627
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 19.96,
+            "end": 22.92,
+            "text": " It's good to stand up a little instead of just sitting all the time.",
+            "tokens": [
+                51352,
+                467,
+                311,
+                665,
+                281,
+                1463,
+                493,
+                257,
+                707,
+                2602,
+                295,
+                445,
+                3798,
+                439,
+                264,
+                565,
+                13,
+                51512
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 19.96,
+                    "end": 20.14,
+                    "probability": 0.9975584447383881
+                },
+                {
+                    "word": " good",
+                    "start": 20.14,
+                    "end": 20.3,
+                    "probability": 0.9991242289543152
+                },
+                {
+                    "word": " to",
+                    "start": 20.3,
+                    "end": 20.52,
+                    "probability": 0.9994387030601501
+                },
+                {
+                    "word": " stand",
+                    "start": 20.52,
+                    "end": 20.72,
+                    "probability": 0.9989280104637146
+                },
+                {
+                    "word": " up",
+                    "start": 20.72,
+                    "end": 20.94,
+                    "probability": 0.9987932443618774
+                },
+                {
+                    "word": " a",
+                    "start": 20.94,
+                    "end": 21.08,
+                    "probability": 0.9988192915916443
+                },
+                {
+                    "word": " little",
+                    "start": 21.08,
+                    "end": 21.32,
+                    "probability": 0.9994819760322571
+                },
+                {
+                    "word": " instead",
+                    "start": 21.32,
+                    "end": 21.62,
+                    "probability": 0.9389302134513855
+                },
+                {
+                    "word": " of",
+                    "start": 21.62,
+                    "end": 21.8,
+                    "probability": 0.9995457530021667
+                },
+                {
+                    "word": " just",
+                    "start": 21.8,
+                    "end": 22.04,
+                    "probability": 0.9982469081878662
+                },
+                {
+                    "word": " sitting",
+                    "start": 22.04,
+                    "end": 22.18,
+                    "probability": 0.99922776222229
+                },
+                {
+                    "word": " all",
+                    "start": 22.18,
+                    "end": 22.44,
+                    "probability": 0.997240424156189
+                },
+                {
+                    "word": " the",
+                    "start": 22.44,
+                    "end": 22.62,
+                    "probability": 0.9985067248344421
+                },
+                {
+                    "word": " time.",
+                    "start": 22.62,
+                    "end": 22.92,
+                    "probability": 0.9988340735435486
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 23.22,
+            "end": 26.48,
+            "text": " That's so true. I'm a bit inactive sitting all the time.",
+            "tokens": [
+                51512,
+                663,
+                311,
+                370,
+                2074,
+                13,
+                286,
+                478,
+                257,
+                857,
+                294,
+                12596,
+                3798,
+                439,
+                264,
+                565,
+                13,
+                51696
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 23.22,
+                    "end": 23.64,
+                    "probability": 0.9942062497138977
+                },
+                {
+                    "word": " so",
+                    "start": 23.64,
+                    "end": 23.88,
+                    "probability": 0.996599018573761
+                },
+                {
+                    "word": " true.",
+                    "start": 23.88,
+                    "end": 24.12,
+                    "probability": 0.999127209186554
+                },
+                {
+                    "word": " I'm",
+                    "start": 24.54,
+                    "end": 24.78,
+                    "probability": 0.9985505044460297
+                },
+                {
+                    "word": " a",
+                    "start": 24.78,
+                    "end": 24.86,
+                    "probability": 0.999075174331665
+                },
+                {
+                    "word": " bit",
+                    "start": 24.86,
+                    "end": 25.02,
+                    "probability": 0.999270498752594
+                },
+                {
+                    "word": " inactive",
+                    "start": 25.02,
+                    "end": 25.52,
+                    "probability": 0.9963684976100922
+                },
+                {
+                    "word": " sitting",
+                    "start": 25.52,
+                    "end": 25.82,
+                    "probability": 0.925682783126831
+                },
+                {
+                    "word": " all",
+                    "start": 25.82,
+                    "end": 26.06,
+                    "probability": 0.9986359477043152
+                },
+                {
+                    "word": " the",
+                    "start": 26.06,
+                    "end": 26.22,
+                    "probability": 0.9994675517082214
+                },
+                {
+                    "word": " time.",
+                    "start": 26.22,
+                    "end": 26.48,
+                    "probability": 0.9995909333229065
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 26.78,
+            "end": 28.62,
+            "text": " This is a good alternative for me.",
+            "tokens": [
+                51696,
+                639,
+                307,
+                257,
+                665,
+                8535,
+                337,
+                385,
+                13,
+                51796
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15812839535500506,
+            "compression_ratio": 1.696629213483146,
+            "no_speech_prob": 0.035122595727443695,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 26.78,
+                    "end": 27.14,
+                    "probability": 0.9973216652870178
+                },
+                {
+                    "word": " is",
+                    "start": 27.14,
+                    "end": 27.34,
+                    "probability": 0.9995055198669434
+                },
+                {
+                    "word": " a",
+                    "start": 27.34,
+                    "end": 27.4,
+                    "probability": 0.9996426105499268
+                },
+                {
+                    "word": " good",
+                    "start": 27.4,
+                    "end": 27.54,
+                    "probability": 0.9997010827064514
+                },
+                {
+                    "word": " alternative",
+                    "start": 27.54,
+                    "end": 28.0,
+                    "probability": 0.9992770552635193
+                },
+                {
+                    "word": " for",
+                    "start": 28.0,
+                    "end": 28.24,
+                    "probability": 0.997710108757019
+                },
+                {
+                    "word": " me.",
+                    "start": 28.24,
+                    "end": 28.62,
+                    "probability": 0.999524712562561
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2862,
+            "start": 28.62,
+            "end": 32.08,
+            "text": " But hey, now your desk is just like my desk. You're in luck.",
+            "tokens": [
+                50372,
+                583,
+                4177,
+                11,
+                586,
+                428,
+                10026,
+                307,
+                445,
+                411,
+                452,
+                10026,
+                13,
+                509,
+                434,
+                294,
+                3668,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06116415583898151,
+            "compression_ratio": 1.6453900709219857,
+            "no_speech_prob": 0.008311549201607704,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 28.62,
+                    "end": 29.04,
+                    "probability": 0.4071100950241089
+                },
+                {
+                    "word": " hey,",
+                    "start": 29.04,
+                    "end": 29.38,
+                    "probability": 0.8216333389282227
+                },
+                {
+                    "word": " now",
+                    "start": 29.48,
+                    "end": 29.68,
+                    "probability": 0.9748263359069824
+                },
+                {
+                    "word": " your",
+                    "start": 29.68,
+                    "end": 29.88,
+                    "probability": 0.9526605010032654
+                },
+                {
+                    "word": " desk",
+                    "start": 29.88,
+                    "end": 30.06,
+                    "probability": 0.9979528188705444
+                },
+                {
+                    "word": " is",
+                    "start": 30.06,
+                    "end": 30.2,
+                    "probability": 0.9941091537475586
+                },
+                {
+                    "word": " just",
+                    "start": 30.2,
+                    "end": 30.44,
+                    "probability": 0.9907308220863342
+                },
+                {
+                    "word": " like",
+                    "start": 30.44,
+                    "end": 30.58,
+                    "probability": 0.9966471791267395
+                },
+                {
+                    "word": " my",
+                    "start": 30.58,
+                    "end": 30.8,
+                    "probability": 0.9926034808158875
+                },
+                {
+                    "word": " desk.",
+                    "start": 30.8,
+                    "end": 31.12,
+                    "probability": 0.9994702935218811
+                },
+                {
+                    "word": " You're",
+                    "start": 31.22,
+                    "end": 31.42,
+                    "probability": 0.9761411845684052
+                },
+                {
+                    "word": " in",
+                    "start": 31.42,
+                    "end": 31.54,
+                    "probability": 0.9979844093322754
+                },
+                {
+                    "word": " luck.",
+                    "start": 31.54,
+                    "end": 32.08,
+                    "probability": 0.998582124710083
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2862,
+            "start": 32.78,
+            "end": 36.0,
+            "text": " Awesome. My computer and drawing tablet are great too.",
+            "tokens": [
+                50556,
+                10391,
+                13,
+                1222,
+                3820,
+                293,
+                6316,
+                14136,
+                366,
+                869,
+                886,
+                13,
+                50716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06116415583898151,
+            "compression_ratio": 1.6453900709219857,
+            "no_speech_prob": 0.008311549201607704,
+            "words": [
+                {
+                    "word": " Awesome.",
+                    "start": 32.78,
+                    "end": 33.02,
+                    "probability": 0.8433653712272644
+                },
+                {
+                    "word": " My",
+                    "start": 33.76,
+                    "end": 33.96,
+                    "probability": 0.9899213314056396
+                },
+                {
+                    "word": " computer",
+                    "start": 33.96,
+                    "end": 34.3,
+                    "probability": 0.9962524771690369
+                },
+                {
+                    "word": " and",
+                    "start": 34.3,
+                    "end": 34.56,
+                    "probability": 0.9905182719230652
+                },
+                {
+                    "word": " drawing",
+                    "start": 34.56,
+                    "end": 34.76,
+                    "probability": 0.9939593076705933
+                },
+                {
+                    "word": " tablet",
+                    "start": 34.76,
+                    "end": 35.02,
+                    "probability": 0.9913865327835083
+                },
+                {
+                    "word": " are",
+                    "start": 35.02,
+                    "end": 35.2,
+                    "probability": 0.9936612844467163
+                },
+                {
+                    "word": " great",
+                    "start": 35.2,
+                    "end": 35.48,
+                    "probability": 0.9984787106513977
+                },
+                {
+                    "word": " too.",
+                    "start": 35.48,
+                    "end": 36.0,
+                    "probability": 0.6493080258369446
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2862,
+            "start": 37.08,
+            "end": 39.94,
+            "text": " Yeah, at this company, they're very attentive to these details.",
+            "tokens": [
+                50780,
+                865,
+                11,
+                412,
+                341,
+                2237,
+                11,
+                436,
+                434,
+                588,
+                43661,
+                281,
+                613,
+                4365,
+                13,
+                50944
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06116415583898151,
+            "compression_ratio": 1.6453900709219857,
+            "no_speech_prob": 0.008311549201607704,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 37.08,
+                    "end": 37.38,
+                    "probability": 0.942744791507721
+                },
+                {
+                    "word": " at",
+                    "start": 37.38,
+                    "end": 37.58,
+                    "probability": 0.9921495914459229
+                },
+                {
+                    "word": " this",
+                    "start": 37.58,
+                    "end": 37.76,
+                    "probability": 0.9983710646629333
+                },
+                {
+                    "word": " company,",
+                    "start": 37.76,
+                    "end": 38.1,
+                    "probability": 0.9988349080085754
+                },
+                {
+                    "word": " they're",
+                    "start": 38.14,
+                    "end": 38.34,
+                    "probability": 0.973829835653305
+                },
+                {
+                    "word": " very",
+                    "start": 38.34,
+                    "end": 38.72,
+                    "probability": 0.998751163482666
+                },
+                {
+                    "word": " attentive",
+                    "start": 38.72,
+                    "end": 39.04,
+                    "probability": 0.9984151124954224
+                },
+                {
+                    "word": " to",
+                    "start": 39.04,
+                    "end": 39.24,
+                    "probability": 0.9990606904029846
+                },
+                {
+                    "word": " these",
+                    "start": 39.24,
+                    "end": 39.44,
+                    "probability": 0.9965734481811523
+                },
+                {
+                    "word": " details.",
+                    "start": 39.44,
+                    "end": 39.94,
+                    "probability": 0.9974881410598755
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2862,
+            "start": 40.34,
+            "end": 42.96,
+            "text": " You're going to like it here if you're into cutting edge gadgets.",
+            "tokens": [
+                50944,
+                509,
+                434,
+                516,
+                281,
+                411,
+                309,
+                510,
+                498,
+                291,
+                434,
+                666,
+                6492,
+                4691,
+                37635,
+                13,
+                51076
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06116415583898151,
+            "compression_ratio": 1.6453900709219857,
+            "no_speech_prob": 0.008311549201607704,
+            "words": [
+                {
+                    "word": " You're",
+                    "start": 40.34,
+                    "end": 40.6,
+                    "probability": 0.9962881505489349
+                },
+                {
+                    "word": " going",
+                    "start": 40.6,
+                    "end": 40.68,
+                    "probability": 0.9983344674110413
+                },
+                {
+                    "word": " to",
+                    "start": 40.68,
+                    "end": 40.88,
+                    "probability": 0.9995858073234558
+                },
+                {
+                    "word": " like",
+                    "start": 40.88,
+                    "end": 41.02,
+                    "probability": 0.9988710284233093
+                },
+                {
+                    "word": " it",
+                    "start": 41.02,
+                    "end": 41.18,
+                    "probability": 0.999087929725647
+                },
+                {
+                    "word": " here",
+                    "start": 41.18,
+                    "end": 41.34,
+                    "probability": 0.9977154731750488
+                },
+                {
+                    "word": " if",
+                    "start": 41.34,
+                    "end": 41.46,
+                    "probability": 0.8283891081809998
+                },
+                {
+                    "word": " you're",
+                    "start": 41.46,
+                    "end": 41.64,
+                    "probability": 0.9974278211593628
+                },
+                {
+                    "word": " into",
+                    "start": 41.64,
+                    "end": 41.94,
+                    "probability": 0.9910697937011719
+                },
+                {
+                    "word": " cutting",
+                    "start": 41.94,
+                    "end": 42.2,
+                    "probability": 0.9985350370407104
+                },
+                {
+                    "word": " edge",
+                    "start": 42.2,
+                    "end": 42.48,
+                    "probability": 0.8689753413200378
+                },
+                {
+                    "word": " gadgets.",
+                    "start": 42.48,
+                    "end": 42.96,
+                    "probability": 0.9955926537513733
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2862,
+            "start": 43.68,
+            "end": 48.98,
+            "text": " This is so cool. A standing desk, an ergonomic chair, and an ergonomic mouse.",
+            "tokens": [
+                51112,
+                639,
+                307,
+                370,
+                1627,
+                13,
+                316,
+                4877,
+                10026,
+                11,
+                364,
+                42735,
+                21401,
+                6090,
+                11,
+                293,
+                364,
+                42735,
+                21401,
+                9719,
+                13,
+                51396
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06116415583898151,
+            "compression_ratio": 1.6453900709219857,
+            "no_speech_prob": 0.008311549201607704,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 43.68,
+                    "end": 43.88,
+                    "probability": 0.9858211874961853
+                },
+                {
+                    "word": " is",
+                    "start": 43.88,
+                    "end": 44.1,
+                    "probability": 0.9989018440246582
+                },
+                {
+                    "word": " so",
+                    "start": 44.1,
+                    "end": 44.48,
+                    "probability": 0.9978232383728027
+                },
+                {
+                    "word": " cool.",
+                    "start": 44.48,
+                    "end": 44.76,
+                    "probability": 0.9985952973365784
+                },
+                {
+                    "word": " A",
+                    "start": 45.02,
+                    "end": 45.32,
+                    "probability": 0.989080011844635
+                },
+                {
+                    "word": " standing",
+                    "start": 45.32,
+                    "end": 45.58,
+                    "probability": 0.9892890453338623
+                },
+                {
+                    "word": " desk,",
+                    "start": 45.58,
+                    "end": 45.98,
+                    "probability": 0.9988312125205994
+                },
+                {
+                    "word": " an",
+                    "start": 46.24,
+                    "end": 46.52,
+                    "probability": 0.9823066592216492
+                },
+                {
+                    "word": " ergonomic",
+                    "start": 46.52,
+                    "end": 46.96,
+                    "probability": 0.9985708594322205
+                },
+                {
+                    "word": " chair,",
+                    "start": 46.96,
+                    "end": 47.32,
+                    "probability": 0.9947528839111328
+                },
+                {
+                    "word": " and",
+                    "start": 47.74,
+                    "end": 47.88,
+                    "probability": 0.990404486656189
+                },
+                {
+                    "word": " an",
+                    "start": 47.88,
+                    "end": 48.1,
+                    "probability": 0.9823669195175171
+                },
+                {
+                    "word": " ergonomic",
+                    "start": 48.1,
+                    "end": 48.62,
+                    "probability": 0.998793363571167
+                },
+                {
+                    "word": " mouse.",
+                    "start": 48.62,
+                    "end": 48.98,
+                    "probability": 0.9892918467521667
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2862,
+            "start": 49.36,
+            "end": 52.44,
+            "text": " Man, everything is perfect. I'm in love with this place.",
+            "tokens": [
+                51396,
+                2458,
+                11,
+                1203,
+                307,
+                2176,
+                13,
+                286,
+                478,
+                294,
+                959,
+                365,
+                341,
+                1081,
+                13,
+                51548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06116415583898151,
+            "compression_ratio": 1.6453900709219857,
+            "no_speech_prob": 0.008311549201607704,
+            "words": [
+                {
+                    "word": " Man,",
+                    "start": 49.36,
+                    "end": 49.7,
+                    "probability": 0.992755115032196
+                },
+                {
+                    "word": " everything",
+                    "start": 49.94,
+                    "end": 50.22,
+                    "probability": 0.9940580129623413
+                },
+                {
+                    "word": " is",
+                    "start": 50.22,
+                    "end": 50.5,
+                    "probability": 0.9971211552619934
+                },
+                {
+                    "word": " perfect.",
+                    "start": 50.5,
+                    "end": 50.86,
+                    "probability": 0.9988905787467957
+                },
+                {
+                    "word": " I'm",
+                    "start": 51.08,
+                    "end": 51.42,
+                    "probability": 0.9982446432113647
+                },
+                {
+                    "word": " in",
+                    "start": 51.42,
+                    "end": 51.56,
+                    "probability": 0.9995784163475037
+                },
+                {
+                    "word": " love",
+                    "start": 51.56,
+                    "end": 51.66,
+                    "probability": 0.9993211030960083
+                },
+                {
+                    "word": " with",
+                    "start": 51.66,
+                    "end": 51.88,
+                    "probability": 0.9995700716972351
+                },
+                {
+                    "word": " this",
+                    "start": 51.88,
+                    "end": 52.1,
+                    "probability": 0.9993197917938232
+                },
+                {
+                    "word": " place.",
+                    "start": 52.1,
+                    "end": 52.44,
+                    "probability": 0.9992720484733582
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2862,
+            "start": 53.22,
+            "end": 57.12,
+            "text": " So nice to have someone so energetic like you and the team. Are you ready to begin?",
+            "tokens": [
+                51588,
+                407,
+                1481,
+                281,
+                362,
+                1580,
+                370,
+                24935,
+                411,
+                291,
+                293,
+                264,
+                1469,
+                13,
+                2014,
+                291,
+                1919,
+                281,
+                1841,
+                30,
+                51804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06116415583898151,
+            "compression_ratio": 1.6453900709219857,
+            "no_speech_prob": 0.008311549201607704,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 53.22,
+                    "end": 53.44,
+                    "probability": 0.9819875359535217
+                },
+                {
+                    "word": " nice",
+                    "start": 53.44,
+                    "end": 53.6,
+                    "probability": 0.9894232153892517
+                },
+                {
+                    "word": " to",
+                    "start": 53.6,
+                    "end": 53.8,
+                    "probability": 0.9992425441741943
+                },
+                {
+                    "word": " have",
+                    "start": 53.8,
+                    "end": 53.92,
+                    "probability": 0.999731719493866
+                },
+                {
+                    "word": " someone",
+                    "start": 53.92,
+                    "end": 54.2,
+                    "probability": 0.9990770816802979
+                },
+                {
+                    "word": " so",
+                    "start": 54.2,
+                    "end": 54.62,
+                    "probability": 0.996541440486908
+                },
+                {
+                    "word": " energetic",
+                    "start": 54.62,
+                    "end": 54.94,
+                    "probability": 0.9990850687026978
+                },
+                {
+                    "word": " like",
+                    "start": 54.94,
+                    "end": 55.2,
+                    "probability": 0.945722758769989
+                },
+                {
+                    "word": " you",
+                    "start": 55.2,
+                    "end": 55.36,
+                    "probability": 0.999683141708374
+                },
+                {
+                    "word": " and",
+                    "start": 55.36,
+                    "end": 55.48,
+                    "probability": 0.9432793855667114
+                },
+                {
+                    "word": " the",
+                    "start": 55.48,
+                    "end": 55.66,
+                    "probability": 0.9984239339828491
+                },
+                {
+                    "word": " team.",
+                    "start": 55.66,
+                    "end": 55.86,
+                    "probability": 0.9985563158988953
+                },
+                {
+                    "word": " Are",
+                    "start": 56.18,
+                    "end": 56.42,
+                    "probability": 0.9965338706970215
+                },
+                {
+                    "word": " you",
+                    "start": 56.42,
+                    "end": 56.54,
+                    "probability": 0.9998341798782349
+                },
+                {
+                    "word": " ready",
+                    "start": 56.54,
+                    "end": 56.68,
+                    "probability": 0.9994803071022034
+                },
+                {
+                    "word": " to",
+                    "start": 56.68,
+                    "end": 56.86,
+                    "probability": 0.9986099004745483
+                },
+                {
+                    "word": " begin?",
+                    "start": 56.86,
+                    "end": 57.12,
+                    "probability": 0.9986995458602905
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 5712,
+            "start": 57.12,
+            "end": 59.04,
+            "text": " Yes, I sure am.",
+            "tokens": [
+                50380,
+                1079,
+                11,
+                286,
+                988,
+                669,
+                13,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.253850089179145,
+            "compression_ratio": 0.6521739130434783,
+            "no_speech_prob": 0.0041956715285778046,
+            "words": [
+                {
+                    "word": " Yes,",
+                    "start": 57.12,
+                    "end": 57.9,
+                    "probability": 0.7329283356666565
+                },
+                {
+                    "word": " I",
+                    "start": 58.32,
+                    "end": 58.46,
+                    "probability": 0.9940886497497559
+                },
+                {
+                    "word": " sure",
+                    "start": 58.46,
+                    "end": 58.76,
+                    "probability": 0.9929978847503662
+                },
+                {
+                    "word": " am.",
+                    "start": 58.76,
+                    "end": 59.04,
+                    "probability": 0.9915278553962708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

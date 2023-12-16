@@ -1,0 +1,122 @@
+{
+  "text": "So, Jake, how's working in security? Do you deal with any danger? No, not that much. In the morning, I have to check the security cameras to make sure they are working properly. I have to monitor the entrances and exits at all times. What a responsibility. What else do you do? I can't forget to inspect the alarm systems. They have to be in top condition in case of emergencies. I see. Anything else on your checklist? Yes, I conduct regular security sweeps. It's essential to ensure everything is secure. And what about the security badges? Oh, I have to issue security badges to new employees and I can't forget to revoke access for the people who leave the company. Access control is crucial. These are a lot of responsibilities, Jake. Well, yeah, security is a top priority and I have to make sure everything goes as expected.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.02,
+      "dialogue": {
+        "text": "So, Jake, how's working in security? Do you deal with any danger?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.6,
+      "finishTime": 8.86,
+      "dialogue": {
+        "text": "No, not that much. In the morning, I have to check the security cameras to make sure",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.86,
+      "finishTime": 14.04,
+      "dialogue": {
+        "text": "they are working properly. I have to monitor the entrances and exits at all times.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.72,
+      "finishTime": 16.72,
+      "dialogue": {
+        "text": "What a responsibility. What else do you do?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.24,
+      "finishTime": 22.74,
+      "dialogue": {
+        "text": "I can't forget to inspect the alarm systems. They have to be in top condition in case of",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.74,
+      "finishTime": 23.18,
+      "dialogue": {
+        "text": "emergencies.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.98,
+      "finishTime": 26.1,
+      "dialogue": {
+        "text": "I see. Anything else on your checklist?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.7,
+      "finishTime": 32.78,
+      "dialogue": {
+        "text": "Yes, I conduct regular security sweeps. It's essential to ensure everything is secure.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 33.44,
+      "finishTime": 34.9,
+      "dialogue": {
+        "text": "And what about the security badges?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.36,
+      "finishTime": 40.8,
+      "dialogue": {
+        "text": "Oh, I have to issue security badges to new employees and I can't forget to revoke access",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 40.8,
+      "finishTime": 44.82,
+      "dialogue": {
+        "text": "for the people who leave the company. Access control is crucial.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 45.54,
+      "finishTime": 47.26,
+      "dialogue": {
+        "text": "These are a lot of responsibilities, Jake.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 47.98,
+      "finishTime": 53.62,
+      "dialogue": {
+        "text": "Well, yeah, security is a top priority and I have to make sure everything goes as expected.",
+        "align": "right"
+      }
+    }
+  ]
+}

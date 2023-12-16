@@ -1,0 +1,77 @@
+{
+  "text": "I'm trying to understand the code documentation but it's quite overwhelming. What should I do to navigate it more effectively? Don't worry, when you're faced with extensive documentation, the first thing you should do is check for a table of contents or an index. It can help you find the specific information you're looking for. Okay, that makes sense. And what should I do next? Once you've found the section you need, you should start by reading the introductory paragraphs to get an overview of what the documentation covers. Then you can skim through and focus on the parts relevant to your current task. Thanks, I'll go over the documentation as you said.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 5.08,
+      "dialogue": {
+        "text": "I'm trying to understand the code documentation but it's quite overwhelming. What should I do to",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.08,
+      "finishTime": 9.74,
+      "dialogue": {
+        "text": "navigate it more effectively? Don't worry, when you're faced with extensive documentation,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.14,
+      "finishTime": 13.66,
+      "dialogue": {
+        "text": "the first thing you should do is check for a table of contents or an index.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.98,
+      "finishTime": 16.94,
+      "dialogue": {
+        "text": "It can help you find the specific information you're looking for.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.28,
+      "finishTime": 20.3,
+      "dialogue": {
+        "text": "Okay, that makes sense. And what should I do next?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.88,
+      "finishTime": 25.24,
+      "dialogue": {
+        "text": "Once you've found the section you need, you should start by reading the introductory paragraphs to",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.24,
+      "finishTime": 29.68,
+      "dialogue": {
+        "text": "get an overview of what the documentation covers. Then you can skim through and",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 29.68,
+      "finishTime": 35.16,
+      "dialogue": {
+        "text": "focus on the parts relevant to your current task. Thanks, I'll go over the documentation as you said.",
+        "align": "left"
+      }
+    }
+  ]
+}

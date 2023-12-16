@@ -1,0 +1,86 @@
+{
+  "text": "Hi, Sarah. What are you doing now? Hi, Bob. I'm looking at customer data to find patterns. We're trying to understand what our customers like and what they buy, but we're not having any luck at the moment. Interesting. I'm making pictures with our data for our reports. We think it may help people understand them better. I'm using some tools to help me. Pictures can be great to explain things. We're not using pictures, but it's definitely fun to work with data like this.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.64,
+      "dialogue": {
+        "text": "Hi, Sarah. What are you doing now?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 3.52,
+      "finishTime": 6.44,
+      "dialogue": {
+        "text": "Hi, Bob. I'm looking at customer data to find patterns.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.88,
+      "finishTime": 10.04,
+      "dialogue": {
+        "text": "We're trying to understand what our customers like and what they buy,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.04,
+      "finishTime": 11.74,
+      "dialogue": {
+        "text": "but we're not having any luck at the moment.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.52,
+      "finishTime": 16.24,
+      "dialogue": {
+        "text": "Interesting. I'm making pictures with our data for our reports.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.8,
+      "finishTime": 18.88,
+      "dialogue": {
+        "text": "We think it may help people understand them better.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.22,
+      "finishTime": 21.86,
+      "dialogue": {
+        "text": "I'm using some tools to help me.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.32,
+      "finishTime": 24,
+      "dialogue": {
+        "text": "Pictures can be great to explain things.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.74,
+      "finishTime": 28.02,
+      "dialogue": {
+        "text": "We're not using pictures, but it's definitely fun to work with data like this.",
+        "align": "right"
+      }
+    }
+  ]
+}

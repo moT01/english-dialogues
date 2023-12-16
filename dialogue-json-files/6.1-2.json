@@ -1,0 +1,77 @@
+{
+  "text": "Hey, Sarah. I saw your comment on the issue I opened. Thanks for your help. No problem, Tom. I noticed the issue you mentioned and I've already tried a few things to solve it. That's great. What did you find? Well, I was investigating the code when I saw that the problem might be related to the recent updates. I tried rolling back to the previous version, but it didn't fix the issue. I see. We might have to talk to the team to see if they can help us. Agreed. I'll create a PR with the rollback and some additional logs for debugging. That may help us find what the problem is.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.12,
+      "dialogue": {
+        "text": "Hey, Sarah. I saw your comment on the issue I opened. Thanks for your help.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.04,
+      "finishTime": 9.5,
+      "dialogue": {
+        "text": "No problem, Tom. I noticed the issue you mentioned and I've already tried a few things to solve it.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.7,
+      "finishTime": 11.38,
+      "dialogue": {
+        "text": "That's great. What did you find?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.96,
+      "finishTime": 16.1,
+      "dialogue": {
+        "text": "Well, I was investigating the code when I saw that the problem might be related to the recent",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.1,
+      "finishTime": 20.48,
+      "dialogue": {
+        "text": "updates. I tried rolling back to the previous version, but it didn't fix the issue.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.94,
+      "finishTime": 24.48,
+      "dialogue": {
+        "text": "I see. We might have to talk to the team to see if they can help us.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.58,
+      "finishTime": 29.58,
+      "dialogue": {
+        "text": "Agreed. I'll create a PR with the rollback and some additional logs for debugging.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 29.58,
+      "finishTime": 31.66,
+      "dialogue": {
+        "text": "That may help us find what the problem is.",
+        "align": "left"
+      }
+    }
+  ]
+}

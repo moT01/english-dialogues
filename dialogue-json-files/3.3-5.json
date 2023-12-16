@@ -1,0 +1,95 @@
+{
+  "text": "Sophie, how do you manage your work-life balance and your responsibilities outside of the office? It's not always easy, but I've found ways to make it work. Tell me about your responsibilities beyond work. Well, I have to make time for my family. That's really important to me. I also don't want to neglect my health, so two months ago I started jogging regularly. It helps me relax and stay fit. It sounds like you're doing great dealing with work and life responsibilities at the same time. Thank you. It's all about finding the right balance for you and your well-being, and you don't have to search for expensive solutions for that. Sometimes it's the simple and free things that bring us the result we're looking for.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 5.46,
+      "dialogue": {
+        "text": "Sophie, how do you manage your work-life balance and your responsibilities outside of the office?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.98,
+      "finishTime": 8.7,
+      "dialogue": {
+        "text": "It's not always easy, but I've found ways to make it work.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.34,
+      "finishTime": 11.84,
+      "dialogue": {
+        "text": "Tell me about your responsibilities beyond work.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.62,
+      "finishTime": 15.94,
+      "dialogue": {
+        "text": "Well, I have to make time for my family. That's really important to me.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.4,
+      "finishTime": 20.44,
+      "dialogue": {
+        "text": "I also don't want to neglect my health, so two months ago I started jogging regularly.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.8,
+      "finishTime": 22.38,
+      "dialogue": {
+        "text": "It helps me relax and stay fit.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.38,
+      "finishTime": 27.98,
+      "dialogue": {
+        "text": "It sounds like you're doing great dealing with work and life responsibilities at the same time.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.98,
+      "finishTime": 32.14,
+      "dialogue": {
+        "text": "Thank you. It's all about finding the right balance for you and your well-being,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.52,
+      "finishTime": 35.22,
+      "dialogue": {
+        "text": "and you don't have to search for expensive solutions for that.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 35.64,
+      "finishTime": 39.12,
+      "dialogue": {
+        "text": "Sometimes it's the simple and free things that bring us the result we're looking for.",
+        "align": "right"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "text": "Hi, Sarah. What are you up to these days? Hi, Bob. I'm not working on any data projects at the moment. I'm taking some time off to learn new things. I'm attending online courses in data visualization, and I'm also exploring creative writing. It's a bit different from my usual work, but I'm enjoying the change. That's a productive break, Sarah. Are you finding the courses helpful? Absolutely. I'm learning new skills that I believe will be valuable in my future projects. By the way, what's keeping you busy these days? Well, I'm not currently working on any major data analysis projects either. I'm taking some time to review our data security protocols. I'm supposed to figure out if our current practices are robust enough to protect sensitive information. It's essential to ensure our data is secure. I agree. Keeping our data safe is a top priority. Indeed. It's a continuous effort to adapt to new security challenges.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.32,
+      "dialogue": {
+        "text": "Hi, Sarah. What are you up to these days?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 2.94,
+      "finishTime": 8.08,
+      "dialogue": {
+        "text": "Hi, Bob. I'm not working on any data projects at the moment. I'm taking some time off to learn new",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.08,
+      "finishTime": 13.36,
+      "dialogue": {
+        "text": "things. I'm attending online courses in data visualization, and I'm also exploring creative",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.36,
+      "finishTime": 17.16,
+      "dialogue": {
+        "text": "writing. It's a bit different from my usual work, but I'm enjoying the change.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.76,
+      "finishTime": 21.32,
+      "dialogue": {
+        "text": "That's a productive break, Sarah. Are you finding the courses helpful?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.98,
+      "finishTime": 26.58,
+      "dialogue": {
+        "text": "Absolutely. I'm learning new skills that I believe will be valuable in my future projects.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.06,
+      "finishTime": 29.18,
+      "dialogue": {
+        "text": "By the way, what's keeping you busy these days?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 29.18,
+      "finishTime": 35.32,
+      "dialogue": {
+        "text": "Well, I'm not currently working on any major data analysis projects either. I'm taking some time to",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 35.32,
+      "finishTime": 40.72,
+      "dialogue": {
+        "text": "review our data security protocols. I'm supposed to figure out if our current practices are robust",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 40.72,
+      "finishTime": 45.92,
+      "dialogue": {
+        "text": "enough to protect sensitive information. It's essential to ensure our data is secure.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.74,
+      "finishTime": 49.46,
+      "dialogue": {
+        "text": "I agree. Keeping our data safe is a top priority.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 50.24,
+      "finishTime": 54.4,
+      "dialogue": {
+        "text": "Indeed. It's a continuous effort to adapt to new security challenges.",
+        "align": "left"
+      }
+    }
+  ]
+}

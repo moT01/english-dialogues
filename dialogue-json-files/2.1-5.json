@@ -1,0 +1,293 @@
+{
+  "text": "Hey, Sarah. How's work as a QA tester? Is it really challenging? Sometimes let me tell you how my week usually goes. Go on please. What's your weekly routine like? Well, on weekdays, I usually wake up at around six and get ready for work. That's early. What's your morning routine? In the morning, I have breakfast at home and then head to the office at eight. What's the first thing you do when you arrive? After I arrive, I check my emails and messages from the team. It helps me plan my day. Great. What's next? After that, during the morning, I start testing the software. I have a different task to do each day. For example, on Mondays, I test the login process. So you test different parts of the software each day? Exactly. At noon, I take a break and have lunch at the cafe down the street. Then in the afternoon, I test other features like the payment system. I see. What else do you do during the week? On Wednesdays, we have a team meeting at three. Next, I write test reports and document any bugs I found during the day. Sounds like a very productive week. Yes, there are a lot of things, but I like collaborating to improve the quality of our software. Thanks for sharing, Sarah. It's interesting to know what you do. You're welcome, Brian. When we have some time, I want to ask you about your week as a dev, okay? Sure thing.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.18,
+      "dialogue": {
+        "text": "Hey, Sarah. How's work as a QA tester? Is it really",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.18,
+      "finishTime": 4.66,
+      "dialogue": {
+        "text": "challenging?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.82,
+      "finishTime": 8.38,
+      "dialogue": {
+        "text": "Sometimes let me tell you how my week usually goes.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 8.84,
+      "finishTime": 11.46,
+      "dialogue": {
+        "text": "Go on please. What's your weekly routine like?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.18,
+      "finishTime": 15.34,
+      "dialogue": {
+        "text": "Well, on weekdays, I usually wake up at around six and get",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.34,
+      "finishTime": 16.08,
+      "dialogue": {
+        "text": "ready for work.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.48,
+      "finishTime": 18.76,
+      "dialogue": {
+        "text": "That's early. What's your morning routine?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 19.22,
+      "finishTime": 22.28,
+      "dialogue": {
+        "text": "In the morning, I have breakfast at home and then head to the",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.28,
+      "finishTime": 23.22,
+      "dialogue": {
+        "text": "office at eight.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.56,
+      "finishTime": 25.7,
+      "dialogue": {
+        "text": "What's the first thing you do when you arrive?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.48,
+      "finishTime": 29.68,
+      "dialogue": {
+        "text": "After I arrive, I check my emails and messages from the",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 29.68,
+      "finishTime": 31.7,
+      "dialogue": {
+        "text": "team. It helps me plan my day.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.96,
+      "finishTime": 33.18,
+      "dialogue": {
+        "text": "Great. What's next?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.9,
+      "finishTime": 36.62,
+      "dialogue": {
+        "text": "After that, during the morning, I start testing the software.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 37.1,
+      "finishTime": 40.18,
+      "dialogue": {
+        "text": "I have a different task to do each day. For example, on",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 40.18,
+      "finishTime": 42.02,
+      "dialogue": {
+        "text": "Mondays, I test the login process.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 42.56,
+      "finishTime": 45.84,
+      "dialogue": {
+        "text": "So you test different parts of the software each day?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 46.34,
+      "finishTime": 49.58,
+      "dialogue": {
+        "text": "Exactly. At noon, I take a break and have lunch at the cafe down",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 49.58,
+      "finishTime": 52.78,
+      "dialogue": {
+        "text": "the street. Then in the afternoon, I test other features",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.78,
+      "finishTime": 53.84,
+      "dialogue": {
+        "text": "like the payment system.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 54.34,
+      "finishTime": 56.68,
+      "dialogue": {
+        "text": "I see. What else do you do during the week?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 57.24,
+      "finishTime": 59.44,
+      "dialogue": {
+        "text": "On Wednesdays, we have a team meeting at three.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 59.9,
+      "finishTime": 62.7,
+      "dialogue": {
+        "text": "Next, I write test reports and document any bugs I found",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 62.7,
+      "finishTime": 63.44,
+      "dialogue": {
+        "text": "during the day.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 64,
+      "finishTime": 65.52,
+      "dialogue": {
+        "text": "Sounds like a very productive week.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 66.3,
+      "finishTime": 68.88,
+      "dialogue": {
+        "text": "Yes, there are a lot of things, but I like collaborating to",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 68.88,
+      "finishTime": 70.14,
+      "dialogue": {
+        "text": "improve the quality of our software.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 70.72,
+      "finishTime": 73.54,
+      "dialogue": {
+        "text": "Thanks for sharing, Sarah. It's interesting to know what you",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 73.54,
+      "finishTime": 73.86,
+      "dialogue": {
+        "text": "do.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 74.26,
+      "finishTime": 76.98,
+      "dialogue": {
+        "text": "You're welcome, Brian. When we have some time, I want to ask",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 76.98,
+      "finishTime": 78.66,
+      "dialogue": {
+        "text": "you about your week as a dev, okay?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 79.08,
+      "finishTime": 79.66,
+      "dialogue": {
+        "text": "Sure thing.",
+        "align": "left"
+      }
+    }
+  ]
+}

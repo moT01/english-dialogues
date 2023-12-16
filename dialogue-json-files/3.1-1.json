@@ -1,0 +1,104 @@
+{
+  "text": "Good afternoon. Thanks for coming in for this interview. Can you tell me about your previous job experiences? Good afternoon. Sure. I was a programmer in Acme Tech. I was there for three years. I was responsible for developing web applications and maintaining the company's database. I was also a part of the software update team. That's excellent. Were there any specific projects you'd like to mention? Yes. In one of my team's projects, we were involved in the development of an e-commerce platform. We were responsible for the checkout process and it was a successful implementation. Great. Can you tell me about your qualifications? Were you educated in computer science? Yes. I have a bachelor's degree in computer science from California State University. During my studies, I was introduced to various programming languages and software development principles. Wonderful. We value candidates with a strong educational background. Thank you for sharing your experiences with us.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.5,
+      "dialogue": {
+        "text": "Good afternoon. Thanks for coming in for this interview. Can you tell me about your previous",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.5,
+      "finishTime": 10.82,
+      "dialogue": {
+        "text": "job experiences? Good afternoon. Sure. I was a programmer in Acme Tech. I was there for three",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.82,
+      "finishTime": 15.92,
+      "dialogue": {
+        "text": "years. I was responsible for developing web applications and maintaining the company's",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.92,
+      "finishTime": 21.42,
+      "dialogue": {
+        "text": "database. I was also a part of the software update team. That's excellent. Were there any specific",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.42,
+      "finishTime": 26.8,
+      "dialogue": {
+        "text": "projects you'd like to mention? Yes. In one of my team's projects, we were involved in the development",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.8,
+      "finishTime": 32.54,
+      "dialogue": {
+        "text": "of an e-commerce platform. We were responsible for the checkout process and it was a successful",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.54,
+      "finishTime": 37.76,
+      "dialogue": {
+        "text": "implementation. Great. Can you tell me about your qualifications? Were you educated in computer",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 37.76,
+      "finishTime": 44.02,
+      "dialogue": {
+        "text": "science? Yes. I have a bachelor's degree in computer science from California State University.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 44.52,
+      "finishTime": 49.8,
+      "dialogue": {
+        "text": "During my studies, I was introduced to various programming languages and software development",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 49.8,
+      "finishTime": 55.26,
+      "dialogue": {
+        "text": "principles. Wonderful. We value candidates with a strong educational background. Thank you for",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 55.26,
+      "finishTime": 56.6,
+      "dialogue": {
+        "text": "sharing your experiences with us.",
+        "align": "right"
+      }
+    }
+  ]
+}

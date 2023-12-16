@@ -1,0 +1,149 @@
+{
+  "text": "So I'm here because I feel sleepy during the mornings. I don't get productive until it's almost midday. Do you have any tips on how to have a healthy morning routine? Absolutely. My first suggestion is to not hit the snooze button multiple times. It may be tempting, but it disrupts your sleep cycle and you may feel groggy during the day. Set one alarm and get up when it rings. That's a good point. What else? Another thing, don't skip breakfast. Breakfast gives you the energy to start the day. If you skip it, you probably compensate later by eating too much or you feel sluggish in the morning. Have a balanced breakfast instead. I have a friend who does that in her routine. Any other suggestions? Yes. Don't start your day by checking your phone or emails immediately. It creates stress and makes you feel like you have to rush. Take a few minutes for yourself. For example, you can stretch or do some breathing exercises to clear your mind. That's a good idea. One more thing, don't rush during your morning routine. Give yourself time to get ready without running around. If you start the day feeling relaxed, you may have a more productive day. Wow, thanks. I'll try to include these changes into my morning routine. You're have a good night's sleep. Don't forget to get enough sleep to feel well rested in the morning. Have a great morning.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.62,
+      "dialogue": {
+        "text": "So I'm here because I feel sleepy during the mornings. I don't get productive until it's",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.62,
+      "finishTime": 8.3,
+      "dialogue": {
+        "text": "almost midday. Do you have any tips on how to have a healthy morning routine?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.18,
+      "finishTime": 15.4,
+      "dialogue": {
+        "text": "Absolutely. My first suggestion is to not hit the snooze button multiple times. It may be",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.4,
+      "finishTime": 19.58,
+      "dialogue": {
+        "text": "tempting, but it disrupts your sleep cycle and you may feel groggy during the day.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.02,
+      "finishTime": 24.6,
+      "dialogue": {
+        "text": "Set one alarm and get up when it rings. That's a good point. What else?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.6,
+      "finishTime": 31.5,
+      "dialogue": {
+        "text": "Another thing, don't skip breakfast. Breakfast gives you the energy to start the day. If you",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31.5,
+      "finishTime": 36.58,
+      "dialogue": {
+        "text": "skip it, you probably compensate later by eating too much or you feel sluggish in the morning.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.88,
+      "finishTime": 41.54,
+      "dialogue": {
+        "text": "Have a balanced breakfast instead. I have a friend who does that in her routine.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.96,
+      "finishTime": 47.26,
+      "dialogue": {
+        "text": "Any other suggestions? Yes. Don't start your day by checking your phone or emails immediately.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 47.5,
+      "finishTime": 52.48,
+      "dialogue": {
+        "text": "It creates stress and makes you feel like you have to rush. Take a few minutes for yourself.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.48,
+      "finishTime": 57.86,
+      "dialogue": {
+        "text": "For example, you can stretch or do some breathing exercises to clear your mind.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 58.8,
+      "finishTime": 65.36,
+      "dialogue": {
+        "text": "That's a good idea. One more thing, don't rush during your morning routine. Give yourself time",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 65.36,
+      "finishTime": 70.84,
+      "dialogue": {
+        "text": "to get ready without running around. If you start the day feeling relaxed, you may have a more",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 70.84,
+      "finishTime": 82.46,
+      "dialogue": {
+        "text": "productive day. Wow, thanks. I'll try to include these changes into my morning routine. You're",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 82.46,
+      "finishTime": 87.5,
+      "dialogue": {
+        "text": "have a good night's sleep. Don't forget to get enough sleep to feel well rested in the morning.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 87.9,
+      "finishTime": 88.9,
+      "dialogue": {
+        "text": "Have a great morning.",
+        "align": "right"
+      }
+    }
+  ]
+}

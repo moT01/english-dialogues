@@ -1,0 +1,41 @@
+{
+  "text": "Hey Tom, I saw that you fixed the issue on github. Great job. Thanks Maria I was debugging it when I realized that it was a simple configuration error in the code That's good to hear. I was worried. It might be something more complicated. It happens to all of us Maria I'll make sure to document this for future reference so we won't run into the same problem again. That's an excellent idea",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.72,
+      "dialogue": {
+        "text": "Hey Tom, I saw that you fixed the issue on github. Great job. Thanks Maria",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.72,
+      "finishTime": 9.52,
+      "dialogue": {
+        "text": "I was debugging it when I realized that it was a simple configuration error in the code",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.02,
+      "finishTime": 14.86,
+      "dialogue": {
+        "text": "That's good to hear. I was worried. It might be something more complicated. It happens to all of us Maria",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.86,
+      "finishTime": 21.28,
+      "dialogue": {
+        "text": "I'll make sure to document this for future reference so we won't run into the same problem again. That's an excellent idea",
+        "align": "left"
+      }
+    }
+  ]
+}

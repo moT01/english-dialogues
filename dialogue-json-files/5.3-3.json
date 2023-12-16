@@ -1,0 +1,95 @@
+{
+  "text": "Sarah, I'm hearing a lot about AI and programming these days, but I don't know how to use it. Any ideas? AI and programming involves using smart computers to help write code or find errors. It's one of those trends that automate certain tasks and development. That's fascinating. It is, right? I was actually thinking of using AI and tasks like code analysis and bug detection. It can improve code quality and reduce the time spent on debugging. Great idea. I think we should give it a go and test it out.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.9,
+      "dialogue": {
+        "text": "Sarah, I'm hearing a lot about AI and programming these days, but I don't know how to use it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.98,
+      "finishTime": 5.66,
+      "dialogue": {
+        "text": "Any ideas?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.52,
+      "finishTime": 10.72,
+      "dialogue": {
+        "text": "AI and programming involves using smart computers to help write code or find errors.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.22,
+      "finishTime": 13.92,
+      "dialogue": {
+        "text": "It's one of those trends that automate certain tasks and development.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.22,
+      "finishTime": 15.26,
+      "dialogue": {
+        "text": "That's fascinating.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.74,
+      "finishTime": 16.46,
+      "dialogue": {
+        "text": "It is, right?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.72,
+      "finishTime": 20.92,
+      "dialogue": {
+        "text": "I was actually thinking of using AI and tasks like code analysis and bug detection.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.22,
+      "finishTime": 24.4,
+      "dialogue": {
+        "text": "It can improve code quality and reduce the time spent on debugging.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.12,
+      "finishTime": 25.7,
+      "dialogue": {
+        "text": "Great idea.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.7,
+      "finishTime": 28.1,
+      "dialogue": {
+        "text": "I think we should give it a go and test it out.",
+        "align": "left"
+      }
+    }
+  ]
+}

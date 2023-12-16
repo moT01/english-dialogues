@@ -1,0 +1,68 @@
+{
+  "text": "Hey, Sophie. I heard you're into extreme sports. Is that true? Yeah, I love them. I've been into rock climbing and rafting for a while now. That's amazing. I've always wanted to try rafting, but I've never had the opportunity. Well, why don't you try it? I'm planning to go rafting this weekend. You're welcome to join. Really? That sounds great. I'd love to join you. Great. We'll have a lot of fun. I'll let you know all the details later. Thanks, Sophie. I'm looking forward to it.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 3.82,
+      "dialogue": {
+        "text": "Hey, Sophie. I heard you're into extreme sports. Is that true?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.46,
+      "finishTime": 7.92,
+      "dialogue": {
+        "text": "Yeah, I love them. I've been into rock climbing and rafting for a while now.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.62,
+      "finishTime": 12.48,
+      "dialogue": {
+        "text": "That's amazing. I've always wanted to try rafting, but I've never had the opportunity.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.1,
+      "finishTime": 17.04,
+      "dialogue": {
+        "text": "Well, why don't you try it? I'm planning to go rafting this weekend. You're welcome to join.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.48,
+      "finishTime": 20.44,
+      "dialogue": {
+        "text": "Really? That sounds great. I'd love to join you.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.82,
+      "finishTime": 23.9,
+      "dialogue": {
+        "text": "Great. We'll have a lot of fun. I'll let you know all the details later.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.26,
+      "finishTime": 26.46,
+      "dialogue": {
+        "text": "Thanks, Sophie. I'm looking forward to it.",
+        "align": "right"
+      }
+    }
+  ]
+}

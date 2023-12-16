@@ -1,0 +1,86 @@
+{
+  "text": "Hey, Tom. I saw you taking lots of pics with your cell phone outside the building. Are you into photography? Yes, I love it, but I'm only practicing. How about you? Do you have any hobbies? That's cool. I like photography, but I don't think of it as a hobby. I play the guitar in my free time Wow electric or acoustic Electric for sure back to your hobbies though. Do you have any favorite photography themes? I like landscapes and street photography mostly and you what kind of music do you like to play on your guitar? I enjoy classic rock, but any nice tune makes my day Cool. I want to hear you play someday Only if you show me your favorite picks. It's a deal",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.98,
+      "dialogue": {
+        "text": "Hey, Tom. I saw you taking lots of pics with your cell phone outside the building. Are you into photography?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.5,
+      "finishTime": 9.72,
+      "dialogue": {
+        "text": "Yes, I love it, but I'm only practicing. How about you? Do you have any hobbies?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.5,
+      "finishTime": 15.4,
+      "dialogue": {
+        "text": "That's cool. I like photography, but I don't think of it as a hobby. I play the guitar in my free time",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.4,
+      "finishTime": 17.78,
+      "dialogue": {
+        "text": "Wow electric or acoustic",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 18.34,
+      "finishTime": 22.72,
+      "dialogue": {
+        "text": "Electric for sure back to your hobbies though. Do you have any favorite photography themes?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.52,
+      "finishTime": 29.56,
+      "dialogue": {
+        "text": "I like landscapes and street photography mostly and you what kind of music do you like to play on your guitar?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 30.24,
+      "finishTime": 33.58,
+      "dialogue": {
+        "text": "I enjoy classic rock, but any nice tune makes my day",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.58,
+      "finishTime": 36.1,
+      "dialogue": {
+        "text": "Cool. I want to hear you play someday",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.1,
+      "finishTime": 38.92,
+      "dialogue": {
+        "text": "Only if you show me your favorite picks. It's a deal",
+        "align": "right"
+      }
+    }
+  ]
+}

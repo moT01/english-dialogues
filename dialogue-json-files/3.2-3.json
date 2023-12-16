@@ -1,0 +1,149 @@
+{
+  "text": "Hey, I noticed you have a huge collection of action figures on that shelf behind you. Are you a collector? You bet. I love action figures. That's awesome. What kind of figures are you most interested in? I like sci-fi and fantasy mostly. You can find everything here, from Star Wars to Lord of the Rings. That's cool. How long have you been into collecting? I've been a collector since I was 8 or 9 years old. It all started when I got my first action figure at a comic convention. I didn't know you were interested in this. Are you kidding? I go to at least one convention every year. It's the best moment of the year for me.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.3,
+      "dialogue": {
+        "text": "Hey, I noticed you have a huge collection of action figures on that shelf behind you.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.44,
+      "finishTime": 5.18,
+      "dialogue": {
+        "text": "Are you a collector?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.76,
+      "finishTime": 6.32,
+      "dialogue": {
+        "text": "You bet.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.48,
+      "finishTime": 7.62,
+      "dialogue": {
+        "text": "I love action figures.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.08,
+      "finishTime": 8.76,
+      "dialogue": {
+        "text": "That's awesome.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.08,
+      "finishTime": 11.24,
+      "dialogue": {
+        "text": "What kind of figures are you most interested in?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 11.72,
+      "finishTime": 13.6,
+      "dialogue": {
+        "text": "I like sci-fi and fantasy mostly.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.82,
+      "finishTime": 16.9,
+      "dialogue": {
+        "text": "You can find everything here, from Star Wars to Lord of the Rings.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.6,
+      "finishTime": 18.2,
+      "dialogue": {
+        "text": "That's cool.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.52,
+      "finishTime": 20.1,
+      "dialogue": {
+        "text": "How long have you been into collecting?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.72,
+      "finishTime": 23.24,
+      "dialogue": {
+        "text": "I've been a collector since I was 8 or 9 years old.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.56,
+      "finishTime": 26.98,
+      "dialogue": {
+        "text": "It all started when I got my first action figure at a comic convention.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.68,
+      "finishTime": 29.28,
+      "dialogue": {
+        "text": "I didn't know you were interested in this.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 29.28,
+      "finishTime": 30.24,
+      "dialogue": {
+        "text": "Are you kidding?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 30.46,
+      "finishTime": 32.42,
+      "dialogue": {
+        "text": "I go to at least one convention every year.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.76,
+      "finishTime": 34.22,
+      "dialogue": {
+        "text": "It's the best moment of the year for me.",
+        "align": "left"
+      }
+    }
+  ]
+}

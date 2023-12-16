@@ -1,0 +1,104 @@
+{
+  "text": "Hi everyone. Let's start our weekly project update meeting. Sarah, would you like to begin? Sure. This week I worked on the user interface design. I designed a new layout for the app and I created some mockups to show how it will look. That's great Sarah. I've also been pretty busy this week. I tested the new feature we added last week. It seems to be working well. And I found a few minor issues that we need to fix. Thanks for catching those. As for me, I also finished the market research report. I presented it to the team yesterday. We've gathered valuable data that will help us make informed decisions. Excellent work team. I organized a meeting with the client to discuss their feedback. They liked our progress so far and expressed satisfaction with our work. That's wonderful to hear. It sounds like we have achieved a lot this week. Yes, it's been a productive week. Let's keep up the good work. Don't forget to report any issues and communicate with the team as necessary. Our collaboration is key to our success.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.66,
+      "dialogue": {
+        "text": "Hi everyone. Let's start our weekly project update meeting. Sarah, would you like to begin?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.32,
+      "finishTime": 10.44,
+      "dialogue": {
+        "text": "Sure. This week I worked on the user interface design. I designed a new layout for the app",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.44,
+      "finishTime": 15.34,
+      "dialogue": {
+        "text": "and I created some mockups to show how it will look. That's great Sarah. I've also been pretty",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.34,
+      "finishTime": 20.42,
+      "dialogue": {
+        "text": "busy this week. I tested the new feature we added last week. It seems to be working well.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.82,
+      "finishTime": 26.2,
+      "dialogue": {
+        "text": "And I found a few minor issues that we need to fix. Thanks for catching those. As for me,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.2,
+      "finishTime": 31.06,
+      "dialogue": {
+        "text": "I also finished the market research report. I presented it to the team yesterday. We've gathered",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.06,
+      "finishTime": 36.42,
+      "dialogue": {
+        "text": "valuable data that will help us make informed decisions. Excellent work team. I organized a",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 36.42,
+      "finishTime": 40.96,
+      "dialogue": {
+        "text": "meeting with the client to discuss their feedback. They liked our progress so far and expressed",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 40.96,
+      "finishTime": 46,
+      "dialogue": {
+        "text": "satisfaction with our work. That's wonderful to hear. It sounds like we have achieved a lot this",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 46,
+      "finishTime": 52.24,
+      "dialogue": {
+        "text": "week. Yes, it's been a productive week. Let's keep up the good work. Don't forget to report any issues",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 52.24,
+      "finishTime": 57.76,
+      "dialogue": {
+        "text": "and communicate with the team as necessary. Our collaboration is key to our success.",
+        "align": "right"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "text": "Good morning, everyone. I hope you're well. Today, we have a new member joining our team. I'd like to introduce you to Lisa. She's our new front-end developer. Let me introduce you all briefly. This is Sarah, the senior developer. You can talk to her anytime, even in this virtual setting, if you have questions, Lisa. Hi, Sarah. Thank you. I'm excited to work with all of you and learn from your expertise. This is Tom, our new graphic designer. Is there any specific area of design or development that you're interested in? He's your go-to guy for that. Hi, Tom. I'm interested in UI UX design and front-end development, but I'm open to exploring more. And I'm Bob, the team's project manager. I'm the person you always need to talk to if you have any questions about the team's goals and schedule. Hi, Bob. It's great to meet you too. Excellent. Lisa, it's great to have you join our team, even if just online. Okay, team, let's help Lisa with the support she needs to start. Now, here are the topics on today's agenda.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 5.7,
+      "dialogue": {
+        "text": "Good morning, everyone. I hope you're well. Today, we have a new member joining our team.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6,
+      "finishTime": 11.42,
+      "dialogue": {
+        "text": "I'd like to introduce you to Lisa. She's our new front-end developer. Let me introduce",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.42,
+      "finishTime": 17.18,
+      "dialogue": {
+        "text": "you all briefly. This is Sarah, the senior developer. You can talk to her anytime, even",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.18,
+      "finishTime": 19.94,
+      "dialogue": {
+        "text": "in this virtual setting, if you have questions, Lisa.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.06,
+      "finishTime": 25.54,
+      "dialogue": {
+        "text": "Hi, Sarah. Thank you. I'm excited to work with all of you and learn from your expertise.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.14,
+      "finishTime": 32.52,
+      "dialogue": {
+        "text": "This is Tom, our new graphic designer. Is there any specific area of design or development that",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.52,
+      "finishTime": 35.54,
+      "dialogue": {
+        "text": "you're interested in? He's your go-to guy for that.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.3,
+      "finishTime": 41.7,
+      "dialogue": {
+        "text": "Hi, Tom. I'm interested in UI UX design and front-end development, but I'm open to exploring",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.7,
+      "finishTime": 47.8,
+      "dialogue": {
+        "text": "more. And I'm Bob, the team's project manager. I'm the person you always need to talk to if",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 47.8,
+      "finishTime": 53.38,
+      "dialogue": {
+        "text": "you have any questions about the team's goals and schedule. Hi, Bob. It's great to meet you too.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 53.38,
+      "finishTime": 59.34,
+      "dialogue": {
+        "text": "Excellent. Lisa, it's great to have you join our team, even if just online. Okay, team,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 59.74,
+      "finishTime": 65,
+      "dialogue": {
+        "text": "let's help Lisa with the support she needs to start. Now, here are the topics on today's agenda.",
+        "align": "right"
+      }
+    }
+  ]
+}

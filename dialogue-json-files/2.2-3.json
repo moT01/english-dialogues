@@ -1,0 +1,338 @@
+{
+  "text": "Hey, Sarah, Sophie said you have some good tips for a great morning. I want to have a good evening routine too, but it's complicated with my two kids running around. Do you have any ideas that could help? I totally understand, Jake. It can be tough. Let's see if we can come up with some ideas that include the kids. Great. I usually get home at around six. After that, it's a bit chaotic. You can start by involving your kids in light activities. Go for a family walk or play a short outdoor game together when you get home. It's a great way to have fun and stay active. Nice. What about dinner? It's always a rush. Plan simple and quick meals for weekdays. Involve the kids in setting the table as well. Good idea. After dinner, I usually help them with their homework. That's important. While they do homework, use the time to stretch or relax a bit. This also helps with your self-care. Amazing. Hmm. How about bedtime? Keep a consistent bedtime routine for your kids. Read them a bedtime story or talk to them about nice, calm things at bedtime. This helps them relax and gives you some quiet time after they go to sleep. That makes sense. What do you do before going to sleep, Sarah? I like to relax by reading a book or listening to music. Sometimes I meditate. If your kids are asleep, you can do these things too. Great suggestion, Sarah. Thanks for helping me with my evening routine. Anytime, Jake.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.22,
+      "dialogue": {
+        "text": "Hey, Sarah, Sophie said you have some good tips for a great morning.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.26,
+      "finishTime": 9.26,
+      "dialogue": {
+        "text": "I want to have a good evening routine too, but it's complicated with my two kids running",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.26,
+      "finishTime": 9.72,
+      "dialogue": {
+        "text": "around.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.06,
+      "finishTime": 11.7,
+      "dialogue": {
+        "text": "Do you have any ideas that could help?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.58,
+      "finishTime": 13.92,
+      "dialogue": {
+        "text": "I totally understand, Jake.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14,
+      "finishTime": 14.88,
+      "dialogue": {
+        "text": "It can be tough.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.36,
+      "finishTime": 18.34,
+      "dialogue": {
+        "text": "Let's see if we can come up with some ideas that include the kids.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.6,
+      "finishTime": 18.96,
+      "dialogue": {
+        "text": "Great.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.1,
+      "finishTime": 21.24,
+      "dialogue": {
+        "text": "I usually get home at around six.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.5,
+      "finishTime": 23.38,
+      "dialogue": {
+        "text": "After that, it's a bit chaotic.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.14,
+      "finishTime": 26.82,
+      "dialogue": {
+        "text": "You can start by involving your kids in light activities.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.82,
+      "finishTime": 30.72,
+      "dialogue": {
+        "text": "Go for a family walk or play a short outdoor game together when you get home.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.08,
+      "finishTime": 33.22,
+      "dialogue": {
+        "text": "It's a great way to have fun and stay active.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.82,
+      "finishTime": 33.96,
+      "dialogue": {
+        "text": "Nice.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 34.32,
+      "finishTime": 35.04,
+      "dialogue": {
+        "text": "What about dinner?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.26,
+      "finishTime": 36.54,
+      "dialogue": {
+        "text": "It's always a rush.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 37.26,
+      "finishTime": 39.34,
+      "dialogue": {
+        "text": "Plan simple and quick meals for weekdays.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 39.64,
+      "finishTime": 41.6,
+      "dialogue": {
+        "text": "Involve the kids in setting the table as well.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 41.96,
+      "finishTime": 42.62,
+      "dialogue": {
+        "text": "Good idea.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 43.1,
+      "finishTime": 45.36,
+      "dialogue": {
+        "text": "After dinner, I usually help them with their homework.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 45.76,
+      "finishTime": 46.5,
+      "dialogue": {
+        "text": "That's important.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 46.88,
+      "finishTime": 49.74,
+      "dialogue": {
+        "text": "While they do homework, use the time to stretch or relax a bit.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 50,
+      "finishTime": 51.48,
+      "dialogue": {
+        "text": "This also helps with your self-care.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.02,
+      "finishTime": 52.36,
+      "dialogue": {
+        "text": "Amazing.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 53.16,
+      "finishTime": 53.68,
+      "dialogue": {
+        "text": "Hmm.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 53.98,
+      "finishTime": 54.98,
+      "dialogue": {
+        "text": "How about bedtime?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 54.98,
+      "finishTime": 58.08,
+      "dialogue": {
+        "text": "Keep a consistent bedtime routine for your kids.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 58.54,
+      "finishTime": 62.24,
+      "dialogue": {
+        "text": "Read them a bedtime story or talk to them about nice, calm things at bedtime.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 62.7,
+      "finishTime": 66.02,
+      "dialogue": {
+        "text": "This helps them relax and gives you some quiet time after they go to sleep.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 66.62,
+      "finishTime": 67.46,
+      "dialogue": {
+        "text": "That makes sense.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 67.86,
+      "finishTime": 69.96,
+      "dialogue": {
+        "text": "What do you do before going to sleep, Sarah?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 70.58,
+      "finishTime": 73.56,
+      "dialogue": {
+        "text": "I like to relax by reading a book or listening to music.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 74.08,
+      "finishTime": 75.26,
+      "dialogue": {
+        "text": "Sometimes I meditate.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 75.66,
+      "finishTime": 77.98,
+      "dialogue": {
+        "text": "If your kids are asleep, you can do these things too.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 78.34,
+      "finishTime": 79.66,
+      "dialogue": {
+        "text": "Great suggestion, Sarah.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 79.98,
+      "finishTime": 81.96,
+      "dialogue": {
+        "text": "Thanks for helping me with my evening routine.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 82.6,
+      "finishTime": 83.26,
+      "dialogue": {
+        "text": "Anytime, Jake.",
+        "align": "right"
+      }
+    }
+  ]
+}

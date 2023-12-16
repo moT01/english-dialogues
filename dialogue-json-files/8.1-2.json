@@ -1,0 +1,113 @@
+{
+  "text": "Hi there, Brian. It's time for our performance review. How's everything going? Things are going well. Last week, I worked on improving our project's documentation. I updated the user manual and added some FAQs based on customer feedback. I also attended the customer support training session. It helped me to understand the issues our customers are facing, and I learned some strategies for better addressing their concerns. Excellent. Learning more about our customers is essential. I appreciate your dedication. Can you tell me about your long-term goals? Of course. By the end of the quarter, I plan to have the documentation I'm working on fully updated, and I intend to improve our customer support process based on the training I received. It sounds like you're on the right track. Keep up the good work, and don't hesitate to reach out if you need any support. Thanks, Maria. I appreciate your guidance.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.64,
+      "dialogue": {
+        "text": "Hi there, Brian. It's time for our performance review. How's everything going?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.94,
+      "finishTime": 7.74,
+      "dialogue": {
+        "text": "Things are going well. Last week, I worked on improving our project's documentation.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 8.22,
+      "finishTime": 12.76,
+      "dialogue": {
+        "text": "I updated the user manual and added some FAQs based on customer feedback.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.36,
+      "finishTime": 18.16,
+      "dialogue": {
+        "text": "I also attended the customer support training session. It helped me to understand the issues",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.16,
+      "finishTime": 22.5,
+      "dialogue": {
+        "text": "our customers are facing, and I learned some strategies for better addressing their concerns.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.38,
+      "finishTime": 25.98,
+      "dialogue": {
+        "text": "Excellent. Learning more about our customers is essential.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.44,
+      "finishTime": 29.72,
+      "dialogue": {
+        "text": "I appreciate your dedication. Can you tell me about your long-term goals?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 29.72,
+      "finishTime": 34.18,
+      "dialogue": {
+        "text": "Of course. By the end of the quarter, I plan to have the documentation I'm working on fully",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 34.18,
+      "finishTime": 39,
+      "dialogue": {
+        "text": "updated, and I intend to improve our customer support process based on the training I received.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 39.58,
+      "finishTime": 41.96,
+      "dialogue": {
+        "text": "It sounds like you're on the right track. Keep up the good work,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 42.02,
+      "finishTime": 44.24,
+      "dialogue": {
+        "text": "and don't hesitate to reach out if you need any support.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 44.7,
+      "finishTime": 46.64,
+      "dialogue": {
+        "text": "Thanks, Maria. I appreciate your guidance.",
+        "align": "right"
+      }
+    }
+  ]
+}

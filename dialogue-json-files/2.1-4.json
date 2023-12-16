@@ -1,0 +1,104 @@
+{
+  "text": "Hey, Linda. Today, I want to talk to you about compliance and the obligations we have in our daily tasks. Hey, James. So what's the meaning of compliance? Can you tell me? Of course. Compliance is when we put specific rules, policies and regulations that are important to our industry into practice. It helps promote ethics at the workplace. So what do we have to comply with in our projects? Great question. We have to comply with data protection regulations, security standards and our company's code of conduct. It's essential to protect sensitive information and maintain our reputation. Do we have to report every security incident? Absolutely. If you see any security breaches or incidents, you have to report them immediately. Reporting helps us address issues effectively. James, what about training? Do we have to attend training sessions regularly? Yes, you have to attend the training every year. It helps you stay updated on the latest regulations and best practices.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 6.5,
+      "dialogue": {
+        "text": "Hey, Linda. Today, I want to talk to you about compliance and the obligations we have in our",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.5,
+      "finishTime": 12.34,
+      "dialogue": {
+        "text": "daily tasks. Hey, James. So what's the meaning of compliance? Can you tell me? Of course.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.78,
+      "finishTime": 19.06,
+      "dialogue": {
+        "text": "Compliance is when we put specific rules, policies and regulations that are important to our industry",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.06,
+      "finishTime": 25.86,
+      "dialogue": {
+        "text": "into practice. It helps promote ethics at the workplace. So what do we have to comply with in",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.86,
+      "finishTime": 32.26,
+      "dialogue": {
+        "text": "our projects? Great question. We have to comply with data protection regulations, security standards",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.26,
+      "finishTime": 39.06,
+      "dialogue": {
+        "text": "and our company's code of conduct. It's essential to protect sensitive information and maintain our",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 39.06,
+      "finishTime": 46.46,
+      "dialogue": {
+        "text": "reputation. Do we have to report every security incident? Absolutely. If you see any security",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.46,
+      "finishTime": 52.24,
+      "dialogue": {
+        "text": "breaches or incidents, you have to report them immediately. Reporting helps us address issues",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.24,
+      "finishTime": 57.7,
+      "dialogue": {
+        "text": "effectively. James, what about training? Do we have to attend training sessions regularly?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 58.48,
+      "finishTime": 63.2,
+      "dialogue": {
+        "text": "Yes, you have to attend the training every year. It helps you stay updated on the latest",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 63.2,
+      "finishTime": 65.04,
+      "dialogue": {
+        "text": "regulations and best practices.",
+        "align": "left"
+      }
+    }
+  ]
+}

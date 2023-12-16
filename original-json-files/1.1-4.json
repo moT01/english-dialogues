@@ -1,0 +1,600 @@
+{
+  "text": " Oh, look who's here. Hey, Brian. How is everything? Sophie. Great to see you here. You too. Brian, let me introduce you to Tom. Tom, this is Brian. He's a web developer. Brian, this is Tom. He's our new graphic designer and he is from Texas. It's a pleasure to meet you, Tom. Sophie is a great workmate. She's very kind and helpful. Oh, come on, Brian. But it's true. She's the person to go to if you need help.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.02,
+      "text": " Oh, look who's here. Hey, Brian. How is everything?",
+      "tokens": [
+        50364, 876, 11, 574, 567, 311, 510, 13, 1911, 11, 10765, 13, 1012, 307,
+        1203, 30, 50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10752614587545395,
+      "compression_ratio": 1.657258064516129,
+      "no_speech_prob": 0.0014770617708563805,
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.7968838810920715
+        },
+        {
+          "word": " look",
+          "start": 0.46,
+          "end": 0.64,
+          "probability": 0.992404043674469
+        },
+        {
+          "word": " who's",
+          "start": 0.64,
+          "end": 0.9,
+          "probability": 0.9421930313110352
+        },
+        {
+          "word": " here.",
+          "start": 0.9,
+          "end": 1.26,
+          "probability": 0.9988534450531006
+        },
+        {
+          "word": " Hey,",
+          "start": 1.44,
+          "end": 1.66,
+          "probability": 0.9876192808151245
+        },
+        {
+          "word": " Brian.",
+          "start": 1.78,
+          "end": 1.9,
+          "probability": 0.9305280447006226
+        },
+        {
+          "word": " How",
+          "start": 2.14,
+          "end": 2.28,
+          "probability": 0.9975153207778931
+        },
+        {
+          "word": " is",
+          "start": 2.28,
+          "end": 2.48,
+          "probability": 0.9728464484214783
+        },
+        {
+          "word": " everything?",
+          "start": 2.48,
+          "end": 3.02,
+          "probability": 0.9985685348510742
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.78,
+      "end": 5.56,
+      "text": " Sophie. Great to see you here.",
+      "tokens": [50536, 29645, 13, 3769, 281, 536, 291, 510, 13, 50624],
+      "temperature": 0.0,
+      "avg_logprob": -0.10752614587545395,
+      "compression_ratio": 1.657258064516129,
+      "no_speech_prob": 0.0014770617708563805,
+      "words": [
+        {
+          "word": " Sophie.",
+          "start": 3.78,
+          "end": 4.02,
+          "probability": 0.5331681370735168
+        },
+        {
+          "word": " Great",
+          "start": 4.48,
+          "end": 4.66,
+          "probability": 0.989727795124054
+        },
+        {
+          "word": " to",
+          "start": 4.66,
+          "end": 4.88,
+          "probability": 0.9987162351608276
+        },
+        {
+          "word": " see",
+          "start": 4.88,
+          "end": 4.96,
+          "probability": 0.9996067881584167
+        },
+        {
+          "word": " you",
+          "start": 4.96,
+          "end": 5.1,
+          "probability": 0.9994751811027527
+        },
+        {
+          "word": " here.",
+          "start": 5.1,
+          "end": 5.56,
+          "probability": 0.9926289319992065
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.98,
+      "end": 12.6,
+      "text": " You too. Brian, let me introduce you to Tom. Tom, this is Brian. He's a web developer. Brian,",
+      "tokens": [
+        50656, 509, 886, 13, 10765, 11, 718, 385, 5366, 291, 281, 5041, 13,
+        5041, 11, 341, 307, 10765, 13, 634, 311, 257, 3670, 10754, 13, 10765,
+        11, 50992
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10752614587545395,
+      "compression_ratio": 1.657258064516129,
+      "no_speech_prob": 0.0014770617708563805,
+      "words": [
+        {
+          "word": " You",
+          "start": 5.98,
+          "end": 6.24,
+          "probability": 0.98781418800354
+        },
+        {
+          "word": " too.",
+          "start": 6.24,
+          "end": 6.68,
+          "probability": 0.8272234201431274
+        },
+        {
+          "word": " Brian,",
+          "start": 7.2,
+          "end": 7.46,
+          "probability": 0.9948300719261169
+        },
+        {
+          "word": " let",
+          "start": 7.56,
+          "end": 7.74,
+          "probability": 0.9861006140708923
+        },
+        {
+          "word": " me",
+          "start": 7.74,
+          "end": 7.9,
+          "probability": 0.9995859265327454
+        },
+        {
+          "word": " introduce",
+          "start": 7.9,
+          "end": 8.16,
+          "probability": 0.9985033273696899
+        },
+        {
+          "word": " you",
+          "start": 8.16,
+          "end": 8.32,
+          "probability": 0.9931249618530273
+        },
+        {
+          "word": " to",
+          "start": 8.32,
+          "end": 8.5,
+          "probability": 0.9986020922660828
+        },
+        {
+          "word": " Tom.",
+          "start": 8.5,
+          "end": 8.82,
+          "probability": 0.9793623685836792
+        },
+        {
+          "word": " Tom,",
+          "start": 9.22,
+          "end": 9.56,
+          "probability": 0.9962367415428162
+        },
+        {
+          "word": " this",
+          "start": 9.72,
+          "end": 9.92,
+          "probability": 0.9951351284980774
+        },
+        {
+          "word": " is",
+          "start": 9.92,
+          "end": 10.1,
+          "probability": 0.9987649917602539
+        },
+        {
+          "word": " Brian.",
+          "start": 10.1,
+          "end": 10.4,
+          "probability": 0.9951720833778381
+        },
+        {
+          "word": " He's",
+          "start": 10.8,
+          "end": 11.04,
+          "probability": 0.9888023734092712
+        },
+        {
+          "word": " a",
+          "start": 11.04,
+          "end": 11.14,
+          "probability": 0.9986542463302612
+        },
+        {
+          "word": " web",
+          "start": 11.14,
+          "end": 11.26,
+          "probability": 0.9472230076789856
+        },
+        {
+          "word": " developer.",
+          "start": 11.26,
+          "end": 11.76,
+          "probability": 0.9976866245269775
+        },
+        {
+          "word": " Brian,",
+          "start": 12.4,
+          "end": 12.6,
+          "probability": 0.994247555732727
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.82,
+      "end": 16.02,
+      "text": " this is Tom. He's our new graphic designer and he is from Texas.",
+      "tokens": [
+        50992, 341, 307, 5041, 13, 634, 311, 527, 777, 14089, 11795, 293, 415,
+        307, 490, 7885, 13, 51156
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10752614587545395,
+      "compression_ratio": 1.657258064516129,
+      "no_speech_prob": 0.0014770617708563805,
+      "words": [
+        {
+          "word": " this",
+          "start": 12.82,
+          "end": 12.92,
+          "probability": 0.9977612495422363
+        },
+        {
+          "word": " is",
+          "start": 12.92,
+          "end": 13.16,
+          "probability": 0.9989125728607178
+        },
+        {
+          "word": " Tom.",
+          "start": 13.16,
+          "end": 13.42,
+          "probability": 0.9985231757164001
+        },
+        {
+          "word": " He's",
+          "start": 13.7,
+          "end": 13.9,
+          "probability": 0.9959803819656372
+        },
+        {
+          "word": " our",
+          "start": 13.9,
+          "end": 14.04,
+          "probability": 0.9987572431564331
+        },
+        {
+          "word": " new",
+          "start": 14.04,
+          "end": 14.22,
+          "probability": 0.998077392578125
+        },
+        {
+          "word": " graphic",
+          "start": 14.22,
+          "end": 14.56,
+          "probability": 0.9839692115783691
+        },
+        {
+          "word": " designer",
+          "start": 14.56,
+          "end": 14.94,
+          "probability": 0.9989855885505676
+        },
+        {
+          "word": " and",
+          "start": 14.94,
+          "end": 15.16,
+          "probability": 0.5361377596855164
+        },
+        {
+          "word": " he",
+          "start": 15.16,
+          "end": 15.28,
+          "probability": 0.9985039234161377
+        },
+        {
+          "word": " is",
+          "start": 15.28,
+          "end": 15.42,
+          "probability": 0.9861897826194763
+        },
+        {
+          "word": " from",
+          "start": 15.42,
+          "end": 15.58,
+          "probability": 0.9995803236961365
+        },
+        {
+          "word": " Texas.",
+          "start": 15.58,
+          "end": 16.02,
+          "probability": 0.9985049962997437
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.66,
+      "end": 22.3,
+      "text": " It's a pleasure to meet you, Tom. Sophie is a great workmate. She's very kind and helpful.",
+      "tokens": [
+        51188, 467, 311, 257, 6834, 281, 1677, 291, 11, 5041, 13, 29645, 307,
+        257, 869, 589, 13963, 13, 1240, 311, 588, 733, 293, 4961, 13, 51496
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10752614587545395,
+      "compression_ratio": 1.657258064516129,
+      "no_speech_prob": 0.0014770617708563805,
+      "words": [
+        {
+          "word": " It's",
+          "start": 16.66,
+          "end": 16.9,
+          "probability": 0.9963619112968445
+        },
+        {
+          "word": " a",
+          "start": 16.9,
+          "end": 17.0,
+          "probability": 0.9989595413208008
+        },
+        {
+          "word": " pleasure",
+          "start": 17.0,
+          "end": 17.2,
+          "probability": 0.9995871186256409
+        },
+        {
+          "word": " to",
+          "start": 17.2,
+          "end": 17.42,
+          "probability": 0.9996602535247803
+        },
+        {
+          "word": " meet",
+          "start": 17.42,
+          "end": 17.58,
+          "probability": 0.999555766582489
+        },
+        {
+          "word": " you,",
+          "start": 17.58,
+          "end": 17.82,
+          "probability": 0.9986417889595032
+        },
+        {
+          "word": " Tom.",
+          "start": 17.94,
+          "end": 18.18,
+          "probability": 0.9989491105079651
+        },
+        {
+          "word": " Sophie",
+          "start": 18.88,
+          "end": 19.18,
+          "probability": 0.995055079460144
+        },
+        {
+          "word": " is",
+          "start": 19.18,
+          "end": 19.48,
+          "probability": 0.9981436729431152
+        },
+        {
+          "word": " a",
+          "start": 19.48,
+          "end": 19.72,
+          "probability": 0.9990478157997131
+        },
+        {
+          "word": " great",
+          "start": 19.72,
+          "end": 19.9,
+          "probability": 0.9996984004974365
+        },
+        {
+          "word": " workmate.",
+          "start": 19.9,
+          "end": 20.34,
+          "probability": 0.9259850680828094
+        },
+        {
+          "word": " She's",
+          "start": 20.52,
+          "end": 20.84,
+          "probability": 0.995914101600647
+        },
+        {
+          "word": " very",
+          "start": 20.84,
+          "end": 21.16,
+          "probability": 0.9996786117553711
+        },
+        {
+          "word": " kind",
+          "start": 21.16,
+          "end": 21.54,
+          "probability": 0.999572217464447
+        },
+        {
+          "word": " and",
+          "start": 21.54,
+          "end": 21.92,
+          "probability": 0.9977465271949768
+        },
+        {
+          "word": " helpful.",
+          "start": 21.92,
+          "end": 22.3,
+          "probability": 0.9994719624519348
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.84,
+      "end": 23.78,
+      "text": " Oh, come on, Brian.",
+      "tokens": [51496, 876, 11, 808, 322, 11, 10765, 13, 51548],
+      "temperature": 0.0,
+      "avg_logprob": -0.10752614587545395,
+      "compression_ratio": 1.657258064516129,
+      "no_speech_prob": 0.0014770617708563805,
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 22.84,
+          "end": 23.08,
+          "probability": 0.9729105830192566
+        },
+        {
+          "word": " come",
+          "start": 23.08,
+          "end": 23.26,
+          "probability": 0.9891330599784851
+        },
+        {
+          "word": " on,",
+          "start": 23.26,
+          "end": 23.48,
+          "probability": 0.9986475110054016
+        },
+        {
+          "word": " Brian.",
+          "start": 23.62,
+          "end": 23.78,
+          "probability": 0.9976034760475159
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.9,
+      "end": 28.16,
+      "text": " But it's true. She's the person to go to if you need help.",
+      "tokens": [
+        51600, 583, 309, 311, 2074, 13, 1240, 311, 264, 954, 281, 352, 281, 498,
+        291, 643, 854, 13, 51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10752614587545395,
+      "compression_ratio": 1.657258064516129,
+      "no_speech_prob": 0.0014770617708563805,
+      "words": [
+        {
+          "word": " But",
+          "start": 24.9,
+          "end": 25.06,
+          "probability": 0.9936848282814026
+        },
+        {
+          "word": " it's",
+          "start": 25.06,
+          "end": 25.28,
+          "probability": 0.9839095175266266
+        },
+        {
+          "word": " true.",
+          "start": 25.28,
+          "end": 25.6,
+          "probability": 0.9998071789741516
+        },
+        {
+          "word": " She's",
+          "start": 26.02,
+          "end": 26.4,
+          "probability": 0.9969004392623901
+        },
+        {
+          "word": " the",
+          "start": 26.4,
+          "end": 26.54,
+          "probability": 0.9996415376663208
+        },
+        {
+          "word": " person",
+          "start": 26.54,
+          "end": 26.8,
+          "probability": 0.9990198612213135
+        },
+        {
+          "word": " to",
+          "start": 26.8,
+          "end": 26.96,
+          "probability": 0.9893794655799866
+        },
+        {
+          "word": " go",
+          "start": 26.96,
+          "end": 27.12,
+          "probability": 0.9989677667617798
+        },
+        {
+          "word": " to",
+          "start": 27.12,
+          "end": 27.28,
+          "probability": 0.9982826709747314
+        },
+        {
+          "word": " if",
+          "start": 27.28,
+          "end": 27.46,
+          "probability": 0.9811708927154541
+        },
+        {
+          "word": " you",
+          "start": 27.46,
+          "end": 27.68,
+          "probability": 0.9993138313293457
+        },
+        {
+          "word": " need",
+          "start": 27.68,
+          "end": 27.8,
+          "probability": 0.9997227787971497
+        },
+        {
+          "word": " help.",
+          "start": 27.8,
+          "end": 28.16,
+          "probability": 0.9996046423912048
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

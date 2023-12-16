@@ -1,0 +1,95 @@
+{
+  "text": "Wow, I'm so hungry. Is it lunchtime? Yes, it is. Are you eating here or are you going out? Today, I'm going out. I can show you some places around here. Are you interested? Of course. Any favorite lunch spot around here, Sophie? I know a nice one. It's a cafe right down the street. Is that okay for you? Sounds great. Yeah, it's nice to have a break from the office. It is. Is the cafe within walking distance? Well, it's not far. Come on, we can go together.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.3,
+      "dialogue": {
+        "text": "Wow, I'm so hungry. Is it lunchtime?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.14,
+      "finishTime": 4.84,
+      "dialogue": {
+        "text": "Yes, it is.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.4,
+      "finishTime": 7.66,
+      "dialogue": {
+        "text": "Are you eating here or are you going out?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.52,
+      "finishTime": 12.58,
+      "dialogue": {
+        "text": "Today, I'm going out. I can show you some places around here. Are you interested?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.98,
+      "finishTime": 16.02,
+      "dialogue": {
+        "text": "Of course. Any favorite lunch spot around here, Sophie?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.74,
+      "finishTime": 20.34,
+      "dialogue": {
+        "text": "I know a nice one. It's a cafe right down the street. Is that okay for you?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.5,
+      "finishTime": 21.22,
+      "dialogue": {
+        "text": "Sounds great.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.1,
+      "finishTime": 24.04,
+      "dialogue": {
+        "text": "Yeah, it's nice to have a break from the office.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 24.76,
+      "finishTime": 27.56,
+      "dialogue": {
+        "text": "It is. Is the cafe within walking distance?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.96,
+      "finishTime": 30.5,
+      "dialogue": {
+        "text": "Well, it's not far. Come on, we can go together.",
+        "align": "right"
+      }
+    }
+  ]
+}

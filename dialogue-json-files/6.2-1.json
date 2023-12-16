@@ -1,0 +1,104 @@
+{
+  "text": "Good morning, everyone. Let's start our stand-up meeting. Sophie, can you begin? Sure, Bob. I could use some help with the coding problem. I've been working on it for a while, and I may need a fresh pair of eyes to look at the code. Could you take a look at it after the meeting? Absolutely. I can definitely help you with that. Just share the code with me, and I'll check it out. I might have a few ideas on how to approach this issue. Mind if I call you later? Not at all. I'd appreciate your input. I'd like to suggest something as well. Could we provide more details about the problem so we can brainstorm some potential solutions during the review? Great suggestion. I'll prepare some documentation, and we can discuss it during the code review. Excellent. Let's set up a time for our code review session. When is best for you? I'm sure we'll gain some valuable insights from our discussion.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.36,
+      "dialogue": {
+        "text": "Good morning, everyone. Let's start our stand-up meeting. Sophie, can you begin?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.1,
+      "finishTime": 9.48,
+      "dialogue": {
+        "text": "Sure, Bob. I could use some help with the coding problem. I've been working on it for a while,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.56,
+      "finishTime": 13.9,
+      "dialogue": {
+        "text": "and I may need a fresh pair of eyes to look at the code. Could you take a look at it after the meeting?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.86,
+      "finishTime": 19.36,
+      "dialogue": {
+        "text": "Absolutely. I can definitely help you with that. Just share the code with me, and I'll check it out.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.66,
+      "finishTime": 23.74,
+      "dialogue": {
+        "text": "I might have a few ideas on how to approach this issue. Mind if I call you later?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 24.32,
+      "finishTime": 26.22,
+      "dialogue": {
+        "text": "Not at all. I'd appreciate your input.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.86,
+      "finishTime": 31.54,
+      "dialogue": {
+        "text": "I'd like to suggest something as well. Could we provide more details about the problem",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31.54,
+      "finishTime": 34.46,
+      "dialogue": {
+        "text": "so we can brainstorm some potential solutions during the review?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 35.24,
+      "finishTime": 39.5,
+      "dialogue": {
+        "text": "Great suggestion. I'll prepare some documentation, and we can discuss it during the code review.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 40.26,
+      "finishTime": 44.02,
+      "dialogue": {
+        "text": "Excellent. Let's set up a time for our code review session. When is best for you?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 44.38,
+      "finishTime": 47.18,
+      "dialogue": {
+        "text": "I'm sure we'll gain some valuable insights from our discussion.",
+        "align": "right"
+      }
+    }
+  ]
+}

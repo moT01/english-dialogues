@@ -1,0 +1,95 @@
+{
+  "text": "Hey, I've been curious about your background. How did you end up as a tech recruiter? Hey, that's an interesting story. I actually studied psychology in college. My plan was to become a therapist or counselor, but during my last year, I took a course in organizational psychology and it piqued my interest in the workplace and employee dynamics. That's a cool twist. Did you immediately start working as a tech recruiter after college? Not right away. I worked in a general HR role at a non-tech company first, focusing on training and development. What made you make the jump to tech? I saw that tech companies appreciate innovation and care for their employees' wellbeing. This is directly related to what made me want to become a psychologist. So basically, that's what brought me here. Awesome. It was great to get to know you better.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.16,
+      "dialogue": {
+        "text": "Hey, I've been curious about your background. How did you end up as a tech recruiter?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.96,
+      "finishTime": 10.02,
+      "dialogue": {
+        "text": "Hey, that's an interesting story. I actually studied psychology in college. My plan was to",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.02,
+      "finishTime": 14.66,
+      "dialogue": {
+        "text": "become a therapist or counselor, but during my last year, I took a course in organizational",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.66,
+      "finishTime": 18.62,
+      "dialogue": {
+        "text": "psychology and it piqued my interest in the workplace and employee dynamics.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.02,
+      "finishTime": 23.26,
+      "dialogue": {
+        "text": "That's a cool twist. Did you immediately start working as a tech recruiter after college?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.66,
+      "finishTime": 28.08,
+      "dialogue": {
+        "text": "Not right away. I worked in a general HR role at a non-tech company first,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.08,
+      "finishTime": 32.38,
+      "dialogue": {
+        "text": "focusing on training and development. What made you make the jump to tech?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.3,
+      "finishTime": 37.22,
+      "dialogue": {
+        "text": "I saw that tech companies appreciate innovation and care for their employees' wellbeing.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 37.9,
+      "finishTime": 41.08,
+      "dialogue": {
+        "text": "This is directly related to what made me want to become a psychologist.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.48,
+      "finishTime": 46.36,
+      "dialogue": {
+        "text": "So basically, that's what brought me here. Awesome. It was great to get to know you better.",
+        "align": "left"
+      }
+    }
+  ]
+}

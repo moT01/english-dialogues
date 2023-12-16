@@ -1,0 +1,86 @@
+{
+  "text": "Hey Sarah, I was going through the new code changes you made in this module, and I might need some clarification on a specific part. Of course Brian, I can explain what I was trying to achieve there. What part of the code are you uncertain about? In the function you added, it could be that I'm missing something, but it may not be working as expected. I should probably understand the logic better. I understand Brian, let's go through it together. I can walk you through the code, and we should be able to figure out what's going wrong.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0.52,
+      "finishTime": 4.96,
+      "dialogue": {
+        "text": "Hey Sarah, I was going through the new code changes you made in this module, and I might",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.96,
+      "finishTime": 7.14,
+      "dialogue": {
+        "text": "need some clarification on a specific part.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.66,
+      "finishTime": 10.5,
+      "dialogue": {
+        "text": "Of course Brian, I can explain what I was trying to achieve there.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.78,
+      "finishTime": 12.46,
+      "dialogue": {
+        "text": "What part of the code are you uncertain about?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.76,
+      "finishTime": 16.76,
+      "dialogue": {
+        "text": "In the function you added, it could be that I'm missing something, but it may not be working",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.76,
+      "finishTime": 17.54,
+      "dialogue": {
+        "text": "as expected.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.82,
+      "finishTime": 20.02,
+      "dialogue": {
+        "text": "I should probably understand the logic better.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.24,
+      "finishTime": 23.22,
+      "dialogue": {
+        "text": "I understand Brian, let's go through it together.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.58,
+      "finishTime": 26.96,
+      "dialogue": {
+        "text": "I can walk you through the code, and we should be able to figure out what's going wrong.",
+        "align": "right"
+      }
+    }
+  ]
+}

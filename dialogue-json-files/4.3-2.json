@@ -1,0 +1,167 @@
+{
+  "text": "Hi there. I have a package for Tom. Do you know him? Yes, I do. He's part of the design team, but he's not at his desk right now. Can I help you with something? That's all right. I need to confirm it's him before I leave this package. Can you describe him for me? Sure. Tom is a tall guy with a friendly smile. He's got long dark hair and does not wear glasses. You can't miss his goatee. He also likes wearing a scarf or something. Does that help? Absolutely. Thanks for the description. I'll try to find him around here.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 0.62,
+      "dialogue": {
+        "text": "Hi there.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 0.62,
+      "finishTime": 2,
+      "dialogue": {
+        "text": "I have a package for Tom.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 2.16,
+      "finishTime": 2.92,
+      "dialogue": {
+        "text": "Do you know him?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 3.36,
+      "finishTime": 4.08,
+      "dialogue": {
+        "text": "Yes, I do.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.16,
+      "finishTime": 7.34,
+      "dialogue": {
+        "text": "He's part of the design team, but he's not at his desk right now.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.36,
+      "finishTime": 8.3,
+      "dialogue": {
+        "text": "Can I help you with something?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.06,
+      "finishTime": 9.88,
+      "dialogue": {
+        "text": "That's all right.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.14,
+      "finishTime": 12.94,
+      "dialogue": {
+        "text": "I need to confirm it's him before I leave this package.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.1,
+      "finishTime": 15,
+      "dialogue": {
+        "text": "Can you describe him for me?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.32,
+      "finishTime": 15.68,
+      "dialogue": {
+        "text": "Sure.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.82,
+      "finishTime": 17.74,
+      "dialogue": {
+        "text": "Tom is a tall guy with a friendly smile.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.04,
+      "finishTime": 20.58,
+      "dialogue": {
+        "text": "He's got long dark hair and does not wear glasses.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.7,
+      "finishTime": 22.14,
+      "dialogue": {
+        "text": "You can't miss his goatee.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.22,
+      "finishTime": 24.02,
+      "dialogue": {
+        "text": "He also likes wearing a scarf or something.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.18,
+      "finishTime": 24.74,
+      "dialogue": {
+        "text": "Does that help?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.78,
+      "finishTime": 26.18,
+      "dialogue": {
+        "text": "Absolutely.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.5,
+      "finishTime": 27.6,
+      "dialogue": {
+        "text": "Thanks for the description.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 27.6,
+      "finishTime": 29.18,
+      "dialogue": {
+        "text": "I'll try to find him around here.",
+        "align": "left"
+      }
+    }
+  ]
+}

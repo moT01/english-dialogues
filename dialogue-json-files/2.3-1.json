@@ -1,0 +1,68 @@
+{
+  "text": "Hey James, what's your cybersecurity project about? Hi Sophie, I'm checking our network for problems. We want to be safe from hackers. I'm using special tools to see where we might have problems, and then I have to fix them. That's important work. I'm helping our team learn how to stay safe online. We're taking some lessons and practicing what to do if someone tries to steal our identity. That's great, Sophie. The two of us are doing some important work.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0.56,
+      "finishTime": 3.28,
+      "dialogue": {
+        "text": "Hey James, what's your cybersecurity project about?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.94,
+      "finishTime": 6.38,
+      "dialogue": {
+        "text": "Hi Sophie, I'm checking our network for problems.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.72,
+      "finishTime": 8.42,
+      "dialogue": {
+        "text": "We want to be safe from hackers.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.76,
+      "finishTime": 13.4,
+      "dialogue": {
+        "text": "I'm using special tools to see where we might have problems, and then I have to fix them.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.92,
+      "finishTime": 17.34,
+      "dialogue": {
+        "text": "That's important work. I'm helping our team learn how to stay safe online.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 18,
+      "finishTime": 21.74,
+      "dialogue": {
+        "text": "We're taking some lessons and practicing what to do if someone tries to steal our identity.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.34,
+      "finishTime": 25.46,
+      "dialogue": {
+        "text": "That's great, Sophie. The two of us are doing some important work.",
+        "align": "left"
+      }
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "text": " Wow, I'm so hungry. Is it lunchtime? Yes, it is. Are you eating here or are you going out? Today, I'm going out. I can show you some places around here. Are you interested? Of course. Any favorite lunch spot around here, Sophie? I know a nice one. It's a cafe right down the street. Is that okay for you? Sounds great. Yeah, it's nice to have a break from the office. It is. Is the cafe within walking distance? Well, it's not far. Come on, we can go together.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.3,
+      "text": " Wow, I'm so hungry. Is it lunchtime?",
+      "tokens": [
+        50364, 3153, 11, 286, 478, 370, 8067, 13, 1119, 309, 6349, 3766, 30,
+        50524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " Wow,",
+          "start": 0.0,
+          "end": 0.58,
+          "probability": 0.6781415939331055
+        },
+        {
+          "word": " I'm",
+          "start": 0.94,
+          "end": 1.36,
+          "probability": 0.9313222467899323
+        },
+        {
+          "word": " so",
+          "start": 1.36,
+          "end": 1.78,
+          "probability": 0.9846023321151733
+        },
+        {
+          "word": " hungry.",
+          "start": 1.78,
+          "end": 2.18,
+          "probability": 0.9932032823562622
+        },
+        {
+          "word": " Is",
+          "start": 2.44,
+          "end": 2.6,
+          "probability": 0.9724632501602173
+        },
+        {
+          "word": " it",
+          "start": 2.6,
+          "end": 2.78,
+          "probability": 0.9921408891677856
+        },
+        {
+          "word": " lunchtime?",
+          "start": 2.78,
+          "end": 3.3,
+          "probability": 0.920143187046051
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.14,
+      "end": 4.84,
+      "text": " Yes, it is.",
+      "tokens": [50560, 1079, 11, 309, 307, 13, 50592],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 4.14,
+          "end": 4.3,
+          "probability": 0.9402105212211609
+        },
+        {
+          "word": " it",
+          "start": 4.3,
+          "end": 4.5,
+          "probability": 0.9969443678855896
+        },
+        {
+          "word": " is.",
+          "start": 4.5,
+          "end": 4.84,
+          "probability": 0.9976481795310974
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.4,
+      "end": 7.66,
+      "text": " Are you eating here or are you going out?",
+      "tokens": [
+        50624, 2014, 291, 3936, 510, 420, 366, 291, 516, 484, 30, 50728
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " Are",
+          "start": 5.4,
+          "end": 5.56,
+          "probability": 0.9854848980903625
+        },
+        {
+          "word": " you",
+          "start": 5.56,
+          "end": 5.7,
+          "probability": 0.9993476271629333
+        },
+        {
+          "word": " eating",
+          "start": 5.7,
+          "end": 5.88,
+          "probability": 0.9848380088806152
+        },
+        {
+          "word": " here",
+          "start": 5.88,
+          "end": 6.34,
+          "probability": 0.9969303011894226
+        },
+        {
+          "word": " or",
+          "start": 6.34,
+          "end": 6.64,
+          "probability": 0.6746446490287781
+        },
+        {
+          "word": " are",
+          "start": 6.64,
+          "end": 6.92,
+          "probability": 0.8065732717514038
+        },
+        {
+          "word": " you",
+          "start": 6.92,
+          "end": 6.92,
+          "probability": 0.9973493814468384
+        },
+        {
+          "word": " going",
+          "start": 6.92,
+          "end": 7.08,
+          "probability": 0.9978929162025452
+        },
+        {
+          "word": " out?",
+          "start": 7.08,
+          "end": 7.66,
+          "probability": 0.9973056316375732
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.52,
+      "end": 12.58,
+      "text": " Today, I'm going out. I can show you some places around here. Are you interested?",
+      "tokens": [
+        50776, 2692, 11, 286, 478, 516, 484, 13, 286, 393, 855, 291, 512, 3190,
+        926, 510, 13, 2014, 291, 3102, 30, 51008
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " Today,",
+          "start": 8.52,
+          "end": 8.74,
+          "probability": 0.9786224961280823
+        },
+        {
+          "word": " I'm",
+          "start": 8.74,
+          "end": 9.04,
+          "probability": 0.9934238195419312
+        },
+        {
+          "word": " going",
+          "start": 9.04,
+          "end": 9.28,
+          "probability": 0.9994677901268005
+        },
+        {
+          "word": " out.",
+          "start": 9.28,
+          "end": 9.74,
+          "probability": 0.9983135461807251
+        },
+        {
+          "word": " I",
+          "start": 9.86,
+          "end": 10.1,
+          "probability": 0.9974693059921265
+        },
+        {
+          "word": " can",
+          "start": 10.1,
+          "end": 10.28,
+          "probability": 0.9985913634300232
+        },
+        {
+          "word": " show",
+          "start": 10.28,
+          "end": 10.46,
+          "probability": 0.9995183944702148
+        },
+        {
+          "word": " you",
+          "start": 10.46,
+          "end": 10.6,
+          "probability": 0.9989398121833801
+        },
+        {
+          "word": " some",
+          "start": 10.6,
+          "end": 10.8,
+          "probability": 0.9982681274414062
+        },
+        {
+          "word": " places",
+          "start": 10.8,
+          "end": 11.04,
+          "probability": 0.9979077577590942
+        },
+        {
+          "word": " around",
+          "start": 11.04,
+          "end": 11.38,
+          "probability": 0.9990543723106384
+        },
+        {
+          "word": " here.",
+          "start": 11.38,
+          "end": 11.72,
+          "probability": 0.997776210308075
+        },
+        {
+          "word": " Are",
+          "start": 11.94,
+          "end": 12.04,
+          "probability": 0.9955463409423828
+        },
+        {
+          "word": " you",
+          "start": 12.04,
+          "end": 12.22,
+          "probability": 0.9995915293693542
+        },
+        {
+          "word": " interested?",
+          "start": 12.22,
+          "end": 12.58,
+          "probability": 0.9972226619720459
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.98,
+      "end": 16.02,
+      "text": " Of course. Any favorite lunch spot around here, Sophie?",
+      "tokens": [
+        51008, 2720, 1164, 13, 2639, 2954, 6349, 4008, 926, 510, 11, 29645, 30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " Of",
+          "start": 12.98,
+          "end": 13.3,
+          "probability": 0.9908003211021423
+        },
+        {
+          "word": " course.",
+          "start": 13.3,
+          "end": 13.7,
+          "probability": 0.999135434627533
+        },
+        {
+          "word": " Any",
+          "start": 14.1,
+          "end": 14.34,
+          "probability": 0.9931843876838684
+        },
+        {
+          "word": " favorite",
+          "start": 14.34,
+          "end": 14.66,
+          "probability": 0.978185772895813
+        },
+        {
+          "word": " lunch",
+          "start": 14.66,
+          "end": 14.94,
+          "probability": 0.995740532875061
+        },
+        {
+          "word": " spot",
+          "start": 14.94,
+          "end": 15.14,
+          "probability": 0.9863167405128479
+        },
+        {
+          "word": " around",
+          "start": 15.14,
+          "end": 15.4,
+          "probability": 0.9965373277664185
+        },
+        {
+          "word": " here,",
+          "start": 15.4,
+          "end": 15.68,
+          "probability": 0.9978317618370056
+        },
+        {
+          "word": " Sophie?",
+          "start": 16.02,
+          "end": 16.02,
+          "probability": 0.8049182891845703
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.74,
+      "end": 20.34,
+      "text": " I know a nice one. It's a cafe right down the street. Is that okay for you?",
+      "tokens": [
+        51192, 286, 458, 257, 1481, 472, 13, 467, 311, 257, 17773, 558, 760,
+        264, 4838, 13, 1119, 300, 1392, 337, 291, 30, 51380
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " I",
+          "start": 16.74,
+          "end": 16.88,
+          "probability": 0.9949187636375427
+        },
+        {
+          "word": " know",
+          "start": 16.88,
+          "end": 17.04,
+          "probability": 0.9994640946388245
+        },
+        {
+          "word": " a",
+          "start": 17.04,
+          "end": 17.18,
+          "probability": 0.9891414642333984
+        },
+        {
+          "word": " nice",
+          "start": 17.18,
+          "end": 17.38,
+          "probability": 0.9995622038841248
+        },
+        {
+          "word": " one.",
+          "start": 17.38,
+          "end": 17.62,
+          "probability": 0.9986996650695801
+        },
+        {
+          "word": " It's",
+          "start": 17.84,
+          "end": 18.02,
+          "probability": 0.9967077374458313
+        },
+        {
+          "word": " a",
+          "start": 18.02,
+          "end": 18.16,
+          "probability": 0.9981108903884888
+        },
+        {
+          "word": " cafe",
+          "start": 18.16,
+          "end": 18.36,
+          "probability": 0.8033786416053772
+        },
+        {
+          "word": " right",
+          "start": 18.36,
+          "end": 18.64,
+          "probability": 0.9623541235923767
+        },
+        {
+          "word": " down",
+          "start": 18.64,
+          "end": 18.86,
+          "probability": 0.9993060827255249
+        },
+        {
+          "word": " the",
+          "start": 18.86,
+          "end": 19.06,
+          "probability": 0.9991194605827332
+        },
+        {
+          "word": " street.",
+          "start": 19.06,
+          "end": 19.26,
+          "probability": 0.9991318583488464
+        },
+        {
+          "word": " Is",
+          "start": 19.42,
+          "end": 19.52,
+          "probability": 0.990805447101593
+        },
+        {
+          "word": " that",
+          "start": 19.52,
+          "end": 19.7,
+          "probability": 0.9996144771575928
+        },
+        {
+          "word": " okay",
+          "start": 19.7,
+          "end": 19.88,
+          "probability": 0.7391712069511414
+        },
+        {
+          "word": " for",
+          "start": 19.88,
+          "end": 20.08,
+          "probability": 0.9938940405845642
+        },
+        {
+          "word": " you?",
+          "start": 20.08,
+          "end": 20.34,
+          "probability": 0.9992984533309937
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.5,
+      "end": 21.22,
+      "text": " Sounds great.",
+      "tokens": [51380, 14576, 869, 13, 51416],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " Sounds",
+          "start": 20.5,
+          "end": 20.78,
+          "probability": 0.9502156972885132
+        },
+        {
+          "word": " great.",
+          "start": 20.78,
+          "end": 21.22,
+          "probability": 0.9954497218132019
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.1,
+      "end": 24.04,
+      "text": " Yeah, it's nice to have a break from the office.",
+      "tokens": [
+        51460, 865, 11, 309, 311, 1481, 281, 362, 257, 1821, 490, 264, 3398, 13,
+        51556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 22.1,
+          "end": 22.4,
+          "probability": 0.9870555400848389
+        },
+        {
+          "word": " it's",
+          "start": 22.4,
+          "end": 22.66,
+          "probability": 0.9962666630744934
+        },
+        {
+          "word": " nice",
+          "start": 22.66,
+          "end": 22.82,
+          "probability": 0.9993711113929749
+        },
+        {
+          "word": " to",
+          "start": 22.82,
+          "end": 22.96,
+          "probability": 0.9995081424713135
+        },
+        {
+          "word": " have",
+          "start": 22.96,
+          "end": 23.06,
+          "probability": 0.9997925162315369
+        },
+        {
+          "word": " a",
+          "start": 23.06,
+          "end": 23.2,
+          "probability": 0.9996436834335327
+        },
+        {
+          "word": " break",
+          "start": 23.2,
+          "end": 23.32,
+          "probability": 0.9994497895240784
+        },
+        {
+          "word": " from",
+          "start": 23.32,
+          "end": 23.5,
+          "probability": 0.9991818070411682
+        },
+        {
+          "word": " the",
+          "start": 23.5,
+          "end": 23.7,
+          "probability": 0.9975056052207947
+        },
+        {
+          "word": " office.",
+          "start": 23.7,
+          "end": 24.04,
+          "probability": 0.9991968274116516
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.76,
+      "end": 27.56,
+      "text": " It is. Is the cafe within walking distance?",
+      "tokens": [
+        51600, 467, 307, 13, 1119, 264, 17773, 1951, 4494, 4560, 30, 51736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09695780466473292,
+      "compression_ratio": 1.6181102362204725,
+      "no_speech_prob": 0.014273865148425102,
+      "words": [
+        {
+          "word": " It",
+          "start": 24.76,
+          "end": 25.08,
+          "probability": 0.9770876169204712
+        },
+        {
+          "word": " is.",
+          "start": 25.08,
+          "end": 25.48,
+          "probability": 0.9975517392158508
+        },
+        {
+          "word": " Is",
+          "start": 25.72,
+          "end": 25.88,
+          "probability": 0.9710589051246643
+        },
+        {
+          "word": " the",
+          "start": 25.88,
+          "end": 26.12,
+          "probability": 0.9902398586273193
+        },
+        {
+          "word": " cafe",
+          "start": 26.12,
+          "end": 26.36,
+          "probability": 0.966990053653717
+        },
+        {
+          "word": " within",
+          "start": 26.36,
+          "end": 26.72,
+          "probability": 0.9967485666275024
+        },
+        {
+          "word": " walking",
+          "start": 26.72,
+          "end": 27.06,
+          "probability": 0.9988316893577576
+        },
+        {
+          "word": " distance?",
+          "start": 27.06,
+          "end": 27.56,
+          "probability": 0.999265730381012
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2756,
+      "start": 27.96,
+      "end": 30.5,
+      "text": " Well, it's not far. Come on, we can go together.",
+      "tokens": [
+        50384, 1042, 11, 309, 311, 406, 1400, 13, 2492, 322, 11, 321, 393, 352,
+        1214, 13, 50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12075971232520209,
+      "compression_ratio": 0.8571428571428571,
+      "no_speech_prob": 0.018518568947911263,
+      "words": [
+        {
+          "word": " Well,",
+          "start": 27.96,
+          "end": 28.32,
+          "probability": 0.8437143564224243
+        },
+        {
+          "word": " it's",
+          "start": 28.5,
+          "end": 28.62,
+          "probability": 0.9845763444900513
+        },
+        {
+          "word": " not",
+          "start": 28.62,
+          "end": 28.78,
+          "probability": 0.9981411695480347
+        },
+        {
+          "word": " far.",
+          "start": 28.78,
+          "end": 29.06,
+          "probability": 0.9912795424461365
+        },
+        {
+          "word": " Come",
+          "start": 29.36,
+          "end": 29.48,
+          "probability": 0.9561913013458252
+        },
+        {
+          "word": " on,",
+          "start": 29.48,
+          "end": 29.7,
+          "probability": 0.995509147644043
+        },
+        {
+          "word": " we",
+          "start": 29.88,
+          "end": 29.92,
+          "probability": 0.9926773309707642
+        },
+        {
+          "word": " can",
+          "start": 29.92,
+          "end": 30.06,
+          "probability": 0.9968701004981995
+        },
+        {
+          "word": " go",
+          "start": 30.06,
+          "end": 30.24,
+          "probability": 0.9957748055458069
+        },
+        {
+          "word": " together.",
+          "start": 30.24,
+          "end": 30.5,
+          "probability": 0.9978261590003967
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

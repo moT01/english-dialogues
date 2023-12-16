@@ -1,0 +1,248 @@
+{
+  "text": "Hi, Tom, you look a bit down these days. Is everything okay? Hey, Alice. Yeah, I feel a bit demotivated. One thing that really gets to me is working long hours without any breaks. It's exhausting and it feels like I'm constantly running without knowing where I'm going. I totally get that, Tom. Working overtime all the time can be draining. Personally, I hate dealing with office politics. It's frustrating when people are constantly trying to beat each other instead of working together as a team. You're right, Alice. Dealing with office politics is never fun. Another thing that gets to me is having too many meetings. Sometimes it feels like we're meeting for no reason and it's hard to find time to actually work on projects. I hear you, Tom. Sitting in meetings for hours can be discouraging. For me, what really annoys me is having to do a bunch of repetitive tasks without any variation. It feels like I'm wasting my skills and creativity. That does sound frustrating, Alice. Repeating the same tasks over and over can be demotivating. Thanks for listening, by the way. It feels good to talk about these things. Of course, Tom. We all have our moments of demotivation and it's good to share and support each other.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0.98,
+      "finishTime": 3.44,
+      "dialogue": {
+        "text": "Hi, Tom, you look a bit down these days.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.72,
+      "finishTime": 4.58,
+      "dialogue": {
+        "text": "Is everything okay?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.3,
+      "finishTime": 5.9,
+      "dialogue": {
+        "text": "Hey, Alice.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.34,
+      "finishTime": 8.48,
+      "dialogue": {
+        "text": "Yeah, I feel a bit demotivated.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 8.84,
+      "finishTime": 12.6,
+      "dialogue": {
+        "text": "One thing that really gets to me is working long hours without any breaks.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.82,
+      "finishTime": 17.12,
+      "dialogue": {
+        "text": "It's exhausting and it feels like I'm constantly running without knowing where I'm going.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.9,
+      "finishTime": 19.18,
+      "dialogue": {
+        "text": "I totally get that, Tom.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.64,
+      "finishTime": 21.72,
+      "dialogue": {
+        "text": "Working overtime all the time can be draining.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.46,
+      "finishTime": 24.78,
+      "dialogue": {
+        "text": "Personally, I hate dealing with office politics.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.22,
+      "finishTime": 28.52,
+      "dialogue": {
+        "text": "It's frustrating when people are constantly trying to beat each other instead of working",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 28.52,
+      "finishTime": 29.58,
+      "dialogue": {
+        "text": "together as a team.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 30.28,
+      "finishTime": 31.08,
+      "dialogue": {
+        "text": "You're right, Alice.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31.24,
+      "finishTime": 33.66,
+      "dialogue": {
+        "text": "Dealing with office politics is never fun.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 34,
+      "finishTime": 37.44,
+      "dialogue": {
+        "text": "Another thing that gets to me is having too many meetings.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 37.96,
+      "finishTime": 42.36,
+      "dialogue": {
+        "text": "Sometimes it feels like we're meeting for no reason and it's hard to find time to actually",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 42.36,
+      "finishTime": 43.36,
+      "dialogue": {
+        "text": "work on projects.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 44.06,
+      "finishTime": 44.84,
+      "dialogue": {
+        "text": "I hear you, Tom.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 45.12,
+      "finishTime": 47.32,
+      "dialogue": {
+        "text": "Sitting in meetings for hours can be discouraging.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 47.96,
+      "finishTime": 52.28,
+      "dialogue": {
+        "text": "For me, what really annoys me is having to do a bunch of repetitive tasks without any",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 52.28,
+      "finishTime": 52.78,
+      "dialogue": {
+        "text": "variation.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 53.44,
+      "finishTime": 55.58,
+      "dialogue": {
+        "text": "It feels like I'm wasting my skills and creativity.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 56.22,
+      "finishTime": 58,
+      "dialogue": {
+        "text": "That does sound frustrating, Alice.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 58.62,
+      "finishTime": 61.78,
+      "dialogue": {
+        "text": "Repeating the same tasks over and over can be demotivating.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 62.2,
+      "finishTime": 63.5,
+      "dialogue": {
+        "text": "Thanks for listening, by the way.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 63.8,
+      "finishTime": 65.38,
+      "dialogue": {
+        "text": "It feels good to talk about these things.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 65.78,
+      "finishTime": 66.4,
+      "dialogue": {
+        "text": "Of course, Tom.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 66.7,
+      "finishTime": 70.3,
+      "dialogue": {
+        "text": "We all have our moments of demotivation and it's good to share and support each other.",
+        "align": "left"
+      }
+    }
+  ]
+}

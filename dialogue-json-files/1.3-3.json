@@ -1,0 +1,131 @@
+{
+  "text": "Hey Sophie, tell me about our team lead, Maria. What is she like? Well, she's very proactive and she likes everything in order. I think she has a passion for technology and she enjoys leading our team. Those are great traits for someone in her position, I think. What does she do as the team lead? Maria coordinates our projects. She assigns tasks and makes sure everything runs well. That sounds important. Where does she usually work from? She works from her office most of the time, but she's also in meetings a lot. I see. When does she usually hold team meetings? She schedules team meetings every Monday morning to plan the week ahead. Got it. How does she handle challenges in our projects? Maria thinks challenges are positive. She encourages us to find solutions together. Great. And do you enjoy working with her? I do. She's supportive and she helps us a lot. Nice. Thanks for the information, Sophie. You're welcome. Maria is a fantastic leader to have. I think you're in good hands.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.24,
+      "dialogue": {
+        "text": "Hey Sophie, tell me about our team lead, Maria. What is she like?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.36,
+      "finishTime": 9.58,
+      "dialogue": {
+        "text": "Well, she's very proactive and she likes everything in order. I think she has a passion",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.58,
+      "finishTime": 14.5,
+      "dialogue": {
+        "text": "for technology and she enjoys leading our team. Those are great traits for someone in her position,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.5,
+      "finishTime": 21.26,
+      "dialogue": {
+        "text": "I think. What does she do as the team lead? Maria coordinates our projects. She assigns tasks and",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.26,
+      "finishTime": 26.26,
+      "dialogue": {
+        "text": "makes sure everything runs well. That sounds important. Where does she usually work from?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.82,
+      "finishTime": 30.36,
+      "dialogue": {
+        "text": "She works from her office most of the time, but she's also in meetings a lot.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 30.98,
+      "finishTime": 33.62,
+      "dialogue": {
+        "text": "I see. When does she usually hold team meetings?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 34.34,
+      "finishTime": 37.42,
+      "dialogue": {
+        "text": "She schedules team meetings every Monday morning to plan the week ahead.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.12,
+      "finishTime": 41.08,
+      "dialogue": {
+        "text": "Got it. How does she handle challenges in our projects?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 42.16,
+      "finishTime": 46.26,
+      "dialogue": {
+        "text": "Maria thinks challenges are positive. She encourages us to find solutions together.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.62,
+      "finishTime": 49.44,
+      "dialogue": {
+        "text": "Great. And do you enjoy working with her?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 50.18,
+      "finishTime": 53.02,
+      "dialogue": {
+        "text": "I do. She's supportive and she helps us a lot.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 53.56,
+      "finishTime": 55.7,
+      "dialogue": {
+        "text": "Nice. Thanks for the information, Sophie.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 56.8,
+      "finishTime": 60.4,
+      "dialogue": {
+        "text": "You're welcome. Maria is a fantastic leader to have. I think you're in good hands.",
+        "align": "left"
+      }
+    }
+  ]
+}

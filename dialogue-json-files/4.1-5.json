@@ -1,0 +1,131 @@
+{
+  "text": "Hey, Sophie, what motivates you to work on open source software projects in your free time? Well, I love contributing to open source projects. I really like the sense of community and collaboration. It's incredible how people from around the world come together to create something amazing. Yeah, I checked out some open source projects, but I admit that I have problems with the amount of time it can take to contribute. Sometimes it can be so time consuming. I understand, Tom. It can be a commitment, but I can't stand seeing this great software being private. Open source is all about transparency and accessibility, and that's something I truly believe in. Yeah, transparency is a strong motivator for many developers. For me, I like the idea of practicing my skills and getting recognition for my contributions. It's a fantastic way to show what you're capable of. Also, when software becomes obsolete because it's no longer maintained, there isn't much you can do to save it. With open source, there's always a chance for continuous improvement. That's true. The sustainability of open source projects is something I'm growing to appreciate more. Thanks for sharing your motivations. I think I'll see if I can find a project to dedicate some spare time to.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 5.92,
+      "dialogue": {
+        "text": "Hey, Sophie, what motivates you to work on open source software projects in your free time?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.86,
+      "finishTime": 12.08,
+      "dialogue": {
+        "text": "Well, I love contributing to open source projects. I really like the sense of community and collaboration.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.5,
+      "finishTime": 16.48,
+      "dialogue": {
+        "text": "It's incredible how people from around the world come together to create something amazing.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.26,
+      "finishTime": 23.34,
+      "dialogue": {
+        "text": "Yeah, I checked out some open source projects, but I admit that I have problems with the amount of time it can take to contribute.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.72,
+      "finishTime": 26.16,
+      "dialogue": {
+        "text": "Sometimes it can be so time consuming.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.16,
+      "finishTime": 32.32,
+      "dialogue": {
+        "text": "I understand, Tom. It can be a commitment, but I can't stand seeing this great software being private.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.72,
+      "finishTime": 37.46,
+      "dialogue": {
+        "text": "Open source is all about transparency and accessibility, and that's something I truly believe in.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 38.02,
+      "finishTime": 41.24,
+      "dialogue": {
+        "text": "Yeah, transparency is a strong motivator for many developers.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 41.7,
+      "finishTime": 47.02,
+      "dialogue": {
+        "text": "For me, I like the idea of practicing my skills and getting recognition for my contributions.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 47.54,
+      "finishTime": 50.44,
+      "dialogue": {
+        "text": "It's a fantastic way to show what you're capable of.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 51.42,
+      "finishTime": 57.06,
+      "dialogue": {
+        "text": "Also, when software becomes obsolete because it's no longer maintained, there isn't much you can do to save it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 57.44,
+      "finishTime": 60.44,
+      "dialogue": {
+        "text": "With open source, there's always a chance for continuous improvement.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 61.24,
+      "finishTime": 66.52,
+      "dialogue": {
+        "text": "That's true. The sustainability of open source projects is something I'm growing to appreciate more.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 66.88,
+      "finishTime": 72.48,
+      "dialogue": {
+        "text": "Thanks for sharing your motivations. I think I'll see if I can find a project to dedicate some spare time to.",
+        "align": "left"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "text": "We need to decide on the approach for the next phase of the project. I believe an Agile methodology is the way to go. I'm sorry, but I beg to differ. While Agile may allow us to adapt to changes more efficiently, I still think Waterfall would be a better option. It offers a more structured approach that will suit this project better. I see what you mean. I strongly feel that Agile aligns with our team's strengths, though. I think we'll have a greater chance of success with it. Well, I think everyone is more used to Agile, right? Okay, I give in. We can proceed with the Agile approach.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.38,
+      "dialogue": {
+        "text": "We need to decide on the approach for the next phase of the project.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.68,
+      "finishTime": 6.22,
+      "dialogue": {
+        "text": "I believe an Agile methodology is the way to go.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.66,
+      "finishTime": 8,
+      "dialogue": {
+        "text": "I'm sorry, but I beg to differ.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.38,
+      "finishTime": 12.54,
+      "dialogue": {
+        "text": "While Agile may allow us to adapt to changes more efficiently, I still think Waterfall",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.54,
+      "finishTime": 13.54,
+      "dialogue": {
+        "text": "would be a better option.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.34,
+      "finishTime": 17.38,
+      "dialogue": {
+        "text": "It offers a more structured approach that will suit this project better.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.28,
+      "finishTime": 19.18,
+      "dialogue": {
+        "text": "I see what you mean.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.52,
+      "finishTime": 22.68,
+      "dialogue": {
+        "text": "I strongly feel that Agile aligns with our team's strengths, though.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.06,
+      "finishTime": 25.48,
+      "dialogue": {
+        "text": "I think we'll have a greater chance of success with it.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26,
+      "finishTime": 28.76,
+      "dialogue": {
+        "text": "Well, I think everyone is more used to Agile, right?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 28.76,
+      "finishTime": 30.32,
+      "dialogue": {
+        "text": "Okay, I give in.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 30.54,
+      "finishTime": 32.16,
+      "dialogue": {
+        "text": "We can proceed with the Agile approach.",
+        "align": "right"
+      }
+    }
+  ]
+}

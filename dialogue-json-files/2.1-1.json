@@ -1,0 +1,293 @@
+{
+  "text": "Hey, Sophie, let me ask you about your daily routine as a web developer. What's your typical workday like? Hi, Tom. Well, my day usually starts at 8.30. I check my emails and reply to any urgent messages. That's a good start. What do you do after that? Then I review my to-do list for the day and prioritize my tasks. I like to work on the most important ones first. That makes sense. How do you handle your projects? I break down my projects into small tasks and set deadlines for them. It helps me stay on track. During the day, I work on coding, test the websites and debug issues. Do you take breaks? I take short breaks to stretch, have some coffee or chat with colleagues. It helps me relax and focus. And what about lunch? When I don't go to a cafe around here, I usually bring my lunch and eat at my desk while I check my progress. Your routine is really well organized. How do you manage your time? I use this time management app to track how I spend my time. Thanks for sharing, Sophie. I want to get more organized and your tips are a great help to me.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.88,
+      "dialogue": {
+        "text": "Hey, Sophie, let me ask you about your daily routine",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 2.88,
+      "finishTime": 3.76,
+      "dialogue": {
+        "text": "as a web developer.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.04,
+      "finishTime": 5.74,
+      "dialogue": {
+        "text": "What's your typical workday like?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.4,
+      "finishTime": 6.9,
+      "dialogue": {
+        "text": "Hi, Tom.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.26,
+      "finishTime": 9.42,
+      "dialogue": {
+        "text": "Well, my day usually starts at 8.30.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.42,
+      "finishTime": 12.36,
+      "dialogue": {
+        "text": "I check my emails and reply to any urgent messages.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.04,
+      "finishTime": 13.94,
+      "dialogue": {
+        "text": "That's a good start.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.14,
+      "finishTime": 15.42,
+      "dialogue": {
+        "text": "What do you do after that?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.04,
+      "finishTime": 18.14,
+      "dialogue": {
+        "text": "Then I review my to-do list for the day",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.14,
+      "finishTime": 19.6,
+      "dialogue": {
+        "text": "and prioritize my tasks.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.9,
+      "finishTime": 22.16,
+      "dialogue": {
+        "text": "I like to work on the most important ones first.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.1,
+      "finishTime": 23.96,
+      "dialogue": {
+        "text": "That makes sense.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.18,
+      "finishTime": 25.62,
+      "dialogue": {
+        "text": "How do you handle your projects?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.4,
+      "finishTime": 28.58,
+      "dialogue": {
+        "text": "I break down my projects into small tasks",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.58,
+      "finishTime": 30.16,
+      "dialogue": {
+        "text": "and set deadlines for them.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 30.38,
+      "finishTime": 31.68,
+      "dialogue": {
+        "text": "It helps me stay on track.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.12,
+      "finishTime": 33.62,
+      "dialogue": {
+        "text": "During the day, I work on coding,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.86,
+      "finishTime": 35.92,
+      "dialogue": {
+        "text": "test the websites and debug issues.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.6,
+      "finishTime": 37.34,
+      "dialogue": {
+        "text": "Do you take breaks?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 38.08,
+      "finishTime": 39.48,
+      "dialogue": {
+        "text": "I take short breaks to stretch,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 39.66,
+      "finishTime": 41.5,
+      "dialogue": {
+        "text": "have some coffee or chat with colleagues.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.66,
+      "finishTime": 43.12,
+      "dialogue": {
+        "text": "It helps me relax and focus.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 43.48,
+      "finishTime": 44.44,
+      "dialogue": {
+        "text": "And what about lunch?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 45.04,
+      "finishTime": 46.86,
+      "dialogue": {
+        "text": "When I don't go to a cafe around here,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.94,
+      "finishTime": 48.66,
+      "dialogue": {
+        "text": "I usually bring my lunch and eat at my desk",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 48.66,
+      "finishTime": 49.74,
+      "dialogue": {
+        "text": "while I check my progress.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 50.44,
+      "finishTime": 52.54,
+      "dialogue": {
+        "text": "Your routine is really well organized.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.8,
+      "finishTime": 54.04,
+      "dialogue": {
+        "text": "How do you manage your time?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 54.68,
+      "finishTime": 57.7,
+      "dialogue": {
+        "text": "I use this time management app to track how I spend my time.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 58.3,
+      "finishTime": 59.34,
+      "dialogue": {
+        "text": "Thanks for sharing, Sophie.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 59.78,
+      "finishTime": 61.06,
+      "dialogue": {
+        "text": "I want to get more organized",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 61.06,
+      "finishTime": 63,
+      "dialogue": {
+        "text": "and your tips are a great help to me.",
+        "align": "left"
+      }
+    }
+  ]
+}

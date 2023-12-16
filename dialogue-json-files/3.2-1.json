@@ -1,0 +1,104 @@
+{
+  "text": "Hey, I noticed that you have a camera on your desk. Are you into photography? Absolutely. I've been passionate about photography for many years. Capturing moments and scenes is like magic to me. That's awesome. How long have you been into photography? For nearly a decade now. It started as a hobby, but it's become a significant part of my life. Wow, that's quite a while. What kind of photography do you enjoy the most? I like landscapes and nature. It's incredible to capture the beauty of our world in pictures. That sounds amazing. I like photos a lot. Any tips for a newbie? Absolutely. I've taken things way too seriously in the past. So I always recommend starting with the basics, learning about your camera, and trying to have fun. Cool. Thanks for the tips. No problem.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.6,
+      "dialogue": {
+        "text": "Hey, I noticed that you have a camera on your desk. Are you into photography?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.34,
+      "finishTime": 9.3,
+      "dialogue": {
+        "text": "Absolutely. I've been passionate about photography for many years. Capturing moments",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.3,
+      "finishTime": 14.28,
+      "dialogue": {
+        "text": "and scenes is like magic to me. That's awesome. How long have you been into photography?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.58,
+      "finishTime": 19.9,
+      "dialogue": {
+        "text": "For nearly a decade now. It started as a hobby, but it's become a significant part of my life.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.34,
+      "finishTime": 24.16,
+      "dialogue": {
+        "text": "Wow, that's quite a while. What kind of photography do you enjoy the most?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.54,
+      "finishTime": 29.88,
+      "dialogue": {
+        "text": "I like landscapes and nature. It's incredible to capture the beauty of our world in pictures.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 30,
+      "finishTime": 33.96,
+      "dialogue": {
+        "text": "That sounds amazing. I like photos a lot. Any tips for a newbie?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 34.52,
+      "finishTime": 40.14,
+      "dialogue": {
+        "text": "Absolutely. I've taken things way too seriously in the past. So I always recommend starting with",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 40.14,
+      "finishTime": 43.28,
+      "dialogue": {
+        "text": "the basics, learning about your camera, and trying to have fun.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 43.84,
+      "finishTime": 45.06,
+      "dialogue": {
+        "text": "Cool. Thanks for the tips.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 45.46,
+      "finishTime": 45.98,
+      "dialogue": {
+        "text": "No problem.",
+        "align": "left"
+      }
+    }
+  ]
+}

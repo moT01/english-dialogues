@@ -1,0 +1,59 @@
+{
+  "text": "Hey, Sophia. I'm working on a project that uses many variables. I'm not sure how to manage them all. Variables help you store information in your code, like names, numbers, and more. You can use the equals symbol to assign values to them. Thanks, Sophia. I'm also using a lot of constants in my project. But what's the difference between variables and constants? Great question, Tom. Variables can change their values, but constants stay the same. Think of variables as containers that you can fill in empty, and constants as locked boxes that keep the same contents. I see. So that means I can change the values in these variables, but I can't change the values in these constants.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0.66,
+      "finishTime": 6,
+      "dialogue": {
+        "text": "Hey, Sophia. I'm working on a project that uses many variables. I'm not sure how to manage them all.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.04,
+      "finishTime": 13.86,
+      "dialogue": {
+        "text": "Variables help you store information in your code, like names, numbers, and more. You can use the equals symbol to assign values to them.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.18,
+      "finishTime": 20.2,
+      "dialogue": {
+        "text": "Thanks, Sophia. I'm also using a lot of constants in my project. But what's the difference between variables and constants?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.78,
+      "finishTime": 25.8,
+      "dialogue": {
+        "text": "Great question, Tom. Variables can change their values, but constants stay the same.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.16,
+      "finishTime": 32.34,
+      "dialogue": {
+        "text": "Think of variables as containers that you can fill in empty, and constants as locked boxes that keep the same contents.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.76,
+      "finishTime": 37.9,
+      "dialogue": {
+        "text": "I see. So that means I can change the values in these variables, but I can't change the values in these constants.",
+        "align": "right"
+      }
+    }
+  ]
+}

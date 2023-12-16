@@ -1,0 +1,77 @@
+{
+  "text": "I'm working with a new API and I'm not sure how to analyze its documentation effectively. What's the right approach in your opinion? You should begin by checking the endpoints and the routes provided in the documentation. This can give you a clear idea of what the API offers. Okay, and what should I do next? Once you've identified the endpoints, read the descriptions and examples for each one. This can help you understand how to use the API in your project. Thanks, I'll give it a shot.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.38,
+      "dialogue": {
+        "text": "I'm working with a new API and I'm not sure how to analyze its documentation effectively.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.84,
+      "finishTime": 6.48,
+      "dialogue": {
+        "text": "What's the right approach in your opinion?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.16,
+      "finishTime": 11.08,
+      "dialogue": {
+        "text": "You should begin by checking the endpoints and the routes provided in the documentation.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.42,
+      "finishTime": 14.26,
+      "dialogue": {
+        "text": "This can give you a clear idea of what the API offers.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.96,
+      "finishTime": 16.36,
+      "dialogue": {
+        "text": "Okay, and what should I do next?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.84,
+      "finishTime": 21.04,
+      "dialogue": {
+        "text": "Once you've identified the endpoints, read the descriptions and examples for each one.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.38,
+      "finishTime": 24.5,
+      "dialogue": {
+        "text": "This can help you understand how to use the API in your project.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.06,
+      "finishTime": 26.28,
+      "dialogue": {
+        "text": "Thanks, I'll give it a shot.",
+        "align": "left"
+      }
+    }
+  ]
+}

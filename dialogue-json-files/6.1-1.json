@@ -1,0 +1,68 @@
+{
+  "text": "Hey, Sarah. I was checking the branch we worked on yesterday when I saw a problem. I think we should open an issue on GitHub. Sure, Bob. What's the problem? I pushed some changes to the repository earlier, but now the code won't compile. It's showing some strange errors. I see. Let's open an issue then. What happened when you pushed the changes? Well, I was adding a new feature. While I was pushing it, I noticed that some of the tests were failing. Got it. I'll create the issue on GitHub and write out the details. We can attach the error messages, too. Thanks, Sarah. I appreciate your help.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 6.84,
+      "dialogue": {
+        "text": "Hey, Sarah. I was checking the branch we worked on yesterday when I saw a problem. I think we should open an issue on GitHub.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.5,
+      "finishTime": 8.74,
+      "dialogue": {
+        "text": "Sure, Bob. What's the problem?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.18,
+      "finishTime": 15.6,
+      "dialogue": {
+        "text": "I pushed some changes to the repository earlier, but now the code won't compile. It's showing some strange errors.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.24,
+      "finishTime": 20.18,
+      "dialogue": {
+        "text": "I see. Let's open an issue then. What happened when you pushed the changes?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.74,
+      "finishTime": 25.96,
+      "dialogue": {
+        "text": "Well, I was adding a new feature. While I was pushing it, I noticed that some of the tests were failing.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.96,
+      "finishTime": 31.98,
+      "dialogue": {
+        "text": "Got it. I'll create the issue on GitHub and write out the details. We can attach the error messages, too.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.46,
+      "finishTime": 34.2,
+      "dialogue": {
+        "text": "Thanks, Sarah. I appreciate your help.",
+        "align": "left"
+      }
+    }
+  ]
+}

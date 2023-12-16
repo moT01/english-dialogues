@@ -1,0 +1,131 @@
+{
+  "text": "Hey, Brian. TGIF, right? Do you have any plans for the weekend? Nothing out of the ordinary, Sophie. On Saturday, I wake up early at 7. I run in the park near my place in the morning. In the afternoon, I visit my parents and I have lunch with them. Nice. On Saturday, I usually sleep until 9.30. In the morning, I do some house cleaning. In the afternoon, I watch a movie at home or I go out with friends to do some window shopping at the mall. And on Sunday? On Sunday, I have a lazy morning. I just stay at home and play some video games on my console. In the evening, I make dinner and go to sleep early because on Monday, it's back to work again. I have a relaxing Sunday too. In the morning and in the evening, I work on a personal coding project. In the afternoon, I take a break and go for a quick walk in the park. That's a good mix of indoor and outdoor activities. I don't work at the computer on weekends like you, though. I save that for the weekdays, I suppose. I know, right? But it is a personal project and I like it a lot, so I don't mind spending some of my time on it.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 3.64,
+      "dialogue": {
+        "text": "Hey, Brian. TGIF, right? Do you have any plans for the weekend?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.32,
+      "finishTime": 9.56,
+      "dialogue": {
+        "text": "Nothing out of the ordinary, Sophie. On Saturday, I wake up early at 7. I run in the park near",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.56,
+      "finishTime": 14.36,
+      "dialogue": {
+        "text": "my place in the morning. In the afternoon, I visit my parents and I have lunch with them.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.14,
+      "finishTime": 21.22,
+      "dialogue": {
+        "text": "Nice. On Saturday, I usually sleep until 9.30. In the morning, I do some house cleaning. In the",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.22,
+      "finishTime": 25.42,
+      "dialogue": {
+        "text": "afternoon, I watch a movie at home or I go out with friends to do some window shopping at the mall.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.86,
+      "finishTime": 26.64,
+      "dialogue": {
+        "text": "And on Sunday?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.14,
+      "finishTime": 31.9,
+      "dialogue": {
+        "text": "On Sunday, I have a lazy morning. I just stay at home and play some video games on my console.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.54,
+      "finishTime": 36.8,
+      "dialogue": {
+        "text": "In the evening, I make dinner and go to sleep early because on Monday, it's back to work again.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 37.3,
+      "finishTime": 43.34,
+      "dialogue": {
+        "text": "I have a relaxing Sunday too. In the morning and in the evening, I work on a personal coding project.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 43.58,
+      "finishTime": 47.02,
+      "dialogue": {
+        "text": "In the afternoon, I take a break and go for a quick walk in the park.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 47.9,
+      "finishTime": 51.42,
+      "dialogue": {
+        "text": "That's a good mix of indoor and outdoor activities. I don't work at the computer",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 51.42,
+      "finishTime": 54.38,
+      "dialogue": {
+        "text": "on weekends like you, though. I save that for the weekdays, I suppose.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 54.38,
+      "finishTime": 58.94,
+      "dialogue": {
+        "text": "I know, right? But it is a personal project and I like it a lot,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 59.1,
+      "finishTime": 60.94,
+      "dialogue": {
+        "text": "so I don't mind spending some of my time on it.",
+        "align": "left"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "text": "Hi Maria. I'm still getting to know the area. Is there an ATM nearby? Yes, there's a bank just a few blocks away. That's good to know. Are there any parks around here? Yes, there are a couple of parks near here. They're great for a break. How about restaurants? Are there any good restaurants in this neighborhood? Yes, there are many restaurants within walking distance. Fantastic. Is there anything else interesting to check out? Absolutely. There's a gym. There are also great coffee shops not too far away. How about bookstores or theaters? There isn't any theater around here that I know of. The bookstores I remember are all downtown, but there's a bus that stops two blocks away. Oh, how about a shopping mall? Malls are everywhere. I'm sure you can find them just by walking around a bit. Thanks for your help, Maria. You're welcome, Tom.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.26,
+      "dialogue": {
+        "text": "Hi Maria. I'm still getting to know the area. Is there an ATM nearby?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.48,
+      "finishTime": 7.66,
+      "dialogue": {
+        "text": "Yes, there's a bank just a few blocks away.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 8.06,
+      "finishTime": 10.96,
+      "dialogue": {
+        "text": "That's good to know. Are there any parks around here?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 11.56,
+      "finishTime": 14.68,
+      "dialogue": {
+        "text": "Yes, there are a couple of parks near here. They're great for a break.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.26,
+      "finishTime": 18.42,
+      "dialogue": {
+        "text": "How about restaurants? Are there any good restaurants in this neighborhood?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.44,
+      "finishTime": 21.84,
+      "dialogue": {
+        "text": "Yes, there are many restaurants within walking distance.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.78,
+      "finishTime": 26.16,
+      "dialogue": {
+        "text": "Fantastic. Is there anything else interesting to check out?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.74,
+      "finishTime": 30.92,
+      "dialogue": {
+        "text": "Absolutely. There's a gym. There are also great coffee shops not too far away.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31.28,
+      "finishTime": 33.3,
+      "dialogue": {
+        "text": "How about bookstores or theaters?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 34.7,
+      "finishTime": 40,
+      "dialogue": {
+        "text": "There isn't any theater around here that I know of. The bookstores I remember are all downtown,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 40.34,
+      "finishTime": 42.38,
+      "dialogue": {
+        "text": "but there's a bus that stops two blocks away.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 43.04,
+      "finishTime": 44.7,
+      "dialogue": {
+        "text": "Oh, how about a shopping mall?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 45.2,
+      "finishTime": 49,
+      "dialogue": {
+        "text": "Malls are everywhere. I'm sure you can find them just by walking around a bit.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 49.32,
+      "finishTime": 50.34,
+      "dialogue": {
+        "text": "Thanks for your help, Maria.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 50.9,
+      "finishTime": 51.54,
+      "dialogue": {
+        "text": "You're welcome, Tom.",
+        "align": "left"
+      }
+    }
+  ]
+}

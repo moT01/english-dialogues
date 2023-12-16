@@ -1,0 +1,50 @@
+{
+  "text": "I've received the new design and I think it looks great. What's your take on that? I respectfully disagree, Bob. I believe the color scheme needs some changes. Ah, I see what you mean. The color scheme doesn't match our brand's image. Also, I think the font choice needs improvement. Thanks for your feedback. I'll share this feedback with Tom and give him some extra time to work on these colors and fonts.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 3.98,
+      "dialogue": {
+        "text": "I've received the new design and I think it looks great. What's your take on that?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.54,
+      "finishTime": 8.8,
+      "dialogue": {
+        "text": "I respectfully disagree, Bob. I believe the color scheme needs some changes.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.56,
+      "finishTime": 13.08,
+      "dialogue": {
+        "text": "Ah, I see what you mean. The color scheme doesn't match our brand's image.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.96,
+      "finishTime": 16.26,
+      "dialogue": {
+        "text": "Also, I think the font choice needs improvement.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.1,
+      "finishTime": 22.34,
+      "dialogue": {
+        "text": "Thanks for your feedback. I'll share this feedback with Tom and give him some extra time to work on these colors and fonts.",
+        "align": "right"
+      }
+    }
+  ]
+}

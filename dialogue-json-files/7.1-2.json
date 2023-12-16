@@ -1,0 +1,113 @@
+{
+  "text": "I'm working on this code and I think it's a good idea to add comments. How should I write comments in the code? Great idea. To write comments, you simply need to use double slashes to start a comment. Then you can describe what the code does so that other people can understand it too. And what should I comment on? Are there any specific things I should focus on? You should comment on any complex or tricky parts of your code. You can also explain what certain functions do and clarify the purpose of variables. Try to ensure that your comments are clear and concise. I appreciate your help. I'll start adding comments to the code.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.82,
+      "dialogue": {
+        "text": "I'm working on this code and I think it's a good idea to add comments.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.22,
+      "finishTime": 5.9,
+      "dialogue": {
+        "text": "How should I write comments in the code?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.44,
+      "finishTime": 7.14,
+      "dialogue": {
+        "text": "Great idea.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.58,
+      "finishTime": 11.36,
+      "dialogue": {
+        "text": "To write comments, you simply need to use double slashes to start a comment.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.98,
+      "finishTime": 16.56,
+      "dialogue": {
+        "text": "Then you can describe what the code does so that other people can understand it too.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.36,
+      "finishTime": 18.7,
+      "dialogue": {
+        "text": "And what should I comment on?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.84,
+      "finishTime": 20.94,
+      "dialogue": {
+        "text": "Are there any specific things I should focus on?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.34,
+      "finishTime": 25.24,
+      "dialogue": {
+        "text": "You should comment on any complex or tricky parts of your code.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.24,
+      "finishTime": 29.92,
+      "dialogue": {
+        "text": "You can also explain what certain functions do and clarify the purpose of variables.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 30.36,
+      "finishTime": 33.82,
+      "dialogue": {
+        "text": "Try to ensure that your comments are clear and concise.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 34.66,
+      "finishTime": 35.54,
+      "dialogue": {
+        "text": "I appreciate your help.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 35.78,
+      "finishTime": 37.3,
+      "dialogue": {
+        "text": "I'll start adding comments to the code.",
+        "align": "right"
+      }
+    }
+  ]
+}

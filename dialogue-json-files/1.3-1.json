@@ -1,0 +1,95 @@
+{
+  "text": "Hi, Tom. Are you happy with the workplace so far? Yes, it's great. Everyone is friendly. Listen, how about the team building activities here? Are they cool? Yes, we go out with the team sometimes. Are you into these activities? Absolutely. They're really fun. What's the team's favorite? Many of us enjoy the monthly game night. Are you into board games? Yes, I love board games. Monopoly and Ticket to Ride are popular choices. Are you familiar with them? Yes, I've played both before. Great choices. Is the team into playing games on computers as well, like Gartic? Oh yeah, Gartic is another favorite. Maybe we can play Gartic on the next game night? That sounds like a plan, Sarah. Thanks for the suggestions.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 2.78,
+      "dialogue": {
+        "text": "Hi, Tom. Are you happy with the workplace so far?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.32,
+      "finishTime": 9.04,
+      "dialogue": {
+        "text": "Yes, it's great. Everyone is friendly. Listen, how about the team building activities here? Are they cool?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.96,
+      "finishTime": 13.12,
+      "dialogue": {
+        "text": "Yes, we go out with the team sometimes. Are you into these activities?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.96,
+      "finishTime": 17,
+      "dialogue": {
+        "text": "Absolutely. They're really fun. What's the team's favorite?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.76,
+      "finishTime": 20.84,
+      "dialogue": {
+        "text": "Many of us enjoy the monthly game night. Are you into board games?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.26,
+      "finishTime": 23.26,
+      "dialogue": {
+        "text": "Yes, I love board games.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.7,
+      "finishTime": 27.28,
+      "dialogue": {
+        "text": "Monopoly and Ticket to Ride are popular choices. Are you familiar with them?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.28,
+      "finishTime": 34.08,
+      "dialogue": {
+        "text": "Yes, I've played both before. Great choices. Is the team into playing games on computers as well, like Gartic?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.3,
+      "finishTime": 39.54,
+      "dialogue": {
+        "text": "Oh yeah, Gartic is another favorite. Maybe we can play Gartic on the next game night?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 40.1,
+      "finishTime": 42.84,
+      "dialogue": {
+        "text": "That sounds like a plan, Sarah. Thanks for the suggestions.",
+        "align": "right"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "text": "Hi team, thanks for joining the call. Let's discuss our strategy for the upcoming product launch. I think we're going to focus on social media marketing. It's cost effective and it will reach a broader audience. That sounds good. I suggest that we also invest in email marketing. It's more targeted and it will allow us to engage with our subscribers directly. I'm okay with that. Great. So we are going to create a detailed marketing plan combining social media and email marketing. It will help us achieve our goals. Perfect. We'll work on it and meet again next week for an update.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 5.24,
+      "dialogue": {
+        "text": "Hi team, thanks for joining the call. Let's discuss our strategy for the upcoming product launch.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.92,
+      "finishTime": 11.68,
+      "dialogue": {
+        "text": "I think we're going to focus on social media marketing. It's cost effective and it will reach a broader audience.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.38,
+      "finishTime": 20.66,
+      "dialogue": {
+        "text": "That sounds good. I suggest that we also invest in email marketing. It's more targeted and it will allow us to engage with our subscribers directly.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.18,
+      "finishTime": 22.2,
+      "dialogue": {
+        "text": "I'm okay with that.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.2,
+      "finishTime": 30.2,
+      "dialogue": {
+        "text": "Great. So we are going to create a detailed marketing plan combining social media and email marketing. It will help us achieve our goals.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.04,
+      "finishTime": 34.1,
+      "dialogue": {
+        "text": "Perfect. We'll work on it and meet again next week for an update.",
+        "align": "right"
+      }
+    }
+  ]
+}

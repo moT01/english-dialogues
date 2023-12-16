@@ -1,0 +1,86 @@
+{
+  "text": "Hey, is that bicycle outside the office yours? Do you enjoy cycling? I do I've liked riding my bike since my childhood. It's not just a hobby. It's a way of life for me. That's great How long have you been into cycling? I've been a cyclist for more than 15 years It's a love that hasn't disappeared with time. Wow, and what kind of cycling do you enjoy the most? I love road cycling and the feeling of the open road. It's a great way to stay fit and explore new places That's fantastic. I want to get into cycling too. I haven't been on a bike since I was a kid I probably even forgot how to do it people say we never forget say do you still have a bike? Would you like to go cycling with me one of these days? Sure. I'd love to let's see what we can do next week Okay, it's a bike date then",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.54,
+      "dialogue": {
+        "text": "Hey, is that bicycle outside the office yours? Do you enjoy cycling?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.32,
+      "finishTime": 11.3,
+      "dialogue": {
+        "text": "I do I've liked riding my bike since my childhood. It's not just a hobby. It's a way of life for me. That's great",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.3,
+      "finishTime": 15.78,
+      "dialogue": {
+        "text": "How long have you been into cycling? I've been a cyclist for more than 15 years",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.78,
+      "finishTime": 21.12,
+      "dialogue": {
+        "text": "It's a love that hasn't disappeared with time. Wow, and what kind of cycling do you enjoy the most?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.64,
+      "finishTime": 26.92,
+      "dialogue": {
+        "text": "I love road cycling and the feeling of the open road. It's a great way to stay fit and explore new places",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.56,
+      "finishTime": 32.78,
+      "dialogue": {
+        "text": "That's fantastic. I want to get into cycling too. I haven't been on a bike since I was a kid",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.78,
+      "finishTime": 38.84,
+      "dialogue": {
+        "text": "I probably even forgot how to do it people say we never forget say do you still have a bike?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 39,
+      "finishTime": 44.64,
+      "dialogue": {
+        "text": "Would you like to go cycling with me one of these days? Sure. I'd love to let's see what we can do next week",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 44.64,
+      "finishTime": 46.58,
+      "dialogue": {
+        "text": "Okay, it's a bike date then",
+        "align": "left"
+      }
+    }
+  ]
+}

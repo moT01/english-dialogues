@@ -1,0 +1,77 @@
+{
+  "text": "Good morning, team. Let's get started with our meeting. Sophie, what's on your agenda today? Good morning, everyone. I've had some ideas about improving our coding practices. I would like to suggest that we create coding guidelines to ensure consistency across our projects. I recommend that we start by defining coding standards for different programming languages we use. I agree with you. It might help to have a clear style guide for each language. Also, I would advise that we regularly review and update these guidelines as our projects involve. Yeah, consistency is essential. I'll go ahead and start with defining those coding standards. Great. I'm happy for you to lead the effort if that's okay with you.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.74,
+      "dialogue": {
+        "text": "Good morning, team. Let's get started with our meeting. Sophie, what's on your agenda today?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.42,
+      "finishTime": 9.18,
+      "dialogue": {
+        "text": "Good morning, everyone. I've had some ideas about improving our coding practices.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.72,
+      "finishTime": 14.18,
+      "dialogue": {
+        "text": "I would like to suggest that we create coding guidelines to ensure consistency across our",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.18,
+      "finishTime": 18.64,
+      "dialogue": {
+        "text": "projects. I recommend that we start by defining coding standards for different programming",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.64,
+      "finishTime": 23.6,
+      "dialogue": {
+        "text": "languages we use. I agree with you. It might help to have a clear style guide for each language.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.88,
+      "finishTime": 29.14,
+      "dialogue": {
+        "text": "Also, I would advise that we regularly review and update these guidelines as our projects involve.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 29.14,
+      "finishTime": 34.08,
+      "dialogue": {
+        "text": "Yeah, consistency is essential. I'll go ahead and start with defining those coding standards.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 34.3,
+      "finishTime": 37.56,
+      "dialogue": {
+        "text": "Great. I'm happy for you to lead the effort if that's okay with you.",
+        "align": "right"
+      }
+    }
+  ]
+}

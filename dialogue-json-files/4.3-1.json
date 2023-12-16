@@ -1,0 +1,59 @@
+{
+  "text": "Hey, Alice. Do you know Lisa? No, I don't think I've had the chance to meet her. Who's Lisa? She's a colleague with long wavy brown hair and bright brown eyes. If you see her today She's wearing a black and green jacket and a beige shirt. Oh, I think I saw her. What does she do on the team? She's a UX UI designer. She's really creative That's interesting. Thanks for the description Tom. I'll make sure to say hi when I run into her",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.26,
+      "dialogue": {
+        "text": "Hey, Alice. Do you know Lisa?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 3.24,
+      "finishTime": 5.84,
+      "dialogue": {
+        "text": "No, I don't think I've had the chance to meet her. Who's Lisa?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.52,
+      "finishTime": 11.62,
+      "dialogue": {
+        "text": "She's a colleague with long wavy brown hair and bright brown eyes. If you see her today",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.62,
+      "finishTime": 17.48,
+      "dialogue": {
+        "text": "She's wearing a black and green jacket and a beige shirt. Oh, I think I saw her. What does she do on the team?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.88,
+      "finishTime": 20.96,
+      "dialogue": {
+        "text": "She's a UX UI designer. She's really creative",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.78,
+      "finishTime": 26.32,
+      "dialogue": {
+        "text": "That's interesting. Thanks for the description Tom. I'll make sure to say hi when I run into her",
+        "align": "left"
+      }
+    }
+  ]
+}

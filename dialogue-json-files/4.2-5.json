@@ -1,0 +1,95 @@
+{
+  "text": "Tom, do you know anything about augmented reality apps? Oh, I love AR. It's a mix of digital information and the real world. You can use it for games, navigation, and even interior design. How does it work exactly? AR apps use your device's camera to add digital content to the physical world. It's so cool. For example, in gaming, you can chase virtual creatures in your neighborhood. That sounds fun. Are there any practical applications for AR? Oh yeah. In education, AR can make learning interactive. Architects and interior designers also use AR to visualize how furniture will look into space, for example.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.8,
+      "dialogue": {
+        "text": "Tom, do you know anything about augmented reality apps?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 3.52,
+      "finishTime": 7.5,
+      "dialogue": {
+        "text": "Oh, I love AR. It's a mix of digital information and the real world.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.84,
+      "finishTime": 11.92,
+      "dialogue": {
+        "text": "You can use it for games, navigation, and even interior design.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.46,
+      "finishTime": 13.62,
+      "dialogue": {
+        "text": "How does it work exactly?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.34,
+      "finishTime": 19,
+      "dialogue": {
+        "text": "AR apps use your device's camera to add digital content to the physical world.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 19.34,
+      "finishTime": 24.4,
+      "dialogue": {
+        "text": "It's so cool. For example, in gaming, you can chase virtual creatures in your neighborhood.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.8,
+      "finishTime": 28,
+      "dialogue": {
+        "text": "That sounds fun. Are there any practical applications for AR?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 28.64,
+      "finishTime": 32.56,
+      "dialogue": {
+        "text": "Oh yeah. In education, AR can make learning interactive.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 33.1,
+      "finishTime": 35.7,
+      "dialogue": {
+        "text": "Architects and interior designers also use AR",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.7,
+      "finishTime": 38.7,
+      "dialogue": {
+        "text": "to visualize how furniture will look into space, for example.",
+        "align": "left"
+      }
+    }
+  ]
+}

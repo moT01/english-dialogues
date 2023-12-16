@@ -1,0 +1,122 @@
+{
+  "text": "Lisa, do you know what this serverless computing trend is all about? Serverless computing is an interesting concept, Tom. It's when we run code without managing servers, like having computer helpers. It's one of those trends that's making cloud computing even more convenient. That sounds cool. Do you think we can use it for our upcoming project? Well, for our project, we can consider using serverless computing to build parts of our app that need to scale easily. It's especially useful when we need to handle variable workloads and want to save on server management tasks. Got it. So we should explore serverless computing for the parts of our project that need to handle changing workloads. Good to know.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.02,
+      "dialogue": {
+        "text": "Lisa, do you know what this serverless computing trend is all about?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.82,
+      "finishTime": 7.2,
+      "dialogue": {
+        "text": "Serverless computing is an interesting concept, Tom.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.76,
+      "finishTime": 11.62,
+      "dialogue": {
+        "text": "It's when we run code without managing servers, like having computer helpers.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.04,
+      "finishTime": 15.2,
+      "dialogue": {
+        "text": "It's one of those trends that's making cloud computing even more convenient.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.66,
+      "finishTime": 16.52,
+      "dialogue": {
+        "text": "That sounds cool.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.7,
+      "finishTime": 19.54,
+      "dialogue": {
+        "text": "Do you think we can use it for our upcoming project?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.2,
+      "finishTime": 24.36,
+      "dialogue": {
+        "text": "Well, for our project, we can consider using serverless computing to build parts of our",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 24.36,
+      "finishTime": 25.82,
+      "dialogue": {
+        "text": "app that need to scale easily.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.82,
+      "finishTime": 31.64,
+      "dialogue": {
+        "text": "It's especially useful when we need to handle variable workloads and want to save on server management tasks.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.08,
+      "finishTime": 32.56,
+      "dialogue": {
+        "text": "Got it.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.72,
+      "finishTime": 36.56,
+      "dialogue": {
+        "text": "So we should explore serverless computing for the parts of our project that need to",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 36.56,
+      "finishTime": 37.68,
+      "dialogue": {
+        "text": "handle changing workloads.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.14,
+      "finishTime": 38.78,
+      "dialogue": {
+        "text": "Good to know.",
+        "align": "right"
+      }
+    }
+  ]
+}

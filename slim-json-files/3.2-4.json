@@ -1,0 +1,633 @@
+{
+  "text": "Hey, Tom. Have I told you I'm a huge sci-fi fan? I'm even part of an amazing fandom. That's cool, Sarah. I've heard there are massive communities of people who are into sci-fi. What kind of events do you have? Well, we have movie marathons, conventions, and we even play some movie-related video games together. There's a big convention next month. Would you like to come? Thanks for the invite, Sarah. I appreciate it, but I'm not really into sci-fi. I hope you have a blast at the convention, though. No problem, Tom. Maybe next time you'll join us. Thanks. Have fun. I hope the convention is a success.",
+  "segments": [
+    {
+      "text": "Hey, Tom. Have I told you I'm a huge sci-fi fan? I'm even part of an amazing fandom.",
+      "startTime": 0,
+      "finishTime": 4.86,
+      "words": [
+        {
+          "startTime": 0,
+          "finishTime": 0.46,
+          "word": "Hey,"
+        },
+        {
+          "startTime": 0.46,
+          "finishTime": 0.78,
+          "word": "Tom."
+        },
+        {
+          "startTime": 0.96,
+          "finishTime": 1.1,
+          "word": "Have"
+        },
+        {
+          "startTime": 1.1,
+          "finishTime": 1.24,
+          "word": "I"
+        },
+        {
+          "startTime": 1.24,
+          "finishTime": 1.4,
+          "word": "told"
+        },
+        {
+          "startTime": 1.4,
+          "finishTime": 1.54,
+          "word": "you"
+        },
+        {
+          "startTime": 1.54,
+          "finishTime": 1.68,
+          "word": "I'm"
+        },
+        {
+          "startTime": 1.68,
+          "finishTime": 1.82,
+          "word": "a"
+        },
+        {
+          "startTime": 1.82,
+          "finishTime": 2.1,
+          "word": "huge"
+        },
+        {
+          "startTime": 2.1,
+          "finishTime": 2.34,
+          "word": "sci"
+        },
+        {
+          "startTime": 2.34,
+          "finishTime": 2.52,
+          "word": "-fi"
+        },
+        {
+          "startTime": 2.52,
+          "finishTime": 2.86,
+          "word": "fan?"
+        },
+        {
+          "startTime": 3.2,
+          "finishTime": 3.32,
+          "word": "I'm"
+        },
+        {
+          "startTime": 3.32,
+          "finishTime": 3.58,
+          "word": "even"
+        },
+        {
+          "startTime": 3.58,
+          "finishTime": 3.78,
+          "word": "part"
+        },
+        {
+          "startTime": 3.78,
+          "finishTime": 3.9,
+          "word": "of"
+        },
+        {
+          "startTime": 3.9,
+          "finishTime": 4.02,
+          "word": "an"
+        },
+        {
+          "startTime": 4.02,
+          "finishTime": 4.48,
+          "word": "amazing"
+        },
+        {
+          "startTime": 4.48,
+          "finishTime": 4.86,
+          "word": "fandom."
+        }
+      ]
+    },
+    {
+      "text": "That's cool, Sarah. I've heard there are massive communities of people who are into sci-fi.",
+      "startTime": 5.6,
+      "finishTime": 10.5,
+      "words": [
+        {
+          "startTime": 5.6,
+          "finishTime": 5.92,
+          "word": "That's"
+        },
+        {
+          "startTime": 5.92,
+          "finishTime": 6.12,
+          "word": "cool,"
+        },
+        {
+          "startTime": 6.34,
+          "finishTime": 6.46,
+          "word": "Sarah."
+        },
+        {
+          "startTime": 6.92,
+          "finishTime": 7.16,
+          "word": "I've"
+        },
+        {
+          "startTime": 7.16,
+          "finishTime": 7.26,
+          "word": "heard"
+        },
+        {
+          "startTime": 7.26,
+          "finishTime": 7.42,
+          "word": "there"
+        },
+        {
+          "startTime": 7.42,
+          "finishTime": 7.6,
+          "word": "are"
+        },
+        {
+          "startTime": 7.6,
+          "finishTime": 8.02,
+          "word": "massive"
+        },
+        {
+          "startTime": 8.02,
+          "finishTime": 8.62,
+          "word": "communities"
+        },
+        {
+          "startTime": 8.62,
+          "finishTime": 8.9,
+          "word": "of"
+        },
+        {
+          "startTime": 8.9,
+          "finishTime": 9.2,
+          "word": "people"
+        },
+        {
+          "startTime": 9.2,
+          "finishTime": 9.44,
+          "word": "who"
+        },
+        {
+          "startTime": 9.44,
+          "finishTime": 9.64,
+          "word": "are"
+        },
+        {
+          "startTime": 9.64,
+          "finishTime": 9.9,
+          "word": "into"
+        },
+        {
+          "startTime": 9.9,
+          "finishTime": 10.24,
+          "word": "sci"
+        },
+        {
+          "startTime": 10.24,
+          "finishTime": 10.5,
+          "word": "-fi."
+        }
+      ]
+    },
+    {
+      "text": "What kind of events do you have?",
+      "startTime": 10.96,
+      "finishTime": 12.44,
+      "words": [
+        {
+          "startTime": 10.96,
+          "finishTime": 11.18,
+          "word": "What"
+        },
+        {
+          "startTime": 11.18,
+          "finishTime": 11.4,
+          "word": "kind"
+        },
+        {
+          "startTime": 11.4,
+          "finishTime": 11.52,
+          "word": "of"
+        },
+        {
+          "startTime": 11.52,
+          "finishTime": 11.76,
+          "word": "events"
+        },
+        {
+          "startTime": 11.76,
+          "finishTime": 11.98,
+          "word": "do"
+        },
+        {
+          "startTime": 11.98,
+          "finishTime": 12.12,
+          "word": "you"
+        },
+        {
+          "startTime": 12.12,
+          "finishTime": 12.44,
+          "word": "have?"
+        }
+      ]
+    },
+    {
+      "text": "Well, we have movie marathons, conventions, and we even play some movie-related video games together.",
+      "startTime": 13.1,
+      "finishTime": 18.34,
+      "words": [
+        {
+          "startTime": 13.1,
+          "finishTime": 13.4,
+          "word": "Well,"
+        },
+        {
+          "startTime": 13.4,
+          "finishTime": 13.56,
+          "word": "we"
+        },
+        {
+          "startTime": 13.56,
+          "finishTime": 13.8,
+          "word": "have"
+        },
+        {
+          "startTime": 13.8,
+          "finishTime": 14.16,
+          "word": "movie"
+        },
+        {
+          "startTime": 14.16,
+          "finishTime": 14.8,
+          "word": "marathons,"
+        },
+        {
+          "startTime": 15,
+          "finishTime": 15.46,
+          "word": "conventions,"
+        },
+        {
+          "startTime": 15.88,
+          "finishTime": 16,
+          "word": "and"
+        },
+        {
+          "startTime": 16,
+          "finishTime": 16.12,
+          "word": "we"
+        },
+        {
+          "startTime": 16.12,
+          "finishTime": 16.38,
+          "word": "even"
+        },
+        {
+          "startTime": 16.38,
+          "finishTime": 16.56,
+          "word": "play"
+        },
+        {
+          "startTime": 16.56,
+          "finishTime": 16.78,
+          "word": "some"
+        },
+        {
+          "startTime": 16.78,
+          "finishTime": 17.02,
+          "word": "movie"
+        },
+        {
+          "startTime": 17.02,
+          "finishTime": 17.38,
+          "word": "-related"
+        },
+        {
+          "startTime": 17.38,
+          "finishTime": 17.74,
+          "word": "video"
+        },
+        {
+          "startTime": 17.74,
+          "finishTime": 17.96,
+          "word": "games"
+        },
+        {
+          "startTime": 17.96,
+          "finishTime": 18.34,
+          "word": "together."
+        }
+      ]
+    },
+    {
+      "text": "There's a big convention next month. Would you like to come?",
+      "startTime": 18.7,
+      "finishTime": 21.36,
+      "words": [
+        {
+          "startTime": 18.7,
+          "finishTime": 18.94,
+          "word": "There's"
+        },
+        {
+          "startTime": 18.94,
+          "finishTime": 19.08,
+          "word": "a"
+        },
+        {
+          "startTime": 19.08,
+          "finishTime": 19.24,
+          "word": "big"
+        },
+        {
+          "startTime": 19.24,
+          "finishTime": 19.74,
+          "word": "convention"
+        },
+        {
+          "startTime": 19.74,
+          "finishTime": 20.1,
+          "word": "next"
+        },
+        {
+          "startTime": 20.1,
+          "finishTime": 20.46,
+          "word": "month."
+        },
+        {
+          "startTime": 20.64,
+          "finishTime": 20.76,
+          "word": "Would"
+        },
+        {
+          "startTime": 20.76,
+          "finishTime": 20.86,
+          "word": "you"
+        },
+        {
+          "startTime": 20.86,
+          "finishTime": 21,
+          "word": "like"
+        },
+        {
+          "startTime": 21,
+          "finishTime": 21.16,
+          "word": "to"
+        },
+        {
+          "startTime": 21.16,
+          "finishTime": 21.36,
+          "word": "come?"
+        }
+      ]
+    },
+    {
+      "text": "Thanks for the invite, Sarah. I appreciate it, but I'm not really into sci-fi.",
+      "startTime": 22.06,
+      "finishTime": 26.54,
+      "words": [
+        {
+          "startTime": 22.06,
+          "finishTime": 22.3,
+          "word": "Thanks"
+        },
+        {
+          "startTime": 22.3,
+          "finishTime": 22.46,
+          "word": "for"
+        },
+        {
+          "startTime": 22.46,
+          "finishTime": 22.64,
+          "word": "the"
+        },
+        {
+          "startTime": 22.64,
+          "finishTime": 22.88,
+          "word": "invite,"
+        },
+        {
+          "startTime": 22.88,
+          "finishTime": 23.28,
+          "word": "Sarah."
+        },
+        {
+          "startTime": 23.5,
+          "finishTime": 23.88,
+          "word": "I"
+        },
+        {
+          "startTime": 23.88,
+          "finishTime": 24.22,
+          "word": "appreciate"
+        },
+        {
+          "startTime": 24.22,
+          "finishTime": 24.56,
+          "word": "it,"
+        },
+        {
+          "startTime": 24.56,
+          "finishTime": 24.68,
+          "word": "but"
+        },
+        {
+          "startTime": 24.68,
+          "finishTime": 24.84,
+          "word": "I'm"
+        },
+        {
+          "startTime": 24.84,
+          "finishTime": 25.08,
+          "word": "not"
+        },
+        {
+          "startTime": 25.08,
+          "finishTime": 25.62,
+          "word": "really"
+        },
+        {
+          "startTime": 25.62,
+          "finishTime": 25.86,
+          "word": "into"
+        },
+        {
+          "startTime": 25.86,
+          "finishTime": 26.2,
+          "word": "sci"
+        },
+        {
+          "startTime": 26.2,
+          "finishTime": 26.54,
+          "word": "-fi."
+        }
+      ]
+    },
+    {
+      "text": "I hope you have a blast at the convention, though.",
+      "startTime": 26.92,
+      "finishTime": 28.88,
+      "words": [
+        {
+          "startTime": 26.92,
+          "finishTime": 27.18,
+          "word": "I"
+        },
+        {
+          "startTime": 27.18,
+          "finishTime": 27.32,
+          "word": "hope"
+        },
+        {
+          "startTime": 27.32,
+          "finishTime": 27.48,
+          "word": "you"
+        },
+        {
+          "startTime": 27.48,
+          "finishTime": 27.6,
+          "word": "have"
+        },
+        {
+          "startTime": 27.6,
+          "finishTime": 27.76,
+          "word": "a"
+        },
+        {
+          "startTime": 27.76,
+          "finishTime": 27.96,
+          "word": "blast"
+        },
+        {
+          "startTime": 27.96,
+          "finishTime": 28.1,
+          "word": "at"
+        },
+        {
+          "startTime": 28.1,
+          "finishTime": 28.24,
+          "word": "the"
+        },
+        {
+          "startTime": 28.24,
+          "finishTime": 28.52,
+          "word": "convention,"
+        },
+        {
+          "startTime": 28.56,
+          "finishTime": 28.88,
+          "word": "though."
+        }
+      ]
+    },
+    {
+      "text": "No problem, Tom. Maybe next time you'll join us.",
+      "startTime": 28.88,
+      "finishTime": 31.8,
+      "words": [
+        {
+          "startTime": 28.88,
+          "finishTime": 29.48,
+          "word": "No"
+        },
+        {
+          "startTime": 29.48,
+          "finishTime": 29.78,
+          "word": "problem,"
+        },
+        {
+          "startTime": 29.94,
+          "finishTime": 30.08,
+          "word": "Tom."
+        },
+        {
+          "startTime": 30.3,
+          "finishTime": 30.5,
+          "word": "Maybe"
+        },
+        {
+          "startTime": 30.5,
+          "finishTime": 30.68,
+          "word": "next"
+        },
+        {
+          "startTime": 30.68,
+          "finishTime": 30.82,
+          "word": "time"
+        },
+        {
+          "startTime": 30.82,
+          "finishTime": 30.98,
+          "word": "you'll"
+        },
+        {
+          "startTime": 30.98,
+          "finishTime": 31.14,
+          "word": "join"
+        },
+        {
+          "startTime": 31.14,
+          "finishTime": 31.8,
+          "word": "us."
+        }
+      ]
+    },
+    {
+      "text": "Thanks. Have fun. I hope the convention is a success.",
+      "startTime": 32.32,
+      "finishTime": 35.86,
+      "words": [
+        {
+          "startTime": 32.32,
+          "finishTime": 32.66,
+          "word": "Thanks."
+        },
+        {
+          "startTime": 33.06,
+          "finishTime": 33.32,
+          "word": "Have"
+        },
+        {
+          "startTime": 33.32,
+          "finishTime": 33.62,
+          "word": "fun."
+        },
+        {
+          "startTime": 34.02,
+          "finishTime": 34.14,
+          "word": "I"
+        },
+        {
+          "startTime": 34.14,
+          "finishTime": 34.28,
+          "word": "hope"
+        },
+        {
+          "startTime": 34.28,
+          "finishTime": 34.54,
+          "word": "the"
+        },
+        {
+          "startTime": 34.54,
+          "finishTime": 34.86,
+          "word": "convention"
+        },
+        {
+          "startTime": 34.86,
+          "finishTime": 35.22,
+          "word": "is"
+        },
+        {
+          "startTime": 35.22,
+          "finishTime": 35.34,
+          "word": "a"
+        },
+        {
+          "startTime": 35.34,
+          "finishTime": 35.86,
+          "word": "success."
+        }
+      ]
+    }
+  ]
+}

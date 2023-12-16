@@ -1,0 +1,50 @@
+{
+  "text": "Hi, everyone. My name is Alice and I'm happy to be part of the team. I'm a programmer and I love creating software that helps people in their daily activities. In my previous job, I developed mobile apps for small businesses. I really want to collaborate with you and to contribute to our projects here at the company. It's nice to have you here, Alice. I'm Bob, the project manager. Welcome aboard. I'm sure your experience will be of great help to us.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 5.88,
+      "dialogue": {
+        "text": "Hi, everyone. My name is Alice and I'm happy to be part of the team. I'm a programmer and I love",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.88,
+      "finishTime": 10.84,
+      "dialogue": {
+        "text": "creating software that helps people in their daily activities. In my previous job, I developed",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.84,
+      "finishTime": 15.94,
+      "dialogue": {
+        "text": "mobile apps for small businesses. I really want to collaborate with you and to contribute to our",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.94,
+      "finishTime": 20.86,
+      "dialogue": {
+        "text": "projects here at the company. It's nice to have you here, Alice. I'm Bob, the project manager.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.2,
+      "finishTime": 25.26,
+      "dialogue": {
+        "text": "Welcome aboard. I'm sure your experience will be of great help to us.",
+        "align": "left"
+      }
+    }
+  ]
+}

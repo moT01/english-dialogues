@@ -1,0 +1,77 @@
+{
+  "text": "Bob, could you tell me about your job and your responsibilities in the office? Of course. I'd be happy to. In my role, I have to meet project deadlines and collaborate with the development team. I also can't disclose sensitive information to anyone outside of the company. What about daily tasks? Well, I have to attend team meetings and provide progress reports, but I don't have to work over time unless it's an urgent situation.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.56,
+      "dialogue": {
+        "text": "Bob, could you tell me about your job and your responsibilities in the office?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.96,
+      "finishTime": 4.6,
+      "dialogue": {
+        "text": "Of course.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.8,
+      "finishTime": 5.74,
+      "dialogue": {
+        "text": "I'd be happy to.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.94,
+      "finishTime": 10.38,
+      "dialogue": {
+        "text": "In my role, I have to meet project deadlines and collaborate with the development team.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.82,
+      "finishTime": 15.06,
+      "dialogue": {
+        "text": "I also can't disclose sensitive information to anyone outside of the company.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.74,
+      "finishTime": 16.86,
+      "dialogue": {
+        "text": "What about daily tasks?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.38,
+      "finishTime": 22.26,
+      "dialogue": {
+        "text": "Well, I have to attend team meetings and provide progress reports, but I don't have to work",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.26,
+      "finishTime": 24.62,
+      "dialogue": {
+        "text": "over time unless it's an urgent situation.",
+        "align": "right"
+      }
+    }
+  ]
+}

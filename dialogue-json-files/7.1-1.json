@@ -1,0 +1,131 @@
+{
+  "text": "Hey, Brian, I've been assigned to work on this project, and I'm not sure where to start. Could you help me understand how we should document the code? Of course. The first thing you should do is create a clear README file that's in the project's root directory. This file should contain information about the project, its purpose, and how to set it up. Got it. What else should I include in my README? You should list the project dependencies so that anyone who wants to work on it knows what they need. Then specify how to run the code and any other essential setup instructions. Also, mention coding conventions we follow in this project. Thanks, I'll make sure to follow your instructions.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.94,
+      "dialogue": {
+        "text": "Hey, Brian, I've been assigned to work on this project, and I'm not sure where to start.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.48,
+      "finishTime": 6.94,
+      "dialogue": {
+        "text": "Could you help me understand how we should document the code?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.5,
+      "finishTime": 8.12,
+      "dialogue": {
+        "text": "Of course.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.28,
+      "finishTime": 12.28,
+      "dialogue": {
+        "text": "The first thing you should do is create a clear README file that's in the project's",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.28,
+      "finishTime": 12.96,
+      "dialogue": {
+        "text": "root directory.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.5,
+      "finishTime": 18,
+      "dialogue": {
+        "text": "This file should contain information about the project, its purpose, and how to set it",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18,
+      "finishTime": 18.3,
+      "dialogue": {
+        "text": "up.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 18.72,
+      "finishTime": 19.18,
+      "dialogue": {
+        "text": "Got it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 19.28,
+      "finishTime": 20.8,
+      "dialogue": {
+        "text": "What else should I include in my README?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.22,
+      "finishTime": 25.68,
+      "dialogue": {
+        "text": "You should list the project dependencies so that anyone who wants to work on it knows",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.68,
+      "finishTime": 26.38,
+      "dialogue": {
+        "text": "what they need.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.38,
+      "finishTime": 30.96,
+      "dialogue": {
+        "text": "Then specify how to run the code and any other essential setup instructions.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.04,
+      "finishTime": 34.96,
+      "dialogue": {
+        "text": "Also, mention coding conventions we follow in this project.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 35.92,
+      "finishTime": 37.78,
+      "dialogue": {
+        "text": "Thanks, I'll make sure to follow your instructions.",
+        "align": "right"
+      }
+    }
+  ]
+}

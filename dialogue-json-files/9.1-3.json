@@ -1,0 +1,230 @@
+{
+  "text": "Sophie, I heard you're working on fixing that bug in the user authentication module. Need any help? Yeah, I'm a bit stuck. If I change the logic in this function, it might solve the issue, but I'm not sure. No problem, Sophie. Let's check it together. If you modify the logic, consider the impact it might have on other parts of the system. Okay, so if I make changes here, do you think it could affect other functionalities? Hmm, maybe. See, if you encounter any unexpected behavior after your changes, try to isolate the issue. It will help us get to the root cause. I see. So if I notice anything unusual, I should try to find the source of the problem, right? Right. When you start testing, write test cases for the modified function. It'll ensure that your changes don't break anything else. It'll help ensure the overall system's stability? Absolutely. Testing is a safety net. And don't forget, if you're still unsure about anything, don't hesitate to ask for a second opinion. I'm here to help. I really appreciate it. I'll reach out to you if I need more help. Thanks, Brian.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.7,
+      "dialogue": {
+        "text": "Sophie, I heard you're working on fixing that bug in the user authentication module.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.98,
+      "finishTime": 5.66,
+      "dialogue": {
+        "text": "Need any help?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.56,
+      "finishTime": 7.8,
+      "dialogue": {
+        "text": "Yeah, I'm a bit stuck.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 8.04,
+      "finishTime": 12.26,
+      "dialogue": {
+        "text": "If I change the logic in this function, it might solve the issue, but I'm not sure.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.84,
+      "finishTime": 13.7,
+      "dialogue": {
+        "text": "No problem, Sophie.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.9,
+      "finishTime": 14.94,
+      "dialogue": {
+        "text": "Let's check it together.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16,
+      "finishTime": 20.54,
+      "dialogue": {
+        "text": "If you modify the logic, consider the impact it might have on other parts of the system.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 21.5,
+      "finishTime": 25.64,
+      "dialogue": {
+        "text": "Okay, so if I make changes here, do you think it could affect other functionalities?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26,
+      "finishTime": 26.98,
+      "dialogue": {
+        "text": "Hmm, maybe.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.98,
+      "finishTime": 32.1,
+      "dialogue": {
+        "text": "See, if you encounter any unexpected behavior after your changes, try to isolate the issue.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.26,
+      "finishTime": 34.1,
+      "dialogue": {
+        "text": "It will help us get to the root cause.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 34.82,
+      "finishTime": 35.38,
+      "dialogue": {
+        "text": "I see.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 35.54,
+      "finishTime": 39.36,
+      "dialogue": {
+        "text": "So if I notice anything unusual, I should try to find the source of the problem, right?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 39.96,
+      "finishTime": 40.38,
+      "dialogue": {
+        "text": "Right.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 40.52,
+      "finishTime": 43.94,
+      "dialogue": {
+        "text": "When you start testing, write test cases for the modified function.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 44.26,
+      "finishTime": 46.64,
+      "dialogue": {
+        "text": "It'll ensure that your changes don't break anything else.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 47.78,
+      "finishTime": 50.02,
+      "dialogue": {
+        "text": "It'll help ensure the overall system's stability?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 50.76,
+      "finishTime": 51.28,
+      "dialogue": {
+        "text": "Absolutely.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 51.68,
+      "finishTime": 52.9,
+      "dialogue": {
+        "text": "Testing is a safety net.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.9,
+      "finishTime": 57.42,
+      "dialogue": {
+        "text": "And don't forget, if you're still unsure about anything, don't hesitate to ask for a second",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 57.42,
+      "finishTime": 57.8,
+      "dialogue": {
+        "text": "opinion.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 58.2,
+      "finishTime": 58.96,
+      "dialogue": {
+        "text": "I'm here to help.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 59.7,
+      "finishTime": 60.6,
+      "dialogue": {
+        "text": "I really appreciate it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 60.74,
+      "finishTime": 62.36,
+      "dialogue": {
+        "text": "I'll reach out to you if I need more help.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 62.62,
+      "finishTime": 63.06,
+      "dialogue": {
+        "text": "Thanks, Brian.",
+        "align": "right"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "text": "Welcome everyone. Today we have with us our clients from FCC Corporation. David, let me introduce the team and briefly explain what we do. I'm Maria, the lead developer. I'm responsible for the technical aspects of the project. This is Bob, the project manager. He's responsible for coordinating our efforts to meet your needs. Hey Bob, how's it going? And this is Sarah, the senior developer. She and I work together to ensure the project's success. Great to meet you, Sarah. And this is Linda. She's our UX UI designer. She works in user experience and she creates our interface design. Wonderful to meet you all. I'm David, the project manager from FCC Corp. I'll be your point of contact and I'll make sure our collaboration is great. We're excited about this project. I'm confident that we can achieve great results. Thanks. Now let's get started with the project details and your specific requirements, David.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.74,
+      "dialogue": {
+        "text": "Welcome everyone. Today we have with us our clients from FCC Corporation.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.44,
+      "finishTime": 8.68,
+      "dialogue": {
+        "text": "David, let me introduce the team and briefly explain what we do.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.18,
+      "finishTime": 13.64,
+      "dialogue": {
+        "text": "I'm Maria, the lead developer. I'm responsible for the technical aspects of the project.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.2,
+      "finishTime": 19.08,
+      "dialogue": {
+        "text": "This is Bob, the project manager. He's responsible for coordinating our efforts to meet your needs.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.54,
+      "finishTime": 20.9,
+      "dialogue": {
+        "text": "Hey Bob, how's it going?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.22,
+      "finishTime": 27.38,
+      "dialogue": {
+        "text": "And this is Sarah, the senior developer. She and I work together to ensure the project's success.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.38,
+      "finishTime": 29.06,
+      "dialogue": {
+        "text": "Great to meet you, Sarah.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 30.12,
+      "finishTime": 36.08,
+      "dialogue": {
+        "text": "And this is Linda. She's our UX UI designer. She works in user experience and she creates our interface design.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 37.24,
+      "finishTime": 41.84,
+      "dialogue": {
+        "text": "Wonderful to meet you all. I'm David, the project manager from FCC Corp.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 42.1,
+      "finishTime": 46.32,
+      "dialogue": {
+        "text": "I'll be your point of contact and I'll make sure our collaboration is great.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.84,
+      "finishTime": 51,
+      "dialogue": {
+        "text": "We're excited about this project. I'm confident that we can achieve great results.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.12,
+      "finishTime": 56.54,
+      "dialogue": {
+        "text": "Thanks. Now let's get started with the project details and your specific requirements, David.",
+        "align": "left"
+      }
+    }
+  ]
+}

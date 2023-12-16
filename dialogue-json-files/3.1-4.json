@@ -1,0 +1,185 @@
+{
+  "text": "Hey, Alice, how did you get into tech? My background is a bit unconventional. I didn't study tech at a traditional university. I'm mostly self-taught and I took a lot of online courses. That's interesting. So you didn't attend a regular college or anything like that? No, not at all. I was at a different job, but I got really interested in programming and tech. So I started learning in my free time. That's impressive. Do you enjoy learning on your own? Absolutely. It was challenging, but I loved it. The flexibility of online learning allowed me to balance my job and my studies. Did you work on any projects during your self-study? Yes, I did. I built a few small web applications just to practice. It was a great way to apply what I learned. I admire your dedication. It's amazing how far you got studying by yourself.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 2.82,
+      "dialogue": {
+        "text": "Hey, Alice, how did you get into tech?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.5,
+      "finishTime": 5.08,
+      "dialogue": {
+        "text": "My background is a bit unconventional.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.2,
+      "finishTime": 7.72,
+      "dialogue": {
+        "text": "I didn't study tech at a traditional university.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.2,
+      "finishTime": 10.82,
+      "dialogue": {
+        "text": "I'm mostly self-taught and I took a lot of online courses.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.16,
+      "finishTime": 11.94,
+      "dialogue": {
+        "text": "That's interesting.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 12.36,
+      "finishTime": 15.52,
+      "dialogue": {
+        "text": "So you didn't attend a regular college or anything like that?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.82,
+      "finishTime": 16.72,
+      "dialogue": {
+        "text": "No, not at all.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.82,
+      "finishTime": 20.32,
+      "dialogue": {
+        "text": "I was at a different job, but I got really interested in programming and tech.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.54,
+      "finishTime": 22.28,
+      "dialogue": {
+        "text": "So I started learning in my free time.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.76,
+      "finishTime": 23.72,
+      "dialogue": {
+        "text": "That's impressive.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 24.04,
+      "finishTime": 25.54,
+      "dialogue": {
+        "text": "Do you enjoy learning on your own?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.16,
+      "finishTime": 26.62,
+      "dialogue": {
+        "text": "Absolutely.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 27.12,
+      "finishTime": 28.82,
+      "dialogue": {
+        "text": "It was challenging, but I loved it.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.82,
+      "finishTime": 32.82,
+      "dialogue": {
+        "text": "The flexibility of online learning allowed me to balance my job and my studies.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.66,
+      "finishTime": 36.18,
+      "dialogue": {
+        "text": "Did you work on any projects during your self-study?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.54,
+      "finishTime": 37.24,
+      "dialogue": {
+        "text": "Yes, I did.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 37.58,
+      "finishTime": 40.24,
+      "dialogue": {
+        "text": "I built a few small web applications just to practice.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 40.6,
+      "finishTime": 42.54,
+      "dialogue": {
+        "text": "It was a great way to apply what I learned.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 43.3,
+      "finishTime": 44.48,
+      "dialogue": {
+        "text": "I admire your dedication.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 45.06,
+      "finishTime": 47.66,
+      "dialogue": {
+        "text": "It's amazing how far you got studying by yourself.",
+        "align": "right"
+      }
+    }
+  ]
+}

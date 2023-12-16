@@ -1,0 +1,131 @@
+{
+  "text": "I often find function descriptions in the documentation, but I'm not sure how to interpret them. What should I focus on when I'm reading these? That's a great question. First, you should pay attention to the function's name and parameters. It can give you an idea of what the function does and how to use it. Got it. Is there anything else I should keep in mind? Absolutely. You should look for a description of what the function does and any return values. Also, check for any examples or code snippets. They can help you illustrate how to use the function effectively. Great tips. Thanks a lot.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 5.06,
+      "dialogue": {
+        "text": "I often find function descriptions in the documentation, but I'm not sure how to interpret",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.06,
+      "finishTime": 5.38,
+      "dialogue": {
+        "text": "them.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.62,
+      "finishTime": 7.62,
+      "dialogue": {
+        "text": "What should I focus on when I'm reading these?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 8.3,
+      "finishTime": 9.28,
+      "dialogue": {
+        "text": "That's a great question.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.84,
+      "finishTime": 12.86,
+      "dialogue": {
+        "text": "First, you should pay attention to the function's name and parameters.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.2,
+      "finishTime": 16.68,
+      "dialogue": {
+        "text": "It can give you an idea of what the function does and how to use it.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.82,
+      "finishTime": 17.28,
+      "dialogue": {
+        "text": "Got it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.46,
+      "finishTime": 19.28,
+      "dialogue": {
+        "text": "Is there anything else I should keep in mind?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.1,
+      "finishTime": 20.54,
+      "dialogue": {
+        "text": "Absolutely.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.96,
+      "finishTime": 24.68,
+      "dialogue": {
+        "text": "You should look for a description of what the function does and any return values.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.28,
+      "finishTime": 28.02,
+      "dialogue": {
+        "text": "Also, check for any examples or code snippets.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 28.02,
+      "finishTime": 31.16,
+      "dialogue": {
+        "text": "They can help you illustrate how to use the function effectively.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.9,
+      "finishTime": 32.34,
+      "dialogue": {
+        "text": "Great tips.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.68,
+      "finishTime": 33.22,
+      "dialogue": {
+        "text": "Thanks a lot.",
+        "align": "left"
+      }
+    }
+  ]
+}

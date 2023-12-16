@@ -1,0 +1,86 @@
+{
+  "text": "Hey, Sophie. How's it going? I've heard you've been learning a lot about programming languages Yeah, the crazy part is that there are so many out there That's awesome. How much time have you spent on it? I spent much of my free time on it. It's fascinating I've learned about variables data types and even conditional statements in many languages. That's great to hear You know, I have a question about Python. Can you help me with that? Sure. I know Python pretty well. What's your question? How do you declare variables in Python? I'm curious in Python you declare variables by using the variable name and the assignment operator For example, you can declare a variable like this name equals Sophie Got it. Thanks, Sophie. I appreciate your help",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 5.3,
+      "dialogue": {
+        "text": "Hey, Sophie. How's it going? I've heard you've been learning a lot about programming languages",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6,
+      "finishTime": 9.02,
+      "dialogue": {
+        "text": "Yeah, the crazy part is that there are so many out there",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.02,
+      "finishTime": 15.04,
+      "dialogue": {
+        "text": "That's awesome. How much time have you spent on it? I spent much of my free time on it. It's fascinating",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.04,
+      "finishTime": 21.16,
+      "dialogue": {
+        "text": "I've learned about variables data types and even conditional statements in many languages. That's great to hear",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.16,
+      "finishTime": 27.44,
+      "dialogue": {
+        "text": "You know, I have a question about Python. Can you help me with that? Sure. I know Python pretty well. What's your question?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 27.44,
+      "finishTime": 30.94,
+      "dialogue": {
+        "text": "How do you declare variables in Python? I'm curious in",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.6,
+      "finishTime": 35.62,
+      "dialogue": {
+        "text": "Python you declare variables by using the variable name and the assignment operator",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.62,
+      "finishTime": 39.96,
+      "dialogue": {
+        "text": "For example, you can declare a variable like this name equals Sophie",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 39.96,
+      "finishTime": 43.06,
+      "dialogue": {
+        "text": "Got it. Thanks, Sophie. I appreciate your help",
+        "align": "right"
+      }
+    }
+  ]
+}

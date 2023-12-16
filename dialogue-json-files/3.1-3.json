@@ -1,0 +1,185 @@
+{
+  "text": "Hey, how's it going? I noticed you're relatively new here. What's your background in tech? Hey, yeah, I joined the team a few months ago. I didn't study computer science at university, but I majored in electrical engineering. It wasn't exactly tech related, but I learned a lot about problem solving and critical thinking. That's interesting. So you didn't work on many programming projects during your studies, did you? No, not really. I played around with coding, but most of my projects involved circuit designs and electrical systems. It was a bit different. I see. Did you enjoy your time there, even if it wasn't entirely tech focused? I did. It was challenging, but I met some fantastic people. We had a bunch of fun coding marathons, although I wasn't always a very strong programmer. Well, we all have different journeys. I studied at a small college as well and majored in information technology. It was more hands on and I loved every bit of it. We didn't have to wear too many hats, but I got to build and maintain networks and manage a few small projects. That sounds cool. Did you ever work on any big projects during your studies? They weren't exactly big projects. Most of them were smaller scale, but it was a great learning experience. It's fascinating to me how we all take different paths, but end up in the same tech world, right? Absolutely. Let's grab a coffee sometime and chat more.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 5.36,
+      "dialogue": {
+        "text": "Hey, how's it going? I noticed you're relatively new here. What's your background in tech?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.06,
+      "finishTime": 10.84,
+      "dialogue": {
+        "text": "Hey, yeah, I joined the team a few months ago. I didn't study computer science at university,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.86,
+      "finishTime": 15.14,
+      "dialogue": {
+        "text": "but I majored in electrical engineering. It wasn't exactly tech related, but I learned",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.14,
+      "finishTime": 17.4,
+      "dialogue": {
+        "text": "a lot about problem solving and critical thinking.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.98,
+      "finishTime": 22.76,
+      "dialogue": {
+        "text": "That's interesting. So you didn't work on many programming projects during your studies,",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.76,
+      "finishTime": 23.26,
+      "dialogue": {
+        "text": "did you?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 24.02,
+      "finishTime": 28.84,
+      "dialogue": {
+        "text": "No, not really. I played around with coding, but most of my projects involved circuit designs",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.84,
+      "finishTime": 31.2,
+      "dialogue": {
+        "text": "and electrical systems. It was a bit different.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32,
+      "finishTime": 36.22,
+      "dialogue": {
+        "text": "I see. Did you enjoy your time there, even if it wasn't entirely tech focused?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.72,
+      "finishTime": 41.84,
+      "dialogue": {
+        "text": "I did. It was challenging, but I met some fantastic people. We had a bunch of fun coding",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.84,
+      "finishTime": 44.28,
+      "dialogue": {
+        "text": "marathons, although I wasn't always a very strong programmer.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 44.86,
+      "finishTime": 50.12,
+      "dialogue": {
+        "text": "Well, we all have different journeys. I studied at a small college as well and majored in",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 50.12,
+      "finishTime": 55.3,
+      "dialogue": {
+        "text": "information technology. It was more hands on and I loved every bit of it. We didn't",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 55.3,
+      "finishTime": 60.04,
+      "dialogue": {
+        "text": "have to wear too many hats, but I got to build and maintain networks and manage a few",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 60.04,
+      "finishTime": 60.92,
+      "dialogue": {
+        "text": "small projects.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 61.54,
+      "finishTime": 65,
+      "dialogue": {
+        "text": "That sounds cool. Did you ever work on any big projects during your studies?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 66,
+      "finishTime": 70.98,
+      "dialogue": {
+        "text": "They weren't exactly big projects. Most of them were smaller scale, but it was a great",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 70.98,
+      "finishTime": 76.3,
+      "dialogue": {
+        "text": "learning experience. It's fascinating to me how we all take different paths, but end",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 76.3,
+      "finishTime": 78.42,
+      "dialogue": {
+        "text": "up in the same tech world, right?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 79.22,
+      "finishTime": 81.84,
+      "dialogue": {
+        "text": "Absolutely. Let's grab a coffee sometime and chat more.",
+        "align": "right"
+      }
+    }
+  ]
+}

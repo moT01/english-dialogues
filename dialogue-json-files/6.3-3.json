@@ -1,0 +1,104 @@
+{
+  "text": "Brian, I've encountered an issue in the code, and I can't quite pinpoint what's causing it. I may need a second pair of eyes to help me out. No problem, Sophie. I can definitely work on that with you. Let's start by understanding the symptoms of the issue. I've noticed that the issue may occur when we handle large data sets. It could be a performance bottleneck, but I should confirm it. Understood. We can investigate this together, and by the end of it, we should have a clearer picture of what's happening.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.6,
+      "dialogue": {
+        "text": "Brian, I've encountered an issue in the code, and I can't quite pinpoint what's causing",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.6,
+      "finishTime": 4.92,
+      "dialogue": {
+        "text": "it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.22,
+      "finishTime": 7.6,
+      "dialogue": {
+        "text": "I may need a second pair of eyes to help me out.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 7.98,
+      "finishTime": 8.84,
+      "dialogue": {
+        "text": "No problem, Sophie.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.04,
+      "finishTime": 10.76,
+      "dialogue": {
+        "text": "I can definitely work on that with you.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.86,
+      "finishTime": 13.26,
+      "dialogue": {
+        "text": "Let's start by understanding the symptoms of the issue.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 14.08,
+      "finishTime": 17.44,
+      "dialogue": {
+        "text": "I've noticed that the issue may occur when we handle large data sets.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.92,
+      "finishTime": 20.54,
+      "dialogue": {
+        "text": "It could be a performance bottleneck, but I should confirm it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.94,
+      "finishTime": 21.36,
+      "dialogue": {
+        "text": "Understood.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.64,
+      "finishTime": 25.56,
+      "dialogue": {
+        "text": "We can investigate this together, and by the end of it, we should have a clearer picture",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.56,
+      "finishTime": 26.28,
+      "dialogue": {
+        "text": "of what's happening.",
+        "align": "left"
+      }
+    }
+  ]
+}

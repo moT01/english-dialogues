@@ -1,0 +1,68 @@
+{
+  "text": "I see that we're using Git for version control. How do I document code changes when I make updates or fixes? Good question. When you make changes, you should use descriptive commit messages. Start your message with a verb in the imperative form like fix, add, or update followed by a brief description of what you did. That sounds straightforward. Anything else I should keep in mind? You should also reference issues in your commit message if you're working on a task related to an issue. It helps in tracking progress and understanding the context of changes. Thanks for the clarification. I'll make sure to follow these steps.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 5.22,
+      "dialogue": {
+        "text": "I see that we're using Git for version control. How do I document code changes when I make updates",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.22,
+      "finishTime": 11,
+      "dialogue": {
+        "text": "or fixes? Good question. When you make changes, you should use descriptive commit messages.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.44,
+      "finishTime": 18.2,
+      "dialogue": {
+        "text": "Start your message with a verb in the imperative form like fix, add, or update followed by a brief",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 18.2,
+      "finishTime": 22.46,
+      "dialogue": {
+        "text": "description of what you did. That sounds straightforward. Anything else I should keep",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.46,
+      "finishTime": 27.44,
+      "dialogue": {
+        "text": "in mind? You should also reference issues in your commit message if you're working on a task",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 27.44,
+      "finishTime": 32.7,
+      "dialogue": {
+        "text": "related to an issue. It helps in tracking progress and understanding the context of changes.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.28,
+      "finishTime": 36.1,
+      "dialogue": {
+        "text": "Thanks for the clarification. I'll make sure to follow these steps.",
+        "align": "left"
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "text": "Hey, Lisa, what motivated you to choose a career in tech? One of my main motivations was the financial stability that tech jobs can provide. It allows me to plan for my future with confidence. In other fields, it's much more difficult to achieve this stability. Financial stability is certainly important, Lisa. For me, it was the opportunity to collaborate with experts from many fields and have different perspectives. Collaborating with diverse teams can be exciting, Brian. Another thing was the chance to be part of projects that push the limits of innovation and creativity. I'm with you on that one. I'm also interested in the flexibility that tech roles offer. They allow us to balance our jobs with personal interests and hobbies. Yeah, also the satisfaction of solving complex problems and finding practical solutions is really thrilling. Knowing that we solve problems is really exciting, Lisa. I hope we keep getting as much motivation from it as we can.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.18,
+      "dialogue": {
+        "text": "Hey, Lisa, what motivated you to choose a career in tech?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.02,
+      "finishTime": 9.02,
+      "dialogue": {
+        "text": "One of my main motivations was the financial stability that tech jobs can provide.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.48,
+      "finishTime": 11.9,
+      "dialogue": {
+        "text": "It allows me to plan for my future with confidence.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.36,
+      "finishTime": 15.34,
+      "dialogue": {
+        "text": "In other fields, it's much more difficult to achieve this stability.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.38,
+      "finishTime": 18.38,
+      "dialogue": {
+        "text": "Financial stability is certainly important, Lisa.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.8,
+      "finishTime": 23.06,
+      "dialogue": {
+        "text": "For me, it was the opportunity to collaborate with experts from many fields",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.06,
+      "finishTime": 25,
+      "dialogue": {
+        "text": "and have different perspectives.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.82,
+      "finishTime": 28.18,
+      "dialogue": {
+        "text": "Collaborating with diverse teams can be exciting, Brian.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.18,
+      "finishTime": 31.08,
+      "dialogue": {
+        "text": "Another thing was the chance to be part of projects",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31.08,
+      "finishTime": 33.26,
+      "dialogue": {
+        "text": "that push the limits of innovation and creativity.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 33.9,
+      "finishTime": 34.98,
+      "dialogue": {
+        "text": "I'm with you on that one.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.1,
+      "finishTime": 38.36,
+      "dialogue": {
+        "text": "I'm also interested in the flexibility that tech roles offer.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.7,
+      "finishTime": 42.14,
+      "dialogue": {
+        "text": "They allow us to balance our jobs with personal interests and hobbies.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 43.3,
+      "finishTime": 46.34,
+      "dialogue": {
+        "text": "Yeah, also the satisfaction of solving complex problems",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.34,
+      "finishTime": 48.68,
+      "dialogue": {
+        "text": "and finding practical solutions is really thrilling.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 49.3,
+      "finishTime": 51.98,
+      "dialogue": {
+        "text": "Knowing that we solve problems is really exciting, Lisa.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 52.38,
+      "finishTime": 55.76,
+      "dialogue": {
+        "text": "I hope we keep getting as much motivation from it as we can.",
+        "align": "right"
+      }
+    }
+  ]
+}

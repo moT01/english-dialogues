@@ -1,0 +1,203 @@
+{
+  "text": "Hello, thanks for coming in today. Could you tell me about your previous roles and responsibilities? Hello, certainly. I worked at Mock Corporation for five years. I was part of a team of software engineers and we were responsible for developing and maintaining various applications. Our primary focus was creating user-friendly software. That's great to hear. Were the members of the team involved in any specific achievements or projects? Yes. Our team was involved in a project to redesign the company's website. We were responsible for implementing new features and ensuring that the website had fast performance. It was a collaborative effort and we were able to deliver the project on time. Excellent. Can you share details about your educational background? Were you trained in a specific field? Yes. I have a master's degree in computer science. My studies were intensive and I was introduced to many different methodologies. Impressive. We appreciate candidates with strong educational backgrounds and practical experience. Thanks a lot for coming to the interview.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.04,
+      "dialogue": {
+        "text": "Hello, thanks for coming in today.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 2.28,
+      "finishTime": 4.76,
+      "dialogue": {
+        "text": "Could you tell me about your previous roles and responsibilities?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.96,
+      "finishTime": 7.46,
+      "dialogue": {
+        "text": "Hello, certainly.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.96,
+      "finishTime": 10.82,
+      "dialogue": {
+        "text": "I worked at Mock Corporation for five years.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 11.2,
+      "finishTime": 16.54,
+      "dialogue": {
+        "text": "I was part of a team of software engineers and we were responsible for developing and",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.54,
+      "finishTime": 18.22,
+      "dialogue": {
+        "text": "maintaining various applications.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 18.82,
+      "finishTime": 22.3,
+      "dialogue": {
+        "text": "Our primary focus was creating user-friendly software.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.06,
+      "finishTime": 23.92,
+      "dialogue": {
+        "text": "That's great to hear.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.18,
+      "finishTime": 27.64,
+      "dialogue": {
+        "text": "Were the members of the team involved in any specific achievements or projects?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 28.12,
+      "finishTime": 28.68,
+      "dialogue": {
+        "text": "Yes.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.68,
+      "finishTime": 32.2,
+      "dialogue": {
+        "text": "Our team was involved in a project to redesign the company's website.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 32.7,
+      "finishTime": 37.84,
+      "dialogue": {
+        "text": "We were responsible for implementing new features and ensuring that the website had fast performance.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.54,
+      "finishTime": 42.76,
+      "dialogue": {
+        "text": "It was a collaborative effort and we were able to deliver the project on time.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 43.84,
+      "finishTime": 43.88,
+      "dialogue": {
+        "text": "Excellent.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 43.98,
+      "finishTime": 46.32,
+      "dialogue": {
+        "text": "Can you share details about your educational background?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 46.7,
+      "finishTime": 48.16,
+      "dialogue": {
+        "text": "Were you trained in a specific field?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 48.8,
+      "finishTime": 49.24,
+      "dialogue": {
+        "text": "Yes.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 49.38,
+      "finishTime": 51.98,
+      "dialogue": {
+        "text": "I have a master's degree in computer science.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 52.32,
+      "finishTime": 56.76,
+      "dialogue": {
+        "text": "My studies were intensive and I was introduced to many different methodologies.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 57.66,
+      "finishTime": 58.16,
+      "dialogue": {
+        "text": "Impressive.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 58.16,
+      "finishTime": 62.32,
+      "dialogue": {
+        "text": "We appreciate candidates with strong educational backgrounds and practical experience.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 62.8,
+      "finishTime": 64.12,
+      "dialogue": {
+        "text": "Thanks a lot for coming to the interview.",
+        "align": "left"
+      }
+    }
+  ]
+}

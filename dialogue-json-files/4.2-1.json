@@ -1,0 +1,95 @@
+{
+  "text": "Hey Tom, have you heard about artificial intelligence? Absolutely, Sophie. AI is amazing. It's all about teaching machines to think and learn like humans. That sounds fascinating, but how is it used in the real world? Well, AI is everywhere, from chatbots that help with customer service to self-driving cars that use AI to navigate safely. In healthcare, it's used to analyze medical data and even assist in surgeries. Wow, that's incredible. But what about ethical concerns? Yeah, we have to make sure AI is used ethically and doesn't generate bias. But researchers and companies are actively working on addressing these issues.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.92,
+      "dialogue": {
+        "text": "Hey Tom, have you heard about artificial intelligence?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 3.58,
+      "finishTime": 9.18,
+      "dialogue": {
+        "text": "Absolutely, Sophie. AI is amazing. It's all about teaching machines to think and learn",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.18,
+      "finishTime": 9.92,
+      "dialogue": {
+        "text": "like humans.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.42,
+      "finishTime": 13.28,
+      "dialogue": {
+        "text": "That sounds fascinating, but how is it used in the real world?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.96,
+      "finishTime": 18.72,
+      "dialogue": {
+        "text": "Well, AI is everywhere, from chatbots that help with customer service to self-driving",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.72,
+      "finishTime": 25.16,
+      "dialogue": {
+        "text": "cars that use AI to navigate safely. In healthcare, it's used to analyze medical data and even",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.16,
+      "finishTime": 26.46,
+      "dialogue": {
+        "text": "assist in surgeries.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 27.18,
+      "finishTime": 30.34,
+      "dialogue": {
+        "text": "Wow, that's incredible. But what about ethical concerns?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.02,
+      "finishTime": 34.68,
+      "dialogue": {
+        "text": "Yeah, we have to make sure AI is used ethically and doesn't generate bias.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.32,
+      "finishTime": 39.28,
+      "dialogue": {
+        "text": "But researchers and companies are actively working on addressing these issues.",
+        "align": "left"
+      }
+    }
+  ]
+}

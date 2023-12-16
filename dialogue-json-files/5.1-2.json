@@ -1,0 +1,95 @@
+{
+  "text": "Hey, Tom. I'm having some trouble with my code. I can't figure out what's wrong. Don't worry. Debugging is a common challenge for programmers. How much code are you working on? Well, it's actually a lot of code, but the issue is in a specific function. I have a loop inside it. I see. Can you show me your code? I might be able to help. Sure. It's in this file's code. Let me find it. There are many debugging tools you can use. Depending on the IDE that you're using, there are many extensions and plugins to use. They are super helpful. I'll keep that in mind. Thanks, Tom.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 4.26,
+      "dialogue": {
+        "text": "Hey, Tom. I'm having some trouble with my code. I can't figure out what's wrong.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.02,
+      "finishTime": 9.48,
+      "dialogue": {
+        "text": "Don't worry. Debugging is a common challenge for programmers. How much code are you working",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.48,
+      "finishTime": 9.94,
+      "dialogue": {
+        "text": "on?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.5,
+      "finishTime": 15.1,
+      "dialogue": {
+        "text": "Well, it's actually a lot of code, but the issue is in a specific function. I have a",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.1,
+      "finishTime": 15.98,
+      "dialogue": {
+        "text": "loop inside it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.2,
+      "finishTime": 19.22,
+      "dialogue": {
+        "text": "I see. Can you show me your code? I might be able to help.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.7,
+      "finishTime": 22.54,
+      "dialogue": {
+        "text": "Sure. It's in this file's code. Let me find it.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.06,
+      "finishTime": 28.1,
+      "dialogue": {
+        "text": "There are many debugging tools you can use. Depending on the IDE that you're using, there",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.1,
+      "finishTime": 31.44,
+      "dialogue": {
+        "text": "are many extensions and plugins to use. They are super helpful.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31.92,
+      "finishTime": 33.54,
+      "dialogue": {
+        "text": "I'll keep that in mind. Thanks, Tom.",
+        "align": "left"
+      }
+    }
+  ]
+}

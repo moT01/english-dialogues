@@ -1,0 +1,122 @@
+{
+  "text": "I got this message saying I must talk with Jeff from the security department. Do you know him? Yeah, I've seen him around. He's responsible for security operations in our company. He's been with us for some time, nearly 10 years. He's tall and has curly hair. He always has this vigilant look, probably a result of his job. He sounds like a dedicated professional. I've always wondered what the folks in security do around here. What are his responsibilities? He makes sure that the company's data and facilities are secure, monitors access controls, and conducts investigations when needed. He also ensures that everyone follows security procedures. Speaking of procedures, is there anything he told you that we need to do when it comes to office security? Yes, there is one thing he emphasizes. You mustn't share your access codes or passwords with anyone. Security is a big deal for him. Understandable. Well, thanks. No problem. If you ever need any security tips, you really must talk to Jeff.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 5.16,
+      "dialogue": {
+        "text": "I got this message saying I must talk with Jeff from the security department. Do you know him?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.4,
+      "finishTime": 10.4,
+      "dialogue": {
+        "text": "Yeah, I've seen him around. He's responsible for security operations in our company.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.96,
+      "finishTime": 15.36,
+      "dialogue": {
+        "text": "He's been with us for some time, nearly 10 years. He's tall and has curly hair.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.66,
+      "finishTime": 18.72,
+      "dialogue": {
+        "text": "He always has this vigilant look, probably a result of his job.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.32,
+      "finishTime": 22.94,
+      "dialogue": {
+        "text": "He sounds like a dedicated professional. I've always wondered what the folks in",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.94,
+      "finishTime": 25.94,
+      "dialogue": {
+        "text": "security do around here. What are his responsibilities?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.58,
+      "finishTime": 31,
+      "dialogue": {
+        "text": "He makes sure that the company's data and facilities are secure, monitors access",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31,
+      "finishTime": 36.02,
+      "dialogue": {
+        "text": "controls, and conducts investigations when needed. He also ensures that everyone follows security",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.02,
+      "finishTime": 41.86,
+      "dialogue": {
+        "text": "procedures. Speaking of procedures, is there anything he told you that we need to do when",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.86,
+      "finishTime": 46.52,
+      "dialogue": {
+        "text": "it comes to office security? Yes, there is one thing he emphasizes. You",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.52,
+      "finishTime": 51.28,
+      "dialogue": {
+        "text": "mustn't share your access codes or passwords with anyone. Security is a big deal for him.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.12,
+      "finishTime": 53.78,
+      "dialogue": {
+        "text": "Understandable. Well, thanks.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 54.32,
+      "finishTime": 57.52,
+      "dialogue": {
+        "text": "No problem. If you ever need any security tips, you really must talk to Jeff.",
+        "align": "right"
+      }
+    }
+  ]
+}

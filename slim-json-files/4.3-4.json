@@ -1,0 +1,906 @@
+{
+  "text": "Hey Brian, I was looking at the project details and I noticed something a bit odd. The timeline you mentioned doesn't match what I found in the documentation. Really? That's strange. I double checked the project schedule and it should be accurate. Well, the documentation says we're starting the testing phase next week, but you mentioned it was the following week. Let me clarify. I believe the documentation is outdated. We discussed it yesterday and we decided to move the testing phase a week later. I'm pretty sure about this. Alright, that makes sense. And what about the budget allocation? You mentioned it was $10,000, but I found an email saying it's $15,000. I think there's a mix-up there. The budget we agreed upon was indeed $15,000, not $10,000. It should cover all the expenses. Got it, Brian. Thanks for clearing that up. It's essential that we're on the same page when it comes to project details.",
+  "segments": [
+    {
+      "text": "Hey Brian, I was looking at the project details and I noticed something a bit odd.",
+      "startTime": 0,
+      "finishTime": 4.06,
+      "words": [
+        {
+          "startTime": 0,
+          "finishTime": 0.42,
+          "word": "Hey"
+        },
+        {
+          "startTime": 0.42,
+          "finishTime": 0.68,
+          "word": "Brian,"
+        },
+        {
+          "startTime": 0.74,
+          "finishTime": 0.92,
+          "word": "I"
+        },
+        {
+          "startTime": 0.92,
+          "finishTime": 1.04,
+          "word": "was"
+        },
+        {
+          "startTime": 1.04,
+          "finishTime": 1.24,
+          "word": "looking"
+        },
+        {
+          "startTime": 1.24,
+          "finishTime": 1.4,
+          "word": "at"
+        },
+        {
+          "startTime": 1.4,
+          "finishTime": 1.54,
+          "word": "the"
+        },
+        {
+          "startTime": 1.54,
+          "finishTime": 1.86,
+          "word": "project"
+        },
+        {
+          "startTime": 1.86,
+          "finishTime": 2.32,
+          "word": "details"
+        },
+        {
+          "startTime": 2.32,
+          "finishTime": 2.56,
+          "word": "and"
+        },
+        {
+          "startTime": 2.56,
+          "finishTime": 2.72,
+          "word": "I"
+        },
+        {
+          "startTime": 2.72,
+          "finishTime": 2.92,
+          "word": "noticed"
+        },
+        {
+          "startTime": 2.92,
+          "finishTime": 3.3,
+          "word": "something"
+        },
+        {
+          "startTime": 3.3,
+          "finishTime": 3.48,
+          "word": "a"
+        },
+        {
+          "startTime": 3.48,
+          "finishTime": 3.7,
+          "word": "bit"
+        },
+        {
+          "startTime": 3.7,
+          "finishTime": 4.06,
+          "word": "odd."
+        }
+      ]
+    },
+    {
+      "text": "The timeline you mentioned doesn't match what I found in the documentation.",
+      "startTime": 4.52,
+      "finishTime": 8,
+      "words": [
+        {
+          "startTime": 4.52,
+          "finishTime": 4.82,
+          "word": "The"
+        },
+        {
+          "startTime": 4.82,
+          "finishTime": 5.08,
+          "word": "timeline"
+        },
+        {
+          "startTime": 5.08,
+          "finishTime": 5.34,
+          "word": "you"
+        },
+        {
+          "startTime": 5.34,
+          "finishTime": 5.7,
+          "word": "mentioned"
+        },
+        {
+          "startTime": 5.7,
+          "finishTime": 6.1,
+          "word": "doesn't"
+        },
+        {
+          "startTime": 6.1,
+          "finishTime": 6.52,
+          "word": "match"
+        },
+        {
+          "startTime": 6.52,
+          "finishTime": 6.76,
+          "word": "what"
+        },
+        {
+          "startTime": 6.76,
+          "finishTime": 6.96,
+          "word": "I"
+        },
+        {
+          "startTime": 6.96,
+          "finishTime": 7.14,
+          "word": "found"
+        },
+        {
+          "startTime": 7.14,
+          "finishTime": 7.28,
+          "word": "in"
+        },
+        {
+          "startTime": 7.28,
+          "finishTime": 7.46,
+          "word": "the"
+        },
+        {
+          "startTime": 7.46,
+          "finishTime": 8,
+          "word": "documentation."
+        }
+      ]
+    },
+    {
+      "text": "Really? That's strange. I double checked the project schedule and it should be accurate.",
+      "startTime": 9.26,
+      "finishTime": 13.46,
+      "words": [
+        {
+          "startTime": 9.26,
+          "finishTime": 9.68,
+          "word": "Really?"
+        },
+        {
+          "startTime": 9.88,
+          "finishTime": 10.26,
+          "word": "That's"
+        },
+        {
+          "startTime": 10.26,
+          "finishTime": 10.56,
+          "word": "strange."
+        },
+        {
+          "startTime": 10.74,
+          "finishTime": 10.94,
+          "word": "I"
+        },
+        {
+          "startTime": 10.94,
+          "finishTime": 11.22,
+          "word": "double"
+        },
+        {
+          "startTime": 11.22,
+          "finishTime": 11.36,
+          "word": "checked"
+        },
+        {
+          "startTime": 11.36,
+          "finishTime": 11.62,
+          "word": "the"
+        },
+        {
+          "startTime": 11.62,
+          "finishTime": 11.84,
+          "word": "project"
+        },
+        {
+          "startTime": 11.84,
+          "finishTime": 12.28,
+          "word": "schedule"
+        },
+        {
+          "startTime": 12.28,
+          "finishTime": 12.46,
+          "word": "and"
+        },
+        {
+          "startTime": 12.46,
+          "finishTime": 12.64,
+          "word": "it"
+        },
+        {
+          "startTime": 12.64,
+          "finishTime": 12.76,
+          "word": "should"
+        },
+        {
+          "startTime": 12.76,
+          "finishTime": 13,
+          "word": "be"
+        },
+        {
+          "startTime": 13,
+          "finishTime": 13.46,
+          "word": "accurate."
+        }
+      ]
+    },
+    {
+      "text": "Well, the documentation says we're starting the testing phase next week,",
+      "startTime": 14.06,
+      "finishTime": 17.28,
+      "words": [
+        {
+          "startTime": 14.06,
+          "finishTime": 14.26,
+          "word": "Well,"
+        },
+        {
+          "startTime": 14.36,
+          "finishTime": 14.52,
+          "word": "the"
+        },
+        {
+          "startTime": 14.52,
+          "finishTime": 15.06,
+          "word": "documentation"
+        },
+        {
+          "startTime": 15.06,
+          "finishTime": 15.32,
+          "word": "says"
+        },
+        {
+          "startTime": 15.32,
+          "finishTime": 15.54,
+          "word": "we're"
+        },
+        {
+          "startTime": 15.54,
+          "finishTime": 15.82,
+          "word": "starting"
+        },
+        {
+          "startTime": 15.82,
+          "finishTime": 16.08,
+          "word": "the"
+        },
+        {
+          "startTime": 16.08,
+          "finishTime": 16.38,
+          "word": "testing"
+        },
+        {
+          "startTime": 16.38,
+          "finishTime": 16.62,
+          "word": "phase"
+        },
+        {
+          "startTime": 16.62,
+          "finishTime": 16.98,
+          "word": "next"
+        },
+        {
+          "startTime": 16.98,
+          "finishTime": 17.28,
+          "word": "week,"
+        }
+      ]
+    },
+    {
+      "text": "but you mentioned it was the following week.",
+      "startTime": 17.28,
+      "finishTime": 19.16,
+      "words": [
+        {
+          "startTime": 17.28,
+          "finishTime": 17.68,
+          "word": "but"
+        },
+        {
+          "startTime": 17.68,
+          "finishTime": 17.84,
+          "word": "you"
+        },
+        {
+          "startTime": 17.84,
+          "finishTime": 18.08,
+          "word": "mentioned"
+        },
+        {
+          "startTime": 18.08,
+          "finishTime": 18.22,
+          "word": "it"
+        },
+        {
+          "startTime": 18.22,
+          "finishTime": 18.36,
+          "word": "was"
+        },
+        {
+          "startTime": 18.36,
+          "finishTime": 18.5,
+          "word": "the"
+        },
+        {
+          "startTime": 18.5,
+          "finishTime": 18.78,
+          "word": "following"
+        },
+        {
+          "startTime": 18.78,
+          "finishTime": 19.16,
+          "word": "week."
+        }
+      ]
+    },
+    {
+      "text": "Let me clarify. I believe the documentation is outdated. We discussed it yesterday and",
+      "startTime": 19.86,
+      "finishTime": 25.18,
+      "words": [
+        {
+          "startTime": 19.86,
+          "finishTime": 20.38,
+          "word": "Let"
+        },
+        {
+          "startTime": 20.38,
+          "finishTime": 20.62,
+          "word": "me"
+        },
+        {
+          "startTime": 20.62,
+          "finishTime": 21.12,
+          "word": "clarify."
+        },
+        {
+          "startTime": 21.28,
+          "finishTime": 21.54,
+          "word": "I"
+        },
+        {
+          "startTime": 21.54,
+          "finishTime": 21.86,
+          "word": "believe"
+        },
+        {
+          "startTime": 21.86,
+          "finishTime": 22.14,
+          "word": "the"
+        },
+        {
+          "startTime": 22.14,
+          "finishTime": 22.64,
+          "word": "documentation"
+        },
+        {
+          "startTime": 22.64,
+          "finishTime": 22.96,
+          "word": "is"
+        },
+        {
+          "startTime": 22.96,
+          "finishTime": 23.34,
+          "word": "outdated."
+        },
+        {
+          "startTime": 23.72,
+          "finishTime": 23.94,
+          "word": "We"
+        },
+        {
+          "startTime": 23.94,
+          "finishTime": 24.28,
+          "word": "discussed"
+        },
+        {
+          "startTime": 24.28,
+          "finishTime": 24.5,
+          "word": "it"
+        },
+        {
+          "startTime": 24.5,
+          "finishTime": 24.88,
+          "word": "yesterday"
+        },
+        {
+          "startTime": 24.88,
+          "finishTime": 25.18,
+          "word": "and"
+        }
+      ]
+    },
+    {
+      "text": "we decided to move the testing phase a week later. I'm pretty sure about this.",
+      "startTime": 25.18,
+      "finishTime": 29.74,
+      "words": [
+        {
+          "startTime": 25.18,
+          "finishTime": 25.44,
+          "word": "we"
+        },
+        {
+          "startTime": 25.44,
+          "finishTime": 25.7,
+          "word": "decided"
+        },
+        {
+          "startTime": 25.7,
+          "finishTime": 25.94,
+          "word": "to"
+        },
+        {
+          "startTime": 25.94,
+          "finishTime": 26.08,
+          "word": "move"
+        },
+        {
+          "startTime": 26.08,
+          "finishTime": 26.34,
+          "word": "the"
+        },
+        {
+          "startTime": 26.34,
+          "finishTime": 26.7,
+          "word": "testing"
+        },
+        {
+          "startTime": 26.7,
+          "finishTime": 27.04,
+          "word": "phase"
+        },
+        {
+          "startTime": 27.04,
+          "finishTime": 27.3,
+          "word": "a"
+        },
+        {
+          "startTime": 27.3,
+          "finishTime": 27.46,
+          "word": "week"
+        },
+        {
+          "startTime": 27.46,
+          "finishTime": 27.86,
+          "word": "later."
+        },
+        {
+          "startTime": 28.36,
+          "finishTime": 28.74,
+          "word": "I'm"
+        },
+        {
+          "startTime": 28.74,
+          "finishTime": 28.98,
+          "word": "pretty"
+        },
+        {
+          "startTime": 28.98,
+          "finishTime": 29.14,
+          "word": "sure"
+        },
+        {
+          "startTime": 29.14,
+          "finishTime": 29.34,
+          "word": "about"
+        },
+        {
+          "startTime": 29.34,
+          "finishTime": 29.74,
+          "word": "this."
+        }
+      ]
+    },
+    {
+      "text": "Alright, that makes sense. And what about the budget allocation?",
+      "startTime": 30.32,
+      "finishTime": 33.34,
+      "words": [
+        {
+          "startTime": 30.320000000000004,
+          "finishTime": 30.76,
+          "word": "Alright,"
+        },
+        {
+          "startTime": 30.86,
+          "finishTime": 30.94,
+          "word": "that"
+        },
+        {
+          "startTime": 30.94,
+          "finishTime": 31.16,
+          "word": "makes"
+        },
+        {
+          "startTime": 31.16,
+          "finishTime": 31.62,
+          "word": "sense."
+        },
+        {
+          "startTime": 32,
+          "finishTime": 32.12,
+          "word": "And"
+        },
+        {
+          "startTime": 32.12,
+          "finishTime": 32.26,
+          "word": "what"
+        },
+        {
+          "startTime": 32.26,
+          "finishTime": 32.42,
+          "word": "about"
+        },
+        {
+          "startTime": 32.42,
+          "finishTime": 32.6,
+          "word": "the"
+        },
+        {
+          "startTime": 32.6,
+          "finishTime": 32.84,
+          "word": "budget"
+        },
+        {
+          "startTime": 32.84,
+          "finishTime": 33.34,
+          "word": "allocation?"
+        }
+      ]
+    },
+    {
+      "text": "You mentioned it was $10,000, but I found an email saying it's $15,000.",
+      "startTime": 33.7,
+      "finishTime": 37.58,
+      "words": [
+        {
+          "startTime": 33.7,
+          "finishTime": 33.86,
+          "word": "You"
+        },
+        {
+          "startTime": 33.86,
+          "finishTime": 34.14,
+          "word": "mentioned"
+        },
+        {
+          "startTime": 34.14,
+          "finishTime": 34.26,
+          "word": "it"
+        },
+        {
+          "startTime": 34.26,
+          "finishTime": 34.48,
+          "word": "was"
+        },
+        {
+          "startTime": 34.48,
+          "finishTime": 34.7,
+          "word": "$10"
+        },
+        {
+          "startTime": 34.7,
+          "finishTime": 35.24,
+          "word": ",000,"
+        },
+        {
+          "startTime": 35.38,
+          "finishTime": 35.56,
+          "word": "but"
+        },
+        {
+          "startTime": 35.56,
+          "finishTime": 35.7,
+          "word": "I"
+        },
+        {
+          "startTime": 35.7,
+          "finishTime": 35.82,
+          "word": "found"
+        },
+        {
+          "startTime": 35.82,
+          "finishTime": 35.98,
+          "word": "an"
+        },
+        {
+          "startTime": 35.98,
+          "finishTime": 36.14,
+          "word": "email"
+        },
+        {
+          "startTime": 36.14,
+          "finishTime": 36.42,
+          "word": "saying"
+        },
+        {
+          "startTime": 36.42,
+          "finishTime": 36.78,
+          "word": "it's"
+        },
+        {
+          "startTime": 36.78,
+          "finishTime": 37.04,
+          "word": "$15"
+        },
+        {
+          "startTime": 37.04,
+          "finishTime": 37.58,
+          "word": ",000."
+        }
+      ]
+    },
+    {
+      "text": "I think there's a mix-up there. The budget we agreed upon was indeed $15,000,",
+      "startTime": 38.68,
+      "finishTime": 42.96,
+      "words": [
+        {
+          "startTime": 38.68,
+          "finishTime": 38.8,
+          "word": "I"
+        },
+        {
+          "startTime": 38.8,
+          "finishTime": 38.98,
+          "word": "think"
+        },
+        {
+          "startTime": 38.98,
+          "finishTime": 39.3,
+          "word": "there's"
+        },
+        {
+          "startTime": 39.3,
+          "finishTime": 39.46,
+          "word": "a"
+        },
+        {
+          "startTime": 39.46,
+          "finishTime": 39.64,
+          "word": "mix"
+        },
+        {
+          "startTime": 39.64,
+          "finishTime": 39.78,
+          "word": "-up"
+        },
+        {
+          "startTime": 39.78,
+          "finishTime": 40.06,
+          "word": "there."
+        },
+        {
+          "startTime": 40.32,
+          "finishTime": 40.48,
+          "word": "The"
+        },
+        {
+          "startTime": 40.48,
+          "finishTime": 40.66,
+          "word": "budget"
+        },
+        {
+          "startTime": 40.66,
+          "finishTime": 40.88,
+          "word": "we"
+        },
+        {
+          "startTime": 40.88,
+          "finishTime": 41.1,
+          "word": "agreed"
+        },
+        {
+          "startTime": 41.1,
+          "finishTime": 41.42,
+          "word": "upon"
+        },
+        {
+          "startTime": 41.42,
+          "finishTime": 41.82,
+          "word": "was"
+        },
+        {
+          "startTime": 41.82,
+          "finishTime": 42.28,
+          "word": "indeed"
+        },
+        {
+          "startTime": 42.28,
+          "finishTime": 42.68,
+          "word": "$15"
+        },
+        {
+          "startTime": 42.68,
+          "finishTime": 42.96,
+          "word": ",000,"
+        }
+      ]
+    },
+    {
+      "text": "not $10,000. It should cover all the expenses.",
+      "startTime": 43.7,
+      "finishTime": 46.7,
+      "words": [
+        {
+          "startTime": 43.7,
+          "finishTime": 44.04,
+          "word": "not"
+        },
+        {
+          "startTime": 44.04,
+          "finishTime": 44.44,
+          "word": "$10"
+        },
+        {
+          "startTime": 44.44,
+          "finishTime": 44.9,
+          "word": ",000."
+        },
+        {
+          "startTime": 45.16,
+          "finishTime": 45.4,
+          "word": "It"
+        },
+        {
+          "startTime": 45.4,
+          "finishTime": 45.58,
+          "word": "should"
+        },
+        {
+          "startTime": 45.58,
+          "finishTime": 45.86,
+          "word": "cover"
+        },
+        {
+          "startTime": 45.86,
+          "finishTime": 46.06,
+          "word": "all"
+        },
+        {
+          "startTime": 46.06,
+          "finishTime": 46.28,
+          "word": "the"
+        },
+        {
+          "startTime": 46.28,
+          "finishTime": 46.7,
+          "word": "expenses."
+        }
+      ]
+    },
+    {
+      "text": "Got it, Brian. Thanks for clearing that up.",
+      "startTime": 47.42,
+      "finishTime": 49.14,
+      "words": [
+        {
+          "startTime": 47.42,
+          "finishTime": 47.58,
+          "word": "Got"
+        },
+        {
+          "startTime": 47.58,
+          "finishTime": 47.72,
+          "word": "it,"
+        },
+        {
+          "startTime": 47.84,
+          "finishTime": 47.96,
+          "word": "Brian."
+        },
+        {
+          "startTime": 48.14,
+          "finishTime": 48.32,
+          "word": "Thanks"
+        },
+        {
+          "startTime": 48.32,
+          "finishTime": 48.56,
+          "word": "for"
+        },
+        {
+          "startTime": 48.56,
+          "finishTime": 48.76,
+          "word": "clearing"
+        },
+        {
+          "startTime": 48.76,
+          "finishTime": 48.94,
+          "word": "that"
+        },
+        {
+          "startTime": 48.94,
+          "finishTime": 49.14,
+          "word": "up."
+        }
+      ]
+    },
+    {
+      "text": "It's essential that we're on the same page when it comes to project details.",
+      "startTime": 49.32,
+      "finishTime": 52,
+      "words": [
+        {
+          "startTime": 49.32,
+          "finishTime": 49.54,
+          "word": "It's"
+        },
+        {
+          "startTime": 49.54,
+          "finishTime": 49.82,
+          "word": "essential"
+        },
+        {
+          "startTime": 49.82,
+          "finishTime": 49.96,
+          "word": "that"
+        },
+        {
+          "startTime": 49.96,
+          "finishTime": 50.1,
+          "word": "we're"
+        },
+        {
+          "startTime": 50.1,
+          "finishTime": 50.24,
+          "word": "on"
+        },
+        {
+          "startTime": 50.24,
+          "finishTime": 50.34,
+          "word": "the"
+        },
+        {
+          "startTime": 50.34,
+          "finishTime": 50.5,
+          "word": "same"
+        },
+        {
+          "startTime": 50.5,
+          "finishTime": 50.74,
+          "word": "page"
+        },
+        {
+          "startTime": 50.74,
+          "finishTime": 50.88,
+          "word": "when"
+        },
+        {
+          "startTime": 50.88,
+          "finishTime": 50.94,
+          "word": "it"
+        },
+        {
+          "startTime": 50.94,
+          "finishTime": 51.18,
+          "word": "comes"
+        },
+        {
+          "startTime": 51.18,
+          "finishTime": 51.4,
+          "word": "to"
+        },
+        {
+          "startTime": 51.4,
+          "finishTime": 51.64,
+          "word": "project"
+        },
+        {
+          "startTime": 51.64,
+          "finishTime": 52,
+          "word": "details."
+        }
+      ]
+    }
+  ]
+}

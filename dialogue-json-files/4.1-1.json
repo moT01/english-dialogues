@@ -1,0 +1,347 @@
+{
+  "text": "Maria, I have a question. Do you know what motivates the team? How about you? What makes you feel motivated? Hi, Brian. Well, one thing that really motivates me is learning new things. I love exploring many new technologies and improving my skills. It keeps me excited about our projects. That's great to hear, Maria. Learning and growing professionally motivates me a lot, but you know what demotivates me sometimes? Dealing with many tight deadlines and feeling like I'm rushing to complete tasks. I can understand that, Brian. Racing against the clock can be demotivating. Well, collaborating with our creative team and brainstorming many ideas really inspires me. It's where we generate our best concepts. I agree, Maria. Collaboration and creativity are great. The problem is encountering many technical issues that slow our progress down. It is really frustrating. Yeah, technical glitches are complicated and there's not much we can do other than try to solve them. But do you know what else is great? Seeing the team's enthusiasm after solving these issues. When you see the team inspired, it can boost your motivation. Yeah, wow. You know what? This was a really motivating talk. Thanks for sharing your thoughts. Anytime. It's good to have these discussions. It reminds us of what keeps us going.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 1.56,
+      "dialogue": {
+        "text": "Maria, I have a question.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 1.94,
+      "finishTime": 3.52,
+      "dialogue": {
+        "text": "Do you know what motivates the team?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 3.92,
+      "finishTime": 4.7,
+      "dialogue": {
+        "text": "How about you?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.88,
+      "finishTime": 6.42,
+      "dialogue": {
+        "text": "What makes you feel motivated?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.68,
+      "finishTime": 8.14,
+      "dialogue": {
+        "text": "Hi, Brian.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.36,
+      "finishTime": 10.2,
+      "dialogue": {
+        "text": "Well, one thing that really motivates me",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 10.2,
+      "finishTime": 11.3,
+      "dialogue": {
+        "text": "is learning new things.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 11.76,
+      "finishTime": 13.74,
+      "dialogue": {
+        "text": "I love exploring many new technologies",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.74,
+      "finishTime": 15.04,
+      "dialogue": {
+        "text": "and improving my skills.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.52,
+      "finishTime": 17.26,
+      "dialogue": {
+        "text": "It keeps me excited about our projects.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 18.68,
+      "finishTime": 19.86,
+      "dialogue": {
+        "text": "That's great to hear, Maria.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.28,
+      "finishTime": 23.66,
+      "dialogue": {
+        "text": "Learning and growing professionally motivates me a lot,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 24.04,
+      "finishTime": 26.26,
+      "dialogue": {
+        "text": "but you know what demotivates me sometimes?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.66,
+      "finishTime": 28.4,
+      "dialogue": {
+        "text": "Dealing with many tight deadlines",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 28.4,
+      "finishTime": 31.58,
+      "dialogue": {
+        "text": "and feeling like I'm rushing to complete tasks.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.42,
+      "finishTime": 33.56,
+      "dialogue": {
+        "text": "I can understand that, Brian.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 33.9,
+      "finishTime": 36.28,
+      "dialogue": {
+        "text": "Racing against the clock can be demotivating.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.7,
+      "finishTime": 38.74,
+      "dialogue": {
+        "text": "Well, collaborating with our creative team",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 38.74,
+      "finishTime": 41.48,
+      "dialogue": {
+        "text": "and brainstorming many ideas really inspires me.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 41.84,
+      "finishTime": 43.62,
+      "dialogue": {
+        "text": "It's where we generate our best concepts.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 44.48,
+      "finishTime": 45.24,
+      "dialogue": {
+        "text": "I agree, Maria.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 45.76,
+      "finishTime": 48,
+      "dialogue": {
+        "text": "Collaboration and creativity are great.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 48.3,
+      "finishTime": 51.06,
+      "dialogue": {
+        "text": "The problem is encountering many technical issues",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 51.06,
+      "finishTime": 52.62,
+      "dialogue": {
+        "text": "that slow our progress down.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 53.02,
+      "finishTime": 54.52,
+      "dialogue": {
+        "text": "It is really frustrating.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 55.54,
+      "finishTime": 57.44,
+      "dialogue": {
+        "text": "Yeah, technical glitches are complicated",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 57.44,
+      "finishTime": 60.36,
+      "dialogue": {
+        "text": "and there's not much we can do other than try to solve them.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 60.96,
+      "finishTime": 62.34,
+      "dialogue": {
+        "text": "But do you know what else is great?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 62.76,
+      "finishTime": 65.66,
+      "dialogue": {
+        "text": "Seeing the team's enthusiasm after solving these issues.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 66.12,
+      "finishTime": 67.54,
+      "dialogue": {
+        "text": "When you see the team inspired,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 67.68,
+      "finishTime": 68.8,
+      "dialogue": {
+        "text": "it can boost your motivation.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 70.38,
+      "finishTime": 71.44,
+      "dialogue": {
+        "text": "Yeah, wow.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 71.8,
+      "finishTime": 72.38,
+      "dialogue": {
+        "text": "You know what?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 72.68,
+      "finishTime": 74.4,
+      "dialogue": {
+        "text": "This was a really motivating talk.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 74.74,
+      "finishTime": 76.1,
+      "dialogue": {
+        "text": "Thanks for sharing your thoughts.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 76.72,
+      "finishTime": 77.04,
+      "dialogue": {
+        "text": "Anytime.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 77.48,
+      "finishTime": 78.78,
+      "dialogue": {
+        "text": "It's good to have these discussions.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 79.06,
+      "finishTime": 80.6,
+      "dialogue": {
+        "text": "It reminds us of what keeps us going.",
+        "align": "right"
+      }
+    }
+  ]
+}

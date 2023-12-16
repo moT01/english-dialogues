@@ -1,0 +1,77 @@
+{
+  "text": "This library has so many functions. How can I effectively analyze the documentation for them? When dealing with functions, start by looking at the function's signature. It can provide information about the function's name, parameters, and return type. That makes sense. What's the next step? What should I do then? Next, you should examine the function's description in the documentation. It can explain what the function does and provide usage examples. Thanks. I'll make sure to follow these steps for each function.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 2.24,
+      "dialogue": {
+        "text": "This library has so many functions.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 2.64,
+      "finishTime": 5.4,
+      "dialogue": {
+        "text": "How can I effectively analyze the documentation for them?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.02,
+      "finishTime": 9.16,
+      "dialogue": {
+        "text": "When dealing with functions, start by looking at the function's signature.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.46,
+      "finishTime": 13.68,
+      "dialogue": {
+        "text": "It can provide information about the function's name, parameters, and return type.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.34,
+      "finishTime": 17.1,
+      "dialogue": {
+        "text": "That makes sense. What's the next step? What should I do then?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.7,
+      "finishTime": 21.04,
+      "dialogue": {
+        "text": "Next, you should examine the function's description in the documentation.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.34,
+      "finishTime": 24.94,
+      "dialogue": {
+        "text": "It can explain what the function does and provide usage examples.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 25.72,
+      "finishTime": 28.2,
+      "dialogue": {
+        "text": "Thanks. I'll make sure to follow these steps for each function.",
+        "align": "left"
+      }
+    }
+  ]
+}

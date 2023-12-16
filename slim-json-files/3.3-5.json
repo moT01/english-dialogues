@@ -1,0 +1,720 @@
+{
+  "text": "Sophie, how do you manage your work-life balance and your responsibilities outside of the office? It's not always easy, but I've found ways to make it work. Tell me about your responsibilities beyond work. Well, I have to make time for my family. That's really important to me. I also don't want to neglect my health, so two months ago I started jogging regularly. It helps me relax and stay fit. It sounds like you're doing great dealing with work and life responsibilities at the same time. Thank you. It's all about finding the right balance for you and your well-being, and you don't have to search for expensive solutions for that. Sometimes it's the simple and free things that bring us the result we're looking for.",
+  "segments": [
+    {
+      "text": "Sophie, how do you manage your work-life balance and your responsibilities outside of the office?",
+      "startTime": 0,
+      "finishTime": 5.46,
+      "words": [
+        {
+          "startTime": 0,
+          "finishTime": 0.84,
+          "word": "Sophie,"
+        },
+        {
+          "startTime": 1.26,
+          "finishTime": 1.44,
+          "word": "how"
+        },
+        {
+          "startTime": 1.44,
+          "finishTime": 1.6,
+          "word": "do"
+        },
+        {
+          "startTime": 1.6,
+          "finishTime": 1.76,
+          "word": "you"
+        },
+        {
+          "startTime": 1.76,
+          "finishTime": 2,
+          "word": "manage"
+        },
+        {
+          "startTime": 2,
+          "finishTime": 2.26,
+          "word": "your"
+        },
+        {
+          "startTime": 2.26,
+          "finishTime": 2.44,
+          "word": "work"
+        },
+        {
+          "startTime": 2.44,
+          "finishTime": 2.62,
+          "word": "-life"
+        },
+        {
+          "startTime": 2.62,
+          "finishTime": 3.02,
+          "word": "balance"
+        },
+        {
+          "startTime": 3.02,
+          "finishTime": 3.26,
+          "word": "and"
+        },
+        {
+          "startTime": 3.26,
+          "finishTime": 3.6,
+          "word": "your"
+        },
+        {
+          "startTime": 3.6,
+          "finishTime": 4.24,
+          "word": "responsibilities"
+        },
+        {
+          "startTime": 4.24,
+          "finishTime": 4.7,
+          "word": "outside"
+        },
+        {
+          "startTime": 4.7,
+          "finishTime": 4.84,
+          "word": "of"
+        },
+        {
+          "startTime": 4.84,
+          "finishTime": 4.98,
+          "word": "the"
+        },
+        {
+          "startTime": 4.98,
+          "finishTime": 5.46,
+          "word": "office?"
+        }
+      ]
+    },
+    {
+      "text": "It's not always easy, but I've found ways to make it work.",
+      "startTime": 5.98,
+      "finishTime": 8.7,
+      "words": [
+        {
+          "startTime": 5.98,
+          "finishTime": 6.14,
+          "word": "It's"
+        },
+        {
+          "startTime": 6.14,
+          "finishTime": 6.34,
+          "word": "not"
+        },
+        {
+          "startTime": 6.34,
+          "finishTime": 6.56,
+          "word": "always"
+        },
+        {
+          "startTime": 6.56,
+          "finishTime": 6.98,
+          "word": "easy,"
+        },
+        {
+          "startTime": 7,
+          "finishTime": 7.18,
+          "word": "but"
+        },
+        {
+          "startTime": 7.18,
+          "finishTime": 7.4,
+          "word": "I've"
+        },
+        {
+          "startTime": 7.4,
+          "finishTime": 7.56,
+          "word": "found"
+        },
+        {
+          "startTime": 7.56,
+          "finishTime": 7.8,
+          "word": "ways"
+        },
+        {
+          "startTime": 7.8,
+          "finishTime": 7.98,
+          "word": "to"
+        },
+        {
+          "startTime": 7.98,
+          "finishTime": 8.08,
+          "word": "make"
+        },
+        {
+          "startTime": 8.08,
+          "finishTime": 8.26,
+          "word": "it"
+        },
+        {
+          "startTime": 8.26,
+          "finishTime": 8.7,
+          "word": "work."
+        }
+      ]
+    },
+    {
+      "text": "Tell me about your responsibilities beyond work.",
+      "startTime": 9.34,
+      "finishTime": 11.84,
+      "words": [
+        {
+          "startTime": 9.34,
+          "finishTime": 9.46,
+          "word": "Tell"
+        },
+        {
+          "startTime": 9.46,
+          "finishTime": 9.64,
+          "word": "me"
+        },
+        {
+          "startTime": 9.64,
+          "finishTime": 9.78,
+          "word": "about"
+        },
+        {
+          "startTime": 9.78,
+          "finishTime": 10.2,
+          "word": "your"
+        },
+        {
+          "startTime": 10.2,
+          "finishTime": 10.98,
+          "word": "responsibilities"
+        },
+        {
+          "startTime": 10.98,
+          "finishTime": 11.32,
+          "word": "beyond"
+        },
+        {
+          "startTime": 11.32,
+          "finishTime": 11.84,
+          "word": "work."
+        }
+      ]
+    },
+    {
+      "text": "Well, I have to make time for my family. That's really important to me.",
+      "startTime": 12.62,
+      "finishTime": 15.94,
+      "words": [
+        {
+          "startTime": 12.62,
+          "finishTime": 12.96,
+          "word": "Well,"
+        },
+        {
+          "startTime": 13.06,
+          "finishTime": 13.14,
+          "word": "I"
+        },
+        {
+          "startTime": 13.14,
+          "finishTime": 13.32,
+          "word": "have"
+        },
+        {
+          "startTime": 13.32,
+          "finishTime": 13.44,
+          "word": "to"
+        },
+        {
+          "startTime": 13.44,
+          "finishTime": 13.58,
+          "word": "make"
+        },
+        {
+          "startTime": 13.58,
+          "finishTime": 13.76,
+          "word": "time"
+        },
+        {
+          "startTime": 13.76,
+          "finishTime": 13.92,
+          "word": "for"
+        },
+        {
+          "startTime": 13.92,
+          "finishTime": 14.12,
+          "word": "my"
+        },
+        {
+          "startTime": 14.12,
+          "finishTime": 14.46,
+          "word": "family."
+        },
+        {
+          "startTime": 14.66,
+          "finishTime": 14.92,
+          "word": "That's"
+        },
+        {
+          "startTime": 14.92,
+          "finishTime": 15.2,
+          "word": "really"
+        },
+        {
+          "startTime": 15.2,
+          "finishTime": 15.5,
+          "word": "important"
+        },
+        {
+          "startTime": 15.5,
+          "finishTime": 15.66,
+          "word": "to"
+        },
+        {
+          "startTime": 15.66,
+          "finishTime": 15.94,
+          "word": "me."
+        }
+      ]
+    },
+    {
+      "text": "I also don't want to neglect my health, so two months ago I started jogging regularly.",
+      "startTime": 16.4,
+      "finishTime": 20.44,
+      "words": [
+        {
+          "startTime": 16.4,
+          "finishTime": 16.62,
+          "word": "I"
+        },
+        {
+          "startTime": 16.62,
+          "finishTime": 16.86,
+          "word": "also"
+        },
+        {
+          "startTime": 16.86,
+          "finishTime": 17.04,
+          "word": "don't"
+        },
+        {
+          "startTime": 17.04,
+          "finishTime": 17.22,
+          "word": "want"
+        },
+        {
+          "startTime": 17.22,
+          "finishTime": 17.42,
+          "word": "to"
+        },
+        {
+          "startTime": 17.42,
+          "finishTime": 17.6,
+          "word": "neglect"
+        },
+        {
+          "startTime": 17.6,
+          "finishTime": 17.88,
+          "word": "my"
+        },
+        {
+          "startTime": 17.88,
+          "finishTime": 18.22,
+          "word": "health,"
+        },
+        {
+          "startTime": 18.36,
+          "finishTime": 18.58,
+          "word": "so"
+        },
+        {
+          "startTime": 18.58,
+          "finishTime": 18.72,
+          "word": "two"
+        },
+        {
+          "startTime": 18.72,
+          "finishTime": 18.98,
+          "word": "months"
+        },
+        {
+          "startTime": 18.98,
+          "finishTime": 19.18,
+          "word": "ago"
+        },
+        {
+          "startTime": 19.18,
+          "finishTime": 19.28,
+          "word": "I"
+        },
+        {
+          "startTime": 19.28,
+          "finishTime": 19.6,
+          "word": "started"
+        },
+        {
+          "startTime": 19.6,
+          "finishTime": 19.92,
+          "word": "jogging"
+        },
+        {
+          "startTime": 19.92,
+          "finishTime": 20.44,
+          "word": "regularly."
+        }
+      ]
+    },
+    {
+      "text": "It helps me relax and stay fit.",
+      "startTime": 20.8,
+      "finishTime": 22.38,
+      "words": [
+        {
+          "startTime": 20.8,
+          "finishTime": 20.98,
+          "word": "It"
+        },
+        {
+          "startTime": 20.98,
+          "finishTime": 21.1,
+          "word": "helps"
+        },
+        {
+          "startTime": 21.1,
+          "finishTime": 21.32,
+          "word": "me"
+        },
+        {
+          "startTime": 21.32,
+          "finishTime": 21.64,
+          "word": "relax"
+        },
+        {
+          "startTime": 21.64,
+          "finishTime": 21.84,
+          "word": "and"
+        },
+        {
+          "startTime": 21.84,
+          "finishTime": 22.06,
+          "word": "stay"
+        },
+        {
+          "startTime": 22.06,
+          "finishTime": 22.38,
+          "word": "fit."
+        }
+      ]
+    },
+    {
+      "text": "It sounds like you're doing great dealing with work and life responsibilities at the same time.",
+      "startTime": 23.38,
+      "finishTime": 27.98,
+      "words": [
+        {
+          "startTime": 23.38,
+          "finishTime": 23.54,
+          "word": "It"
+        },
+        {
+          "startTime": 23.54,
+          "finishTime": 23.74,
+          "word": "sounds"
+        },
+        {
+          "startTime": 23.74,
+          "finishTime": 23.9,
+          "word": "like"
+        },
+        {
+          "startTime": 23.9,
+          "finishTime": 24.08,
+          "word": "you're"
+        },
+        {
+          "startTime": 24.08,
+          "finishTime": 24.24,
+          "word": "doing"
+        },
+        {
+          "startTime": 24.24,
+          "finishTime": 24.66,
+          "word": "great"
+        },
+        {
+          "startTime": 24.66,
+          "finishTime": 24.98,
+          "word": "dealing"
+        },
+        {
+          "startTime": 24.98,
+          "finishTime": 25.28,
+          "word": "with"
+        },
+        {
+          "startTime": 25.28,
+          "finishTime": 25.56,
+          "word": "work"
+        },
+        {
+          "startTime": 25.56,
+          "finishTime": 25.76,
+          "word": "and"
+        },
+        {
+          "startTime": 25.76,
+          "finishTime": 26.06,
+          "word": "life"
+        },
+        {
+          "startTime": 26.06,
+          "finishTime": 26.82,
+          "word": "responsibilities"
+        },
+        {
+          "startTime": 26.82,
+          "finishTime": 27.16,
+          "word": "at"
+        },
+        {
+          "startTime": 27.16,
+          "finishTime": 27.32,
+          "word": "the"
+        },
+        {
+          "startTime": 27.32,
+          "finishTime": 27.58,
+          "word": "same"
+        },
+        {
+          "startTime": 27.58,
+          "finishTime": 27.98,
+          "word": "time."
+        }
+      ]
+    },
+    {
+      "text": "Thank you. It's all about finding the right balance for you and your well-being,",
+      "startTime": 27.98,
+      "finishTime": 32.14,
+      "words": [
+        {
+          "startTime": 27.98,
+          "finishTime": 28.74,
+          "word": "Thank"
+        },
+        {
+          "startTime": 28.74,
+          "finishTime": 29.06,
+          "word": "you."
+        },
+        {
+          "startTime": 29.36,
+          "finishTime": 29.54,
+          "word": "It's"
+        },
+        {
+          "startTime": 29.54,
+          "finishTime": 29.72,
+          "word": "all"
+        },
+        {
+          "startTime": 29.72,
+          "finishTime": 29.94,
+          "word": "about"
+        },
+        {
+          "startTime": 29.94,
+          "finishTime": 30.22,
+          "word": "finding"
+        },
+        {
+          "startTime": 30.22,
+          "finishTime": 30.38,
+          "word": "the"
+        },
+        {
+          "startTime": 30.38,
+          "finishTime": 30.56,
+          "word": "right"
+        },
+        {
+          "startTime": 30.56,
+          "finishTime": 30.88,
+          "word": "balance"
+        },
+        {
+          "startTime": 30.88,
+          "finishTime": 31.12,
+          "word": "for"
+        },
+        {
+          "startTime": 31.12,
+          "finishTime": 31.3,
+          "word": "you"
+        },
+        {
+          "startTime": 31.3,
+          "finishTime": 31.46,
+          "word": "and"
+        },
+        {
+          "startTime": 31.46,
+          "finishTime": 31.64,
+          "word": "your"
+        },
+        {
+          "startTime": 31.64,
+          "finishTime": 31.78,
+          "word": "well"
+        },
+        {
+          "startTime": 31.78,
+          "finishTime": 32.14,
+          "word": "-being,"
+        }
+      ]
+    },
+    {
+      "text": "and you don't have to search for expensive solutions for that.",
+      "startTime": 32.52,
+      "finishTime": 35.22,
+      "words": [
+        {
+          "startTime": 32.52,
+          "finishTime": 32.74,
+          "word": "and"
+        },
+        {
+          "startTime": 32.74,
+          "finishTime": 32.82,
+          "word": "you"
+        },
+        {
+          "startTime": 32.82,
+          "finishTime": 33,
+          "word": "don't"
+        },
+        {
+          "startTime": 33,
+          "finishTime": 33.24,
+          "word": "have"
+        },
+        {
+          "startTime": 33.24,
+          "finishTime": 33.32,
+          "word": "to"
+        },
+        {
+          "startTime": 33.32,
+          "finishTime": 33.6,
+          "word": "search"
+        },
+        {
+          "startTime": 33.6,
+          "finishTime": 33.9,
+          "word": "for"
+        },
+        {
+          "startTime": 33.9,
+          "finishTime": 34.26,
+          "word": "expensive"
+        },
+        {
+          "startTime": 34.26,
+          "finishTime": 34.76,
+          "word": "solutions"
+        },
+        {
+          "startTime": 34.76,
+          "finishTime": 34.98,
+          "word": "for"
+        },
+        {
+          "startTime": 34.98,
+          "finishTime": 35.22,
+          "word": "that."
+        }
+      ]
+    },
+    {
+      "text": "Sometimes it's the simple and free things that bring us the result we're looking for.",
+      "startTime": 35.64,
+      "finishTime": 39.12,
+      "words": [
+        {
+          "startTime": 35.64,
+          "finishTime": 36.08,
+          "word": "Sometimes"
+        },
+        {
+          "startTime": 36.08,
+          "finishTime": 36.42,
+          "word": "it's"
+        },
+        {
+          "startTime": 36.42,
+          "finishTime": 36.52,
+          "word": "the"
+        },
+        {
+          "startTime": 36.52,
+          "finishTime": 36.82,
+          "word": "simple"
+        },
+        {
+          "startTime": 36.82,
+          "finishTime": 37.02,
+          "word": "and"
+        },
+        {
+          "startTime": 37.02,
+          "finishTime": 37.22,
+          "word": "free"
+        },
+        {
+          "startTime": 37.22,
+          "finishTime": 37.58,
+          "word": "things"
+        },
+        {
+          "startTime": 37.58,
+          "finishTime": 37.78,
+          "word": "that"
+        },
+        {
+          "startTime": 37.78,
+          "finishTime": 37.88,
+          "word": "bring"
+        },
+        {
+          "startTime": 37.88,
+          "finishTime": 38.1,
+          "word": "us"
+        },
+        {
+          "startTime": 38.1,
+          "finishTime": 38.26,
+          "word": "the"
+        },
+        {
+          "startTime": 38.26,
+          "finishTime": 38.4,
+          "word": "result"
+        },
+        {
+          "startTime": 38.4,
+          "finishTime": 38.56,
+          "word": "we're"
+        },
+        {
+          "startTime": 38.56,
+          "finishTime": 38.8,
+          "word": "looking"
+        },
+        {
+          "startTime": 38.8,
+          "finishTime": 39.12,
+          "word": "for."
+        }
+      ]
+    }
+  ]
+}

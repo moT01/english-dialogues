@@ -1,0 +1,95 @@
+{
+  "text": "All right team this is Alice's first day with us so please let me introduce you all to her. Well I'm Bob your project manager. I'm really happy to see new faces joining the team. This is Sarah the senior software developer. She's been with the company for five years now working on several projects. This is John the database administrator. He's been here for three years. He makes sure that our data is secure and efficient. Finally this is Linda our UX UI designer. She joined the team last year. She loves creating user-friendly interfaces. Everybody let's welcome Alice to the team. Great thanks everybody. Well I'm Alice. I'm starting as a junior developer today. I really like learning new things and can't wait to start contributing to our projects.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 5.4,
+      "dialogue": {
+        "text": "All right team this is Alice's first day with us so please let me introduce you",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 5.4,
+      "finishTime": 10.68,
+      "dialogue": {
+        "text": "all to her. Well I'm Bob your project manager. I'm really happy to see new",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 10.68,
+      "finishTime": 15.42,
+      "dialogue": {
+        "text": "faces joining the team. This is Sarah the senior software developer. She's been",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 15.42,
+      "finishTime": 20.06,
+      "dialogue": {
+        "text": "with the company for five years now working on several projects. This is John",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.06,
+      "finishTime": 24.62,
+      "dialogue": {
+        "text": "the database administrator. He's been here for three years. He makes sure that",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 24.62,
+      "finishTime": 31.04,
+      "dialogue": {
+        "text": "our data is secure and efficient. Finally this is Linda our UX UI designer. She",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.04,
+      "finishTime": 34.84,
+      "dialogue": {
+        "text": "joined the team last year. She loves creating user-friendly interfaces.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.72,
+      "finishTime": 41.88,
+      "dialogue": {
+        "text": "Everybody let's welcome Alice to the team. Great thanks everybody. Well I'm",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 41.88,
+      "finishTime": 45.68,
+      "dialogue": {
+        "text": "Alice. I'm starting as a junior developer today. I really like learning",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 45.68,
+      "finishTime": 48.82,
+      "dialogue": {
+        "text": "new things and can't wait to start contributing to our projects.",
+        "align": "left"
+      }
+    }
+  ]
+}

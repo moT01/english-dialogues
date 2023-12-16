@@ -1,0 +1,41 @@
+{
+  "text": "Hey Tom, I noticed that you were struggling with the version control system. Need a hand? Oh, thanks Maria. I'm having a hard time understanding how to merge branches. Have you ever heard how to deal with this? All the time. Merging can be tricky. Let's sit down after the meeting and I'll walk you through it step by step.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.26,
+      "dialogue": {
+        "text": "Hey Tom, I noticed that you were struggling with the version control system. Need a hand?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.58,
+      "finishTime": 8.32,
+      "dialogue": {
+        "text": "Oh, thanks Maria. I'm having a hard time understanding how to merge branches.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 8.82,
+      "finishTime": 12.7,
+      "dialogue": {
+        "text": "Have you ever heard how to deal with this? All the time. Merging can be tricky.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.2,
+      "finishTime": 16.2,
+      "dialogue": {
+        "text": "Let's sit down after the meeting and I'll walk you through it step by step.",
+        "align": "right"
+      }
+    }
+  ]
+}

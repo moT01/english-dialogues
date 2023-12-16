@@ -1,0 +1,68 @@
+{
+  "text": "Sarah, can you explain data types to me? I'm a bit confused. Sure. Data types are fundamental in programming. You use them to tell the computer what kind of data you're working with. Thanks, but I see many data types listed in the documentation. How do I know which one to choose? Good question. You usually choose data types based on the kind of information you want to store. For example, if you're working with text, you'd use data type string. If it's whole numbers, you'd choose int. Ah, I see. So this means I should pick the data type that matches the information I want to work with.",
+  "segments": [
+    {
+      "character": "Tom",
+      "startTime": 0,
+      "finishTime": 3.78,
+      "dialogue": {
+        "text": "Sarah, can you explain data types to me? I'm a bit confused.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.4,
+      "finishTime": 8.26,
+      "dialogue": {
+        "text": "Sure. Data types are fundamental in programming. You use them to tell the",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.26,
+      "finishTime": 13.14,
+      "dialogue": {
+        "text": "computer what kind of data you're working with. Thanks, but I see many data types listed in the",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.14,
+      "finishTime": 18.58,
+      "dialogue": {
+        "text": "documentation. How do I know which one to choose? Good question. You usually choose data types based",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 18.58,
+      "finishTime": 23.68,
+      "dialogue": {
+        "text": "on the kind of information you want to store. For example, if you're working with text, you'd use",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.68,
+      "finishTime": 27.52,
+      "dialogue": {
+        "text": "data type string. If it's whole numbers, you'd choose int.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.18,
+      "finishTime": 33.64,
+      "dialogue": {
+        "text": "Ah, I see. So this means I should pick the data type that matches the information I want to work with.",
+        "align": "right"
+      }
+    }
+  ]
+}

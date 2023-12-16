@@ -1,0 +1,86 @@
+{
+  "text": "Hey, Sarah. My computer is acting up. I can't open any files. Oh, that's frustrating. Have you tried restarting it? Yes, I did, but it didn't work. Okay, no worries. You might want to check if there's enough storage space on your hard drive. Sometimes that causes issues. How do I do that? Just right click on the hard drive icon and select properties. It'll show you the available space. Got it. Thanks. I'll give that a shot.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.8,
+      "dialogue": {
+        "text": "Hey, Sarah. My computer is acting up. I can't open any files.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.4,
+      "finishTime": 7.04,
+      "dialogue": {
+        "text": "Oh, that's frustrating. Have you tried restarting it?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.3,
+      "finishTime": 9.26,
+      "dialogue": {
+        "text": "Yes, I did, but it didn't work.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.72,
+      "finishTime": 13.72,
+      "dialogue": {
+        "text": "Okay, no worries. You might want to check if there's enough storage space on your hard drive.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13.9,
+      "finishTime": 15.42,
+      "dialogue": {
+        "text": "Sometimes that causes issues.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.72,
+      "finishTime": 16.78,
+      "dialogue": {
+        "text": "How do I do that?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.18,
+      "finishTime": 20.06,
+      "dialogue": {
+        "text": "Just right click on the hard drive icon and select properties.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.4,
+      "finishTime": 22.02,
+      "dialogue": {
+        "text": "It'll show you the available space.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.42,
+      "finishTime": 24.58,
+      "dialogue": {
+        "text": "Got it. Thanks. I'll give that a shot.",
+        "align": "left"
+      }
+    }
+  ]
+}

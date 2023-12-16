@@ -1,0 +1,167 @@
+{
+  "text": "Hey, Sarah, do you know what really gets me excited about tech? It's all those amazing gadgets. I can see your enthusiasm, Bob. Tell me, which gadgets are your absolute favorites? Well, one of my favorite gadgets is the smartwatch. I love how it keeps me connected, tracks my health, and even helps me stay organized with reminders and notifications. Smartwatches are cool. I'm more into smartphones. The camera quality, the speed, and the number of apps available are what I like the most. Oh, smartphones are fantastic too, Sarah. Gadgets like these are transforming our daily lives. But you know what my obsession is these days? Drones! I love capturing stunning aerial shots and exploring new angles for photography. Drones are an open door for exciting possibilities, Bob. Your passion for tech gadgets is contagious. It's amazing how these innovations keep making our lives more interesting and connected.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 3.6,
+      "dialogue": {
+        "text": "Hey, Sarah, do you know what really gets me excited about tech?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4,
+      "finishTime": 6.08,
+      "dialogue": {
+        "text": "It's all those amazing gadgets.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.86,
+      "finishTime": 8.6,
+      "dialogue": {
+        "text": "I can see your enthusiasm, Bob.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.86,
+      "finishTime": 11.36,
+      "dialogue": {
+        "text": "Tell me, which gadgets are your absolute favorites?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.04,
+      "finishTime": 15.2,
+      "dialogue": {
+        "text": "Well, one of my favorite gadgets is the smartwatch.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 15.36,
+      "finishTime": 20.24,
+      "dialogue": {
+        "text": "I love how it keeps me connected, tracks my health, and even helps me stay organized with",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.24,
+      "finishTime": 21.74,
+      "dialogue": {
+        "text": "reminders and notifications.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.76,
+      "finishTime": 23.68,
+      "dialogue": {
+        "text": "Smartwatches are cool.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.88,
+      "finishTime": 25.04,
+      "dialogue": {
+        "text": "I'm more into smartphones.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 25.04,
+      "finishTime": 29.84,
+      "dialogue": {
+        "text": "The camera quality, the speed, and the number of apps available are what I like the most.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 30.2,
+      "finishTime": 32.88,
+      "dialogue": {
+        "text": "Oh, smartphones are fantastic too, Sarah.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 33.36,
+      "finishTime": 36.22,
+      "dialogue": {
+        "text": "Gadgets like these are transforming our daily lives.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 36.58,
+      "finishTime": 38.8,
+      "dialogue": {
+        "text": "But you know what my obsession is these days?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 39.28,
+      "finishTime": 39.78,
+      "dialogue": {
+        "text": "Drones!",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 40.36,
+      "finishTime": 45.56,
+      "dialogue": {
+        "text": "I love capturing stunning aerial shots and exploring new angles for photography.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 46.68,
+      "finishTime": 49.32,
+      "dialogue": {
+        "text": "Drones are an open door for exciting possibilities, Bob.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 49.72,
+      "finishTime": 51.74,
+      "dialogue": {
+        "text": "Your passion for tech gadgets is contagious.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 51.74,
+      "finishTime": 55.84,
+      "dialogue": {
+        "text": "It's amazing how these innovations keep making our lives more interesting and connected.",
+        "align": "right"
+      }
+    }
+  ]
+}

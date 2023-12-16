@@ -1,0 +1,176 @@
+{
+  "text": "Alice, how do you feel about remote work and collaboration tools? Do you like them? During the pandemic, we worked from home with tools like video conference apps and collaboration platforms. They allow teams to work together no matter where they are. Video conferencing tools also made it possible for teams to have face-to-face meetings online. Do you think they're here to stay? Absolutely, Tom. Remote work is likely to remain a big part of our lives. It offers flexibility and can help companies gain access to talent from many parts of the world. What other collaboration tools are there? Well, there are project management tools. They help teams to organize tasks. Also, cloud storage services make it easy to share and collaborate on documents.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0.62,
+      "finishTime": 3.04,
+      "dialogue": {
+        "text": "Alice, how do you feel about remote work",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 3.04,
+      "finishTime": 4.22,
+      "dialogue": {
+        "text": "and collaboration tools?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.52,
+      "finishTime": 5.36,
+      "dialogue": {
+        "text": "Do you like them?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 6.14,
+      "finishTime": 7.74,
+      "dialogue": {
+        "text": "During the pandemic, we worked from home",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.74,
+      "finishTime": 9.6,
+      "dialogue": {
+        "text": "with tools like video conference apps",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.6,
+      "finishTime": 10.92,
+      "dialogue": {
+        "text": "and collaboration platforms.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 11.58,
+      "finishTime": 14.38,
+      "dialogue": {
+        "text": "They allow teams to work together no matter where they are.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.68,
+      "finishTime": 16.8,
+      "dialogue": {
+        "text": "Video conferencing tools also made it possible",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.8,
+      "finishTime": 19.06,
+      "dialogue": {
+        "text": "for teams to have face-to-face meetings online.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 19.78,
+      "finishTime": 21.04,
+      "dialogue": {
+        "text": "Do you think they're here to stay?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 22.26,
+      "finishTime": 23.1,
+      "dialogue": {
+        "text": "Absolutely, Tom.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 23.34,
+      "finishTime": 25.76,
+      "dialogue": {
+        "text": "Remote work is likely to remain a big part of our lives.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.1,
+      "finishTime": 28.24,
+      "dialogue": {
+        "text": "It offers flexibility and can help companies",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.24,
+      "finishTime": 30.52,
+      "dialogue": {
+        "text": "gain access to talent from many parts of the world.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 31.02,
+      "finishTime": 33.06,
+      "dialogue": {
+        "text": "What other collaboration tools are there?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 33.56,
+      "finishTime": 35.44,
+      "dialogue": {
+        "text": "Well, there are project management tools.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.72,
+      "finishTime": 37.48,
+      "dialogue": {
+        "text": "They help teams to organize tasks.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 38.08,
+      "finishTime": 40.66,
+      "dialogue": {
+        "text": "Also, cloud storage services make it easy to share",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 40.66,
+      "finishTime": 41.92,
+      "dialogue": {
+        "text": "and collaborate on documents.",
+        "align": "left"
+      }
+    }
+  ]
+}

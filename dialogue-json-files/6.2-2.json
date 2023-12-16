@@ -1,0 +1,59 @@
+{
+  "text": "Good morning team. Let's start our stand-up meeting. What's on your plate today? Good morning, Bob. I'd like to bring up a coding issue. I've been stuck on it for a while Would you mind taking a look at my code? I think a fresh pair of eyes could help of course I'd be happy to help just share the code with me and I'll dive in We might want to set up a short code review session after the meeting to exchange ideas and solutions It could benefit the entire team. That's a great idea. Let's arrange this we can definitely learn from each other",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.08,
+      "dialogue": {
+        "text": "Good morning team. Let's start our stand-up meeting. What's on your plate today?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.78,
+      "finishTime": 9.1,
+      "dialogue": {
+        "text": "Good morning, Bob. I'd like to bring up a coding issue. I've been stuck on it for a while",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 9.1,
+      "finishTime": 14.26,
+      "dialogue": {
+        "text": "Would you mind taking a look at my code? I think a fresh pair of eyes could help of course",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 14.26,
+      "finishTime": 17.28,
+      "dialogue": {
+        "text": "I'd be happy to help just share the code with me and I'll dive in",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 17.28,
+      "finishTime": 22.72,
+      "dialogue": {
+        "text": "We might want to set up a short code review session after the meeting to exchange ideas and solutions",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 22.72,
+      "finishTime": 28.92,
+      "dialogue": {
+        "text": "It could benefit the entire team. That's a great idea. Let's arrange this we can definitely learn from each other",
+        "align": "right"
+      }
+    }
+  ]
+}

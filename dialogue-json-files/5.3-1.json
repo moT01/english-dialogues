@@ -1,0 +1,122 @@
+{
+  "text": "Hey Sarah, I read about low code development on the internet and I got curious, do you know what it's all about? Low code development is about making software with less code. It's one of those trends that simplifies the development process. That sounds convenient, but can we use it on our projects? We can consider low code tools to speed up development and reduce the need for extensive coding. It's particularly useful when you have many tasks and a limited coding team. I see. Maybe we could try it on some of our more demanding projects. I think so. Why don't we check out some of these tools to see if they can help us? I'm on it.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 4.42,
+      "dialogue": {
+        "text": "Hey Sarah, I read about low code development on the internet and I got curious, do you",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 4.42,
+      "finishTime": 5.5,
+      "dialogue": {
+        "text": "know what it's all about?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 6.34,
+      "finishTime": 9.46,
+      "dialogue": {
+        "text": "Low code development is about making software with less code.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 9.74,
+      "finishTime": 12.5,
+      "dialogue": {
+        "text": "It's one of those trends that simplifies the development process.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 12.94,
+      "finishTime": 15.62,
+      "dialogue": {
+        "text": "That sounds convenient, but can we use it on our projects?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 16.58,
+      "finishTime": 20.74,
+      "dialogue": {
+        "text": "We can consider low code tools to speed up development and reduce the need for extensive",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 20.74,
+      "finishTime": 21.12,
+      "dialogue": {
+        "text": "coding.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 21.76,
+      "finishTime": 25.62,
+      "dialogue": {
+        "text": "It's particularly useful when you have many tasks and a limited coding team.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 26.06,
+      "finishTime": 26.54,
+      "dialogue": {
+        "text": "I see.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 26.54,
+      "finishTime": 29.92,
+      "dialogue": {
+        "text": "Maybe we could try it on some of our more demanding projects.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 30.5,
+      "finishTime": 31.28,
+      "dialogue": {
+        "text": "I think so.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 31.54,
+      "finishTime": 34.5,
+      "dialogue": {
+        "text": "Why don't we check out some of these tools to see if they can help us?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 34.86,
+      "finishTime": 35.5,
+      "dialogue": {
+        "text": "I'm on it.",
+        "align": "left"
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "text": "Tell me about our team meetings, Sophie. Do they happen every week? Yes, they do. We have meetings on Monday mornings. Hmm. Do we discuss all our ongoing projects in these meetings? We do. It's a chance to update everyone on project progress. Awesome. Do they usually last long? Not too long. They usually take about 30 to 45 minutes. That's reasonable. Do we have an agenda for each meeting? Yes, we do. Maria prepares the agenda in advance. Good to know. Do the meetings involve everyone on the team? Absolutely. All the team members have a chance to speak, so everyone knows what the others are doing. That's important. Does Maria assign tasks during these meetings? Sometimes, but we normally discuss tasks we plan on tackling for the week. Does this include brainstorming sessions? Occasionally, yeah. It depends on the project's needs. I can't wait for the first meeting I'll attend. Probably next Monday.",
+  "segments": [
+    {
+      "character": "Maria",
+      "startTime": 0,
+      "finishTime": 2.16,
+      "dialogue": {
+        "text": "Tell me about our team meetings, Sophie.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 2.4,
+      "finishTime": 3.7,
+      "dialogue": {
+        "text": "Do they happen every week?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 4.54,
+      "finishTime": 5.24,
+      "dialogue": {
+        "text": "Yes, they do.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 5.3,
+      "finishTime": 6.86,
+      "dialogue": {
+        "text": "We have meetings on Monday mornings.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 7.84,
+      "finishTime": 8.2,
+      "dialogue": {
+        "text": "Hmm.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 8.86,
+      "finishTime": 12.2,
+      "dialogue": {
+        "text": "Do we discuss all our ongoing projects in these meetings?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 13,
+      "finishTime": 13.6,
+      "dialogue": {
+        "text": "We do.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 13.78,
+      "finishTime": 16.32,
+      "dialogue": {
+        "text": "It's a chance to update everyone on project progress.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 16.82,
+      "finishTime": 17.34,
+      "dialogue": {
+        "text": "Awesome.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 17.8,
+      "finishTime": 19.14,
+      "dialogue": {
+        "text": "Do they usually last long?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 19.86,
+      "finishTime": 20.6,
+      "dialogue": {
+        "text": "Not too long.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 20.62,
+      "finishTime": 22.92,
+      "dialogue": {
+        "text": "They usually take about 30 to 45 minutes.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 23.14,
+      "finishTime": 24,
+      "dialogue": {
+        "text": "That's reasonable.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 24.7,
+      "finishTime": 26.52,
+      "dialogue": {
+        "text": "Do we have an agenda for each meeting?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 27.34,
+      "finishTime": 28.18,
+      "dialogue": {
+        "text": "Yes, we do.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 28.18,
+      "finishTime": 30.48,
+      "dialogue": {
+        "text": "Maria prepares the agenda in advance.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 30.64,
+      "finishTime": 31.94,
+      "dialogue": {
+        "text": "Good to know.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 32.2,
+      "finishTime": 34.44,
+      "dialogue": {
+        "text": "Do the meetings involve everyone on the team?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 35.24,
+      "finishTime": 35.6,
+      "dialogue": {
+        "text": "Absolutely.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 36.06,
+      "finishTime": 37.84,
+      "dialogue": {
+        "text": "All the team members have a chance to speak,",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 38.2,
+      "finishTime": 39.78,
+      "dialogue": {
+        "text": "so everyone knows what the others are doing.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 40.22,
+      "finishTime": 41.1,
+      "dialogue": {
+        "text": "That's important.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 41.48,
+      "finishTime": 44.2,
+      "dialogue": {
+        "text": "Does Maria assign tasks during these meetings?",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 45.02,
+      "finishTime": 47.16,
+      "dialogue": {
+        "text": "Sometimes, but we normally discuss tasks",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 47.16,
+      "finishTime": 48.72,
+      "dialogue": {
+        "text": "we plan on tackling for the week.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 49.2,
+      "finishTime": 51.24,
+      "dialogue": {
+        "text": "Does this include brainstorming sessions?",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 52.02,
+      "finishTime": 52.92,
+      "dialogue": {
+        "text": "Occasionally, yeah.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 53,
+      "finishTime": 54.56,
+      "dialogue": {
+        "text": "It depends on the project's needs.",
+        "align": "right"
+      }
+    },
+    {
+      "character": "Maria",
+      "startTime": 55.22,
+      "finishTime": 57.4,
+      "dialogue": {
+        "text": "I can't wait for the first meeting I'll attend.",
+        "align": "left"
+      }
+    },
+    {
+      "character": "Tom",
+      "startTime": 57.4,
+      "finishTime": 58.68,
+      "dialogue": {
+        "text": "Probably next Monday.",
+        "align": "right"
+      }
+    }
+  ]
+}

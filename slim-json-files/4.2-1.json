@@ -1,0 +1,590 @@
+{
+  "text": "Hey Tom, have you heard about artificial intelligence? Absolutely, Sophie. AI is amazing. It's all about teaching machines to think and learn like humans. That sounds fascinating, but how is it used in the real world? Well, AI is everywhere, from chatbots that help with customer service to self-driving cars that use AI to navigate safely. In healthcare, it's used to analyze medical data and even assist in surgeries. Wow, that's incredible. But what about ethical concerns? Yeah, we have to make sure AI is used ethically and doesn't generate bias. But researchers and companies are actively working on addressing these issues.",
+  "segments": [
+    {
+      "text": "Hey Tom, have you heard about artificial intelligence?",
+      "startTime": 0,
+      "finishTime": 2.92,
+      "words": [
+        {
+          "startTime": 0,
+          "finishTime": 0.74,
+          "word": "Hey"
+        },
+        {
+          "startTime": 0.74,
+          "finishTime": 1.04,
+          "word": "Tom,"
+        },
+        {
+          "startTime": 1.16,
+          "finishTime": 1.32,
+          "word": "have"
+        },
+        {
+          "startTime": 1.32,
+          "finishTime": 1.42,
+          "word": "you"
+        },
+        {
+          "startTime": 1.42,
+          "finishTime": 1.58,
+          "word": "heard"
+        },
+        {
+          "startTime": 1.58,
+          "finishTime": 1.8,
+          "word": "about"
+        },
+        {
+          "startTime": 1.8,
+          "finishTime": 2.3,
+          "word": "artificial"
+        },
+        {
+          "startTime": 2.3,
+          "finishTime": 2.92,
+          "word": "intelligence?"
+        }
+      ]
+    },
+    {
+      "text": "Absolutely, Sophie. AI is amazing. It's all about teaching machines to think and learn",
+      "startTime": 3.58,
+      "finishTime": 9.18,
+      "words": [
+        {
+          "startTime": 3.58,
+          "finishTime": 4.16,
+          "word": "Absolutely,"
+        },
+        {
+          "startTime": 4.16,
+          "finishTime": 4.64,
+          "word": "Sophie."
+        },
+        {
+          "startTime": 5.24,
+          "finishTime": 5.46,
+          "word": "AI"
+        },
+        {
+          "startTime": 5.46,
+          "finishTime": 5.72,
+          "word": "is"
+        },
+        {
+          "startTime": 5.72,
+          "finishTime": 6.22,
+          "word": "amazing."
+        },
+        {
+          "startTime": 6.42,
+          "finishTime": 6.78,
+          "word": "It's"
+        },
+        {
+          "startTime": 6.78,
+          "finishTime": 7.12,
+          "word": "all"
+        },
+        {
+          "startTime": 7.12,
+          "finishTime": 7.36,
+          "word": "about"
+        },
+        {
+          "startTime": 7.36,
+          "finishTime": 7.72,
+          "word": "teaching"
+        },
+        {
+          "startTime": 7.72,
+          "finishTime": 8.12,
+          "word": "machines"
+        },
+        {
+          "startTime": 8.12,
+          "finishTime": 8.36,
+          "word": "to"
+        },
+        {
+          "startTime": 8.36,
+          "finishTime": 8.64,
+          "word": "think"
+        },
+        {
+          "startTime": 8.64,
+          "finishTime": 8.92,
+          "word": "and"
+        },
+        {
+          "startTime": 8.92,
+          "finishTime": 9.18,
+          "word": "learn"
+        }
+      ]
+    },
+    {
+      "text": "like humans.",
+      "startTime": 9.18,
+      "finishTime": 9.92,
+      "words": [
+        {
+          "startTime": 9.18,
+          "finishTime": 9.46,
+          "word": "like"
+        },
+        {
+          "startTime": 9.46,
+          "finishTime": 9.92,
+          "word": "humans."
+        }
+      ]
+    },
+    {
+      "text": "That sounds fascinating, but how is it used in the real world?",
+      "startTime": 10.42,
+      "finishTime": 13.28,
+      "words": [
+        {
+          "startTime": 10.42,
+          "finishTime": 10.5,
+          "word": "That"
+        },
+        {
+          "startTime": 10.5,
+          "finishTime": 10.78,
+          "word": "sounds"
+        },
+        {
+          "startTime": 10.78,
+          "finishTime": 11.42,
+          "word": "fascinating,"
+        },
+        {
+          "startTime": 11.58,
+          "finishTime": 11.84,
+          "word": "but"
+        },
+        {
+          "startTime": 11.84,
+          "finishTime": 12.02,
+          "word": "how"
+        },
+        {
+          "startTime": 12.02,
+          "finishTime": 12.12,
+          "word": "is"
+        },
+        {
+          "startTime": 12.12,
+          "finishTime": 12.26,
+          "word": "it"
+        },
+        {
+          "startTime": 12.26,
+          "finishTime": 12.5,
+          "word": "used"
+        },
+        {
+          "startTime": 12.5,
+          "finishTime": 12.66,
+          "word": "in"
+        },
+        {
+          "startTime": 12.66,
+          "finishTime": 12.74,
+          "word": "the"
+        },
+        {
+          "startTime": 12.74,
+          "finishTime": 12.94,
+          "word": "real"
+        },
+        {
+          "startTime": 12.94,
+          "finishTime": 13.28,
+          "word": "world?"
+        }
+      ]
+    },
+    {
+      "text": "Well, AI is everywhere, from chatbots that help with customer service to self-driving",
+      "startTime": 13.96,
+      "finishTime": 18.72,
+      "words": [
+        {
+          "startTime": 13.96,
+          "finishTime": 14.38,
+          "word": "Well,"
+        },
+        {
+          "startTime": 14.6,
+          "finishTime": 14.88,
+          "word": "AI"
+        },
+        {
+          "startTime": 14.88,
+          "finishTime": 15.1,
+          "word": "is"
+        },
+        {
+          "startTime": 15.1,
+          "finishTime": 15.52,
+          "word": "everywhere,"
+        },
+        {
+          "startTime": 15.72,
+          "finishTime": 15.92,
+          "word": "from"
+        },
+        {
+          "startTime": 15.92,
+          "finishTime": 16.42,
+          "word": "chatbots"
+        },
+        {
+          "startTime": 16.42,
+          "finishTime": 16.68,
+          "word": "that"
+        },
+        {
+          "startTime": 16.68,
+          "finishTime": 16.8,
+          "word": "help"
+        },
+        {
+          "startTime": 16.8,
+          "finishTime": 17.08,
+          "word": "with"
+        },
+        {
+          "startTime": 17.08,
+          "finishTime": 17.42,
+          "word": "customer"
+        },
+        {
+          "startTime": 17.42,
+          "finishTime": 17.82,
+          "word": "service"
+        },
+        {
+          "startTime": 17.82,
+          "finishTime": 18.2,
+          "word": "to"
+        },
+        {
+          "startTime": 18.2,
+          "finishTime": 18.48,
+          "word": "self"
+        },
+        {
+          "startTime": 18.48,
+          "finishTime": 18.72,
+          "word": "-driving"
+        }
+      ]
+    },
+    {
+      "text": "cars that use AI to navigate safely. In healthcare, it's used to analyze medical data and even",
+      "startTime": 18.72,
+      "finishTime": 25.16,
+      "words": [
+        {
+          "startTime": 18.72,
+          "finishTime": 19.1,
+          "word": "cars"
+        },
+        {
+          "startTime": 19.1,
+          "finishTime": 19.42,
+          "word": "that"
+        },
+        {
+          "startTime": 19.42,
+          "finishTime": 19.66,
+          "word": "use"
+        },
+        {
+          "startTime": 19.66,
+          "finishTime": 20.08,
+          "word": "AI"
+        },
+        {
+          "startTime": 20.08,
+          "finishTime": 20.32,
+          "word": "to"
+        },
+        {
+          "startTime": 20.32,
+          "finishTime": 20.7,
+          "word": "navigate"
+        },
+        {
+          "startTime": 20.7,
+          "finishTime": 21.1,
+          "word": "safely."
+        },
+        {
+          "startTime": 21.62,
+          "finishTime": 21.86,
+          "word": "In"
+        },
+        {
+          "startTime": 21.86,
+          "finishTime": 22.26,
+          "word": "healthcare,"
+        },
+        {
+          "startTime": 22.74,
+          "finishTime": 22.86,
+          "word": "it's"
+        },
+        {
+          "startTime": 22.86,
+          "finishTime": 23.06,
+          "word": "used"
+        },
+        {
+          "startTime": 23.06,
+          "finishTime": 23.32,
+          "word": "to"
+        },
+        {
+          "startTime": 23.32,
+          "finishTime": 23.64,
+          "word": "analyze"
+        },
+        {
+          "startTime": 23.64,
+          "finishTime": 24,
+          "word": "medical"
+        },
+        {
+          "startTime": 24,
+          "finishTime": 24.38,
+          "word": "data"
+        },
+        {
+          "startTime": 24.38,
+          "finishTime": 24.86,
+          "word": "and"
+        },
+        {
+          "startTime": 24.86,
+          "finishTime": 25.16,
+          "word": "even"
+        }
+      ]
+    },
+    {
+      "text": "assist in surgeries.",
+      "startTime": 25.16,
+      "finishTime": 26.46,
+      "words": [
+        {
+          "startTime": 25.16,
+          "finishTime": 25.68,
+          "word": "assist"
+        },
+        {
+          "startTime": 25.68,
+          "finishTime": 26.02,
+          "word": "in"
+        },
+        {
+          "startTime": 26.02,
+          "finishTime": 26.46,
+          "word": "surgeries."
+        }
+      ]
+    },
+    {
+      "text": "Wow, that's incredible. But what about ethical concerns?",
+      "startTime": 27.18,
+      "finishTime": 30.34,
+      "words": [
+        {
+          "startTime": 27.18,
+          "finishTime": 27.6,
+          "word": "Wow,"
+        },
+        {
+          "startTime": 27.82,
+          "finishTime": 28,
+          "word": "that's"
+        },
+        {
+          "startTime": 28,
+          "finishTime": 28.42,
+          "word": "incredible."
+        },
+        {
+          "startTime": 28.84,
+          "finishTime": 28.92,
+          "word": "But"
+        },
+        {
+          "startTime": 28.92,
+          "finishTime": 29.08,
+          "word": "what"
+        },
+        {
+          "startTime": 29.08,
+          "finishTime": 29.32,
+          "word": "about"
+        },
+        {
+          "startTime": 29.32,
+          "finishTime": 29.72,
+          "word": "ethical"
+        },
+        {
+          "startTime": 29.72,
+          "finishTime": 30.34,
+          "word": "concerns?"
+        }
+      ]
+    },
+    {
+      "text": "Yeah, we have to make sure AI is used ethically and doesn't generate bias.",
+      "startTime": 31.02,
+      "finishTime": 34.68,
+      "words": [
+        {
+          "startTime": 31.02,
+          "finishTime": 31.32,
+          "word": "Yeah,"
+        },
+        {
+          "startTime": 31.52,
+          "finishTime": 31.56,
+          "word": "we"
+        },
+        {
+          "startTime": 31.56,
+          "finishTime": 31.72,
+          "word": "have"
+        },
+        {
+          "startTime": 31.72,
+          "finishTime": 31.84,
+          "word": "to"
+        },
+        {
+          "startTime": 31.84,
+          "finishTime": 32,
+          "word": "make"
+        },
+        {
+          "startTime": 32,
+          "finishTime": 32.14,
+          "word": "sure"
+        },
+        {
+          "startTime": 32.14,
+          "finishTime": 32.42,
+          "word": "AI"
+        },
+        {
+          "startTime": 32.42,
+          "finishTime": 32.66,
+          "word": "is"
+        },
+        {
+          "startTime": 32.66,
+          "finishTime": 32.9,
+          "word": "used"
+        },
+        {
+          "startTime": 32.9,
+          "finishTime": 33.3,
+          "word": "ethically"
+        },
+        {
+          "startTime": 33.3,
+          "finishTime": 33.6,
+          "word": "and"
+        },
+        {
+          "startTime": 33.6,
+          "finishTime": 33.9,
+          "word": "doesn't"
+        },
+        {
+          "startTime": 33.9,
+          "finishTime": 34.28,
+          "word": "generate"
+        },
+        {
+          "startTime": 34.28,
+          "finishTime": 34.68,
+          "word": "bias."
+        }
+      ]
+    },
+    {
+      "text": "But researchers and companies are actively working on addressing these issues.",
+      "startTime": 35.32,
+      "finishTime": 39.28,
+      "words": [
+        {
+          "startTime": 35.32,
+          "finishTime": 35.5,
+          "word": "But"
+        },
+        {
+          "startTime": 35.5,
+          "finishTime": 36.12,
+          "word": "researchers"
+        },
+        {
+          "startTime": 36.12,
+          "finishTime": 36.44,
+          "word": "and"
+        },
+        {
+          "startTime": 36.44,
+          "finishTime": 36.86,
+          "word": "companies"
+        },
+        {
+          "startTime": 36.86,
+          "finishTime": 37.18,
+          "word": "are"
+        },
+        {
+          "startTime": 37.18,
+          "finishTime": 37.52,
+          "word": "actively"
+        },
+        {
+          "startTime": 37.52,
+          "finishTime": 37.88,
+          "word": "working"
+        },
+        {
+          "startTime": 37.88,
+          "finishTime": 38.14,
+          "word": "on"
+        },
+        {
+          "startTime": 38.14,
+          "finishTime": 38.6,
+          "word": "addressing"
+        },
+        {
+          "startTime": 38.6,
+          "finishTime": 38.94,
+          "word": "these"
+        },
+        {
+          "startTime": 38.94,
+          "finishTime": 39.28,
+          "word": "issues."
+        }
+      ]
+    }
+  ]
+}
