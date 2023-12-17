@@ -1,5 +1,5 @@
 {
-  "text": "Hey. You're Sarah, right? I'm Jake, from Security. I'm here to give you your access card Thanks, Jake. Is it contactless? No, it isn't. It's the good old swipe at the door when you hear the click It's unlocked and you can get in or out Good to know. Thank you Well, it's five o'clock. I guess this is it for your first day. How was it? Good really good. See you tomorrow then sure. Have a great evening. See you",
+  "text": "Hey. You're Sarah, right? I'm Jake, from Security. I'm here to give you your access card. Thanks, Jake. Is it contactless? No, it isn't. It's the good old swipe at the door. When you hear the click, it's unlocked, and you can get in or out. Good to know. Thank you. Well, it's five o'clock. I guess this is it for your first day. How was it? Good, really good. See you tomorrow, then? Sure. Have a great evening. See you!",
   "words": [
     {
       "startTime": 0,
@@ -79,7 +79,7 @@
     {
       "startTime": 5.8,
       "finishTime": 6.24,
-      "word": "card"
+      "word": "card."
     },
     {
       "startTime": 6.24,
@@ -159,12 +159,12 @@
     {
       "startTime": 11.88,
       "finishTime": 12.24,
-      "word": "door"
+      "word": "door."
     },
     {
       "startTime": 12.24,
       "finishTime": 12.6,
-      "word": "when"
+      "word": "When"
     },
     {
       "startTime": 12.6,
@@ -184,17 +184,17 @@
     {
       "startTime": 13.08,
       "finishTime": 13.36,
-      "word": "click"
+      "word": "click,"
     },
     {
       "startTime": 13.36,
       "finishTime": 13.86,
-      "word": "It's"
+      "word": "it's"
     },
     {
       "startTime": 13.86,
       "finishTime": 14.24,
-      "word": "unlocked"
+      "word": "unlocked,"
     },
     {
       "startTime": 14.24,
@@ -229,7 +229,7 @@
     {
       "startTime": 15.88,
       "finishTime": 16.62,
-      "word": "out"
+      "word": "out."
     },
     {
       "startTime": 16.62,
@@ -254,7 +254,7 @@
     {
       "startTime": 18.2,
       "finishTime": 18.74,
-      "word": "you"
+      "word": "you."
     },
     {
       "startTime": 18.74,
@@ -272,14 +272,9 @@
       "word": "five"
     },
     {
-      "startTime": 20.34,
-      "finishTime": 20.54,
-      "word": "o"
-    },
-    {
       "startTime": 20.54,
       "finishTime": 20.78,
-      "word": "'clock."
+      "word": "o'clock."
     },
     {
       "startTime": 20.92,
@@ -344,7 +339,7 @@
     {
       "startTime": 25.04,
       "finishTime": 25.44,
-      "word": "Good"
+      "word": "Good,"
     },
     {
       "startTime": 25.44,
@@ -369,17 +364,17 @@
     {
       "startTime": 26.76,
       "finishTime": 27.04,
-      "word": "tomorrow"
+      "word": "tomorrow,"
     },
     {
       "startTime": 27.04,
       "finishTime": 27.46,
-      "word": "then"
+      "word": "then?"
     },
     {
       "startTime": 27.46,
       "finishTime": 27.98,
-      "word": "sure."
+      "word": "Sure."
     },
     {
       "startTime": 27.98,
@@ -409,7 +404,7 @@
     {
       "startTime": 29.58,
       "finishTime": 29.98,
-      "word": "you"
+      "word": "you!"
     }
   ]
 }

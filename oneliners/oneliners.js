@@ -41,7 +41,7 @@ function generateMarkdown(object) {
     {
       "character": "${object.character}",
       "startTime": 1,
-      "finishTime": ${ (object.finishTime - object.startTime + 0.5).toFixed(2) },
+      "finishTime": ${ (object.finishTime - object.startTime + 1).toFixed(2) },
       "dialogue": {
         "text": "${object.dialogue.text}",
         "align": "center"

@@ -15,8 +15,8 @@
     "audio": {
       "filename": "1.1-5.mp3",
       "startTime": 1,
-      "startTimestamp": 27.46,
-      "finishTimestamp": 29.10
+      "startTimestamp": 0.00,
+      "finishTimestamp": 3.94
     }
   },
   "commands": [
@@ -28,16 +28,16 @@
     {
       "character": "Jake",
       "startTime": 1,
-      "finishTime": 2.64,
+      "finishTime": 4.94,
       "dialogue": {
-        "text": "Sure. Have a great evening.",
+        "text": "Hey. You're Sarah, right? I'm Jake, from Security.",
         "align": "center"
       }
     },
     {
       "character": "Jake",
       "opacity": 0,
-      "startTime": 3.14
+      "startTime": 5.44
     }
   ]
 }

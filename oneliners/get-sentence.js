@@ -1,7 +1,7 @@
 const { readFileSync, readdirSync, writeFileSync } = require("fs");
 
 // Change these:
-const sentenceToFind = "Hey. You're Sarah, right? I'm Jake, from Security.";
+const sentenceToFind = "Sure. Have a great evening.";
 const character = "Jake";
 const textAlign = "center";
 const backgroundFile = "company1-reception.png";
@@ -13,6 +13,7 @@ const initPositions = {
   Sophie: { x: 50, y: 0, z: 1.4 },
   Jake: { x: 50, y: 0, z: 1.4 },
   Brian: { x: 50, y: 15, z: 1.2 },
+  Sarah: { x: 50, y: 0, z: 1.4 }
 };
 
 const splitSentence = sentenceToFind.split(" ");
@@ -29,24 +30,30 @@ files.forEach((file) => {
 
     const { words } = json;
 
-    words.forEach((word, i) => {
+    for (let i = 0; i < words.length; i++) {
       // first word matches
-      if (word.word === splitSentence[0]) {
+      if (words[i].word === splitSentence[0]) {
         const isCorrectFirstWord = true;
 
         // check if the next words are correct
+        let sentenceMatches = true;
         for (let j = 1; j < splitSentence.length; j++) {
           if (words[i + j].word !== splitSentence[j]) {
             sentenceMatches = false;
           }
         }
 
-        const startTimestamp = parseFloat(word.startTime).toFixed(2);
-        const finishTimestamp = parseFloat(words[i + splitSentence.length - 1].finishTime).toFixed(2);
-        const finishTime = parseFloat(((finishTimestamp - startTimestamp) + 1)).toFixed(2);
+        if (sentenceMatches) {
+          const startTimestamp = parseFloat(words[i].startTime).toFixed(2);
+          const finishTimestamp = parseFloat(
+            words[i + splitSentence.length - 1].finishTime
+          ).toFixed(2);
+          const finishTime = parseFloat(
+            finishTimestamp - startTimestamp + 1
+          ).toFixed(2);
 
-        if (isCorrectFirstWord) {
-          const oneliner = `
+          if (isCorrectFirstWord) {
+            const oneliner = `
 # --scene--
 
 \`\`\`json
@@ -85,19 +92,20 @@ files.forEach((file) => {
     {
       "character": "${character}",
       "opacity": 0,
-      "startTime": ${parseFloat(finishTime) + 0.5}
+      "startTime": ${(parseFloat(finishTime) + 0.5).toFixed(2)}
     }
   ]
 }
 \`\`\`
 `;
 
-          writeFileSync("oneliner.md", oneliner);
-          console.log(`Oneliner file created`);
-          process.exit();
+            writeFileSync("oneliner.md", oneliner);
+            console.log(`Oneliner file created`);
+            process.exit();
+          }
         }
       }
-    });
+    }
   }
 });
 
