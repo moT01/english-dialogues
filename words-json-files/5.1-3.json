@@ -1,0 +1,655 @@
+{
+  "text": "Hey, Sarah, I was reading about object-oriented programming on the internet. It's a new concept for me. Object-oriented programming is used in many modern languages. How much do you know about it so far? Not much, really. I understand that there are classes and methods, but I've never used them in my code. No worries. Object-oriented programming is a fundamental concept in many languages. It involves classes, which are like blueprints for objects, and inside the classes, you find the class's methods, which are actions those objects can perform. That helps a lot. Can you recommend a good book for me to learn more about it? Of course. I have a book on OOP's principles. I'll send you the title. It has helped many people I know.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.56,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.7,
+      "finishTime": 1,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 1.26,
+      "finishTime": 1.26,
+      "word": "I"
+    },
+    {
+      "startTime": 1.26,
+      "finishTime": 1.44,
+      "word": "was"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.68,
+      "word": "reading"
+    },
+    {
+      "startTime": 1.68,
+      "finishTime": 2,
+      "word": "about"
+    },
+    {
+      "startTime": 2,
+      "finishTime": 2.4,
+      "word": "object"
+    },
+    {
+      "startTime": 2.4,
+      "finishTime": 2.84,
+      "word": "-oriented"
+    },
+    {
+      "startTime": 2.84,
+      "finishTime": 3.32,
+      "word": "programming"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.54,
+      "word": "on"
+    },
+    {
+      "startTime": 3.54,
+      "finishTime": 3.7,
+      "word": "the"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 4,
+      "word": "internet."
+    },
+    {
+      "startTime": 4.3,
+      "finishTime": 4.44,
+      "word": "It's"
+    },
+    {
+      "startTime": 4.44,
+      "finishTime": 4.54,
+      "word": "a"
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.74,
+      "word": "new"
+    },
+    {
+      "startTime": 4.74,
+      "finishTime": 5.14,
+      "word": "concept"
+    },
+    {
+      "startTime": 5.14,
+      "finishTime": 5.34,
+      "word": "for"
+    },
+    {
+      "startTime": 5.34,
+      "finishTime": 6.28,
+      "word": "me."
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.74,
+      "word": "Object"
+    },
+    {
+      "startTime": 6.74,
+      "finishTime": 7.16,
+      "word": "-oriented"
+    },
+    {
+      "startTime": 7.16,
+      "finishTime": 7.7,
+      "word": "programming"
+    },
+    {
+      "startTime": 7.7,
+      "finishTime": 7.92,
+      "word": "is"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.1,
+      "word": "used"
+    },
+    {
+      "startTime": 8.1,
+      "finishTime": 8.24,
+      "word": "in"
+    },
+    {
+      "startTime": 8.24,
+      "finishTime": 8.46,
+      "word": "many"
+    },
+    {
+      "startTime": 8.46,
+      "finishTime": 8.76,
+      "word": "modern"
+    },
+    {
+      "startTime": 8.76,
+      "finishTime": 9.28,
+      "word": "languages."
+    },
+    {
+      "startTime": 9.52,
+      "finishTime": 9.7,
+      "word": "How"
+    },
+    {
+      "startTime": 9.7,
+      "finishTime": 9.88,
+      "word": "much"
+    },
+    {
+      "startTime": 9.88,
+      "finishTime": 10.06,
+      "word": "do"
+    },
+    {
+      "startTime": 10.06,
+      "finishTime": 10.08,
+      "word": "you"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.24,
+      "word": "know"
+    },
+    {
+      "startTime": 10.24,
+      "finishTime": 10.4,
+      "word": "about"
+    },
+    {
+      "startTime": 10.4,
+      "finishTime": 10.54,
+      "word": "it"
+    },
+    {
+      "startTime": 10.54,
+      "finishTime": 10.78,
+      "word": "so"
+    },
+    {
+      "startTime": 10.78,
+      "finishTime": 11.1,
+      "word": "far?"
+    },
+    {
+      "startTime": 11.7,
+      "finishTime": 11.86,
+      "word": "Not"
+    },
+    {
+      "startTime": 11.86,
+      "finishTime": 12.12,
+      "word": "much,"
+    },
+    {
+      "startTime": 12.12,
+      "finishTime": 12.6,
+      "word": "really."
+    },
+    {
+      "startTime": 12.8,
+      "finishTime": 13.08,
+      "word": "I"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.46,
+      "word": "understand"
+    },
+    {
+      "startTime": 13.46,
+      "finishTime": 13.58,
+      "word": "that"
+    },
+    {
+      "startTime": 13.58,
+      "finishTime": 13.78,
+      "word": "there"
+    },
+    {
+      "startTime": 13.78,
+      "finishTime": 13.94,
+      "word": "are"
+    },
+    {
+      "startTime": 13.94,
+      "finishTime": 14.38,
+      "word": "classes"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 14.74,
+      "word": "and"
+    },
+    {
+      "startTime": 14.74,
+      "finishTime": 15.16,
+      "word": "methods,"
+    },
+    {
+      "startTime": 15.42,
+      "finishTime": 15.64,
+      "word": "but"
+    },
+    {
+      "startTime": 15.64,
+      "finishTime": 15.78,
+      "word": "I've"
+    },
+    {
+      "startTime": 15.78,
+      "finishTime": 16.02,
+      "word": "never"
+    },
+    {
+      "startTime": 16.02,
+      "finishTime": 16.3,
+      "word": "used"
+    },
+    {
+      "startTime": 16.3,
+      "finishTime": 16.46,
+      "word": "them"
+    },
+    {
+      "startTime": 16.46,
+      "finishTime": 16.6,
+      "word": "in"
+    },
+    {
+      "startTime": 16.6,
+      "finishTime": 16.86,
+      "word": "my"
+    },
+    {
+      "startTime": 16.86,
+      "finishTime": 17.12,
+      "word": "code."
+    },
+    {
+      "startTime": 17.52,
+      "finishTime": 17.72,
+      "word": "No"
+    },
+    {
+      "startTime": 17.72,
+      "finishTime": 18.06,
+      "word": "worries."
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.66,
+      "word": "Object"
+    },
+    {
+      "startTime": 18.66,
+      "finishTime": 19.04,
+      "word": "-oriented"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.5,
+      "word": "programming"
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.76,
+      "word": "is"
+    },
+    {
+      "startTime": 19.76,
+      "finishTime": 19.92,
+      "word": "a"
+    },
+    {
+      "startTime": 19.92,
+      "finishTime": 20.28,
+      "word": "fundamental"
+    },
+    {
+      "startTime": 20.28,
+      "finishTime": 20.7,
+      "word": "concept"
+    },
+    {
+      "startTime": 20.7,
+      "finishTime": 20.9,
+      "word": "in"
+    },
+    {
+      "startTime": 20.9,
+      "finishTime": 21.1,
+      "word": "many"
+    },
+    {
+      "startTime": 21.1,
+      "finishTime": 21.6,
+      "word": "languages."
+    },
+    {
+      "startTime": 21.98,
+      "finishTime": 22.24,
+      "word": "It"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.56,
+      "word": "involves"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 23.18,
+      "word": "classes,"
+    },
+    {
+      "startTime": 23.26,
+      "finishTime": 23.38,
+      "word": "which"
+    },
+    {
+      "startTime": 23.38,
+      "finishTime": 23.6,
+      "word": "are"
+    },
+    {
+      "startTime": 23.6,
+      "finishTime": 23.82,
+      "word": "like"
+    },
+    {
+      "startTime": 23.82,
+      "finishTime": 24.2,
+      "word": "blueprints"
+    },
+    {
+      "startTime": 24.2,
+      "finishTime": 24.46,
+      "word": "for"
+    },
+    {
+      "startTime": 24.46,
+      "finishTime": 24.86,
+      "word": "objects,"
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.56,
+      "word": "and"
+    },
+    {
+      "startTime": 25.56,
+      "finishTime": 26.08,
+      "word": "inside"
+    },
+    {
+      "startTime": 26.08,
+      "finishTime": 26.3,
+      "word": "the"
+    },
+    {
+      "startTime": 26.3,
+      "finishTime": 26.74,
+      "word": "classes,"
+    },
+    {
+      "startTime": 26.82,
+      "finishTime": 26.96,
+      "word": "you"
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.14,
+      "word": "find"
+    },
+    {
+      "startTime": 27.14,
+      "finishTime": 27.34,
+      "word": "the"
+    },
+    {
+      "startTime": 27.34,
+      "finishTime": 27.82,
+      "word": "class's"
+    },
+    {
+      "startTime": 27.82,
+      "finishTime": 28.22,
+      "word": "methods,"
+    },
+    {
+      "startTime": 28.22,
+      "finishTime": 28.78,
+      "word": "which"
+    },
+    {
+      "startTime": 28.78,
+      "finishTime": 29.08,
+      "word": "are"
+    },
+    {
+      "startTime": 29.08,
+      "finishTime": 29.42,
+      "word": "actions"
+    },
+    {
+      "startTime": 29.42,
+      "finishTime": 29.78,
+      "word": "those"
+    },
+    {
+      "startTime": 29.78,
+      "finishTime": 30.12,
+      "word": "objects"
+    },
+    {
+      "startTime": 30.12,
+      "finishTime": 30.4,
+      "word": "can"
+    },
+    {
+      "startTime": 30.4,
+      "finishTime": 30.8,
+      "word": "perform."
+    },
+    {
+      "startTime": 31.62,
+      "finishTime": 31.78,
+      "word": "That"
+    },
+    {
+      "startTime": 31.78,
+      "finishTime": 32.06,
+      "word": "helps"
+    },
+    {
+      "startTime": 32.06,
+      "finishTime": 32.3,
+      "word": "a"
+    },
+    {
+      "startTime": 32.3,
+      "finishTime": 32.56,
+      "word": "lot."
+    },
+    {
+      "startTime": 33.04,
+      "finishTime": 33.22,
+      "word": "Can"
+    },
+    {
+      "startTime": 33.22,
+      "finishTime": 33.44,
+      "word": "you"
+    },
+    {
+      "startTime": 33.44,
+      "finishTime": 33.76,
+      "word": "recommend"
+    },
+    {
+      "startTime": 33.76,
+      "finishTime": 33.94,
+      "word": "a"
+    },
+    {
+      "startTime": 33.94,
+      "finishTime": 34.08,
+      "word": "good"
+    },
+    {
+      "startTime": 34.08,
+      "finishTime": 34.28,
+      "word": "book"
+    },
+    {
+      "startTime": 34.28,
+      "finishTime": 34.46,
+      "word": "for"
+    },
+    {
+      "startTime": 34.46,
+      "finishTime": 34.62,
+      "word": "me"
+    },
+    {
+      "startTime": 34.62,
+      "finishTime": 34.76,
+      "word": "to"
+    },
+    {
+      "startTime": 34.76,
+      "finishTime": 34.88,
+      "word": "learn"
+    },
+    {
+      "startTime": 34.88,
+      "finishTime": 35.12,
+      "word": "more"
+    },
+    {
+      "startTime": 35.12,
+      "finishTime": 35.36,
+      "word": "about"
+    },
+    {
+      "startTime": 35.36,
+      "finishTime": 35.72,
+      "word": "it?"
+    },
+    {
+      "startTime": 36.22,
+      "finishTime": 36.44,
+      "word": "Of"
+    },
+    {
+      "startTime": 36.44,
+      "finishTime": 36.78,
+      "word": "course."
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.02,
+      "word": "I"
+    },
+    {
+      "startTime": 37.02,
+      "finishTime": 37.16,
+      "word": "have"
+    },
+    {
+      "startTime": 37.16,
+      "finishTime": 37.3,
+      "word": "a"
+    },
+    {
+      "startTime": 37.3,
+      "finishTime": 37.44,
+      "word": "book"
+    },
+    {
+      "startTime": 37.44,
+      "finishTime": 37.82,
+      "word": "on"
+    },
+    {
+      "startTime": 37.82,
+      "finishTime": 38.42,
+      "word": "OOP's"
+    },
+    {
+      "startTime": 38.42,
+      "finishTime": 38.72,
+      "word": "principles."
+    },
+    {
+      "startTime": 39.2,
+      "finishTime": 39.4,
+      "word": "I'll"
+    },
+    {
+      "startTime": 39.4,
+      "finishTime": 39.56,
+      "word": "send"
+    },
+    {
+      "startTime": 39.56,
+      "finishTime": 39.76,
+      "word": "you"
+    },
+    {
+      "startTime": 39.76,
+      "finishTime": 39.9,
+      "word": "the"
+    },
+    {
+      "startTime": 39.9,
+      "finishTime": 40.12,
+      "word": "title."
+    },
+    {
+      "startTime": 40.44,
+      "finishTime": 40.6,
+      "word": "It"
+    },
+    {
+      "startTime": 40.6,
+      "finishTime": 40.78,
+      "word": "has"
+    },
+    {
+      "startTime": 40.78,
+      "finishTime": 41,
+      "word": "helped"
+    },
+    {
+      "startTime": 41,
+      "finishTime": 41.3,
+      "word": "many"
+    },
+    {
+      "startTime": 41.3,
+      "finishTime": 41.56,
+      "word": "people"
+    },
+    {
+      "startTime": 41.56,
+      "finishTime": 41.74,
+      "word": "I"
+    },
+    {
+      "startTime": 41.74,
+      "finishTime": 41.9,
+      "word": "know."
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "text": "Hi there. I'm Tom. I'm the new graphic designer. Oh, hi, Tom. I'm Sophie. I'm a developer. Where are you from, Tom? I'm from Texas. How about you? I'm from here in California. Welcome aboard. Thanks. Everybody is so nice around here. Hey, is this one of those standing desks? These are great. It's good to stand up a little instead of just sitting all the time. That's so true. I'm a bit inactive sitting all the time. This is a good alternative for me. But hey, now your desk is just like my desk. You're in luck. Awesome. My computer and drawing tablet are great too. Yeah, at this company, they're very attentive to these details. You're going to like it here if you're into cutting edge gadgets. This is so cool. A standing desk, an ergonomic chair, and an ergonomic mouse. Man, everything is perfect. I'm in love with this place. So nice to have someone so energetic like you and the team. Are you ready to begin? Yes, I sure am.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.42,
+      "word": "Hi"
+    },
+    {
+      "startTime": 0.42,
+      "finishTime": 0.84,
+      "word": "there."
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.42,
+      "word": "I'm"
+    },
+    {
+      "startTime": 1.42,
+      "finishTime": 1.82,
+      "word": "Tom."
+    },
+    {
+      "startTime": 2.12,
+      "finishTime": 2.32,
+      "word": "I'm"
+    },
+    {
+      "startTime": 2.32,
+      "finishTime": 2.46,
+      "word": "the"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.66,
+      "word": "new"
+    },
+    {
+      "startTime": 2.66,
+      "finishTime": 2.98,
+      "word": "graphic"
+    },
+    {
+      "startTime": 2.98,
+      "finishTime": 3.52,
+      "word": "designer."
+    },
+    {
+      "startTime": 4.2,
+      "finishTime": 4.44,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 4.44,
+      "finishTime": 4.64,
+      "word": "hi,"
+    },
+    {
+      "startTime": 4.74,
+      "finishTime": 4.96,
+      "word": "Tom."
+    },
+    {
+      "startTime": 5.24,
+      "finishTime": 5.5,
+      "word": "I'm"
+    },
+    {
+      "startTime": 5.5,
+      "finishTime": 5.78,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.14,
+      "word": "I'm"
+    },
+    {
+      "startTime": 6.14,
+      "finishTime": 6.24,
+      "word": "a"
+    },
+    {
+      "startTime": 6.24,
+      "finishTime": 6.66,
+      "word": "developer."
+    },
+    {
+      "startTime": 6.98,
+      "finishTime": 7.18,
+      "word": "Where"
+    },
+    {
+      "startTime": 7.18,
+      "finishTime": 7.3,
+      "word": "are"
+    },
+    {
+      "startTime": 7.3,
+      "finishTime": 7.4,
+      "word": "you"
+    },
+    {
+      "startTime": 7.4,
+      "finishTime": 7.6,
+      "word": "from,"
+    },
+    {
+      "startTime": 7.6,
+      "finishTime": 7.88,
+      "word": "Tom?"
+    },
+    {
+      "startTime": 8.36,
+      "finishTime": 8.56,
+      "word": "I'm"
+    },
+    {
+      "startTime": 8.56,
+      "finishTime": 8.72,
+      "word": "from"
+    },
+    {
+      "startTime": 8.72,
+      "finishTime": 9.16,
+      "word": "Texas."
+    },
+    {
+      "startTime": 9.4,
+      "finishTime": 9.62,
+      "word": "How"
+    },
+    {
+      "startTime": 9.62,
+      "finishTime": 9.8,
+      "word": "about"
+    },
+    {
+      "startTime": 9.8,
+      "finishTime": 10.22,
+      "word": "you?"
+    },
+    {
+      "startTime": 10.6,
+      "finishTime": 10.84,
+      "word": "I'm"
+    },
+    {
+      "startTime": 10.84,
+      "finishTime": 11.02,
+      "word": "from"
+    },
+    {
+      "startTime": 11.02,
+      "finishTime": 11.18,
+      "word": "here"
+    },
+    {
+      "startTime": 11.18,
+      "finishTime": 11.38,
+      "word": "in"
+    },
+    {
+      "startTime": 11.38,
+      "finishTime": 11.76,
+      "word": "California."
+    },
+    {
+      "startTime": 12.08,
+      "finishTime": 12.32,
+      "word": "Welcome"
+    },
+    {
+      "startTime": 12.32,
+      "finishTime": 12.64,
+      "word": "aboard."
+    },
+    {
+      "startTime": 13.02,
+      "finishTime": 13.4,
+      "word": "Thanks."
+    },
+    {
+      "startTime": 13.86,
+      "finishTime": 14.3,
+      "word": "Everybody"
+    },
+    {
+      "startTime": 14.3,
+      "finishTime": 14.6,
+      "word": "is"
+    },
+    {
+      "startTime": 14.6,
+      "finishTime": 14.78,
+      "word": "so"
+    },
+    {
+      "startTime": 14.78,
+      "finishTime": 15.04,
+      "word": "nice"
+    },
+    {
+      "startTime": 15.04,
+      "finishTime": 15.28,
+      "word": "around"
+    },
+    {
+      "startTime": 15.28,
+      "finishTime": 15.7,
+      "word": "here."
+    },
+    {
+      "startTime": 16.2,
+      "finishTime": 16.66,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 16.88,
+      "finishTime": 17.08,
+      "word": "is"
+    },
+    {
+      "startTime": 17.08,
+      "finishTime": 17.24,
+      "word": "this"
+    },
+    {
+      "startTime": 17.24,
+      "finishTime": 17.38,
+      "word": "one"
+    },
+    {
+      "startTime": 17.38,
+      "finishTime": 17.5,
+      "word": "of"
+    },
+    {
+      "startTime": 17.5,
+      "finishTime": 17.66,
+      "word": "those"
+    },
+    {
+      "startTime": 17.66,
+      "finishTime": 17.98,
+      "word": "standing"
+    },
+    {
+      "startTime": 17.98,
+      "finishTime": 18.52,
+      "word": "desks?"
+    },
+    {
+      "startTime": 18.92,
+      "finishTime": 19.12,
+      "word": "These"
+    },
+    {
+      "startTime": 19.12,
+      "finishTime": 19.36,
+      "word": "are"
+    },
+    {
+      "startTime": 19.36,
+      "finishTime": 19.64,
+      "word": "great."
+    },
+    {
+      "startTime": 19.96,
+      "finishTime": 20.14,
+      "word": "It's"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.3,
+      "word": "good"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.52,
+      "word": "to"
+    },
+    {
+      "startTime": 20.52,
+      "finishTime": 20.72,
+      "word": "stand"
+    },
+    {
+      "startTime": 20.72,
+      "finishTime": 20.94,
+      "word": "up"
+    },
+    {
+      "startTime": 20.94,
+      "finishTime": 21.08,
+      "word": "a"
+    },
+    {
+      "startTime": 21.08,
+      "finishTime": 21.32,
+      "word": "little"
+    },
+    {
+      "startTime": 21.32,
+      "finishTime": 21.62,
+      "word": "instead"
+    },
+    {
+      "startTime": 21.62,
+      "finishTime": 21.8,
+      "word": "of"
+    },
+    {
+      "startTime": 21.8,
+      "finishTime": 22.04,
+      "word": "just"
+    },
+    {
+      "startTime": 22.04,
+      "finishTime": 22.18,
+      "word": "sitting"
+    },
+    {
+      "startTime": 22.18,
+      "finishTime": 22.44,
+      "word": "all"
+    },
+    {
+      "startTime": 22.44,
+      "finishTime": 22.62,
+      "word": "the"
+    },
+    {
+      "startTime": 22.62,
+      "finishTime": 22.92,
+      "word": "time."
+    },
+    {
+      "startTime": 23.22,
+      "finishTime": 23.64,
+      "word": "That's"
+    },
+    {
+      "startTime": 23.64,
+      "finishTime": 23.88,
+      "word": "so"
+    },
+    {
+      "startTime": 23.88,
+      "finishTime": 24.12,
+      "word": "true."
+    },
+    {
+      "startTime": 24.54,
+      "finishTime": 24.78,
+      "word": "I'm"
+    },
+    {
+      "startTime": 24.78,
+      "finishTime": 24.86,
+      "word": "a"
+    },
+    {
+      "startTime": 24.86,
+      "finishTime": 25.02,
+      "word": "bit"
+    },
+    {
+      "startTime": 25.02,
+      "finishTime": 25.52,
+      "word": "inactive"
+    },
+    {
+      "startTime": 25.52,
+      "finishTime": 25.82,
+      "word": "sitting"
+    },
+    {
+      "startTime": 25.82,
+      "finishTime": 26.06,
+      "word": "all"
+    },
+    {
+      "startTime": 26.06,
+      "finishTime": 26.22,
+      "word": "the"
+    },
+    {
+      "startTime": 26.22,
+      "finishTime": 26.48,
+      "word": "time."
+    },
+    {
+      "startTime": 26.78,
+      "finishTime": 27.14,
+      "word": "This"
+    },
+    {
+      "startTime": 27.14,
+      "finishTime": 27.34,
+      "word": "is"
+    },
+    {
+      "startTime": 27.34,
+      "finishTime": 27.4,
+      "word": "a"
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.54,
+      "word": "good"
+    },
+    {
+      "startTime": 27.54,
+      "finishTime": 28,
+      "word": "alternative"
+    },
+    {
+      "startTime": 28,
+      "finishTime": 28.24,
+      "word": "for"
+    },
+    {
+      "startTime": 28.24,
+      "finishTime": 28.62,
+      "word": "me."
+    },
+    {
+      "startTime": 28.62,
+      "finishTime": 29.04,
+      "word": "But"
+    },
+    {
+      "startTime": 29.04,
+      "finishTime": 29.38,
+      "word": "hey,"
+    },
+    {
+      "startTime": 29.48,
+      "finishTime": 29.68,
+      "word": "now"
+    },
+    {
+      "startTime": 29.68,
+      "finishTime": 29.88,
+      "word": "your"
+    },
+    {
+      "startTime": 29.88,
+      "finishTime": 30.06,
+      "word": "desk"
+    },
+    {
+      "startTime": 30.06,
+      "finishTime": 30.2,
+      "word": "is"
+    },
+    {
+      "startTime": 30.2,
+      "finishTime": 30.44,
+      "word": "just"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.58,
+      "word": "like"
+    },
+    {
+      "startTime": 30.58,
+      "finishTime": 30.8,
+      "word": "my"
+    },
+    {
+      "startTime": 30.8,
+      "finishTime": 31.12,
+      "word": "desk."
+    },
+    {
+      "startTime": 31.22,
+      "finishTime": 31.42,
+      "word": "You're"
+    },
+    {
+      "startTime": 31.42,
+      "finishTime": 31.54,
+      "word": "in"
+    },
+    {
+      "startTime": 31.54,
+      "finishTime": 32.08,
+      "word": "luck."
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 33.02,
+      "word": "Awesome."
+    },
+    {
+      "startTime": 33.76,
+      "finishTime": 33.96,
+      "word": "My"
+    },
+    {
+      "startTime": 33.96,
+      "finishTime": 34.3,
+      "word": "computer"
+    },
+    {
+      "startTime": 34.3,
+      "finishTime": 34.56,
+      "word": "and"
+    },
+    {
+      "startTime": 34.56,
+      "finishTime": 34.76,
+      "word": "drawing"
+    },
+    {
+      "startTime": 34.76,
+      "finishTime": 35.02,
+      "word": "tablet"
+    },
+    {
+      "startTime": 35.02,
+      "finishTime": 35.2,
+      "word": "are"
+    },
+    {
+      "startTime": 35.2,
+      "finishTime": 35.48,
+      "word": "great"
+    },
+    {
+      "startTime": 35.48,
+      "finishTime": 36,
+      "word": "too."
+    },
+    {
+      "startTime": 37.08,
+      "finishTime": 37.38,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 37.38,
+      "finishTime": 37.58,
+      "word": "at"
+    },
+    {
+      "startTime": 37.58,
+      "finishTime": 37.76,
+      "word": "this"
+    },
+    {
+      "startTime": 37.76,
+      "finishTime": 38.1,
+      "word": "company,"
+    },
+    {
+      "startTime": 38.14,
+      "finishTime": 38.34,
+      "word": "they're"
+    },
+    {
+      "startTime": 38.34,
+      "finishTime": 38.72,
+      "word": "very"
+    },
+    {
+      "startTime": 38.72,
+      "finishTime": 39.04,
+      "word": "attentive"
+    },
+    {
+      "startTime": 39.04,
+      "finishTime": 39.24,
+      "word": "to"
+    },
+    {
+      "startTime": 39.24,
+      "finishTime": 39.44,
+      "word": "these"
+    },
+    {
+      "startTime": 39.44,
+      "finishTime": 39.94,
+      "word": "details."
+    },
+    {
+      "startTime": 40.34,
+      "finishTime": 40.6,
+      "word": "You're"
+    },
+    {
+      "startTime": 40.6,
+      "finishTime": 40.68,
+      "word": "going"
+    },
+    {
+      "startTime": 40.68,
+      "finishTime": 40.88,
+      "word": "to"
+    },
+    {
+      "startTime": 40.88,
+      "finishTime": 41.02,
+      "word": "like"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.18,
+      "word": "it"
+    },
+    {
+      "startTime": 41.18,
+      "finishTime": 41.34,
+      "word": "here"
+    },
+    {
+      "startTime": 41.34,
+      "finishTime": 41.46,
+      "word": "if"
+    },
+    {
+      "startTime": 41.46,
+      "finishTime": 41.64,
+      "word": "you're"
+    },
+    {
+      "startTime": 41.64,
+      "finishTime": 41.94,
+      "word": "into"
+    },
+    {
+      "startTime": 41.94,
+      "finishTime": 42.2,
+      "word": "cutting"
+    },
+    {
+      "startTime": 42.2,
+      "finishTime": 42.48,
+      "word": "edge"
+    },
+    {
+      "startTime": 42.48,
+      "finishTime": 42.96,
+      "word": "gadgets."
+    },
+    {
+      "startTime": 43.68,
+      "finishTime": 43.88,
+      "word": "This"
+    },
+    {
+      "startTime": 43.88,
+      "finishTime": 44.1,
+      "word": "is"
+    },
+    {
+      "startTime": 44.1,
+      "finishTime": 44.48,
+      "word": "so"
+    },
+    {
+      "startTime": 44.48,
+      "finishTime": 44.76,
+      "word": "cool."
+    },
+    {
+      "startTime": 45.02,
+      "finishTime": 45.32,
+      "word": "A"
+    },
+    {
+      "startTime": 45.32,
+      "finishTime": 45.58,
+      "word": "standing"
+    },
+    {
+      "startTime": 45.58,
+      "finishTime": 45.98,
+      "word": "desk,"
+    },
+    {
+      "startTime": 46.24,
+      "finishTime": 46.52,
+      "word": "an"
+    },
+    {
+      "startTime": 46.52,
+      "finishTime": 46.96,
+      "word": "ergonomic"
+    },
+    {
+      "startTime": 46.96,
+      "finishTime": 47.32,
+      "word": "chair,"
+    },
+    {
+      "startTime": 47.74,
+      "finishTime": 47.88,
+      "word": "and"
+    },
+    {
+      "startTime": 47.88,
+      "finishTime": 48.1,
+      "word": "an"
+    },
+    {
+      "startTime": 48.1,
+      "finishTime": 48.62,
+      "word": "ergonomic"
+    },
+    {
+      "startTime": 48.62,
+      "finishTime": 48.98,
+      "word": "mouse."
+    },
+    {
+      "startTime": 49.36,
+      "finishTime": 49.7,
+      "word": "Man,"
+    },
+    {
+      "startTime": 49.94,
+      "finishTime": 50.22,
+      "word": "everything"
+    },
+    {
+      "startTime": 50.22,
+      "finishTime": 50.5,
+      "word": "is"
+    },
+    {
+      "startTime": 50.5,
+      "finishTime": 50.86,
+      "word": "perfect."
+    },
+    {
+      "startTime": 51.08,
+      "finishTime": 51.42,
+      "word": "I'm"
+    },
+    {
+      "startTime": 51.42,
+      "finishTime": 51.56,
+      "word": "in"
+    },
+    {
+      "startTime": 51.56,
+      "finishTime": 51.66,
+      "word": "love"
+    },
+    {
+      "startTime": 51.66,
+      "finishTime": 51.88,
+      "word": "with"
+    },
+    {
+      "startTime": 51.88,
+      "finishTime": 52.1,
+      "word": "this"
+    },
+    {
+      "startTime": 52.1,
+      "finishTime": 52.44,
+      "word": "place."
+    },
+    {
+      "startTime": 53.22,
+      "finishTime": 53.44,
+      "word": "So"
+    },
+    {
+      "startTime": 53.44,
+      "finishTime": 53.6,
+      "word": "nice"
+    },
+    {
+      "startTime": 53.6,
+      "finishTime": 53.8,
+      "word": "to"
+    },
+    {
+      "startTime": 53.8,
+      "finishTime": 53.92,
+      "word": "have"
+    },
+    {
+      "startTime": 53.92,
+      "finishTime": 54.2,
+      "word": "someone"
+    },
+    {
+      "startTime": 54.2,
+      "finishTime": 54.62,
+      "word": "so"
+    },
+    {
+      "startTime": 54.62,
+      "finishTime": 54.94,
+      "word": "energetic"
+    },
+    {
+      "startTime": 54.94,
+      "finishTime": 55.2,
+      "word": "like"
+    },
+    {
+      "startTime": 55.2,
+      "finishTime": 55.36,
+      "word": "you"
+    },
+    {
+      "startTime": 55.36,
+      "finishTime": 55.48,
+      "word": "and"
+    },
+    {
+      "startTime": 55.48,
+      "finishTime": 55.66,
+      "word": "the"
+    },
+    {
+      "startTime": 55.66,
+      "finishTime": 55.86,
+      "word": "team."
+    },
+    {
+      "startTime": 56.18,
+      "finishTime": 56.42,
+      "word": "Are"
+    },
+    {
+      "startTime": 56.42,
+      "finishTime": 56.54,
+      "word": "you"
+    },
+    {
+      "startTime": 56.54,
+      "finishTime": 56.68,
+      "word": "ready"
+    },
+    {
+      "startTime": 56.68,
+      "finishTime": 56.86,
+      "word": "to"
+    },
+    {
+      "startTime": 56.86,
+      "finishTime": 57.12,
+      "word": "begin?"
+    },
+    {
+      "startTime": 57.12,
+      "finishTime": 57.9,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 58.32,
+      "finishTime": 58.46,
+      "word": "I"
+    },
+    {
+      "startTime": 58.46,
+      "finishTime": 58.76,
+      "word": "sure"
+    },
+    {
+      "startTime": 58.76,
+      "finishTime": 59.04,
+      "word": "am."
+    }
+  ]
+}

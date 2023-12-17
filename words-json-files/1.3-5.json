@@ -1,0 +1,750 @@
+{
+  "text": "Hi Maria. I'm still getting to know the area. Is there an ATM nearby? Yes, there's a bank just a few blocks away. That's good to know. Are there any parks around here? Yes, there are a couple of parks near here. They're great for a break. How about restaurants? Are there any good restaurants in this neighborhood? Yes, there are many restaurants within walking distance. Fantastic. Is there anything else interesting to check out? Absolutely. There's a gym. There are also great coffee shops not too far away. How about bookstores or theaters? There isn't any theater around here that I know of. The bookstores I remember are all downtown, but there's a bus that stops two blocks away. Oh, how about a shopping mall? Malls are everywhere. I'm sure you can find them just by walking around a bit. Thanks for your help, Maria. You're welcome, Tom.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.44,
+      "word": "Hi"
+    },
+    {
+      "startTime": 0.44,
+      "finishTime": 0.76,
+      "word": "Maria."
+    },
+    {
+      "startTime": 1.06,
+      "finishTime": 1.22,
+      "word": "I'm"
+    },
+    {
+      "startTime": 1.22,
+      "finishTime": 1.44,
+      "word": "still"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.62,
+      "word": "getting"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.82,
+      "word": "to"
+    },
+    {
+      "startTime": 1.82,
+      "finishTime": 2,
+      "word": "know"
+    },
+    {
+      "startTime": 2,
+      "finishTime": 2.16,
+      "word": "the"
+    },
+    {
+      "startTime": 2.16,
+      "finishTime": 2.5,
+      "word": "area."
+    },
+    {
+      "startTime": 2.74,
+      "finishTime": 2.9,
+      "word": "Is"
+    },
+    {
+      "startTime": 2.9,
+      "finishTime": 3.18,
+      "word": "there"
+    },
+    {
+      "startTime": 3.18,
+      "finishTime": 3.44,
+      "word": "an"
+    },
+    {
+      "startTime": 3.44,
+      "finishTime": 3.78,
+      "word": "ATM"
+    },
+    {
+      "startTime": 3.78,
+      "finishTime": 4.26,
+      "word": "nearby?"
+    },
+    {
+      "startTime": 5.48,
+      "finishTime": 5.78,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 5.78,
+      "finishTime": 6.12,
+      "word": "there's"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.26,
+      "word": "a"
+    },
+    {
+      "startTime": 6.26,
+      "finishTime": 6.38,
+      "word": "bank"
+    },
+    {
+      "startTime": 6.38,
+      "finishTime": 6.66,
+      "word": "just"
+    },
+    {
+      "startTime": 6.66,
+      "finishTime": 6.82,
+      "word": "a"
+    },
+    {
+      "startTime": 6.82,
+      "finishTime": 6.96,
+      "word": "few"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.22,
+      "word": "blocks"
+    },
+    {
+      "startTime": 7.22,
+      "finishTime": 7.66,
+      "word": "away."
+    },
+    {
+      "startTime": 8.06,
+      "finishTime": 8.34,
+      "word": "That's"
+    },
+    {
+      "startTime": 8.34,
+      "finishTime": 8.5,
+      "word": "good"
+    },
+    {
+      "startTime": 8.5,
+      "finishTime": 8.68,
+      "word": "to"
+    },
+    {
+      "startTime": 8.68,
+      "finishTime": 8.98,
+      "word": "know."
+    },
+    {
+      "startTime": 9.44,
+      "finishTime": 9.68,
+      "word": "Are"
+    },
+    {
+      "startTime": 9.68,
+      "finishTime": 9.8,
+      "word": "there"
+    },
+    {
+      "startTime": 9.8,
+      "finishTime": 10.02,
+      "word": "any"
+    },
+    {
+      "startTime": 10.02,
+      "finishTime": 10.26,
+      "word": "parks"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.58,
+      "word": "around"
+    },
+    {
+      "startTime": 10.58,
+      "finishTime": 10.96,
+      "word": "here?"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 11.88,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 11.88,
+      "finishTime": 12.14,
+      "word": "there"
+    },
+    {
+      "startTime": 12.14,
+      "finishTime": 12.32,
+      "word": "are"
+    },
+    {
+      "startTime": 12.32,
+      "finishTime": 12.4,
+      "word": "a"
+    },
+    {
+      "startTime": 12.4,
+      "finishTime": 12.56,
+      "word": "couple"
+    },
+    {
+      "startTime": 12.56,
+      "finishTime": 12.78,
+      "word": "of"
+    },
+    {
+      "startTime": 12.78,
+      "finishTime": 13,
+      "word": "parks"
+    },
+    {
+      "startTime": 13,
+      "finishTime": 13.2,
+      "word": "near"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.52,
+      "word": "here."
+    },
+    {
+      "startTime": 13.62,
+      "finishTime": 13.82,
+      "word": "They're"
+    },
+    {
+      "startTime": 13.82,
+      "finishTime": 14.08,
+      "word": "great"
+    },
+    {
+      "startTime": 14.08,
+      "finishTime": 14.28,
+      "word": "for"
+    },
+    {
+      "startTime": 14.28,
+      "finishTime": 14.44,
+      "word": "a"
+    },
+    {
+      "startTime": 14.44,
+      "finishTime": 14.68,
+      "word": "break."
+    },
+    {
+      "startTime": 15.26,
+      "finishTime": 15.52,
+      "word": "How"
+    },
+    {
+      "startTime": 15.52,
+      "finishTime": 15.78,
+      "word": "about"
+    },
+    {
+      "startTime": 15.78,
+      "finishTime": 16.32,
+      "word": "restaurants?"
+    },
+    {
+      "startTime": 16.6,
+      "finishTime": 16.78,
+      "word": "Are"
+    },
+    {
+      "startTime": 16.78,
+      "finishTime": 16.9,
+      "word": "there"
+    },
+    {
+      "startTime": 16.9,
+      "finishTime": 17.1,
+      "word": "any"
+    },
+    {
+      "startTime": 17.1,
+      "finishTime": 17.4,
+      "word": "good"
+    },
+    {
+      "startTime": 17.4,
+      "finishTime": 17.7,
+      "word": "restaurants"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.9,
+      "word": "in"
+    },
+    {
+      "startTime": 17.9,
+      "finishTime": 18.04,
+      "word": "this"
+    },
+    {
+      "startTime": 18.04,
+      "finishTime": 18.42,
+      "word": "neighborhood?"
+    },
+    {
+      "startTime": 19.44,
+      "finishTime": 19.68,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 19.88,
+      "word": "there"
+    },
+    {
+      "startTime": 19.88,
+      "finishTime": 20,
+      "word": "are"
+    },
+    {
+      "startTime": 20,
+      "finishTime": 20.22,
+      "word": "many"
+    },
+    {
+      "startTime": 20.22,
+      "finishTime": 20.66,
+      "word": "restaurants"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 20.96,
+      "word": "within"
+    },
+    {
+      "startTime": 20.96,
+      "finishTime": 21.24,
+      "word": "walking"
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.84,
+      "word": "distance."
+    },
+    {
+      "startTime": 22.78,
+      "finishTime": 23.3,
+      "word": "Fantastic."
+    },
+    {
+      "startTime": 23.6,
+      "finishTime": 23.78,
+      "word": "Is"
+    },
+    {
+      "startTime": 23.78,
+      "finishTime": 24.04,
+      "word": "there"
+    },
+    {
+      "startTime": 24.04,
+      "finishTime": 24.34,
+      "word": "anything"
+    },
+    {
+      "startTime": 24.34,
+      "finishTime": 24.74,
+      "word": "else"
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 25.22,
+      "word": "interesting"
+    },
+    {
+      "startTime": 25.22,
+      "finishTime": 25.44,
+      "word": "to"
+    },
+    {
+      "startTime": 25.44,
+      "finishTime": 25.66,
+      "word": "check"
+    },
+    {
+      "startTime": 25.66,
+      "finishTime": 26.16,
+      "word": "out?"
+    },
+    {
+      "startTime": 26.74,
+      "finishTime": 27.22,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 27.8,
+      "word": "There's"
+    },
+    {
+      "startTime": 27.8,
+      "finishTime": 27.96,
+      "word": "a"
+    },
+    {
+      "startTime": 27.96,
+      "finishTime": 28.2,
+      "word": "gym."
+    },
+    {
+      "startTime": 28.66,
+      "finishTime": 28.76,
+      "word": "There"
+    },
+    {
+      "startTime": 28.76,
+      "finishTime": 28.96,
+      "word": "are"
+    },
+    {
+      "startTime": 28.96,
+      "finishTime": 29.18,
+      "word": "also"
+    },
+    {
+      "startTime": 29.18,
+      "finishTime": 29.46,
+      "word": "great"
+    },
+    {
+      "startTime": 29.46,
+      "finishTime": 29.74,
+      "word": "coffee"
+    },
+    {
+      "startTime": 29.74,
+      "finishTime": 30,
+      "word": "shops"
+    },
+    {
+      "startTime": 30,
+      "finishTime": 30.24,
+      "word": "not"
+    },
+    {
+      "startTime": 30.24,
+      "finishTime": 30.44,
+      "word": "too"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.62,
+      "word": "far"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.92,
+      "word": "away."
+    },
+    {
+      "startTime": 31.28,
+      "finishTime": 31.46,
+      "word": "How"
+    },
+    {
+      "startTime": 31.46,
+      "finishTime": 31.76,
+      "word": "about"
+    },
+    {
+      "startTime": 31.76,
+      "finishTime": 32.42,
+      "word": "bookstores"
+    },
+    {
+      "startTime": 32.42,
+      "finishTime": 32.8,
+      "word": "or"
+    },
+    {
+      "startTime": 32.8,
+      "finishTime": 33.3,
+      "word": "theaters?"
+    },
+    {
+      "startTime": 34.7,
+      "finishTime": 35.18,
+      "word": "There"
+    },
+    {
+      "startTime": 35.18,
+      "finishTime": 35.56,
+      "word": "isn't"
+    },
+    {
+      "startTime": 35.56,
+      "finishTime": 35.86,
+      "word": "any"
+    },
+    {
+      "startTime": 35.86,
+      "finishTime": 36.22,
+      "word": "theater"
+    },
+    {
+      "startTime": 36.22,
+      "finishTime": 36.6,
+      "word": "around"
+    },
+    {
+      "startTime": 36.6,
+      "finishTime": 36.8,
+      "word": "here"
+    },
+    {
+      "startTime": 36.8,
+      "finishTime": 36.92,
+      "word": "that"
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.12,
+      "word": "I"
+    },
+    {
+      "startTime": 37.12,
+      "finishTime": 37.38,
+      "word": "know"
+    },
+    {
+      "startTime": 37.38,
+      "finishTime": 37.72,
+      "word": "of."
+    },
+    {
+      "startTime": 38.12,
+      "finishTime": 38.28,
+      "word": "The"
+    },
+    {
+      "startTime": 38.28,
+      "finishTime": 38.62,
+      "word": "bookstores"
+    },
+    {
+      "startTime": 38.62,
+      "finishTime": 38.8,
+      "word": "I"
+    },
+    {
+      "startTime": 38.8,
+      "finishTime": 39.06,
+      "word": "remember"
+    },
+    {
+      "startTime": 39.06,
+      "finishTime": 39.3,
+      "word": "are"
+    },
+    {
+      "startTime": 39.3,
+      "finishTime": 39.48,
+      "word": "all"
+    },
+    {
+      "startTime": 39.48,
+      "finishTime": 40,
+      "word": "downtown,"
+    },
+    {
+      "startTime": 40.34,
+      "finishTime": 40.56,
+      "word": "but"
+    },
+    {
+      "startTime": 40.56,
+      "finishTime": 40.78,
+      "word": "there's"
+    },
+    {
+      "startTime": 40.78,
+      "finishTime": 40.92,
+      "word": "a"
+    },
+    {
+      "startTime": 40.92,
+      "finishTime": 41.08,
+      "word": "bus"
+    },
+    {
+      "startTime": 41.08,
+      "finishTime": 41.28,
+      "word": "that"
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.5,
+      "word": "stops"
+    },
+    {
+      "startTime": 41.5,
+      "finishTime": 41.72,
+      "word": "two"
+    },
+    {
+      "startTime": 41.72,
+      "finishTime": 41.98,
+      "word": "blocks"
+    },
+    {
+      "startTime": 41.98,
+      "finishTime": 42.38,
+      "word": "away."
+    },
+    {
+      "startTime": 43.04,
+      "finishTime": 43.38,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 43.46,
+      "finishTime": 43.74,
+      "word": "how"
+    },
+    {
+      "startTime": 43.74,
+      "finishTime": 43.9,
+      "word": "about"
+    },
+    {
+      "startTime": 43.9,
+      "finishTime": 44.1,
+      "word": "a"
+    },
+    {
+      "startTime": 44.1,
+      "finishTime": 44.34,
+      "word": "shopping"
+    },
+    {
+      "startTime": 44.34,
+      "finishTime": 44.7,
+      "word": "mall?"
+    },
+    {
+      "startTime": 45.2,
+      "finishTime": 45.58,
+      "word": "Malls"
+    },
+    {
+      "startTime": 45.58,
+      "finishTime": 45.82,
+      "word": "are"
+    },
+    {
+      "startTime": 45.82,
+      "finishTime": 46.28,
+      "word": "everywhere."
+    },
+    {
+      "startTime": 46.62,
+      "finishTime": 46.88,
+      "word": "I'm"
+    },
+    {
+      "startTime": 46.88,
+      "finishTime": 47.06,
+      "word": "sure"
+    },
+    {
+      "startTime": 47.06,
+      "finishTime": 47.22,
+      "word": "you"
+    },
+    {
+      "startTime": 47.22,
+      "finishTime": 47.36,
+      "word": "can"
+    },
+    {
+      "startTime": 47.36,
+      "finishTime": 47.54,
+      "word": "find"
+    },
+    {
+      "startTime": 47.54,
+      "finishTime": 47.7,
+      "word": "them"
+    },
+    {
+      "startTime": 47.7,
+      "finishTime": 47.9,
+      "word": "just"
+    },
+    {
+      "startTime": 47.9,
+      "finishTime": 48.1,
+      "word": "by"
+    },
+    {
+      "startTime": 48.1,
+      "finishTime": 48.32,
+      "word": "walking"
+    },
+    {
+      "startTime": 48.32,
+      "finishTime": 48.62,
+      "word": "around"
+    },
+    {
+      "startTime": 48.62,
+      "finishTime": 48.78,
+      "word": "a"
+    },
+    {
+      "startTime": 48.78,
+      "finishTime": 49,
+      "word": "bit."
+    },
+    {
+      "startTime": 49.32,
+      "finishTime": 49.54,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 49.54,
+      "finishTime": 49.7,
+      "word": "for"
+    },
+    {
+      "startTime": 49.7,
+      "finishTime": 49.84,
+      "word": "your"
+    },
+    {
+      "startTime": 49.84,
+      "finishTime": 49.96,
+      "word": "help,"
+    },
+    {
+      "startTime": 49.96,
+      "finishTime": 50.34,
+      "word": "Maria."
+    },
+    {
+      "startTime": 50.9,
+      "finishTime": 51.08,
+      "word": "You're"
+    },
+    {
+      "startTime": 51.08,
+      "finishTime": 51.26,
+      "word": "welcome,"
+    },
+    {
+      "startTime": 51.4,
+      "finishTime": 51.54,
+      "word": "Tom."
+    }
+  ]
+}

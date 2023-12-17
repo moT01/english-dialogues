@@ -1,0 +1,520 @@
+{
+  "text": "Hi team, thanks for joining the call. Let's discuss our strategy for the upcoming product launch. I think we're going to focus on social media marketing. It's cost effective and it will reach a broader audience. That sounds good. I suggest that we also invest in email marketing. It's more targeted and it will allow us to engage with our subscribers directly. I'm okay with that. Great. So we are going to create a detailed marketing plan combining social media and email marketing. It will help us achieve our goals. Perfect. We'll work on it and meet again next week for an update.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.54,
+      "word": "Hi"
+    },
+    {
+      "startTime": 0.54,
+      "finishTime": 0.86,
+      "word": "team,"
+    },
+    {
+      "startTime": 0.96,
+      "finishTime": 1.24,
+      "word": "thanks"
+    },
+    {
+      "startTime": 1.24,
+      "finishTime": 1.4,
+      "word": "for"
+    },
+    {
+      "startTime": 1.4,
+      "finishTime": 1.62,
+      "word": "joining"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.88,
+      "word": "the"
+    },
+    {
+      "startTime": 1.88,
+      "finishTime": 2.12,
+      "word": "call."
+    },
+    {
+      "startTime": 2.28,
+      "finishTime": 2.66,
+      "word": "Let's"
+    },
+    {
+      "startTime": 2.66,
+      "finishTime": 3.06,
+      "word": "discuss"
+    },
+    {
+      "startTime": 3.06,
+      "finishTime": 3.34,
+      "word": "our"
+    },
+    {
+      "startTime": 3.34,
+      "finishTime": 3.66,
+      "word": "strategy"
+    },
+    {
+      "startTime": 3.66,
+      "finishTime": 3.88,
+      "word": "for"
+    },
+    {
+      "startTime": 3.88,
+      "finishTime": 4.02,
+      "word": "the"
+    },
+    {
+      "startTime": 4.02,
+      "finishTime": 4.42,
+      "word": "upcoming"
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.82,
+      "word": "product"
+    },
+    {
+      "startTime": 4.82,
+      "finishTime": 5.24,
+      "word": "launch."
+    },
+    {
+      "startTime": 5.92,
+      "finishTime": 6.04,
+      "word": "I"
+    },
+    {
+      "startTime": 6.04,
+      "finishTime": 6.22,
+      "word": "think"
+    },
+    {
+      "startTime": 6.22,
+      "finishTime": 6.42,
+      "word": "we're"
+    },
+    {
+      "startTime": 6.42,
+      "finishTime": 6.54,
+      "word": "going"
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.68,
+      "word": "to"
+    },
+    {
+      "startTime": 6.68,
+      "finishTime": 6.92,
+      "word": "focus"
+    },
+    {
+      "startTime": 6.92,
+      "finishTime": 7.16,
+      "word": "on"
+    },
+    {
+      "startTime": 7.16,
+      "finishTime": 7.48,
+      "word": "social"
+    },
+    {
+      "startTime": 7.48,
+      "finishTime": 7.8,
+      "word": "media"
+    },
+    {
+      "startTime": 7.8,
+      "finishTime": 8.28,
+      "word": "marketing."
+    },
+    {
+      "startTime": 8.76,
+      "finishTime": 9.16,
+      "word": "It's"
+    },
+    {
+      "startTime": 9.16,
+      "finishTime": 9.38,
+      "word": "cost"
+    },
+    {
+      "startTime": 9.38,
+      "finishTime": 9.82,
+      "word": "effective"
+    },
+    {
+      "startTime": 9.82,
+      "finishTime": 10.06,
+      "word": "and"
+    },
+    {
+      "startTime": 10.06,
+      "finishTime": 10.2,
+      "word": "it"
+    },
+    {
+      "startTime": 10.2,
+      "finishTime": 10.36,
+      "word": "will"
+    },
+    {
+      "startTime": 10.36,
+      "finishTime": 10.52,
+      "word": "reach"
+    },
+    {
+      "startTime": 10.52,
+      "finishTime": 10.76,
+      "word": "a"
+    },
+    {
+      "startTime": 10.76,
+      "finishTime": 11,
+      "word": "broader"
+    },
+    {
+      "startTime": 11,
+      "finishTime": 11.68,
+      "word": "audience."
+    },
+    {
+      "startTime": 12.38,
+      "finishTime": 12.58,
+      "word": "That"
+    },
+    {
+      "startTime": 12.58,
+      "finishTime": 12.8,
+      "word": "sounds"
+    },
+    {
+      "startTime": 12.8,
+      "finishTime": 13.16,
+      "word": "good."
+    },
+    {
+      "startTime": 13.4,
+      "finishTime": 13.72,
+      "word": "I"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 14.1,
+      "word": "suggest"
+    },
+    {
+      "startTime": 14.1,
+      "finishTime": 14.28,
+      "word": "that"
+    },
+    {
+      "startTime": 14.28,
+      "finishTime": 14.52,
+      "word": "we"
+    },
+    {
+      "startTime": 14.52,
+      "finishTime": 14.86,
+      "word": "also"
+    },
+    {
+      "startTime": 14.86,
+      "finishTime": 15.26,
+      "word": "invest"
+    },
+    {
+      "startTime": 15.26,
+      "finishTime": 15.6,
+      "word": "in"
+    },
+    {
+      "startTime": 15.6,
+      "finishTime": 15.84,
+      "word": "email"
+    },
+    {
+      "startTime": 15.84,
+      "finishTime": 16.32,
+      "word": "marketing."
+    },
+    {
+      "startTime": 16.46,
+      "finishTime": 16.76,
+      "word": "It's"
+    },
+    {
+      "startTime": 16.76,
+      "finishTime": 17,
+      "word": "more"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.5,
+      "word": "targeted"
+    },
+    {
+      "startTime": 17.5,
+      "finishTime": 17.88,
+      "word": "and"
+    },
+    {
+      "startTime": 17.88,
+      "finishTime": 18.02,
+      "word": "it"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.26,
+      "word": "will"
+    },
+    {
+      "startTime": 18.26,
+      "finishTime": 18.5,
+      "word": "allow"
+    },
+    {
+      "startTime": 18.5,
+      "finishTime": 18.72,
+      "word": "us"
+    },
+    {
+      "startTime": 18.72,
+      "finishTime": 18.92,
+      "word": "to"
+    },
+    {
+      "startTime": 18.92,
+      "finishTime": 19.18,
+      "word": "engage"
+    },
+    {
+      "startTime": 19.18,
+      "finishTime": 19.42,
+      "word": "with"
+    },
+    {
+      "startTime": 19.42,
+      "finishTime": 19.68,
+      "word": "our"
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 20.06,
+      "word": "subscribers"
+    },
+    {
+      "startTime": 20.06,
+      "finishTime": 20.66,
+      "word": "directly."
+    },
+    {
+      "startTime": 21.18,
+      "finishTime": 21.38,
+      "word": "I'm"
+    },
+    {
+      "startTime": 21.38,
+      "finishTime": 21.52,
+      "word": "okay"
+    },
+    {
+      "startTime": 21.52,
+      "finishTime": 21.68,
+      "word": "with"
+    },
+    {
+      "startTime": 21.68,
+      "finishTime": 22.2,
+      "word": "that."
+    },
+    {
+      "startTime": 22.2,
+      "finishTime": 23.06,
+      "word": "Great."
+    },
+    {
+      "startTime": 23.3,
+      "finishTime": 23.5,
+      "word": "So"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.62,
+      "word": "we"
+    },
+    {
+      "startTime": 23.62,
+      "finishTime": 23.78,
+      "word": "are"
+    },
+    {
+      "startTime": 23.78,
+      "finishTime": 23.9,
+      "word": "going"
+    },
+    {
+      "startTime": 23.9,
+      "finishTime": 24.14,
+      "word": "to"
+    },
+    {
+      "startTime": 24.14,
+      "finishTime": 24.3,
+      "word": "create"
+    },
+    {
+      "startTime": 24.3,
+      "finishTime": 24.56,
+      "word": "a"
+    },
+    {
+      "startTime": 24.56,
+      "finishTime": 24.86,
+      "word": "detailed"
+    },
+    {
+      "startTime": 24.86,
+      "finishTime": 25.28,
+      "word": "marketing"
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 25.8,
+      "word": "plan"
+    },
+    {
+      "startTime": 25.8,
+      "finishTime": 26.28,
+      "word": "combining"
+    },
+    {
+      "startTime": 26.28,
+      "finishTime": 26.72,
+      "word": "social"
+    },
+    {
+      "startTime": 26.72,
+      "finishTime": 27.04,
+      "word": "media"
+    },
+    {
+      "startTime": 27.04,
+      "finishTime": 27.38,
+      "word": "and"
+    },
+    {
+      "startTime": 27.38,
+      "finishTime": 27.6,
+      "word": "email"
+    },
+    {
+      "startTime": 27.6,
+      "finishTime": 28.02,
+      "word": "marketing."
+    },
+    {
+      "startTime": 28.52,
+      "finishTime": 28.7,
+      "word": "It"
+    },
+    {
+      "startTime": 28.7,
+      "finishTime": 28.9,
+      "word": "will"
+    },
+    {
+      "startTime": 28.9,
+      "finishTime": 29.1,
+      "word": "help"
+    },
+    {
+      "startTime": 29.1,
+      "finishTime": 29.34,
+      "word": "us"
+    },
+    {
+      "startTime": 29.34,
+      "finishTime": 29.58,
+      "word": "achieve"
+    },
+    {
+      "startTime": 29.58,
+      "finishTime": 29.82,
+      "word": "our"
+    },
+    {
+      "startTime": 29.82,
+      "finishTime": 30.2,
+      "word": "goals."
+    },
+    {
+      "startTime": 31.04,
+      "finishTime": 31.48,
+      "word": "Perfect."
+    },
+    {
+      "startTime": 31.76,
+      "finishTime": 31.88,
+      "word": "We'll"
+    },
+    {
+      "startTime": 31.88,
+      "finishTime": 32.04,
+      "word": "work"
+    },
+    {
+      "startTime": 32.04,
+      "finishTime": 32.22,
+      "word": "on"
+    },
+    {
+      "startTime": 32.22,
+      "finishTime": 32.4,
+      "word": "it"
+    },
+    {
+      "startTime": 32.4,
+      "finishTime": 32.52,
+      "word": "and"
+    },
+    {
+      "startTime": 32.52,
+      "finishTime": 32.7,
+      "word": "meet"
+    },
+    {
+      "startTime": 32.7,
+      "finishTime": 33.08,
+      "word": "again"
+    },
+    {
+      "startTime": 33.08,
+      "finishTime": 33.38,
+      "word": "next"
+    },
+    {
+      "startTime": 33.38,
+      "finishTime": 33.54,
+      "word": "week"
+    },
+    {
+      "startTime": 33.54,
+      "finishTime": 33.74,
+      "word": "for"
+    },
+    {
+      "startTime": 33.74,
+      "finishTime": 33.9,
+      "word": "an"
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.1,
+      "word": "update."
+    }
+  ]
+}

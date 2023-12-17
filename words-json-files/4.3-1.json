@@ -1,0 +1,435 @@
+{
+  "text": "Hey, Alice. Do you know Lisa? No, I don't think I've had the chance to meet her. Who's Lisa? She's a colleague with long wavy brown hair and bright brown eyes. If you see her today She's wearing a black and green jacket and a beige shirt. Oh, I think I saw her. What does she do on the team? She's a UX UI designer. She's really creative That's interesting. Thanks for the description Tom. I'll make sure to say hi when I run into her",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.78,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 1.02,
+      "finishTime": 1.3,
+      "word": "Alice."
+    },
+    {
+      "startTime": 1.52,
+      "finishTime": 1.68,
+      "word": "Do"
+    },
+    {
+      "startTime": 1.68,
+      "finishTime": 1.78,
+      "word": "you"
+    },
+    {
+      "startTime": 1.78,
+      "finishTime": 1.96,
+      "word": "know"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.26,
+      "word": "Lisa?"
+    },
+    {
+      "startTime": 3.24,
+      "finishTime": 3.58,
+      "word": "No,"
+    },
+    {
+      "startTime": 3.6,
+      "finishTime": 3.68,
+      "word": "I"
+    },
+    {
+      "startTime": 3.68,
+      "finishTime": 3.86,
+      "word": "don't"
+    },
+    {
+      "startTime": 3.86,
+      "finishTime": 4.02,
+      "word": "think"
+    },
+    {
+      "startTime": 4.02,
+      "finishTime": 4.18,
+      "word": "I've"
+    },
+    {
+      "startTime": 4.18,
+      "finishTime": 4.26,
+      "word": "had"
+    },
+    {
+      "startTime": 4.26,
+      "finishTime": 4.4,
+      "word": "the"
+    },
+    {
+      "startTime": 4.4,
+      "finishTime": 4.6,
+      "word": "chance"
+    },
+    {
+      "startTime": 4.6,
+      "finishTime": 4.8,
+      "word": "to"
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 4.92,
+      "word": "meet"
+    },
+    {
+      "startTime": 4.92,
+      "finishTime": 5.28,
+      "word": "her."
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.6,
+      "word": "Who's"
+    },
+    {
+      "startTime": 5.6,
+      "finishTime": 5.84,
+      "word": "Lisa?"
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.88,
+      "word": "She's"
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7,
+      "word": "a"
+    },
+    {
+      "startTime": 7,
+      "finishTime": 7.26,
+      "word": "colleague"
+    },
+    {
+      "startTime": 7.26,
+      "finishTime": 7.6,
+      "word": "with"
+    },
+    {
+      "startTime": 7.6,
+      "finishTime": 8,
+      "word": "long"
+    },
+    {
+      "startTime": 8,
+      "finishTime": 8.38,
+      "word": "wavy"
+    },
+    {
+      "startTime": 8.38,
+      "finishTime": 8.64,
+      "word": "brown"
+    },
+    {
+      "startTime": 8.64,
+      "finishTime": 9,
+      "word": "hair"
+    },
+    {
+      "startTime": 9,
+      "finishTime": 9.5,
+      "word": "and"
+    },
+    {
+      "startTime": 9.5,
+      "finishTime": 9.76,
+      "word": "bright"
+    },
+    {
+      "startTime": 9.76,
+      "finishTime": 10,
+      "word": "brown"
+    },
+    {
+      "startTime": 10,
+      "finishTime": 10.4,
+      "word": "eyes."
+    },
+    {
+      "startTime": 10.58,
+      "finishTime": 10.8,
+      "word": "If"
+    },
+    {
+      "startTime": 10.8,
+      "finishTime": 10.96,
+      "word": "you"
+    },
+    {
+      "startTime": 10.96,
+      "finishTime": 11.12,
+      "word": "see"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.3,
+      "word": "her"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.62,
+      "word": "today"
+    },
+    {
+      "startTime": 11.62,
+      "finishTime": 12.02,
+      "word": "She's"
+    },
+    {
+      "startTime": 12.02,
+      "finishTime": 12.16,
+      "word": "wearing"
+    },
+    {
+      "startTime": 12.16,
+      "finishTime": 12.42,
+      "word": "a"
+    },
+    {
+      "startTime": 12.42,
+      "finishTime": 12.64,
+      "word": "black"
+    },
+    {
+      "startTime": 12.64,
+      "finishTime": 12.84,
+      "word": "and"
+    },
+    {
+      "startTime": 12.84,
+      "finishTime": 12.98,
+      "word": "green"
+    },
+    {
+      "startTime": 12.98,
+      "finishTime": 13.38,
+      "word": "jacket"
+    },
+    {
+      "startTime": 13.38,
+      "finishTime": 13.64,
+      "word": "and"
+    },
+    {
+      "startTime": 13.64,
+      "finishTime": 13.8,
+      "word": "a"
+    },
+    {
+      "startTime": 13.8,
+      "finishTime": 14.02,
+      "word": "beige"
+    },
+    {
+      "startTime": 14.02,
+      "finishTime": 14.44,
+      "word": "shirt."
+    },
+    {
+      "startTime": 15.08,
+      "finishTime": 15.3,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 15.3,
+      "finishTime": 15.42,
+      "word": "I"
+    },
+    {
+      "startTime": 15.42,
+      "finishTime": 15.58,
+      "word": "think"
+    },
+    {
+      "startTime": 15.58,
+      "finishTime": 15.76,
+      "word": "I"
+    },
+    {
+      "startTime": 15.76,
+      "finishTime": 15.96,
+      "word": "saw"
+    },
+    {
+      "startTime": 15.96,
+      "finishTime": 16.32,
+      "word": "her."
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.58,
+      "word": "What"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.72,
+      "word": "does"
+    },
+    {
+      "startTime": 16.72,
+      "finishTime": 16.86,
+      "word": "she"
+    },
+    {
+      "startTime": 16.86,
+      "finishTime": 16.98,
+      "word": "do"
+    },
+    {
+      "startTime": 16.98,
+      "finishTime": 17.14,
+      "word": "on"
+    },
+    {
+      "startTime": 17.14,
+      "finishTime": 17.3,
+      "word": "the"
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.48,
+      "word": "team?"
+    },
+    {
+      "startTime": 17.88,
+      "finishTime": 18.26,
+      "word": "She's"
+    },
+    {
+      "startTime": 18.26,
+      "finishTime": 18.42,
+      "word": "a"
+    },
+    {
+      "startTime": 18.42,
+      "finishTime": 18.86,
+      "word": "UX"
+    },
+    {
+      "startTime": 18.86,
+      "finishTime": 19.18,
+      "word": "UI"
+    },
+    {
+      "startTime": 19.18,
+      "finishTime": 19.54,
+      "word": "designer."
+    },
+    {
+      "startTime": 19.82,
+      "finishTime": 20.18,
+      "word": "She's"
+    },
+    {
+      "startTime": 20.18,
+      "finishTime": 20.48,
+      "word": "really"
+    },
+    {
+      "startTime": 20.48,
+      "finishTime": 20.96,
+      "word": "creative"
+    },
+    {
+      "startTime": 21.779999999999998,
+      "finishTime": 22.22,
+      "word": "That's"
+    },
+    {
+      "startTime": 22.22,
+      "finishTime": 22.54,
+      "word": "interesting."
+    },
+    {
+      "startTime": 22.86,
+      "finishTime": 22.98,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 22.98,
+      "finishTime": 23.12,
+      "word": "for"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.32,
+      "word": "the"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.66,
+      "word": "description"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 24,
+      "word": "Tom."
+    },
+    {
+      "startTime": 24.12,
+      "finishTime": 24.54,
+      "word": "I'll"
+    },
+    {
+      "startTime": 24.54,
+      "finishTime": 24.66,
+      "word": "make"
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 24.8,
+      "word": "sure"
+    },
+    {
+      "startTime": 24.8,
+      "finishTime": 24.94,
+      "word": "to"
+    },
+    {
+      "startTime": 24.94,
+      "finishTime": 25.04,
+      "word": "say"
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.26,
+      "word": "hi"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.4,
+      "word": "when"
+    },
+    {
+      "startTime": 25.4,
+      "finishTime": 25.56,
+      "word": "I"
+    },
+    {
+      "startTime": 25.56,
+      "finishTime": 25.66,
+      "word": "run"
+    },
+    {
+      "startTime": 25.66,
+      "finishTime": 25.86,
+      "word": "into"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 26.32,
+      "word": "her"
+    }
+  ]
+}

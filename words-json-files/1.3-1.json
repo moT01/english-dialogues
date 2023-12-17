@@ -1,0 +1,625 @@
+{
+  "text": "Hi, Tom. Are you happy with the workplace so far? Yes, it's great. Everyone is friendly. Listen, how about the team building activities here? Are they cool? Yes, we go out with the team sometimes. Are you into these activities? Absolutely. They're really fun. What's the team's favorite? Many of us enjoy the monthly game night. Are you into board games? Yes, I love board games. Monopoly and Ticket to Ride are popular choices. Are you familiar with them? Yes, I've played both before. Great choices. Is the team into playing games on computers as well, like Gartic? Oh yeah, Gartic is another favorite. Maybe we can play Gartic on the next game night? That sounds like a plan, Sarah. Thanks for the suggestions.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.58,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 0.66,
+      "finishTime": 0.9,
+      "word": "Tom."
+    },
+    {
+      "startTime": 0.96,
+      "finishTime": 1.16,
+      "word": "Are"
+    },
+    {
+      "startTime": 1.16,
+      "finishTime": 1.28,
+      "word": "you"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.5,
+      "word": "happy"
+    },
+    {
+      "startTime": 1.5,
+      "finishTime": 1.66,
+      "word": "with"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.86,
+      "word": "the"
+    },
+    {
+      "startTime": 1.86,
+      "finishTime": 2.16,
+      "word": "workplace"
+    },
+    {
+      "startTime": 2.16,
+      "finishTime": 2.46,
+      "word": "so"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.78,
+      "word": "far?"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.68,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 4.02,
+      "word": "it's"
+    },
+    {
+      "startTime": 4.02,
+      "finishTime": 4.38,
+      "word": "great."
+    },
+    {
+      "startTime": 4.64,
+      "finishTime": 4.96,
+      "word": "Everyone"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.26,
+      "word": "is"
+    },
+    {
+      "startTime": 5.26,
+      "finishTime": 5.56,
+      "word": "friendly."
+    },
+    {
+      "startTime": 5.66,
+      "finishTime": 6.12,
+      "word": "Listen,"
+    },
+    {
+      "startTime": 6.38,
+      "finishTime": 6.7,
+      "word": "how"
+    },
+    {
+      "startTime": 6.7,
+      "finishTime": 6.8,
+      "word": "about"
+    },
+    {
+      "startTime": 6.8,
+      "finishTime": 7.02,
+      "word": "the"
+    },
+    {
+      "startTime": 7.02,
+      "finishTime": 7.18,
+      "word": "team"
+    },
+    {
+      "startTime": 7.18,
+      "finishTime": 7.44,
+      "word": "building"
+    },
+    {
+      "startTime": 7.44,
+      "finishTime": 7.92,
+      "word": "activities"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.22,
+      "word": "here?"
+    },
+    {
+      "startTime": 8.34,
+      "finishTime": 8.5,
+      "word": "Are"
+    },
+    {
+      "startTime": 8.5,
+      "finishTime": 8.7,
+      "word": "they"
+    },
+    {
+      "startTime": 8.7,
+      "finishTime": 9.04,
+      "word": "cool?"
+    },
+    {
+      "startTime": 9.96,
+      "finishTime": 10.32,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 10.32,
+      "finishTime": 10.6,
+      "word": "we"
+    },
+    {
+      "startTime": 10.6,
+      "finishTime": 10.72,
+      "word": "go"
+    },
+    {
+      "startTime": 10.72,
+      "finishTime": 10.86,
+      "word": "out"
+    },
+    {
+      "startTime": 10.86,
+      "finishTime": 11.02,
+      "word": "with"
+    },
+    {
+      "startTime": 11.02,
+      "finishTime": 11.16,
+      "word": "the"
+    },
+    {
+      "startTime": 11.16,
+      "finishTime": 11.28,
+      "word": "team"
+    },
+    {
+      "startTime": 11.28,
+      "finishTime": 11.86,
+      "word": "sometimes."
+    },
+    {
+      "startTime": 12.02,
+      "finishTime": 12.14,
+      "word": "Are"
+    },
+    {
+      "startTime": 12.14,
+      "finishTime": 12.32,
+      "word": "you"
+    },
+    {
+      "startTime": 12.32,
+      "finishTime": 12.48,
+      "word": "into"
+    },
+    {
+      "startTime": 12.48,
+      "finishTime": 12.72,
+      "word": "these"
+    },
+    {
+      "startTime": 12.72,
+      "finishTime": 13.12,
+      "word": "activities?"
+    },
+    {
+      "startTime": 13.96,
+      "finishTime": 14.48,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 14.64,
+      "finishTime": 14.84,
+      "word": "They're"
+    },
+    {
+      "startTime": 14.84,
+      "finishTime": 15.18,
+      "word": "really"
+    },
+    {
+      "startTime": 15.18,
+      "finishTime": 15.52,
+      "word": "fun."
+    },
+    {
+      "startTime": 15.78,
+      "finishTime": 16.14,
+      "word": "What's"
+    },
+    {
+      "startTime": 16.14,
+      "finishTime": 16.34,
+      "word": "the"
+    },
+    {
+      "startTime": 16.34,
+      "finishTime": 16.74,
+      "word": "team's"
+    },
+    {
+      "startTime": 16.74,
+      "finishTime": 17,
+      "word": "favorite?"
+    },
+    {
+      "startTime": 17.76,
+      "finishTime": 17.96,
+      "word": "Many"
+    },
+    {
+      "startTime": 17.96,
+      "finishTime": 18.12,
+      "word": "of"
+    },
+    {
+      "startTime": 18.12,
+      "finishTime": 18.3,
+      "word": "us"
+    },
+    {
+      "startTime": 18.3,
+      "finishTime": 18.52,
+      "word": "enjoy"
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.7,
+      "word": "the"
+    },
+    {
+      "startTime": 18.7,
+      "finishTime": 19.04,
+      "word": "monthly"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.34,
+      "word": "game"
+    },
+    {
+      "startTime": 19.34,
+      "finishTime": 19.6,
+      "word": "night."
+    },
+    {
+      "startTime": 19.7,
+      "finishTime": 19.9,
+      "word": "Are"
+    },
+    {
+      "startTime": 19.9,
+      "finishTime": 20,
+      "word": "you"
+    },
+    {
+      "startTime": 20,
+      "finishTime": 20.18,
+      "word": "into"
+    },
+    {
+      "startTime": 20.18,
+      "finishTime": 20.46,
+      "word": "board"
+    },
+    {
+      "startTime": 20.46,
+      "finishTime": 20.84,
+      "word": "games?"
+    },
+    {
+      "startTime": 21.26,
+      "finishTime": 21.62,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 21.62,
+      "finishTime": 21.94,
+      "word": "I"
+    },
+    {
+      "startTime": 21.94,
+      "finishTime": 22.24,
+      "word": "love"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.46,
+      "word": "board"
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 23.26,
+      "word": "games."
+    },
+    {
+      "startTime": 23.7,
+      "finishTime": 24.12,
+      "word": "Monopoly"
+    },
+    {
+      "startTime": 24.12,
+      "finishTime": 24.44,
+      "word": "and"
+    },
+    {
+      "startTime": 24.44,
+      "finishTime": 24.68,
+      "word": "Ticket"
+    },
+    {
+      "startTime": 24.68,
+      "finishTime": 24.88,
+      "word": "to"
+    },
+    {
+      "startTime": 24.88,
+      "finishTime": 25.06,
+      "word": "Ride"
+    },
+    {
+      "startTime": 25.06,
+      "finishTime": 25.32,
+      "word": "are"
+    },
+    {
+      "startTime": 25.32,
+      "finishTime": 25.62,
+      "word": "popular"
+    },
+    {
+      "startTime": 25.62,
+      "finishTime": 26.08,
+      "word": "choices."
+    },
+    {
+      "startTime": 26.26,
+      "finishTime": 26.44,
+      "word": "Are"
+    },
+    {
+      "startTime": 26.44,
+      "finishTime": 26.56,
+      "word": "you"
+    },
+    {
+      "startTime": 26.56,
+      "finishTime": 26.86,
+      "word": "familiar"
+    },
+    {
+      "startTime": 26.86,
+      "finishTime": 27.04,
+      "word": "with"
+    },
+    {
+      "startTime": 27.04,
+      "finishTime": 27.28,
+      "word": "them?"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.8,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 27.98,
+      "finishTime": 28.14,
+      "word": "I've"
+    },
+    {
+      "startTime": 28.14,
+      "finishTime": 28.26,
+      "word": "played"
+    },
+    {
+      "startTime": 28.26,
+      "finishTime": 28.5,
+      "word": "both"
+    },
+    {
+      "startTime": 28.5,
+      "finishTime": 28.98,
+      "word": "before."
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.38,
+      "word": "Great"
+    },
+    {
+      "startTime": 29.38,
+      "finishTime": 29.8,
+      "word": "choices."
+    },
+    {
+      "startTime": 30.16,
+      "finishTime": 30.32,
+      "word": "Is"
+    },
+    {
+      "startTime": 30.32,
+      "finishTime": 30.48,
+      "word": "the"
+    },
+    {
+      "startTime": 30.48,
+      "finishTime": 30.66,
+      "word": "team"
+    },
+    {
+      "startTime": 30.66,
+      "finishTime": 30.88,
+      "word": "into"
+    },
+    {
+      "startTime": 30.88,
+      "finishTime": 31.14,
+      "word": "playing"
+    },
+    {
+      "startTime": 31.14,
+      "finishTime": 31.4,
+      "word": "games"
+    },
+    {
+      "startTime": 31.4,
+      "finishTime": 31.66,
+      "word": "on"
+    },
+    {
+      "startTime": 31.66,
+      "finishTime": 32.06,
+      "word": "computers"
+    },
+    {
+      "startTime": 32.06,
+      "finishTime": 32.58,
+      "word": "as"
+    },
+    {
+      "startTime": 32.58,
+      "finishTime": 32.98,
+      "word": "well,"
+    },
+    {
+      "startTime": 33.34,
+      "finishTime": 33.7,
+      "word": "like"
+    },
+    {
+      "startTime": 33.7,
+      "finishTime": 34.08,
+      "word": "Gartic?"
+    },
+    {
+      "startTime": 35.3,
+      "finishTime": 35.66,
+      "word": "Oh"
+    },
+    {
+      "startTime": 35.66,
+      "finishTime": 35.98,
+      "word": "yeah,"
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.46,
+      "word": "Gartic"
+    },
+    {
+      "startTime": 36.46,
+      "finishTime": 36.68,
+      "word": "is"
+    },
+    {
+      "startTime": 36.68,
+      "finishTime": 36.9,
+      "word": "another"
+    },
+    {
+      "startTime": 36.9,
+      "finishTime": 37.24,
+      "word": "favorite."
+    },
+    {
+      "startTime": 37.68,
+      "finishTime": 37.86,
+      "word": "Maybe"
+    },
+    {
+      "startTime": 37.86,
+      "finishTime": 38,
+      "word": "we"
+    },
+    {
+      "startTime": 38,
+      "finishTime": 38.2,
+      "word": "can"
+    },
+    {
+      "startTime": 38.2,
+      "finishTime": 38.38,
+      "word": "play"
+    },
+    {
+      "startTime": 38.38,
+      "finishTime": 38.7,
+      "word": "Gartic"
+    },
+    {
+      "startTime": 38.7,
+      "finishTime": 38.84,
+      "word": "on"
+    },
+    {
+      "startTime": 38.84,
+      "finishTime": 38.94,
+      "word": "the"
+    },
+    {
+      "startTime": 38.94,
+      "finishTime": 39.14,
+      "word": "next"
+    },
+    {
+      "startTime": 39.14,
+      "finishTime": 39.36,
+      "word": "game"
+    },
+    {
+      "startTime": 39.36,
+      "finishTime": 39.54,
+      "word": "night?"
+    },
+    {
+      "startTime": 40.1,
+      "finishTime": 40.26,
+      "word": "That"
+    },
+    {
+      "startTime": 40.26,
+      "finishTime": 40.46,
+      "word": "sounds"
+    },
+    {
+      "startTime": 40.46,
+      "finishTime": 40.72,
+      "word": "like"
+    },
+    {
+      "startTime": 40.72,
+      "finishTime": 40.82,
+      "word": "a"
+    },
+    {
+      "startTime": 40.82,
+      "finishTime": 40.98,
+      "word": "plan,"
+    },
+    {
+      "startTime": 41.14,
+      "finishTime": 41.28,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 41.58,
+      "finishTime": 41.78,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 41.78,
+      "finishTime": 42,
+      "word": "for"
+    },
+    {
+      "startTime": 42,
+      "finishTime": 42.24,
+      "word": "the"
+    },
+    {
+      "startTime": 42.24,
+      "finishTime": 42.84,
+      "word": "suggestions."
+    }
+  ]
+}

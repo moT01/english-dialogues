@@ -1,0 +1,600 @@
+{
+  "text": "Hey Sarah, I read about low code development on the internet and I got curious, do you know what it's all about? Low code development is about making software with less code. It's one of those trends that simplifies the development process. That sounds convenient, but can we use it on our projects? We can consider low code tools to speed up development and reduce the need for extensive coding. It's particularly useful when you have many tasks and a limited coding team. I see. Maybe we could try it on some of our more demanding projects. I think so. Why don't we check out some of these tools to see if they can help us? I'm on it.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.56,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.56,
+      "finishTime": 0.86,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 0.98,
+      "finishTime": 1.16,
+      "word": "I"
+    },
+    {
+      "startTime": 1.16,
+      "finishTime": 1.3,
+      "word": "read"
+    },
+    {
+      "startTime": 1.3,
+      "finishTime": 1.58,
+      "word": "about"
+    },
+    {
+      "startTime": 1.58,
+      "finishTime": 1.82,
+      "word": "low"
+    },
+    {
+      "startTime": 1.82,
+      "finishTime": 1.98,
+      "word": "code"
+    },
+    {
+      "startTime": 1.98,
+      "finishTime": 2.38,
+      "word": "development"
+    },
+    {
+      "startTime": 2.38,
+      "finishTime": 2.6,
+      "word": "on"
+    },
+    {
+      "startTime": 2.6,
+      "finishTime": 2.76,
+      "word": "the"
+    },
+    {
+      "startTime": 2.76,
+      "finishTime": 3,
+      "word": "internet"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.18,
+      "word": "and"
+    },
+    {
+      "startTime": 3.18,
+      "finishTime": 3.34,
+      "word": "I"
+    },
+    {
+      "startTime": 3.34,
+      "finishTime": 3.48,
+      "word": "got"
+    },
+    {
+      "startTime": 3.48,
+      "finishTime": 3.92,
+      "word": "curious,"
+    },
+    {
+      "startTime": 4.2,
+      "finishTime": 4.36,
+      "word": "do"
+    },
+    {
+      "startTime": 4.36,
+      "finishTime": 4.42,
+      "word": "you"
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.54,
+      "word": "know"
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.66,
+      "word": "what"
+    },
+    {
+      "startTime": 4.66,
+      "finishTime": 4.8,
+      "word": "it's"
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 5.02,
+      "word": "all"
+    },
+    {
+      "startTime": 5.02,
+      "finishTime": 5.5,
+      "word": "about?"
+    },
+    {
+      "startTime": 6.34,
+      "finishTime": 6.56,
+      "word": "Low"
+    },
+    {
+      "startTime": 6.56,
+      "finishTime": 6.72,
+      "word": "code"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 7.18,
+      "word": "development"
+    },
+    {
+      "startTime": 7.18,
+      "finishTime": 7.44,
+      "word": "is"
+    },
+    {
+      "startTime": 7.44,
+      "finishTime": 7.62,
+      "word": "about"
+    },
+    {
+      "startTime": 7.62,
+      "finishTime": 7.96,
+      "word": "making"
+    },
+    {
+      "startTime": 7.96,
+      "finishTime": 8.42,
+      "word": "software"
+    },
+    {
+      "startTime": 8.42,
+      "finishTime": 8.7,
+      "word": "with"
+    },
+    {
+      "startTime": 8.7,
+      "finishTime": 9.02,
+      "word": "less"
+    },
+    {
+      "startTime": 9.02,
+      "finishTime": 9.46,
+      "word": "code."
+    },
+    {
+      "startTime": 9.74,
+      "finishTime": 9.88,
+      "word": "It's"
+    },
+    {
+      "startTime": 9.88,
+      "finishTime": 10,
+      "word": "one"
+    },
+    {
+      "startTime": 10,
+      "finishTime": 10.08,
+      "word": "of"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.28,
+      "word": "those"
+    },
+    {
+      "startTime": 10.28,
+      "finishTime": 10.54,
+      "word": "trends"
+    },
+    {
+      "startTime": 10.54,
+      "finishTime": 10.82,
+      "word": "that"
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11.3,
+      "word": "simplifies"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.54,
+      "word": "the"
+    },
+    {
+      "startTime": 11.54,
+      "finishTime": 11.88,
+      "word": "development"
+    },
+    {
+      "startTime": 11.88,
+      "finishTime": 12.5,
+      "word": "process."
+    },
+    {
+      "startTime": 12.94,
+      "finishTime": 13.16,
+      "word": "That"
+    },
+    {
+      "startTime": 13.16,
+      "finishTime": 13.4,
+      "word": "sounds"
+    },
+    {
+      "startTime": 13.4,
+      "finishTime": 13.8,
+      "word": "convenient,"
+    },
+    {
+      "startTime": 13.94,
+      "finishTime": 14.24,
+      "word": "but"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.42,
+      "word": "can"
+    },
+    {
+      "startTime": 14.42,
+      "finishTime": 14.56,
+      "word": "we"
+    },
+    {
+      "startTime": 14.56,
+      "finishTime": 14.7,
+      "word": "use"
+    },
+    {
+      "startTime": 14.7,
+      "finishTime": 14.88,
+      "word": "it"
+    },
+    {
+      "startTime": 14.88,
+      "finishTime": 15,
+      "word": "on"
+    },
+    {
+      "startTime": 15,
+      "finishTime": 15.24,
+      "word": "our"
+    },
+    {
+      "startTime": 15.24,
+      "finishTime": 15.62,
+      "word": "projects?"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.78,
+      "word": "We"
+    },
+    {
+      "startTime": 16.78,
+      "finishTime": 17.02,
+      "word": "can"
+    },
+    {
+      "startTime": 17.02,
+      "finishTime": 17.36,
+      "word": "consider"
+    },
+    {
+      "startTime": 17.36,
+      "finishTime": 17.64,
+      "word": "low"
+    },
+    {
+      "startTime": 17.64,
+      "finishTime": 17.84,
+      "word": "code"
+    },
+    {
+      "startTime": 17.84,
+      "finishTime": 18.16,
+      "word": "tools"
+    },
+    {
+      "startTime": 18.16,
+      "finishTime": 18.42,
+      "word": "to"
+    },
+    {
+      "startTime": 18.42,
+      "finishTime": 18.58,
+      "word": "speed"
+    },
+    {
+      "startTime": 18.58,
+      "finishTime": 18.82,
+      "word": "up"
+    },
+    {
+      "startTime": 18.82,
+      "finishTime": 19.22,
+      "word": "development"
+    },
+    {
+      "startTime": 19.22,
+      "finishTime": 19.5,
+      "word": "and"
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.8,
+      "word": "reduce"
+    },
+    {
+      "startTime": 19.8,
+      "finishTime": 19.98,
+      "word": "the"
+    },
+    {
+      "startTime": 19.98,
+      "finishTime": 20.1,
+      "word": "need"
+    },
+    {
+      "startTime": 20.1,
+      "finishTime": 20.38,
+      "word": "for"
+    },
+    {
+      "startTime": 20.38,
+      "finishTime": 20.74,
+      "word": "extensive"
+    },
+    {
+      "startTime": 20.74,
+      "finishTime": 21.12,
+      "word": "coding."
+    },
+    {
+      "startTime": 21.76,
+      "finishTime": 21.94,
+      "word": "It's"
+    },
+    {
+      "startTime": 21.94,
+      "finishTime": 22.44,
+      "word": "particularly"
+    },
+    {
+      "startTime": 22.44,
+      "finishTime": 22.9,
+      "word": "useful"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.22,
+      "word": "when"
+    },
+    {
+      "startTime": 23.22,
+      "finishTime": 23.48,
+      "word": "you"
+    },
+    {
+      "startTime": 23.48,
+      "finishTime": 23.66,
+      "word": "have"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 23.92,
+      "word": "many"
+    },
+    {
+      "startTime": 23.92,
+      "finishTime": 24.36,
+      "word": "tasks"
+    },
+    {
+      "startTime": 24.36,
+      "finishTime": 24.6,
+      "word": "and"
+    },
+    {
+      "startTime": 24.6,
+      "finishTime": 24.72,
+      "word": "a"
+    },
+    {
+      "startTime": 24.72,
+      "finishTime": 24.94,
+      "word": "limited"
+    },
+    {
+      "startTime": 24.94,
+      "finishTime": 25.26,
+      "word": "coding"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.62,
+      "word": "team."
+    },
+    {
+      "startTime": 26.06,
+      "finishTime": 26.24,
+      "word": "I"
+    },
+    {
+      "startTime": 26.24,
+      "finishTime": 26.54,
+      "word": "see."
+    },
+    {
+      "startTime": 26.54,
+      "finishTime": 27.2,
+      "word": "Maybe"
+    },
+    {
+      "startTime": 27.2,
+      "finishTime": 27.36,
+      "word": "we"
+    },
+    {
+      "startTime": 27.36,
+      "finishTime": 27.6,
+      "word": "could"
+    },
+    {
+      "startTime": 27.6,
+      "finishTime": 27.76,
+      "word": "try"
+    },
+    {
+      "startTime": 27.76,
+      "finishTime": 27.9,
+      "word": "it"
+    },
+    {
+      "startTime": 27.9,
+      "finishTime": 28.02,
+      "word": "on"
+    },
+    {
+      "startTime": 28.02,
+      "finishTime": 28.24,
+      "word": "some"
+    },
+    {
+      "startTime": 28.24,
+      "finishTime": 28.4,
+      "word": "of"
+    },
+    {
+      "startTime": 28.4,
+      "finishTime": 28.54,
+      "word": "our"
+    },
+    {
+      "startTime": 28.54,
+      "finishTime": 28.78,
+      "word": "more"
+    },
+    {
+      "startTime": 28.78,
+      "finishTime": 29.3,
+      "word": "demanding"
+    },
+    {
+      "startTime": 29.3,
+      "finishTime": 29.92,
+      "word": "projects."
+    },
+    {
+      "startTime": 30.5,
+      "finishTime": 30.68,
+      "word": "I"
+    },
+    {
+      "startTime": 30.68,
+      "finishTime": 30.86,
+      "word": "think"
+    },
+    {
+      "startTime": 30.86,
+      "finishTime": 31.28,
+      "word": "so."
+    },
+    {
+      "startTime": 31.54,
+      "finishTime": 31.66,
+      "word": "Why"
+    },
+    {
+      "startTime": 31.66,
+      "finishTime": 31.82,
+      "word": "don't"
+    },
+    {
+      "startTime": 31.82,
+      "finishTime": 31.96,
+      "word": "we"
+    },
+    {
+      "startTime": 31.96,
+      "finishTime": 32.18,
+      "word": "check"
+    },
+    {
+      "startTime": 32.18,
+      "finishTime": 32.38,
+      "word": "out"
+    },
+    {
+      "startTime": 32.38,
+      "finishTime": 32.56,
+      "word": "some"
+    },
+    {
+      "startTime": 32.56,
+      "finishTime": 32.7,
+      "word": "of"
+    },
+    {
+      "startTime": 32.7,
+      "finishTime": 32.86,
+      "word": "these"
+    },
+    {
+      "startTime": 32.86,
+      "finishTime": 33.18,
+      "word": "tools"
+    },
+    {
+      "startTime": 33.18,
+      "finishTime": 33.44,
+      "word": "to"
+    },
+    {
+      "startTime": 33.44,
+      "finishTime": 33.56,
+      "word": "see"
+    },
+    {
+      "startTime": 33.56,
+      "finishTime": 33.64,
+      "word": "if"
+    },
+    {
+      "startTime": 33.64,
+      "finishTime": 33.78,
+      "word": "they"
+    },
+    {
+      "startTime": 33.78,
+      "finishTime": 33.9,
+      "word": "can"
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.06,
+      "word": "help"
+    },
+    {
+      "startTime": 34.06,
+      "finishTime": 34.5,
+      "word": "us?"
+    },
+    {
+      "startTime": 34.86,
+      "finishTime": 35.12,
+      "word": "I'm"
+    },
+    {
+      "startTime": 35.12,
+      "finishTime": 35.28,
+      "word": "on"
+    },
+    {
+      "startTime": 35.28,
+      "finishTime": 35.5,
+      "word": "it."
+    }
+  ]
+}

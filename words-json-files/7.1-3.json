@@ -1,0 +1,545 @@
+{
+  "text": "I see that we're using Git for version control. How do I document code changes when I make updates or fixes? Good question. When you make changes, you should use descriptive commit messages. Start your message with a verb in the imperative form like fix, add, or update followed by a brief description of what you did. That sounds straightforward. Anything else I should keep in mind? You should also reference issues in your commit message if you're working on a task related to an issue. It helps in tracking progress and understanding the context of changes. Thanks for the clarification. I'll make sure to follow these steps.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.36,
+      "word": "I"
+    },
+    {
+      "startTime": 0.36,
+      "finishTime": 0.48,
+      "word": "see"
+    },
+    {
+      "startTime": 0.48,
+      "finishTime": 0.64,
+      "word": "that"
+    },
+    {
+      "startTime": 0.64,
+      "finishTime": 0.78,
+      "word": "we're"
+    },
+    {
+      "startTime": 0.78,
+      "finishTime": 1.02,
+      "word": "using"
+    },
+    {
+      "startTime": 1.02,
+      "finishTime": 1.28,
+      "word": "Git"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.48,
+      "word": "for"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.82,
+      "word": "version"
+    },
+    {
+      "startTime": 1.82,
+      "finishTime": 2.4,
+      "word": "control."
+    },
+    {
+      "startTime": 2.92,
+      "finishTime": 3,
+      "word": "How"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.14,
+      "word": "do"
+    },
+    {
+      "startTime": 3.14,
+      "finishTime": 3.3,
+      "word": "I"
+    },
+    {
+      "startTime": 3.3,
+      "finishTime": 3.66,
+      "word": "document"
+    },
+    {
+      "startTime": 3.66,
+      "finishTime": 4,
+      "word": "code"
+    },
+    {
+      "startTime": 4,
+      "finishTime": 4.38,
+      "word": "changes"
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.54,
+      "word": "when"
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.7,
+      "word": "I"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 4.9,
+      "word": "make"
+    },
+    {
+      "startTime": 4.9,
+      "finishTime": 5.22,
+      "word": "updates"
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.46,
+      "word": "or"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.9,
+      "word": "fixes?"
+    },
+    {
+      "startTime": 6.6,
+      "finishTime": 6.82,
+      "word": "Good"
+    },
+    {
+      "startTime": 6.82,
+      "finishTime": 7.32,
+      "word": "question."
+    },
+    {
+      "startTime": 7.52,
+      "finishTime": 7.7,
+      "word": "When"
+    },
+    {
+      "startTime": 7.7,
+      "finishTime": 7.9,
+      "word": "you"
+    },
+    {
+      "startTime": 7.9,
+      "finishTime": 8.04,
+      "word": "make"
+    },
+    {
+      "startTime": 8.04,
+      "finishTime": 8.44,
+      "word": "changes,"
+    },
+    {
+      "startTime": 8.74,
+      "finishTime": 8.82,
+      "word": "you"
+    },
+    {
+      "startTime": 8.82,
+      "finishTime": 9.08,
+      "word": "should"
+    },
+    {
+      "startTime": 9.08,
+      "finishTime": 9.42,
+      "word": "use"
+    },
+    {
+      "startTime": 9.42,
+      "finishTime": 10.06,
+      "word": "descriptive"
+    },
+    {
+      "startTime": 10.06,
+      "finishTime": 10.38,
+      "word": "commit"
+    },
+    {
+      "startTime": 10.38,
+      "finishTime": 11,
+      "word": "messages."
+    },
+    {
+      "startTime": 11.44,
+      "finishTime": 11.58,
+      "word": "Start"
+    },
+    {
+      "startTime": 11.58,
+      "finishTime": 11.86,
+      "word": "your"
+    },
+    {
+      "startTime": 11.86,
+      "finishTime": 12.16,
+      "word": "message"
+    },
+    {
+      "startTime": 12.16,
+      "finishTime": 12.42,
+      "word": "with"
+    },
+    {
+      "startTime": 12.42,
+      "finishTime": 12.62,
+      "word": "a"
+    },
+    {
+      "startTime": 12.62,
+      "finishTime": 12.86,
+      "word": "verb"
+    },
+    {
+      "startTime": 12.86,
+      "finishTime": 13.06,
+      "word": "in"
+    },
+    {
+      "startTime": 13.06,
+      "finishTime": 13.32,
+      "word": "the"
+    },
+    {
+      "startTime": 13.32,
+      "finishTime": 13.66,
+      "word": "imperative"
+    },
+    {
+      "startTime": 13.66,
+      "finishTime": 14.1,
+      "word": "form"
+    },
+    {
+      "startTime": 14.1,
+      "finishTime": 14.64,
+      "word": "like"
+    },
+    {
+      "startTime": 14.64,
+      "finishTime": 15.2,
+      "word": "fix,"
+    },
+    {
+      "startTime": 15.52,
+      "finishTime": 15.92,
+      "word": "add,"
+    },
+    {
+      "startTime": 16.12,
+      "finishTime": 16.32,
+      "word": "or"
+    },
+    {
+      "startTime": 16.32,
+      "finishTime": 16.76,
+      "word": "update"
+    },
+    {
+      "startTime": 16.76,
+      "finishTime": 17.6,
+      "word": "followed"
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 17.84,
+      "word": "by"
+    },
+    {
+      "startTime": 17.84,
+      "finishTime": 18.02,
+      "word": "a"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.2,
+      "word": "brief"
+    },
+    {
+      "startTime": 18.2,
+      "finishTime": 18.78,
+      "word": "description"
+    },
+    {
+      "startTime": 18.78,
+      "finishTime": 19,
+      "word": "of"
+    },
+    {
+      "startTime": 19,
+      "finishTime": 19.22,
+      "word": "what"
+    },
+    {
+      "startTime": 19.22,
+      "finishTime": 19.46,
+      "word": "you"
+    },
+    {
+      "startTime": 19.46,
+      "finishTime": 19.7,
+      "word": "did."
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.32,
+      "word": "That"
+    },
+    {
+      "startTime": 20.32,
+      "finishTime": 20.58,
+      "word": "sounds"
+    },
+    {
+      "startTime": 20.58,
+      "finishTime": 21.16,
+      "word": "straightforward."
+    },
+    {
+      "startTime": 21.48,
+      "finishTime": 21.74,
+      "word": "Anything"
+    },
+    {
+      "startTime": 21.74,
+      "finishTime": 22.04,
+      "word": "else"
+    },
+    {
+      "startTime": 22.04,
+      "finishTime": 22.16,
+      "word": "I"
+    },
+    {
+      "startTime": 22.16,
+      "finishTime": 22.28,
+      "word": "should"
+    },
+    {
+      "startTime": 22.28,
+      "finishTime": 22.46,
+      "word": "keep"
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.64,
+      "word": "in"
+    },
+    {
+      "startTime": 22.64,
+      "finishTime": 22.92,
+      "word": "mind?"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.5,
+      "word": "You"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.74,
+      "word": "should"
+    },
+    {
+      "startTime": 23.74,
+      "finishTime": 24.28,
+      "word": "also"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.68,
+      "word": "reference"
+    },
+    {
+      "startTime": 24.68,
+      "finishTime": 25.08,
+      "word": "issues"
+    },
+    {
+      "startTime": 25.08,
+      "finishTime": 25.26,
+      "word": "in"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.48,
+      "word": "your"
+    },
+    {
+      "startTime": 25.48,
+      "finishTime": 25.66,
+      "word": "commit"
+    },
+    {
+      "startTime": 25.66,
+      "finishTime": 26.12,
+      "word": "message"
+    },
+    {
+      "startTime": 26.12,
+      "finishTime": 26.36,
+      "word": "if"
+    },
+    {
+      "startTime": 26.36,
+      "finishTime": 26.54,
+      "word": "you're"
+    },
+    {
+      "startTime": 26.54,
+      "finishTime": 26.8,
+      "word": "working"
+    },
+    {
+      "startTime": 26.8,
+      "finishTime": 27.02,
+      "word": "on"
+    },
+    {
+      "startTime": 27.02,
+      "finishTime": 27.2,
+      "word": "a"
+    },
+    {
+      "startTime": 27.2,
+      "finishTime": 27.44,
+      "word": "task"
+    },
+    {
+      "startTime": 27.44,
+      "finishTime": 27.8,
+      "word": "related"
+    },
+    {
+      "startTime": 27.8,
+      "finishTime": 28.02,
+      "word": "to"
+    },
+    {
+      "startTime": 28.02,
+      "finishTime": 28.18,
+      "word": "an"
+    },
+    {
+      "startTime": 28.18,
+      "finishTime": 28.44,
+      "word": "issue."
+    },
+    {
+      "startTime": 28.88,
+      "finishTime": 28.96,
+      "word": "It"
+    },
+    {
+      "startTime": 28.96,
+      "finishTime": 29.2,
+      "word": "helps"
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.5,
+      "word": "in"
+    },
+    {
+      "startTime": 29.5,
+      "finishTime": 29.72,
+      "word": "tracking"
+    },
+    {
+      "startTime": 29.72,
+      "finishTime": 30.3,
+      "word": "progress"
+    },
+    {
+      "startTime": 30.3,
+      "finishTime": 30.74,
+      "word": "and"
+    },
+    {
+      "startTime": 30.74,
+      "finishTime": 31.24,
+      "word": "understanding"
+    },
+    {
+      "startTime": 31.24,
+      "finishTime": 31.58,
+      "word": "the"
+    },
+    {
+      "startTime": 31.58,
+      "finishTime": 32.02,
+      "word": "context"
+    },
+    {
+      "startTime": 32.02,
+      "finishTime": 32.4,
+      "word": "of"
+    },
+    {
+      "startTime": 32.4,
+      "finishTime": 32.7,
+      "word": "changes."
+    },
+    {
+      "startTime": 33.28,
+      "finishTime": 33.48,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 33.48,
+      "finishTime": 33.64,
+      "word": "for"
+    },
+    {
+      "startTime": 33.64,
+      "finishTime": 33.82,
+      "word": "the"
+    },
+    {
+      "startTime": 33.82,
+      "finishTime": 34.28,
+      "word": "clarification."
+    },
+    {
+      "startTime": 34.64,
+      "finishTime": 34.84,
+      "word": "I'll"
+    },
+    {
+      "startTime": 34.84,
+      "finishTime": 34.96,
+      "word": "make"
+    },
+    {
+      "startTime": 34.96,
+      "finishTime": 35.12,
+      "word": "sure"
+    },
+    {
+      "startTime": 35.12,
+      "finishTime": 35.28,
+      "word": "to"
+    },
+    {
+      "startTime": 35.28,
+      "finishTime": 35.46,
+      "word": "follow"
+    },
+    {
+      "startTime": 35.46,
+      "finishTime": 35.74,
+      "word": "these"
+    },
+    {
+      "startTime": 35.74,
+      "finishTime": 36.1,
+      "word": "steps."
+    }
+  ]
+}

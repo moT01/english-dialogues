@@ -1,0 +1,610 @@
+{
+  "text": "Hey, Alice, want to play a guessing game? I'll name some objects with strange names and you try to guess what they are. Sounds fun. I'm up for the challenge. Great. Here's the first one. Percolator. Hmm. Is it some kind of machine? You're on the right track. It's a kind of coffee machine. Ah, got it. Okay, your turn. Skeuomorph. Hmm. That's a tough one. Is it a type of rare plant? Not really. It's a design element. It imitates real world objects in digital interfaces. Interesting. All right. How about sphygmomanometer? Whoa. That's a mouthful. Is it a medical device? You're absolutely right. It's the device that doctors use to measure your blood pressure. Hey, I'm good at this.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.94,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.42,
+      "word": "Alice,"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.8,
+      "word": "want"
+    },
+    {
+      "startTime": 1.8,
+      "finishTime": 1.94,
+      "word": "to"
+    },
+    {
+      "startTime": 1.94,
+      "finishTime": 2.06,
+      "word": "play"
+    },
+    {
+      "startTime": 2.06,
+      "finishTime": 2.26,
+      "word": "a"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.42,
+      "word": "guessing"
+    },
+    {
+      "startTime": 2.42,
+      "finishTime": 2.78,
+      "word": "game?"
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.4,
+      "word": "I'll"
+    },
+    {
+      "startTime": 3.4,
+      "finishTime": 3.56,
+      "word": "name"
+    },
+    {
+      "startTime": 3.56,
+      "finishTime": 3.82,
+      "word": "some"
+    },
+    {
+      "startTime": 3.82,
+      "finishTime": 4.14,
+      "word": "objects"
+    },
+    {
+      "startTime": 4.14,
+      "finishTime": 4.44,
+      "word": "with"
+    },
+    {
+      "startTime": 4.44,
+      "finishTime": 4.68,
+      "word": "strange"
+    },
+    {
+      "startTime": 4.68,
+      "finishTime": 5.06,
+      "word": "names"
+    },
+    {
+      "startTime": 5.06,
+      "finishTime": 5.36,
+      "word": "and"
+    },
+    {
+      "startTime": 5.36,
+      "finishTime": 5.54,
+      "word": "you"
+    },
+    {
+      "startTime": 5.54,
+      "finishTime": 5.72,
+      "word": "try"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 5.88,
+      "word": "to"
+    },
+    {
+      "startTime": 5.88,
+      "finishTime": 5.96,
+      "word": "guess"
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.12,
+      "word": "what"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.36,
+      "word": "they"
+    },
+    {
+      "startTime": 6.36,
+      "finishTime": 7.1,
+      "word": "are."
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 7.72,
+      "word": "Sounds"
+    },
+    {
+      "startTime": 7.72,
+      "finishTime": 8.1,
+      "word": "fun."
+    },
+    {
+      "startTime": 8.22,
+      "finishTime": 8.4,
+      "word": "I'm"
+    },
+    {
+      "startTime": 8.4,
+      "finishTime": 8.5,
+      "word": "up"
+    },
+    {
+      "startTime": 8.5,
+      "finishTime": 8.64,
+      "word": "for"
+    },
+    {
+      "startTime": 8.64,
+      "finishTime": 8.8,
+      "word": "the"
+    },
+    {
+      "startTime": 8.8,
+      "finishTime": 9.2,
+      "word": "challenge."
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.32,
+      "word": "Great."
+    },
+    {
+      "startTime": 10.5,
+      "finishTime": 10.8,
+      "word": "Here's"
+    },
+    {
+      "startTime": 10.8,
+      "finishTime": 11,
+      "word": "the"
+    },
+    {
+      "startTime": 11,
+      "finishTime": 11.22,
+      "word": "first"
+    },
+    {
+      "startTime": 11.22,
+      "finishTime": 11.82,
+      "word": "one."
+    },
+    {
+      "startTime": 12.320000000000004,
+      "finishTime": 12.8,
+      "word": "Percolator."
+    },
+    {
+      "startTime": 13.6,
+      "finishTime": 13.86,
+      "word": "Hmm."
+    },
+    {
+      "startTime": 13.9,
+      "finishTime": 14.14,
+      "word": "Is"
+    },
+    {
+      "startTime": 14.14,
+      "finishTime": 14.32,
+      "word": "it"
+    },
+    {
+      "startTime": 14.32,
+      "finishTime": 14.54,
+      "word": "some"
+    },
+    {
+      "startTime": 14.54,
+      "finishTime": 14.68,
+      "word": "kind"
+    },
+    {
+      "startTime": 14.68,
+      "finishTime": 14.82,
+      "word": "of"
+    },
+    {
+      "startTime": 14.82,
+      "finishTime": 15.14,
+      "word": "machine?"
+    },
+    {
+      "startTime": 15.72,
+      "finishTime": 15.92,
+      "word": "You're"
+    },
+    {
+      "startTime": 15.92,
+      "finishTime": 16.06,
+      "word": "on"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.18,
+      "word": "the"
+    },
+    {
+      "startTime": 16.18,
+      "finishTime": 16.36,
+      "word": "right"
+    },
+    {
+      "startTime": 16.36,
+      "finishTime": 16.68,
+      "word": "track."
+    },
+    {
+      "startTime": 17.14,
+      "finishTime": 17.38,
+      "word": "It's"
+    },
+    {
+      "startTime": 17.38,
+      "finishTime": 17.54,
+      "word": "a"
+    },
+    {
+      "startTime": 17.54,
+      "finishTime": 17.7,
+      "word": "kind"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.94,
+      "word": "of"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.18,
+      "word": "coffee"
+    },
+    {
+      "startTime": 18.18,
+      "finishTime": 18.66,
+      "word": "machine."
+    },
+    {
+      "startTime": 19.12,
+      "finishTime": 19.48,
+      "word": "Ah,"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.72,
+      "word": "got"
+    },
+    {
+      "startTime": 19.72,
+      "finishTime": 20.1,
+      "word": "it."
+    },
+    {
+      "startTime": 20.34,
+      "finishTime": 20.62,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 20.74,
+      "finishTime": 20.94,
+      "word": "your"
+    },
+    {
+      "startTime": 20.94,
+      "finishTime": 21.4,
+      "word": "turn."
+    },
+    {
+      "startTime": 22.060000000000002,
+      "finishTime": 22.54,
+      "word": "Skeuomorph."
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 24.16,
+      "word": "Hmm."
+    },
+    {
+      "startTime": 24.26,
+      "finishTime": 24.66,
+      "word": "That's"
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 24.76,
+      "word": "a"
+    },
+    {
+      "startTime": 24.76,
+      "finishTime": 24.94,
+      "word": "tough"
+    },
+    {
+      "startTime": 24.94,
+      "finishTime": 25.28,
+      "word": "one."
+    },
+    {
+      "startTime": 25.7,
+      "finishTime": 25.86,
+      "word": "Is"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 26.02,
+      "word": "it"
+    },
+    {
+      "startTime": 26.02,
+      "finishTime": 26.14,
+      "word": "a"
+    },
+    {
+      "startTime": 26.14,
+      "finishTime": 26.28,
+      "word": "type"
+    },
+    {
+      "startTime": 26.28,
+      "finishTime": 26.52,
+      "word": "of"
+    },
+    {
+      "startTime": 26.52,
+      "finishTime": 26.68,
+      "word": "rare"
+    },
+    {
+      "startTime": 26.68,
+      "finishTime": 27.02,
+      "word": "plant?"
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 28.02,
+      "word": "Not"
+    },
+    {
+      "startTime": 28.02,
+      "finishTime": 28.42,
+      "word": "really."
+    },
+    {
+      "startTime": 28.62,
+      "finishTime": 28.8,
+      "word": "It's"
+    },
+    {
+      "startTime": 28.8,
+      "finishTime": 28.92,
+      "word": "a"
+    },
+    {
+      "startTime": 28.92,
+      "finishTime": 29.22,
+      "word": "design"
+    },
+    {
+      "startTime": 29.22,
+      "finishTime": 29.64,
+      "word": "element."
+    },
+    {
+      "startTime": 30.06,
+      "finishTime": 30.16,
+      "word": "It"
+    },
+    {
+      "startTime": 30.16,
+      "finishTime": 30.62,
+      "word": "imitates"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 31.02,
+      "word": "real"
+    },
+    {
+      "startTime": 31.02,
+      "finishTime": 31.34,
+      "word": "world"
+    },
+    {
+      "startTime": 31.34,
+      "finishTime": 31.76,
+      "word": "objects"
+    },
+    {
+      "startTime": 31.76,
+      "finishTime": 32.08,
+      "word": "in"
+    },
+    {
+      "startTime": 32.08,
+      "finishTime": 32.4,
+      "word": "digital"
+    },
+    {
+      "startTime": 32.4,
+      "finishTime": 32.9,
+      "word": "interfaces."
+    },
+    {
+      "startTime": 34.44,
+      "finishTime": 34.8,
+      "word": "Interesting."
+    },
+    {
+      "startTime": 35.24,
+      "finishTime": 35.38,
+      "word": "All"
+    },
+    {
+      "startTime": 35.38,
+      "finishTime": 35.62,
+      "word": "right."
+    },
+    {
+      "startTime": 35.76,
+      "finishTime": 35.92,
+      "word": "How"
+    },
+    {
+      "startTime": 35.92,
+      "finishTime": 36.48,
+      "word": "about"
+    },
+    {
+      "startTime": 36.48,
+      "finishTime": 36.779999999999994,
+      "word": "sphygmomanometer?"
+    },
+    {
+      "startTime": 38.18,
+      "finishTime": 38.44,
+      "word": "Whoa."
+    },
+    {
+      "startTime": 38.58,
+      "finishTime": 38.94,
+      "word": "That's"
+    },
+    {
+      "startTime": 38.94,
+      "finishTime": 39.06,
+      "word": "a"
+    },
+    {
+      "startTime": 39.06,
+      "finishTime": 39.44,
+      "word": "mouthful."
+    },
+    {
+      "startTime": 39.72,
+      "finishTime": 39.8,
+      "word": "Is"
+    },
+    {
+      "startTime": 39.8,
+      "finishTime": 39.92,
+      "word": "it"
+    },
+    {
+      "startTime": 39.92,
+      "finishTime": 40.1,
+      "word": "a"
+    },
+    {
+      "startTime": 40.1,
+      "finishTime": 40.34,
+      "word": "medical"
+    },
+    {
+      "startTime": 40.34,
+      "finishTime": 40.68,
+      "word": "device?"
+    },
+    {
+      "startTime": 40.98,
+      "finishTime": 41.32,
+      "word": "You're"
+    },
+    {
+      "startTime": 41.32,
+      "finishTime": 41.76,
+      "word": "absolutely"
+    },
+    {
+      "startTime": 41.76,
+      "finishTime": 42.14,
+      "word": "right."
+    },
+    {
+      "startTime": 42.38,
+      "finishTime": 42.7,
+      "word": "It's"
+    },
+    {
+      "startTime": 42.7,
+      "finishTime": 42.86,
+      "word": "the"
+    },
+    {
+      "startTime": 42.86,
+      "finishTime": 43.2,
+      "word": "device"
+    },
+    {
+      "startTime": 43.2,
+      "finishTime": 43.48,
+      "word": "that"
+    },
+    {
+      "startTime": 43.48,
+      "finishTime": 43.8,
+      "word": "doctors"
+    },
+    {
+      "startTime": 43.8,
+      "finishTime": 44.12,
+      "word": "use"
+    },
+    {
+      "startTime": 44.12,
+      "finishTime": 44.38,
+      "word": "to"
+    },
+    {
+      "startTime": 44.38,
+      "finishTime": 44.56,
+      "word": "measure"
+    },
+    {
+      "startTime": 44.56,
+      "finishTime": 44.8,
+      "word": "your"
+    },
+    {
+      "startTime": 44.8,
+      "finishTime": 44.98,
+      "word": "blood"
+    },
+    {
+      "startTime": 44.98,
+      "finishTime": 45.38,
+      "word": "pressure."
+    },
+    {
+      "startTime": 45.86,
+      "finishTime": 46.04,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 46.08,
+      "finishTime": 46.26,
+      "word": "I'm"
+    },
+    {
+      "startTime": 46.26,
+      "finishTime": 46.36,
+      "word": "good"
+    },
+    {
+      "startTime": 46.36,
+      "finishTime": 46.54,
+      "word": "at"
+    },
+    {
+      "startTime": 46.54,
+      "finishTime": 46.76,
+      "word": "this."
+    }
+  ]
+}

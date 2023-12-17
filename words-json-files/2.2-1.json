@@ -1,0 +1,1405 @@
+{
+  "text": "Good morning, Sarah. Wow, it seems like you have a ton of energy this morning. What do you do to start the day off right? Hey James, thanks. Look, I don't do anything out of the ordinary, I think. I usually wake up around seven. The first thing I do is stretch a bit to wake up. Then I go straight to the kitchen to make a cup of coffee. It's my morning fuel. Coffee is always a good start. What do you do after that? After coffee, I like to take a quick shower to freshen up. It helps me feel more alert and ready for the day. Then I get dressed. Jeans and a t-shirt, you know. Our company has a relaxed dress code and I like to keep it casual. Yeah, me too. What's next in your routine? Well, after that, I have a balanced breakfast. I often have cereal with some fruit and a glass of orange juice. Breakfast is important to keep my energy up during the morning. An early coffee and then breakfast. I had never thought of that. It helps me stay awake early in the morning. Anyway, before leaving for work, I like to check my emails and messages to see if there are any urgent updates from the team. I like to stay informed about any important tasks for the day. I can't imagine being so productive even before coming to work. Thanks for sharing, Sarah. I'll try some of these tips. Maybe I can get more productive in the morning as well. It's my pleasure. It's the consistency that helps me start the day off on the right foot.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.36,
+      "word": "Good"
+    },
+    {
+      "startTime": 0.36,
+      "finishTime": 0.62,
+      "word": "morning,"
+    },
+    {
+      "startTime": 0.62,
+      "finishTime": 1.14,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 1.42,
+      "finishTime": 1.86,
+      "word": "Wow,"
+    },
+    {
+      "startTime": 2.04,
+      "finishTime": 2.22,
+      "word": "it"
+    },
+    {
+      "startTime": 2.22,
+      "finishTime": 2.46,
+      "word": "seems"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.64,
+      "word": "like"
+    },
+    {
+      "startTime": 2.64,
+      "finishTime": 2.74,
+      "word": "you"
+    },
+    {
+      "startTime": 2.74,
+      "finishTime": 2.96,
+      "word": "have"
+    },
+    {
+      "startTime": 2.96,
+      "finishTime": 3.1,
+      "word": "a"
+    },
+    {
+      "startTime": 3.1,
+      "finishTime": 3.28,
+      "word": "ton"
+    },
+    {
+      "startTime": 3.28,
+      "finishTime": 3.48,
+      "word": "of"
+    },
+    {
+      "startTime": 3.48,
+      "finishTime": 3.76,
+      "word": "energy"
+    },
+    {
+      "startTime": 3.76,
+      "finishTime": 4.08,
+      "word": "this"
+    },
+    {
+      "startTime": 4.08,
+      "finishTime": 4.38,
+      "word": "morning."
+    },
+    {
+      "startTime": 4.84,
+      "finishTime": 5.06,
+      "word": "What"
+    },
+    {
+      "startTime": 5.06,
+      "finishTime": 5.28,
+      "word": "do"
+    },
+    {
+      "startTime": 5.28,
+      "finishTime": 5.28,
+      "word": "you"
+    },
+    {
+      "startTime": 5.28,
+      "finishTime": 5.5,
+      "word": "do"
+    },
+    {
+      "startTime": 5.5,
+      "finishTime": 5.72,
+      "word": "to"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 5.88,
+      "word": "start"
+    },
+    {
+      "startTime": 5.88,
+      "finishTime": 6.06,
+      "word": "the"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.24,
+      "word": "day"
+    },
+    {
+      "startTime": 6.24,
+      "finishTime": 6.46,
+      "word": "off"
+    },
+    {
+      "startTime": 6.46,
+      "finishTime": 6.8,
+      "word": "right?"
+    },
+    {
+      "startTime": 7.48,
+      "finishTime": 7.7,
+      "word": "Hey"
+    },
+    {
+      "startTime": 7.7,
+      "finishTime": 8.04,
+      "word": "James,"
+    },
+    {
+      "startTime": 8.32,
+      "finishTime": 8.78,
+      "word": "thanks."
+    },
+    {
+      "startTime": 9.12,
+      "finishTime": 9.42,
+      "word": "Look,"
+    },
+    {
+      "startTime": 9.42,
+      "finishTime": 9.54,
+      "word": "I"
+    },
+    {
+      "startTime": 9.54,
+      "finishTime": 9.68,
+      "word": "don't"
+    },
+    {
+      "startTime": 9.68,
+      "finishTime": 9.86,
+      "word": "do"
+    },
+    {
+      "startTime": 9.86,
+      "finishTime": 10.08,
+      "word": "anything"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.26,
+      "word": "out"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.34,
+      "word": "of"
+    },
+    {
+      "startTime": 10.34,
+      "finishTime": 10.52,
+      "word": "the"
+    },
+    {
+      "startTime": 10.52,
+      "finishTime": 10.92,
+      "word": "ordinary,"
+    },
+    {
+      "startTime": 10.94,
+      "finishTime": 11.2,
+      "word": "I"
+    },
+    {
+      "startTime": 11.2,
+      "finishTime": 11.52,
+      "word": "think."
+    },
+    {
+      "startTime": 11.88,
+      "finishTime": 12.02,
+      "word": "I"
+    },
+    {
+      "startTime": 12.02,
+      "finishTime": 12.28,
+      "word": "usually"
+    },
+    {
+      "startTime": 12.28,
+      "finishTime": 12.5,
+      "word": "wake"
+    },
+    {
+      "startTime": 12.5,
+      "finishTime": 12.64,
+      "word": "up"
+    },
+    {
+      "startTime": 12.64,
+      "finishTime": 12.94,
+      "word": "around"
+    },
+    {
+      "startTime": 12.94,
+      "finishTime": 13.36,
+      "word": "seven."
+    },
+    {
+      "startTime": 13.68,
+      "finishTime": 13.92,
+      "word": "The"
+    },
+    {
+      "startTime": 13.92,
+      "finishTime": 14.04,
+      "word": "first"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.18,
+      "word": "thing"
+    },
+    {
+      "startTime": 14.18,
+      "finishTime": 14.34,
+      "word": "I"
+    },
+    {
+      "startTime": 14.34,
+      "finishTime": 14.5,
+      "word": "do"
+    },
+    {
+      "startTime": 14.5,
+      "finishTime": 14.72,
+      "word": "is"
+    },
+    {
+      "startTime": 14.72,
+      "finishTime": 14.92,
+      "word": "stretch"
+    },
+    {
+      "startTime": 14.92,
+      "finishTime": 15.1,
+      "word": "a"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.22,
+      "word": "bit"
+    },
+    {
+      "startTime": 15.22,
+      "finishTime": 15.38,
+      "word": "to"
+    },
+    {
+      "startTime": 15.38,
+      "finishTime": 15.58,
+      "word": "wake"
+    },
+    {
+      "startTime": 15.58,
+      "finishTime": 16.1,
+      "word": "up."
+    },
+    {
+      "startTime": 16.18,
+      "finishTime": 16.48,
+      "word": "Then"
+    },
+    {
+      "startTime": 16.48,
+      "finishTime": 16.6,
+      "word": "I"
+    },
+    {
+      "startTime": 16.6,
+      "finishTime": 16.82,
+      "word": "go"
+    },
+    {
+      "startTime": 16.82,
+      "finishTime": 17.06,
+      "word": "straight"
+    },
+    {
+      "startTime": 17.06,
+      "finishTime": 17.2,
+      "word": "to"
+    },
+    {
+      "startTime": 17.2,
+      "finishTime": 17.32,
+      "word": "the"
+    },
+    {
+      "startTime": 17.32,
+      "finishTime": 17.56,
+      "word": "kitchen"
+    },
+    {
+      "startTime": 17.56,
+      "finishTime": 17.74,
+      "word": "to"
+    },
+    {
+      "startTime": 17.74,
+      "finishTime": 17.88,
+      "word": "make"
+    },
+    {
+      "startTime": 17.88,
+      "finishTime": 18,
+      "word": "a"
+    },
+    {
+      "startTime": 18,
+      "finishTime": 18.12,
+      "word": "cup"
+    },
+    {
+      "startTime": 18.12,
+      "finishTime": 18.36,
+      "word": "of"
+    },
+    {
+      "startTime": 18.36,
+      "finishTime": 18.6,
+      "word": "coffee."
+    },
+    {
+      "startTime": 18.96,
+      "finishTime": 19.06,
+      "word": "It's"
+    },
+    {
+      "startTime": 19.06,
+      "finishTime": 19.26,
+      "word": "my"
+    },
+    {
+      "startTime": 19.26,
+      "finishTime": 19.54,
+      "word": "morning"
+    },
+    {
+      "startTime": 19.54,
+      "finishTime": 19.9,
+      "word": "fuel."
+    },
+    {
+      "startTime": 20.42,
+      "finishTime": 20.68,
+      "word": "Coffee"
+    },
+    {
+      "startTime": 20.68,
+      "finishTime": 21.02,
+      "word": "is"
+    },
+    {
+      "startTime": 21.02,
+      "finishTime": 21.4,
+      "word": "always"
+    },
+    {
+      "startTime": 21.4,
+      "finishTime": 21.56,
+      "word": "a"
+    },
+    {
+      "startTime": 21.56,
+      "finishTime": 21.72,
+      "word": "good"
+    },
+    {
+      "startTime": 21.72,
+      "finishTime": 22.08,
+      "word": "start."
+    },
+    {
+      "startTime": 22.38,
+      "finishTime": 22.6,
+      "word": "What"
+    },
+    {
+      "startTime": 22.6,
+      "finishTime": 22.74,
+      "word": "do"
+    },
+    {
+      "startTime": 22.74,
+      "finishTime": 22.8,
+      "word": "you"
+    },
+    {
+      "startTime": 22.8,
+      "finishTime": 22.96,
+      "word": "do"
+    },
+    {
+      "startTime": 22.96,
+      "finishTime": 23.22,
+      "word": "after"
+    },
+    {
+      "startTime": 23.22,
+      "finishTime": 23.66,
+      "word": "that?"
+    },
+    {
+      "startTime": 24.32,
+      "finishTime": 24.7,
+      "word": "After"
+    },
+    {
+      "startTime": 24.7,
+      "finishTime": 25.1,
+      "word": "coffee,"
+    },
+    {
+      "startTime": 25.1,
+      "finishTime": 25.36,
+      "word": "I"
+    },
+    {
+      "startTime": 25.36,
+      "finishTime": 25.52,
+      "word": "like"
+    },
+    {
+      "startTime": 25.52,
+      "finishTime": 25.68,
+      "word": "to"
+    },
+    {
+      "startTime": 25.68,
+      "finishTime": 25.78,
+      "word": "take"
+    },
+    {
+      "startTime": 25.78,
+      "finishTime": 25.9,
+      "word": "a"
+    },
+    {
+      "startTime": 25.9,
+      "finishTime": 26.06,
+      "word": "quick"
+    },
+    {
+      "startTime": 26.06,
+      "finishTime": 26.36,
+      "word": "shower"
+    },
+    {
+      "startTime": 26.36,
+      "finishTime": 26.6,
+      "word": "to"
+    },
+    {
+      "startTime": 26.6,
+      "finishTime": 26.84,
+      "word": "freshen"
+    },
+    {
+      "startTime": 26.84,
+      "finishTime": 27.22,
+      "word": "up."
+    },
+    {
+      "startTime": 27.3,
+      "finishTime": 27.44,
+      "word": "It"
+    },
+    {
+      "startTime": 27.44,
+      "finishTime": 27.56,
+      "word": "helps"
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 27.76,
+      "word": "me"
+    },
+    {
+      "startTime": 27.76,
+      "finishTime": 27.92,
+      "word": "feel"
+    },
+    {
+      "startTime": 27.92,
+      "finishTime": 28.22,
+      "word": "more"
+    },
+    {
+      "startTime": 28.22,
+      "finishTime": 28.5,
+      "word": "alert"
+    },
+    {
+      "startTime": 28.5,
+      "finishTime": 28.7,
+      "word": "and"
+    },
+    {
+      "startTime": 28.7,
+      "finishTime": 28.94,
+      "word": "ready"
+    },
+    {
+      "startTime": 28.94,
+      "finishTime": 29.06,
+      "word": "for"
+    },
+    {
+      "startTime": 29.06,
+      "finishTime": 29.16,
+      "word": "the"
+    },
+    {
+      "startTime": 29.16,
+      "finishTime": 29.48,
+      "word": "day."
+    },
+    {
+      "startTime": 30.12,
+      "finishTime": 30.42,
+      "word": "Then"
+    },
+    {
+      "startTime": 30.42,
+      "finishTime": 30.54,
+      "word": "I"
+    },
+    {
+      "startTime": 30.54,
+      "finishTime": 30.78,
+      "word": "get"
+    },
+    {
+      "startTime": 30.78,
+      "finishTime": 31.18,
+      "word": "dressed."
+    },
+    {
+      "startTime": 31.44,
+      "finishTime": 31.66,
+      "word": "Jeans"
+    },
+    {
+      "startTime": 31.66,
+      "finishTime": 31.8,
+      "word": "and"
+    },
+    {
+      "startTime": 31.8,
+      "finishTime": 31.96,
+      "word": "a"
+    },
+    {
+      "startTime": 31.96,
+      "finishTime": 32.08,
+      "word": "t"
+    },
+    {
+      "startTime": 32.08,
+      "finishTime": 32.26,
+      "word": "-shirt,"
+    },
+    {
+      "startTime": 32.28,
+      "finishTime": 32.42,
+      "word": "you"
+    },
+    {
+      "startTime": 32.42,
+      "finishTime": 32.62,
+      "word": "know."
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 32.92,
+      "word": "Our"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 33.2,
+      "word": "company"
+    },
+    {
+      "startTime": 33.2,
+      "finishTime": 33.4,
+      "word": "has"
+    },
+    {
+      "startTime": 33.4,
+      "finishTime": 33.52,
+      "word": "a"
+    },
+    {
+      "startTime": 33.52,
+      "finishTime": 33.82,
+      "word": "relaxed"
+    },
+    {
+      "startTime": 33.82,
+      "finishTime": 34.12,
+      "word": "dress"
+    },
+    {
+      "startTime": 34.12,
+      "finishTime": 34.3,
+      "word": "code"
+    },
+    {
+      "startTime": 34.3,
+      "finishTime": 34.46,
+      "word": "and"
+    },
+    {
+      "startTime": 34.46,
+      "finishTime": 34.6,
+      "word": "I"
+    },
+    {
+      "startTime": 34.6,
+      "finishTime": 34.74,
+      "word": "like"
+    },
+    {
+      "startTime": 34.74,
+      "finishTime": 34.88,
+      "word": "to"
+    },
+    {
+      "startTime": 34.88,
+      "finishTime": 34.98,
+      "word": "keep"
+    },
+    {
+      "startTime": 34.98,
+      "finishTime": 35.16,
+      "word": "it"
+    },
+    {
+      "startTime": 35.16,
+      "finishTime": 35.5,
+      "word": "casual."
+    },
+    {
+      "startTime": 35.78,
+      "finishTime": 36.12,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 36.34,
+      "finishTime": 36.66,
+      "word": "me"
+    },
+    {
+      "startTime": 36.66,
+      "finishTime": 36.92,
+      "word": "too."
+    },
+    {
+      "startTime": 37.4,
+      "finishTime": 37.78,
+      "word": "What's"
+    },
+    {
+      "startTime": 37.78,
+      "finishTime": 38.02,
+      "word": "next"
+    },
+    {
+      "startTime": 38.02,
+      "finishTime": 38.2,
+      "word": "in"
+    },
+    {
+      "startTime": 38.2,
+      "finishTime": 38.38,
+      "word": "your"
+    },
+    {
+      "startTime": 38.38,
+      "finishTime": 38.76,
+      "word": "routine?"
+    },
+    {
+      "startTime": 39.6,
+      "finishTime": 39.9,
+      "word": "Well,"
+    },
+    {
+      "startTime": 39.9,
+      "finishTime": 40.2,
+      "word": "after"
+    },
+    {
+      "startTime": 40.2,
+      "finishTime": 40.46,
+      "word": "that,"
+    },
+    {
+      "startTime": 40.46,
+      "finishTime": 40.58,
+      "word": "I"
+    },
+    {
+      "startTime": 40.58,
+      "finishTime": 40.72,
+      "word": "have"
+    },
+    {
+      "startTime": 40.72,
+      "finishTime": 40.86,
+      "word": "a"
+    },
+    {
+      "startTime": 40.86,
+      "finishTime": 41.14,
+      "word": "balanced"
+    },
+    {
+      "startTime": 41.14,
+      "finishTime": 41.64,
+      "word": "breakfast."
+    },
+    {
+      "startTime": 41.98,
+      "finishTime": 42.16,
+      "word": "I"
+    },
+    {
+      "startTime": 42.16,
+      "finishTime": 42.38,
+      "word": "often"
+    },
+    {
+      "startTime": 42.38,
+      "finishTime": 42.6,
+      "word": "have"
+    },
+    {
+      "startTime": 42.6,
+      "finishTime": 42.96,
+      "word": "cereal"
+    },
+    {
+      "startTime": 42.96,
+      "finishTime": 43.18,
+      "word": "with"
+    },
+    {
+      "startTime": 43.18,
+      "finishTime": 43.44,
+      "word": "some"
+    },
+    {
+      "startTime": 43.44,
+      "finishTime": 43.66,
+      "word": "fruit"
+    },
+    {
+      "startTime": 43.66,
+      "finishTime": 43.84,
+      "word": "and"
+    },
+    {
+      "startTime": 43.84,
+      "finishTime": 43.96,
+      "word": "a"
+    },
+    {
+      "startTime": 43.96,
+      "finishTime": 44.1,
+      "word": "glass"
+    },
+    {
+      "startTime": 44.1,
+      "finishTime": 44.3,
+      "word": "of"
+    },
+    {
+      "startTime": 44.3,
+      "finishTime": 44.54,
+      "word": "orange"
+    },
+    {
+      "startTime": 44.54,
+      "finishTime": 44.86,
+      "word": "juice."
+    },
+    {
+      "startTime": 45.3,
+      "finishTime": 45.52,
+      "word": "Breakfast"
+    },
+    {
+      "startTime": 45.52,
+      "finishTime": 45.74,
+      "word": "is"
+    },
+    {
+      "startTime": 45.74,
+      "finishTime": 46.1,
+      "word": "important"
+    },
+    {
+      "startTime": 46.1,
+      "finishTime": 46.28,
+      "word": "to"
+    },
+    {
+      "startTime": 46.28,
+      "finishTime": 46.36,
+      "word": "keep"
+    },
+    {
+      "startTime": 46.36,
+      "finishTime": 46.66,
+      "word": "my"
+    },
+    {
+      "startTime": 46.66,
+      "finishTime": 46.84,
+      "word": "energy"
+    },
+    {
+      "startTime": 46.84,
+      "finishTime": 47.06,
+      "word": "up"
+    },
+    {
+      "startTime": 47.06,
+      "finishTime": 47.3,
+      "word": "during"
+    },
+    {
+      "startTime": 47.3,
+      "finishTime": 47.44,
+      "word": "the"
+    },
+    {
+      "startTime": 47.44,
+      "finishTime": 47.82,
+      "word": "morning."
+    },
+    {
+      "startTime": 48.56,
+      "finishTime": 48.76,
+      "word": "An"
+    },
+    {
+      "startTime": 48.76,
+      "finishTime": 49.08,
+      "word": "early"
+    },
+    {
+      "startTime": 49.08,
+      "finishTime": 49.54,
+      "word": "coffee"
+    },
+    {
+      "startTime": 49.54,
+      "finishTime": 49.86,
+      "word": "and"
+    },
+    {
+      "startTime": 49.86,
+      "finishTime": 50.1,
+      "word": "then"
+    },
+    {
+      "startTime": 50.1,
+      "finishTime": 50.5,
+      "word": "breakfast."
+    },
+    {
+      "startTime": 50.78,
+      "finishTime": 51.06,
+      "word": "I"
+    },
+    {
+      "startTime": 51.06,
+      "finishTime": 51.18,
+      "word": "had"
+    },
+    {
+      "startTime": 51.18,
+      "finishTime": 51.42,
+      "word": "never"
+    },
+    {
+      "startTime": 51.42,
+      "finishTime": 51.64,
+      "word": "thought"
+    },
+    {
+      "startTime": 51.64,
+      "finishTime": 51.82,
+      "word": "of"
+    },
+    {
+      "startTime": 51.82,
+      "finishTime": 52.1,
+      "word": "that."
+    },
+    {
+      "startTime": 53.02,
+      "finishTime": 53.2,
+      "word": "It"
+    },
+    {
+      "startTime": 53.2,
+      "finishTime": 53.3,
+      "word": "helps"
+    },
+    {
+      "startTime": 53.3,
+      "finishTime": 53.48,
+      "word": "me"
+    },
+    {
+      "startTime": 53.48,
+      "finishTime": 53.66,
+      "word": "stay"
+    },
+    {
+      "startTime": 53.66,
+      "finishTime": 53.88,
+      "word": "awake"
+    },
+    {
+      "startTime": 53.88,
+      "finishTime": 54.14,
+      "word": "early"
+    },
+    {
+      "startTime": 54.14,
+      "finishTime": 54.26,
+      "word": "in"
+    },
+    {
+      "startTime": 54.26,
+      "finishTime": 54.38,
+      "word": "the"
+    },
+    {
+      "startTime": 54.38,
+      "finishTime": 54.74,
+      "word": "morning."
+    },
+    {
+      "startTime": 55.28,
+      "finishTime": 55.52,
+      "word": "Anyway,"
+    },
+    {
+      "startTime": 55.7,
+      "finishTime": 55.94,
+      "word": "before"
+    },
+    {
+      "startTime": 55.94,
+      "finishTime": 56.22,
+      "word": "leaving"
+    },
+    {
+      "startTime": 56.22,
+      "finishTime": 56.5,
+      "word": "for"
+    },
+    {
+      "startTime": 56.5,
+      "finishTime": 56.8,
+      "word": "work,"
+    },
+    {
+      "startTime": 56.88,
+      "finishTime": 57.08,
+      "word": "I"
+    },
+    {
+      "startTime": 57.08,
+      "finishTime": 57.24,
+      "word": "like"
+    },
+    {
+      "startTime": 57.24,
+      "finishTime": 57.42,
+      "word": "to"
+    },
+    {
+      "startTime": 57.42,
+      "finishTime": 57.54,
+      "word": "check"
+    },
+    {
+      "startTime": 57.54,
+      "finishTime": 57.86,
+      "word": "my"
+    },
+    {
+      "startTime": 57.86,
+      "finishTime": 58.02,
+      "word": "emails"
+    },
+    {
+      "startTime": 58.02,
+      "finishTime": 58.3,
+      "word": "and"
+    },
+    {
+      "startTime": 58.3,
+      "finishTime": 58.62,
+      "word": "messages"
+    },
+    {
+      "startTime": 58.62,
+      "finishTime": 58.82,
+      "word": "to"
+    },
+    {
+      "startTime": 58.82,
+      "finishTime": 58.94,
+      "word": "see"
+    },
+    {
+      "startTime": 58.94,
+      "finishTime": 59.04,
+      "word": "if"
+    },
+    {
+      "startTime": 59.04,
+      "finishTime": 59.22,
+      "word": "there"
+    },
+    {
+      "startTime": 59.22,
+      "finishTime": 59.34,
+      "word": "are"
+    },
+    {
+      "startTime": 59.34,
+      "finishTime": 59.56,
+      "word": "any"
+    },
+    {
+      "startTime": 59.56,
+      "finishTime": 59.84,
+      "word": "urgent"
+    },
+    {
+      "startTime": 59.84,
+      "finishTime": 60.2,
+      "word": "updates"
+    },
+    {
+      "startTime": 60.2,
+      "finishTime": 60.42,
+      "word": "from"
+    },
+    {
+      "startTime": 60.42,
+      "finishTime": 60.58,
+      "word": "the"
+    },
+    {
+      "startTime": 60.58,
+      "finishTime": 60.78,
+      "word": "team."
+    },
+    {
+      "startTime": 61.2,
+      "finishTime": 61.32,
+      "word": "I"
+    },
+    {
+      "startTime": 61.32,
+      "finishTime": 61.46,
+      "word": "like"
+    },
+    {
+      "startTime": 61.46,
+      "finishTime": 61.62,
+      "word": "to"
+    },
+    {
+      "startTime": 61.62,
+      "finishTime": 61.76,
+      "word": "stay"
+    },
+    {
+      "startTime": 61.76,
+      "finishTime": 62.12,
+      "word": "informed"
+    },
+    {
+      "startTime": 62.12,
+      "finishTime": 62.34,
+      "word": "about"
+    },
+    {
+      "startTime": 62.34,
+      "finishTime": 62.6,
+      "word": "any"
+    },
+    {
+      "startTime": 62.6,
+      "finishTime": 62.9,
+      "word": "important"
+    },
+    {
+      "startTime": 62.9,
+      "finishTime": 63.28,
+      "word": "tasks"
+    },
+    {
+      "startTime": 63.28,
+      "finishTime": 63.5,
+      "word": "for"
+    },
+    {
+      "startTime": 63.5,
+      "finishTime": 63.62,
+      "word": "the"
+    },
+    {
+      "startTime": 63.62,
+      "finishTime": 63.84,
+      "word": "day."
+    },
+    {
+      "startTime": 64.2,
+      "finishTime": 64.42,
+      "word": "I"
+    },
+    {
+      "startTime": 64.42,
+      "finishTime": 64.82,
+      "word": "can't"
+    },
+    {
+      "startTime": 64.82,
+      "finishTime": 65.12,
+      "word": "imagine"
+    },
+    {
+      "startTime": 65.12,
+      "finishTime": 65.4,
+      "word": "being"
+    },
+    {
+      "startTime": 65.4,
+      "finishTime": 65.84,
+      "word": "so"
+    },
+    {
+      "startTime": 65.84,
+      "finishTime": 66.26,
+      "word": "productive"
+    },
+    {
+      "startTime": 66.26,
+      "finishTime": 66.78,
+      "word": "even"
+    },
+    {
+      "startTime": 66.78,
+      "finishTime": 67.16,
+      "word": "before"
+    },
+    {
+      "startTime": 67.16,
+      "finishTime": 67.42,
+      "word": "coming"
+    },
+    {
+      "startTime": 67.42,
+      "finishTime": 67.62,
+      "word": "to"
+    },
+    {
+      "startTime": 67.62,
+      "finishTime": 67.9,
+      "word": "work."
+    },
+    {
+      "startTime": 68.24,
+      "finishTime": 68.46,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 68.46,
+      "finishTime": 68.66,
+      "word": "for"
+    },
+    {
+      "startTime": 68.66,
+      "finishTime": 68.88,
+      "word": "sharing,"
+    },
+    {
+      "startTime": 68.88,
+      "finishTime": 69.2,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 69.62,
+      "finishTime": 69.94,
+      "word": "I'll"
+    },
+    {
+      "startTime": 69.94,
+      "finishTime": 70.14,
+      "word": "try"
+    },
+    {
+      "startTime": 70.14,
+      "finishTime": 70.34,
+      "word": "some"
+    },
+    {
+      "startTime": 70.34,
+      "finishTime": 70.48,
+      "word": "of"
+    },
+    {
+      "startTime": 70.48,
+      "finishTime": 70.62,
+      "word": "these"
+    },
+    {
+      "startTime": 70.62,
+      "finishTime": 70.96,
+      "word": "tips."
+    },
+    {
+      "startTime": 71.32,
+      "finishTime": 71.64,
+      "word": "Maybe"
+    },
+    {
+      "startTime": 71.64,
+      "finishTime": 71.92,
+      "word": "I"
+    },
+    {
+      "startTime": 71.92,
+      "finishTime": 72.06,
+      "word": "can"
+    },
+    {
+      "startTime": 72.06,
+      "finishTime": 72.22,
+      "word": "get"
+    },
+    {
+      "startTime": 72.22,
+      "finishTime": 72.48,
+      "word": "more"
+    },
+    {
+      "startTime": 72.48,
+      "finishTime": 72.82,
+      "word": "productive"
+    },
+    {
+      "startTime": 72.82,
+      "finishTime": 72.98,
+      "word": "in"
+    },
+    {
+      "startTime": 72.98,
+      "finishTime": 73.14,
+      "word": "the"
+    },
+    {
+      "startTime": 73.14,
+      "finishTime": 73.32,
+      "word": "morning"
+    },
+    {
+      "startTime": 73.32,
+      "finishTime": 73.58,
+      "word": "as"
+    },
+    {
+      "startTime": 73.58,
+      "finishTime": 73.96,
+      "word": "well."
+    },
+    {
+      "startTime": 74.52,
+      "finishTime": 74.72,
+      "word": "It's"
+    },
+    {
+      "startTime": 74.72,
+      "finishTime": 74.88,
+      "word": "my"
+    },
+    {
+      "startTime": 74.88,
+      "finishTime": 75.18,
+      "word": "pleasure."
+    },
+    {
+      "startTime": 75.48,
+      "finishTime": 75.68,
+      "word": "It's"
+    },
+    {
+      "startTime": 75.68,
+      "finishTime": 75.88,
+      "word": "the"
+    },
+    {
+      "startTime": 75.88,
+      "finishTime": 76.3,
+      "word": "consistency"
+    },
+    {
+      "startTime": 76.3,
+      "finishTime": 76.6,
+      "word": "that"
+    },
+    {
+      "startTime": 76.6,
+      "finishTime": 76.72,
+      "word": "helps"
+    },
+    {
+      "startTime": 76.72,
+      "finishTime": 76.96,
+      "word": "me"
+    },
+    {
+      "startTime": 76.96,
+      "finishTime": 77.14,
+      "word": "start"
+    },
+    {
+      "startTime": 77.14,
+      "finishTime": 77.3,
+      "word": "the"
+    },
+    {
+      "startTime": 77.3,
+      "finishTime": 77.42,
+      "word": "day"
+    },
+    {
+      "startTime": 77.42,
+      "finishTime": 77.62,
+      "word": "off"
+    },
+    {
+      "startTime": 77.62,
+      "finishTime": 77.76,
+      "word": "on"
+    },
+    {
+      "startTime": 77.76,
+      "finishTime": 77.88,
+      "word": "the"
+    },
+    {
+      "startTime": 77.88,
+      "finishTime": 78.08,
+      "word": "right"
+    },
+    {
+      "startTime": 78.08,
+      "finishTime": 78.26,
+      "word": "foot."
+    }
+  ]
+}

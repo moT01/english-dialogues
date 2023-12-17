@@ -1,0 +1,445 @@
+{
+  "text": "Hey, Sophie. I heard you're into extreme sports. Is that true? Yeah, I love them. I've been into rock climbing and rafting for a while now. That's amazing. I've always wanted to try rafting, but I've never had the opportunity. Well, why don't you try it? I'm planning to go rafting this weekend. You're welcome to join. Really? That sounds great. I'd love to join you. Great. We'll have a lot of fun. I'll let you know all the details later. Thanks, Sophie. I'm looking forward to it.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.66,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.74,
+      "finishTime": 0.98,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.5,
+      "word": "I"
+    },
+    {
+      "startTime": 1.5,
+      "finishTime": 1.64,
+      "word": "heard"
+    },
+    {
+      "startTime": 1.64,
+      "finishTime": 1.86,
+      "word": "you're"
+    },
+    {
+      "startTime": 1.86,
+      "finishTime": 2.14,
+      "word": "into"
+    },
+    {
+      "startTime": 2.14,
+      "finishTime": 2.58,
+      "word": "extreme"
+    },
+    {
+      "startTime": 2.58,
+      "finishTime": 2.96,
+      "word": "sports."
+    },
+    {
+      "startTime": 3.22,
+      "finishTime": 3.34,
+      "word": "Is"
+    },
+    {
+      "startTime": 3.34,
+      "finishTime": 3.56,
+      "word": "that"
+    },
+    {
+      "startTime": 3.56,
+      "finishTime": 3.82,
+      "word": "true?"
+    },
+    {
+      "startTime": 4.46,
+      "finishTime": 4.68,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 4.68,
+      "finishTime": 4.88,
+      "word": "I"
+    },
+    {
+      "startTime": 4.88,
+      "finishTime": 5.06,
+      "word": "love"
+    },
+    {
+      "startTime": 5.06,
+      "finishTime": 5.3,
+      "word": "them."
+    },
+    {
+      "startTime": 5.44,
+      "finishTime": 5.66,
+      "word": "I've"
+    },
+    {
+      "startTime": 5.66,
+      "finishTime": 5.76,
+      "word": "been"
+    },
+    {
+      "startTime": 5.76,
+      "finishTime": 6.02,
+      "word": "into"
+    },
+    {
+      "startTime": 6.02,
+      "finishTime": 6.28,
+      "word": "rock"
+    },
+    {
+      "startTime": 6.28,
+      "finishTime": 6.54,
+      "word": "climbing"
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.76,
+      "word": "and"
+    },
+    {
+      "startTime": 6.76,
+      "finishTime": 7.08,
+      "word": "rafting"
+    },
+    {
+      "startTime": 7.08,
+      "finishTime": 7.32,
+      "word": "for"
+    },
+    {
+      "startTime": 7.32,
+      "finishTime": 7.42,
+      "word": "a"
+    },
+    {
+      "startTime": 7.42,
+      "finishTime": 7.56,
+      "word": "while"
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 7.92,
+      "word": "now."
+    },
+    {
+      "startTime": 8.62,
+      "finishTime": 8.98,
+      "word": "That's"
+    },
+    {
+      "startTime": 8.98,
+      "finishTime": 9.3,
+      "word": "amazing."
+    },
+    {
+      "startTime": 9.48,
+      "finishTime": 9.74,
+      "word": "I've"
+    },
+    {
+      "startTime": 9.74,
+      "finishTime": 9.98,
+      "word": "always"
+    },
+    {
+      "startTime": 9.98,
+      "finishTime": 10.2,
+      "word": "wanted"
+    },
+    {
+      "startTime": 10.2,
+      "finishTime": 10.4,
+      "word": "to"
+    },
+    {
+      "startTime": 10.4,
+      "finishTime": 10.58,
+      "word": "try"
+    },
+    {
+      "startTime": 10.58,
+      "finishTime": 10.98,
+      "word": "rafting,"
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.18,
+      "word": "but"
+    },
+    {
+      "startTime": 11.18,
+      "finishTime": 11.34,
+      "word": "I've"
+    },
+    {
+      "startTime": 11.34,
+      "finishTime": 11.56,
+      "word": "never"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 11.74,
+      "word": "had"
+    },
+    {
+      "startTime": 11.74,
+      "finishTime": 11.9,
+      "word": "the"
+    },
+    {
+      "startTime": 11.9,
+      "finishTime": 12.48,
+      "word": "opportunity."
+    },
+    {
+      "startTime": 13.1,
+      "finishTime": 13.38,
+      "word": "Well,"
+    },
+    {
+      "startTime": 13.38,
+      "finishTime": 13.54,
+      "word": "why"
+    },
+    {
+      "startTime": 13.54,
+      "finishTime": 13.68,
+      "word": "don't"
+    },
+    {
+      "startTime": 13.68,
+      "finishTime": 13.84,
+      "word": "you"
+    },
+    {
+      "startTime": 13.84,
+      "finishTime": 14.04,
+      "word": "try"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.28,
+      "word": "it?"
+    },
+    {
+      "startTime": 14.4,
+      "finishTime": 14.66,
+      "word": "I'm"
+    },
+    {
+      "startTime": 14.66,
+      "finishTime": 14.86,
+      "word": "planning"
+    },
+    {
+      "startTime": 14.86,
+      "finishTime": 14.96,
+      "word": "to"
+    },
+    {
+      "startTime": 14.96,
+      "finishTime": 15.1,
+      "word": "go"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.38,
+      "word": "rafting"
+    },
+    {
+      "startTime": 15.38,
+      "finishTime": 15.58,
+      "word": "this"
+    },
+    {
+      "startTime": 15.58,
+      "finishTime": 15.96,
+      "word": "weekend."
+    },
+    {
+      "startTime": 16.18,
+      "finishTime": 16.38,
+      "word": "You're"
+    },
+    {
+      "startTime": 16.38,
+      "finishTime": 16.56,
+      "word": "welcome"
+    },
+    {
+      "startTime": 16.56,
+      "finishTime": 16.8,
+      "word": "to"
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 17.04,
+      "word": "join."
+    },
+    {
+      "startTime": 17.48,
+      "finishTime": 17.9,
+      "word": "Really?"
+    },
+    {
+      "startTime": 18.12,
+      "finishTime": 18.32,
+      "word": "That"
+    },
+    {
+      "startTime": 18.32,
+      "finishTime": 18.56,
+      "word": "sounds"
+    },
+    {
+      "startTime": 18.56,
+      "finishTime": 18.94,
+      "word": "great."
+    },
+    {
+      "startTime": 19.06,
+      "finishTime": 19.38,
+      "word": "I'd"
+    },
+    {
+      "startTime": 19.38,
+      "finishTime": 19.54,
+      "word": "love"
+    },
+    {
+      "startTime": 19.54,
+      "finishTime": 19.78,
+      "word": "to"
+    },
+    {
+      "startTime": 19.78,
+      "finishTime": 19.96,
+      "word": "join"
+    },
+    {
+      "startTime": 19.96,
+      "finishTime": 20.44,
+      "word": "you."
+    },
+    {
+      "startTime": 20.82,
+      "finishTime": 21.14,
+      "word": "Great."
+    },
+    {
+      "startTime": 21.34,
+      "finishTime": 21.46,
+      "word": "We'll"
+    },
+    {
+      "startTime": 21.46,
+      "finishTime": 21.58,
+      "word": "have"
+    },
+    {
+      "startTime": 21.58,
+      "finishTime": 21.64,
+      "word": "a"
+    },
+    {
+      "startTime": 21.64,
+      "finishTime": 21.82,
+      "word": "lot"
+    },
+    {
+      "startTime": 21.82,
+      "finishTime": 22,
+      "word": "of"
+    },
+    {
+      "startTime": 22,
+      "finishTime": 22.18,
+      "word": "fun."
+    },
+    {
+      "startTime": 22.44,
+      "finishTime": 22.62,
+      "word": "I'll"
+    },
+    {
+      "startTime": 22.62,
+      "finishTime": 22.74,
+      "word": "let"
+    },
+    {
+      "startTime": 22.74,
+      "finishTime": 22.9,
+      "word": "you"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.02,
+      "word": "know"
+    },
+    {
+      "startTime": 23.02,
+      "finishTime": 23.16,
+      "word": "all"
+    },
+    {
+      "startTime": 23.16,
+      "finishTime": 23.36,
+      "word": "the"
+    },
+    {
+      "startTime": 23.36,
+      "finishTime": 23.56,
+      "word": "details"
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 23.9,
+      "word": "later."
+    },
+    {
+      "startTime": 24.26,
+      "finishTime": 24.52,
+      "word": "Thanks,"
+    },
+    {
+      "startTime": 24.54,
+      "finishTime": 24.88,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 25.22,
+      "finishTime": 25.44,
+      "word": "I'm"
+    },
+    {
+      "startTime": 25.44,
+      "finishTime": 25.7,
+      "word": "looking"
+    },
+    {
+      "startTime": 25.7,
+      "finishTime": 25.98,
+      "word": "forward"
+    },
+    {
+      "startTime": 25.98,
+      "finishTime": 26.16,
+      "word": "to"
+    },
+    {
+      "startTime": 26.16,
+      "finishTime": 26.46,
+      "word": "it."
+    }
+  ]
+}

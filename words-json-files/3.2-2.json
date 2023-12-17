@@ -1,0 +1,820 @@
+{
+  "text": "Hey, is that bicycle outside the office yours? Do you enjoy cycling? I do I've liked riding my bike since my childhood. It's not just a hobby. It's a way of life for me. That's great How long have you been into cycling? I've been a cyclist for more than 15 years It's a love that hasn't disappeared with time. Wow, and what kind of cycling do you enjoy the most? I love road cycling and the feeling of the open road. It's a great way to stay fit and explore new places That's fantastic. I want to get into cycling too. I haven't been on a bike since I was a kid I probably even forgot how to do it people say we never forget say do you still have a bike? Would you like to go cycling with me one of these days? Sure. I'd love to let's see what we can do next week Okay, it's a bike date then",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.72,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.28,
+      "word": "is"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.46,
+      "word": "that"
+    },
+    {
+      "startTime": 1.46,
+      "finishTime": 1.86,
+      "word": "bicycle"
+    },
+    {
+      "startTime": 1.86,
+      "finishTime": 2.3,
+      "word": "outside"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.54,
+      "word": "the"
+    },
+    {
+      "startTime": 2.54,
+      "finishTime": 2.9,
+      "word": "office"
+    },
+    {
+      "startTime": 2.9,
+      "finishTime": 3.36,
+      "word": "yours?"
+    },
+    {
+      "startTime": 3.66,
+      "finishTime": 3.8,
+      "word": "Do"
+    },
+    {
+      "startTime": 3.8,
+      "finishTime": 3.96,
+      "word": "you"
+    },
+    {
+      "startTime": 3.96,
+      "finishTime": 4.18,
+      "word": "enjoy"
+    },
+    {
+      "startTime": 4.18,
+      "finishTime": 4.54,
+      "word": "cycling?"
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.5,
+      "word": "I"
+    },
+    {
+      "startTime": 5.5,
+      "finishTime": 5.82,
+      "word": "do"
+    },
+    {
+      "startTime": 5.82,
+      "finishTime": 6.16,
+      "word": "I've"
+    },
+    {
+      "startTime": 6.16,
+      "finishTime": 6.3,
+      "word": "liked"
+    },
+    {
+      "startTime": 6.3,
+      "finishTime": 6.5,
+      "word": "riding"
+    },
+    {
+      "startTime": 6.5,
+      "finishTime": 6.74,
+      "word": "my"
+    },
+    {
+      "startTime": 6.74,
+      "finishTime": 6.9,
+      "word": "bike"
+    },
+    {
+      "startTime": 6.9,
+      "finishTime": 7.16,
+      "word": "since"
+    },
+    {
+      "startTime": 7.16,
+      "finishTime": 7.4,
+      "word": "my"
+    },
+    {
+      "startTime": 7.4,
+      "finishTime": 7.8,
+      "word": "childhood."
+    },
+    {
+      "startTime": 8.02,
+      "finishTime": 8.22,
+      "word": "It's"
+    },
+    {
+      "startTime": 8.22,
+      "finishTime": 8.38,
+      "word": "not"
+    },
+    {
+      "startTime": 8.38,
+      "finishTime": 8.56,
+      "word": "just"
+    },
+    {
+      "startTime": 8.56,
+      "finishTime": 8.72,
+      "word": "a"
+    },
+    {
+      "startTime": 8.72,
+      "finishTime": 8.98,
+      "word": "hobby."
+    },
+    {
+      "startTime": 9.1,
+      "finishTime": 9.32,
+      "word": "It's"
+    },
+    {
+      "startTime": 9.32,
+      "finishTime": 9.36,
+      "word": "a"
+    },
+    {
+      "startTime": 9.36,
+      "finishTime": 9.5,
+      "word": "way"
+    },
+    {
+      "startTime": 9.5,
+      "finishTime": 9.64,
+      "word": "of"
+    },
+    {
+      "startTime": 9.64,
+      "finishTime": 9.82,
+      "word": "life"
+    },
+    {
+      "startTime": 9.82,
+      "finishTime": 10.04,
+      "word": "for"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.32,
+      "word": "me."
+    },
+    {
+      "startTime": 10.58,
+      "finishTime": 11.02,
+      "word": "That's"
+    },
+    {
+      "startTime": 11.02,
+      "finishTime": 11.3,
+      "word": "great"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.74,
+      "word": "How"
+    },
+    {
+      "startTime": 11.74,
+      "finishTime": 11.94,
+      "word": "long"
+    },
+    {
+      "startTime": 11.94,
+      "finishTime": 12.1,
+      "word": "have"
+    },
+    {
+      "startTime": 12.1,
+      "finishTime": 12.24,
+      "word": "you"
+    },
+    {
+      "startTime": 12.24,
+      "finishTime": 12.44,
+      "word": "been"
+    },
+    {
+      "startTime": 12.44,
+      "finishTime": 12.74,
+      "word": "into"
+    },
+    {
+      "startTime": 12.74,
+      "finishTime": 13.14,
+      "word": "cycling?"
+    },
+    {
+      "startTime": 13.76,
+      "finishTime": 13.94,
+      "word": "I've"
+    },
+    {
+      "startTime": 13.94,
+      "finishTime": 14.04,
+      "word": "been"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.28,
+      "word": "a"
+    },
+    {
+      "startTime": 14.28,
+      "finishTime": 14.5,
+      "word": "cyclist"
+    },
+    {
+      "startTime": 14.5,
+      "finishTime": 14.64,
+      "word": "for"
+    },
+    {
+      "startTime": 14.64,
+      "finishTime": 14.8,
+      "word": "more"
+    },
+    {
+      "startTime": 14.8,
+      "finishTime": 14.94,
+      "word": "than"
+    },
+    {
+      "startTime": 14.94,
+      "finishTime": 15.32,
+      "word": "15"
+    },
+    {
+      "startTime": 15.32,
+      "finishTime": 15.78,
+      "word": "years"
+    },
+    {
+      "startTime": 15.78,
+      "finishTime": 16.26,
+      "word": "It's"
+    },
+    {
+      "startTime": 16.26,
+      "finishTime": 16.36,
+      "word": "a"
+    },
+    {
+      "startTime": 16.36,
+      "finishTime": 16.48,
+      "word": "love"
+    },
+    {
+      "startTime": 16.48,
+      "finishTime": 16.68,
+      "word": "that"
+    },
+    {
+      "startTime": 16.68,
+      "finishTime": 17.02,
+      "word": "hasn't"
+    },
+    {
+      "startTime": 17.02,
+      "finishTime": 17.36,
+      "word": "disappeared"
+    },
+    {
+      "startTime": 17.36,
+      "finishTime": 17.62,
+      "word": "with"
+    },
+    {
+      "startTime": 17.62,
+      "finishTime": 18.18,
+      "word": "time."
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.9,
+      "word": "Wow,"
+    },
+    {
+      "startTime": 19.16,
+      "finishTime": 19.3,
+      "word": "and"
+    },
+    {
+      "startTime": 19.3,
+      "finishTime": 19.48,
+      "word": "what"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.62,
+      "word": "kind"
+    },
+    {
+      "startTime": 19.62,
+      "finishTime": 19.8,
+      "word": "of"
+    },
+    {
+      "startTime": 19.8,
+      "finishTime": 20.02,
+      "word": "cycling"
+    },
+    {
+      "startTime": 20.02,
+      "finishTime": 20.18,
+      "word": "do"
+    },
+    {
+      "startTime": 20.18,
+      "finishTime": 20.36,
+      "word": "you"
+    },
+    {
+      "startTime": 20.36,
+      "finishTime": 20.56,
+      "word": "enjoy"
+    },
+    {
+      "startTime": 20.56,
+      "finishTime": 20.78,
+      "word": "the"
+    },
+    {
+      "startTime": 20.78,
+      "finishTime": 21.12,
+      "word": "most?"
+    },
+    {
+      "startTime": 21.64,
+      "finishTime": 21.74,
+      "word": "I"
+    },
+    {
+      "startTime": 21.74,
+      "finishTime": 21.96,
+      "word": "love"
+    },
+    {
+      "startTime": 21.96,
+      "finishTime": 22.24,
+      "word": "road"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.64,
+      "word": "cycling"
+    },
+    {
+      "startTime": 22.64,
+      "finishTime": 22.92,
+      "word": "and"
+    },
+    {
+      "startTime": 22.92,
+      "finishTime": 23.12,
+      "word": "the"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.28,
+      "word": "feeling"
+    },
+    {
+      "startTime": 23.28,
+      "finishTime": 23.44,
+      "word": "of"
+    },
+    {
+      "startTime": 23.44,
+      "finishTime": 23.66,
+      "word": "the"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 23.88,
+      "word": "open"
+    },
+    {
+      "startTime": 23.88,
+      "finishTime": 24.18,
+      "word": "road."
+    },
+    {
+      "startTime": 24.26,
+      "finishTime": 24.7,
+      "word": "It's"
+    },
+    {
+      "startTime": 24.7,
+      "finishTime": 24.86,
+      "word": "a"
+    },
+    {
+      "startTime": 24.86,
+      "finishTime": 24.98,
+      "word": "great"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.16,
+      "word": "way"
+    },
+    {
+      "startTime": 25.16,
+      "finishTime": 25.36,
+      "word": "to"
+    },
+    {
+      "startTime": 25.36,
+      "finishTime": 25.54,
+      "word": "stay"
+    },
+    {
+      "startTime": 25.54,
+      "finishTime": 25.76,
+      "word": "fit"
+    },
+    {
+      "startTime": 25.76,
+      "finishTime": 25.96,
+      "word": "and"
+    },
+    {
+      "startTime": 25.96,
+      "finishTime": 26.24,
+      "word": "explore"
+    },
+    {
+      "startTime": 26.24,
+      "finishTime": 26.42,
+      "word": "new"
+    },
+    {
+      "startTime": 26.42,
+      "finishTime": 26.92,
+      "word": "places"
+    },
+    {
+      "startTime": 27.560000000000002,
+      "finishTime": 27.96,
+      "word": "That's"
+    },
+    {
+      "startTime": 27.96,
+      "finishTime": 28.36,
+      "word": "fantastic."
+    },
+    {
+      "startTime": 28.82,
+      "finishTime": 28.96,
+      "word": "I"
+    },
+    {
+      "startTime": 28.96,
+      "finishTime": 29.16,
+      "word": "want"
+    },
+    {
+      "startTime": 29.16,
+      "finishTime": 29.26,
+      "word": "to"
+    },
+    {
+      "startTime": 29.26,
+      "finishTime": 29.32,
+      "word": "get"
+    },
+    {
+      "startTime": 29.32,
+      "finishTime": 29.54,
+      "word": "into"
+    },
+    {
+      "startTime": 29.54,
+      "finishTime": 29.86,
+      "word": "cycling"
+    },
+    {
+      "startTime": 29.86,
+      "finishTime": 30.36,
+      "word": "too."
+    },
+    {
+      "startTime": 30.74,
+      "finishTime": 30.96,
+      "word": "I"
+    },
+    {
+      "startTime": 30.96,
+      "finishTime": 31.26,
+      "word": "haven't"
+    },
+    {
+      "startTime": 31.26,
+      "finishTime": 31.46,
+      "word": "been"
+    },
+    {
+      "startTime": 31.46,
+      "finishTime": 31.66,
+      "word": "on"
+    },
+    {
+      "startTime": 31.66,
+      "finishTime": 31.76,
+      "word": "a"
+    },
+    {
+      "startTime": 31.76,
+      "finishTime": 31.9,
+      "word": "bike"
+    },
+    {
+      "startTime": 31.9,
+      "finishTime": 32.14,
+      "word": "since"
+    },
+    {
+      "startTime": 32.14,
+      "finishTime": 32.26,
+      "word": "I"
+    },
+    {
+      "startTime": 32.26,
+      "finishTime": 32.46,
+      "word": "was"
+    },
+    {
+      "startTime": 32.46,
+      "finishTime": 32.6,
+      "word": "a"
+    },
+    {
+      "startTime": 32.6,
+      "finishTime": 32.78,
+      "word": "kid"
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 33.34,
+      "word": "I"
+    },
+    {
+      "startTime": 33.34,
+      "finishTime": 33.76,
+      "word": "probably"
+    },
+    {
+      "startTime": 33.76,
+      "finishTime": 34.14,
+      "word": "even"
+    },
+    {
+      "startTime": 34.14,
+      "finishTime": 34.38,
+      "word": "forgot"
+    },
+    {
+      "startTime": 34.38,
+      "finishTime": 34.58,
+      "word": "how"
+    },
+    {
+      "startTime": 34.58,
+      "finishTime": 34.72,
+      "word": "to"
+    },
+    {
+      "startTime": 34.72,
+      "finishTime": 34.88,
+      "word": "do"
+    },
+    {
+      "startTime": 34.88,
+      "finishTime": 35.44,
+      "word": "it"
+    },
+    {
+      "startTime": 35.44,
+      "finishTime": 35.88,
+      "word": "people"
+    },
+    {
+      "startTime": 35.88,
+      "finishTime": 36.08,
+      "word": "say"
+    },
+    {
+      "startTime": 36.08,
+      "finishTime": 36.24,
+      "word": "we"
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.5,
+      "word": "never"
+    },
+    {
+      "startTime": 36.5,
+      "finishTime": 37.22,
+      "word": "forget"
+    },
+    {
+      "startTime": 37.22,
+      "finishTime": 37.8,
+      "word": "say"
+    },
+    {
+      "startTime": 37.8,
+      "finishTime": 38.04,
+      "word": "do"
+    },
+    {
+      "startTime": 38.04,
+      "finishTime": 38.14,
+      "word": "you"
+    },
+    {
+      "startTime": 38.14,
+      "finishTime": 38.28,
+      "word": "still"
+    },
+    {
+      "startTime": 38.28,
+      "finishTime": 38.42,
+      "word": "have"
+    },
+    {
+      "startTime": 38.42,
+      "finishTime": 38.58,
+      "word": "a"
+    },
+    {
+      "startTime": 38.58,
+      "finishTime": 38.84,
+      "word": "bike?"
+    },
+    {
+      "startTime": 39,
+      "finishTime": 39.18,
+      "word": "Would"
+    },
+    {
+      "startTime": 39.18,
+      "finishTime": 39.3,
+      "word": "you"
+    },
+    {
+      "startTime": 39.3,
+      "finishTime": 39.42,
+      "word": "like"
+    },
+    {
+      "startTime": 39.42,
+      "finishTime": 39.52,
+      "word": "to"
+    },
+    {
+      "startTime": 39.52,
+      "finishTime": 39.68,
+      "word": "go"
+    },
+    {
+      "startTime": 39.68,
+      "finishTime": 39.96,
+      "word": "cycling"
+    },
+    {
+      "startTime": 39.96,
+      "finishTime": 40.16,
+      "word": "with"
+    },
+    {
+      "startTime": 40.16,
+      "finishTime": 40.32,
+      "word": "me"
+    },
+    {
+      "startTime": 40.32,
+      "finishTime": 40.44,
+      "word": "one"
+    },
+    {
+      "startTime": 40.44,
+      "finishTime": 40.54,
+      "word": "of"
+    },
+    {
+      "startTime": 40.54,
+      "finishTime": 40.74,
+      "word": "these"
+    },
+    {
+      "startTime": 40.74,
+      "finishTime": 41.06,
+      "word": "days?"
+    },
+    {
+      "startTime": 41.6,
+      "finishTime": 42,
+      "word": "Sure."
+    },
+    {
+      "startTime": 42.16,
+      "finishTime": 42.42,
+      "word": "I'd"
+    },
+    {
+      "startTime": 42.42,
+      "finishTime": 42.58,
+      "word": "love"
+    },
+    {
+      "startTime": 42.58,
+      "finishTime": 42.94,
+      "word": "to"
+    },
+    {
+      "startTime": 42.94,
+      "finishTime": 43.4,
+      "word": "let's"
+    },
+    {
+      "startTime": 43.4,
+      "finishTime": 43.46,
+      "word": "see"
+    },
+    {
+      "startTime": 43.46,
+      "finishTime": 43.6,
+      "word": "what"
+    },
+    {
+      "startTime": 43.6,
+      "finishTime": 43.72,
+      "word": "we"
+    },
+    {
+      "startTime": 43.72,
+      "finishTime": 43.82,
+      "word": "can"
+    },
+    {
+      "startTime": 43.82,
+      "finishTime": 43.98,
+      "word": "do"
+    },
+    {
+      "startTime": 43.98,
+      "finishTime": 44.26,
+      "word": "next"
+    },
+    {
+      "startTime": 44.26,
+      "finishTime": 44.64,
+      "word": "week"
+    },
+    {
+      "startTime": 44.64,
+      "finishTime": 45.44,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 45.54,
+      "finishTime": 45.74,
+      "word": "it's"
+    },
+    {
+      "startTime": 45.74,
+      "finishTime": 45.84,
+      "word": "a"
+    },
+    {
+      "startTime": 45.84,
+      "finishTime": 46,
+      "word": "bike"
+    },
+    {
+      "startTime": 46,
+      "finishTime": 46.16,
+      "word": "date"
+    },
+    {
+      "startTime": 46.16,
+      "finishTime": 46.58,
+      "word": "then"
+    }
+  ]
+}

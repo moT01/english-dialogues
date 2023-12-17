@@ -1,0 +1,600 @@
+{
+  "text": "Lisa, do you know what this serverless computing trend is all about? Serverless computing is an interesting concept, Tom. It's when we run code without managing servers, like having computer helpers. It's one of those trends that's making cloud computing even more convenient. That sounds cool. Do you think we can use it for our upcoming project? Well, for our project, we can consider using serverless computing to build parts of our app that need to scale easily. It's especially useful when we need to handle variable workloads and want to save on server management tasks. Got it. So we should explore serverless computing for the parts of our project that need to handle changing workloads. Good to know.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.68,
+      "word": "Lisa,"
+    },
+    {
+      "startTime": 1.22,
+      "finishTime": 1.38,
+      "word": "do"
+    },
+    {
+      "startTime": 1.38,
+      "finishTime": 1.46,
+      "word": "you"
+    },
+    {
+      "startTime": 1.46,
+      "finishTime": 1.62,
+      "word": "know"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.76,
+      "word": "what"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 2.1,
+      "word": "this"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.56,
+      "word": "serverless"
+    },
+    {
+      "startTime": 2.56,
+      "finishTime": 2.98,
+      "word": "computing"
+    },
+    {
+      "startTime": 2.98,
+      "finishTime": 3.26,
+      "word": "trend"
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.48,
+      "word": "is"
+    },
+    {
+      "startTime": 3.48,
+      "finishTime": 3.7,
+      "word": "all"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 4.02,
+      "word": "about?"
+    },
+    {
+      "startTime": 4.82,
+      "finishTime": 5.32,
+      "word": "Serverless"
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.68,
+      "word": "computing"
+    },
+    {
+      "startTime": 5.68,
+      "finishTime": 5.86,
+      "word": "is"
+    },
+    {
+      "startTime": 5.86,
+      "finishTime": 6.12,
+      "word": "an"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.42,
+      "word": "interesting"
+    },
+    {
+      "startTime": 6.42,
+      "finishTime": 6.88,
+      "word": "concept,"
+    },
+    {
+      "startTime": 7.2,
+      "finishTime": 7.2,
+      "word": "Tom."
+    },
+    {
+      "startTime": 7.76,
+      "finishTime": 7.88,
+      "word": "It's"
+    },
+    {
+      "startTime": 7.88,
+      "finishTime": 8,
+      "word": "when"
+    },
+    {
+      "startTime": 8,
+      "finishTime": 8.22,
+      "word": "we"
+    },
+    {
+      "startTime": 8.22,
+      "finishTime": 8.38,
+      "word": "run"
+    },
+    {
+      "startTime": 8.38,
+      "finishTime": 8.68,
+      "word": "code"
+    },
+    {
+      "startTime": 8.68,
+      "finishTime": 9.1,
+      "word": "without"
+    },
+    {
+      "startTime": 9.1,
+      "finishTime": 9.5,
+      "word": "managing"
+    },
+    {
+      "startTime": 9.5,
+      "finishTime": 10.1,
+      "word": "servers,"
+    },
+    {
+      "startTime": 10.22,
+      "finishTime": 10.44,
+      "word": "like"
+    },
+    {
+      "startTime": 10.44,
+      "finishTime": 10.7,
+      "word": "having"
+    },
+    {
+      "startTime": 10.7,
+      "finishTime": 11.04,
+      "word": "computer"
+    },
+    {
+      "startTime": 11.04,
+      "finishTime": 11.62,
+      "word": "helpers."
+    },
+    {
+      "startTime": 12.04,
+      "finishTime": 12.22,
+      "word": "It's"
+    },
+    {
+      "startTime": 12.22,
+      "finishTime": 12.34,
+      "word": "one"
+    },
+    {
+      "startTime": 12.34,
+      "finishTime": 12.42,
+      "word": "of"
+    },
+    {
+      "startTime": 12.42,
+      "finishTime": 12.64,
+      "word": "those"
+    },
+    {
+      "startTime": 12.64,
+      "finishTime": 12.9,
+      "word": "trends"
+    },
+    {
+      "startTime": 12.9,
+      "finishTime": 13.2,
+      "word": "that's"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.44,
+      "word": "making"
+    },
+    {
+      "startTime": 13.44,
+      "finishTime": 13.76,
+      "word": "cloud"
+    },
+    {
+      "startTime": 13.76,
+      "finishTime": 14.12,
+      "word": "computing"
+    },
+    {
+      "startTime": 14.12,
+      "finishTime": 14.4,
+      "word": "even"
+    },
+    {
+      "startTime": 14.4,
+      "finishTime": 14.66,
+      "word": "more"
+    },
+    {
+      "startTime": 14.66,
+      "finishTime": 15.2,
+      "word": "convenient."
+    },
+    {
+      "startTime": 15.66,
+      "finishTime": 15.8,
+      "word": "That"
+    },
+    {
+      "startTime": 15.8,
+      "finishTime": 16.08,
+      "word": "sounds"
+    },
+    {
+      "startTime": 16.08,
+      "finishTime": 16.52,
+      "word": "cool."
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.88,
+      "word": "Do"
+    },
+    {
+      "startTime": 16.88,
+      "finishTime": 16.94,
+      "word": "you"
+    },
+    {
+      "startTime": 16.94,
+      "finishTime": 17.1,
+      "word": "think"
+    },
+    {
+      "startTime": 17.1,
+      "finishTime": 17.32,
+      "word": "we"
+    },
+    {
+      "startTime": 17.32,
+      "finishTime": 17.48,
+      "word": "can"
+    },
+    {
+      "startTime": 17.48,
+      "finishTime": 17.7,
+      "word": "use"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.88,
+      "word": "it"
+    },
+    {
+      "startTime": 17.88,
+      "finishTime": 18.26,
+      "word": "for"
+    },
+    {
+      "startTime": 18.26,
+      "finishTime": 18.64,
+      "word": "our"
+    },
+    {
+      "startTime": 18.64,
+      "finishTime": 18.98,
+      "word": "upcoming"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.54,
+      "word": "project?"
+    },
+    {
+      "startTime": 20.2,
+      "finishTime": 20.5,
+      "word": "Well,"
+    },
+    {
+      "startTime": 20.5,
+      "finishTime": 20.7,
+      "word": "for"
+    },
+    {
+      "startTime": 20.7,
+      "finishTime": 20.92,
+      "word": "our"
+    },
+    {
+      "startTime": 20.92,
+      "finishTime": 21.24,
+      "word": "project,"
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.42,
+      "word": "we"
+    },
+    {
+      "startTime": 21.42,
+      "finishTime": 21.68,
+      "word": "can"
+    },
+    {
+      "startTime": 21.68,
+      "finishTime": 21.96,
+      "word": "consider"
+    },
+    {
+      "startTime": 21.96,
+      "finishTime": 22.28,
+      "word": "using"
+    },
+    {
+      "startTime": 22.28,
+      "finishTime": 22.78,
+      "word": "serverless"
+    },
+    {
+      "startTime": 22.78,
+      "finishTime": 23.18,
+      "word": "computing"
+    },
+    {
+      "startTime": 23.18,
+      "finishTime": 23.52,
+      "word": "to"
+    },
+    {
+      "startTime": 23.52,
+      "finishTime": 23.72,
+      "word": "build"
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 23.98,
+      "word": "parts"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.16,
+      "word": "of"
+    },
+    {
+      "startTime": 24.16,
+      "finishTime": 24.36,
+      "word": "our"
+    },
+    {
+      "startTime": 24.36,
+      "finishTime": 24.54,
+      "word": "app"
+    },
+    {
+      "startTime": 24.54,
+      "finishTime": 24.82,
+      "word": "that"
+    },
+    {
+      "startTime": 24.82,
+      "finishTime": 24.98,
+      "word": "need"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.24,
+      "word": "to"
+    },
+    {
+      "startTime": 25.24,
+      "finishTime": 25.38,
+      "word": "scale"
+    },
+    {
+      "startTime": 25.38,
+      "finishTime": 25.82,
+      "word": "easily."
+    },
+    {
+      "startTime": 25.82,
+      "finishTime": 26.54,
+      "word": "It's"
+    },
+    {
+      "startTime": 26.54,
+      "finishTime": 26.92,
+      "word": "especially"
+    },
+    {
+      "startTime": 26.92,
+      "finishTime": 27.28,
+      "word": "useful"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.46,
+      "word": "when"
+    },
+    {
+      "startTime": 27.46,
+      "finishTime": 27.58,
+      "word": "we"
+    },
+    {
+      "startTime": 27.58,
+      "finishTime": 27.76,
+      "word": "need"
+    },
+    {
+      "startTime": 27.76,
+      "finishTime": 27.9,
+      "word": "to"
+    },
+    {
+      "startTime": 27.9,
+      "finishTime": 28.14,
+      "word": "handle"
+    },
+    {
+      "startTime": 28.14,
+      "finishTime": 28.68,
+      "word": "variable"
+    },
+    {
+      "startTime": 28.68,
+      "finishTime": 29.18,
+      "word": "workloads"
+    },
+    {
+      "startTime": 29.18,
+      "finishTime": 29.58,
+      "word": "and"
+    },
+    {
+      "startTime": 29.58,
+      "finishTime": 29.74,
+      "word": "want"
+    },
+    {
+      "startTime": 29.74,
+      "finishTime": 29.96,
+      "word": "to"
+    },
+    {
+      "startTime": 29.96,
+      "finishTime": 30.08,
+      "word": "save"
+    },
+    {
+      "startTime": 30.08,
+      "finishTime": 30.34,
+      "word": "on"
+    },
+    {
+      "startTime": 30.34,
+      "finishTime": 30.6,
+      "word": "server"
+    },
+    {
+      "startTime": 30.6,
+      "finishTime": 31.04,
+      "word": "management"
+    },
+    {
+      "startTime": 31.04,
+      "finishTime": 31.64,
+      "word": "tasks."
+    },
+    {
+      "startTime": 32.08,
+      "finishTime": 32.26,
+      "word": "Got"
+    },
+    {
+      "startTime": 32.26,
+      "finishTime": 32.56,
+      "word": "it."
+    },
+    {
+      "startTime": 32.72,
+      "finishTime": 32.9,
+      "word": "So"
+    },
+    {
+      "startTime": 32.9,
+      "finishTime": 33.02,
+      "word": "we"
+    },
+    {
+      "startTime": 33.02,
+      "finishTime": 33.26,
+      "word": "should"
+    },
+    {
+      "startTime": 33.26,
+      "finishTime": 33.66,
+      "word": "explore"
+    },
+    {
+      "startTime": 33.66,
+      "finishTime": 34.22,
+      "word": "serverless"
+    },
+    {
+      "startTime": 34.22,
+      "finishTime": 34.6,
+      "word": "computing"
+    },
+    {
+      "startTime": 34.6,
+      "finishTime": 34.92,
+      "word": "for"
+    },
+    {
+      "startTime": 34.92,
+      "finishTime": 35.08,
+      "word": "the"
+    },
+    {
+      "startTime": 35.08,
+      "finishTime": 35.22,
+      "word": "parts"
+    },
+    {
+      "startTime": 35.22,
+      "finishTime": 35.42,
+      "word": "of"
+    },
+    {
+      "startTime": 35.42,
+      "finishTime": 35.58,
+      "word": "our"
+    },
+    {
+      "startTime": 35.58,
+      "finishTime": 35.9,
+      "word": "project"
+    },
+    {
+      "startTime": 35.9,
+      "finishTime": 36.16,
+      "word": "that"
+    },
+    {
+      "startTime": 36.16,
+      "finishTime": 36.32,
+      "word": "need"
+    },
+    {
+      "startTime": 36.32,
+      "finishTime": 36.56,
+      "word": "to"
+    },
+    {
+      "startTime": 36.56,
+      "finishTime": 36.74,
+      "word": "handle"
+    },
+    {
+      "startTime": 36.74,
+      "finishTime": 37.14,
+      "word": "changing"
+    },
+    {
+      "startTime": 37.14,
+      "finishTime": 37.68,
+      "word": "workloads."
+    },
+    {
+      "startTime": 38.14,
+      "finishTime": 38.32,
+      "word": "Good"
+    },
+    {
+      "startTime": 38.32,
+      "finishTime": 38.56,
+      "word": "to"
+    },
+    {
+      "startTime": 38.56,
+      "finishTime": 38.78,
+      "word": "know."
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "text": "Hey, have you met Anna yet? She's now in charge of the HR department. No, I haven't seen her yet. What can you tell me about her? She's a tall woman in her early 40s with long blonde hair and glasses. You'll recognize her right away. She's quite serious and organized, which makes her excellent at her job. She's been working with tech companies for about 10 years. 10 years? That's impressive. What does she do exactly? Well, she's responsible for hiring people and taking care of workers. She makes sure we follow the rules and that everyone is happy. Word is that she's strict but fair and she always looks out for the best interests of the team. Those are very positive things you've just said. I'm excited we have someone like her in our company. I'd love to chat with her sometime and learn from her experiences.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.5,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.78,
+      "finishTime": 0.94,
+      "word": "have"
+    },
+    {
+      "startTime": 0.94,
+      "finishTime": 1.04,
+      "word": "you"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.2,
+      "word": "met"
+    },
+    {
+      "startTime": 1.2,
+      "finishTime": 1.44,
+      "word": "Anna"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.8,
+      "word": "yet?"
+    },
+    {
+      "startTime": 2,
+      "finishTime": 2.24,
+      "word": "She's"
+    },
+    {
+      "startTime": 2.24,
+      "finishTime": 2.44,
+      "word": "now"
+    },
+    {
+      "startTime": 2.44,
+      "finishTime": 2.62,
+      "word": "in"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 2.78,
+      "word": "charge"
+    },
+    {
+      "startTime": 2.78,
+      "finishTime": 2.94,
+      "word": "of"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.06,
+      "word": "the"
+    },
+    {
+      "startTime": 3.06,
+      "finishTime": 3.32,
+      "word": "HR"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.9,
+      "word": "department."
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.66,
+      "word": "No,"
+    },
+    {
+      "startTime": 4.66,
+      "finishTime": 4.78,
+      "word": "I"
+    },
+    {
+      "startTime": 4.78,
+      "finishTime": 4.96,
+      "word": "haven't"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.18,
+      "word": "seen"
+    },
+    {
+      "startTime": 5.18,
+      "finishTime": 5.38,
+      "word": "her"
+    },
+    {
+      "startTime": 5.38,
+      "finishTime": 5.64,
+      "word": "yet."
+    },
+    {
+      "startTime": 5.76,
+      "finishTime": 5.92,
+      "word": "What"
+    },
+    {
+      "startTime": 5.92,
+      "finishTime": 6.06,
+      "word": "can"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.18,
+      "word": "you"
+    },
+    {
+      "startTime": 6.18,
+      "finishTime": 6.28,
+      "word": "tell"
+    },
+    {
+      "startTime": 6.28,
+      "finishTime": 6.42,
+      "word": "me"
+    },
+    {
+      "startTime": 6.42,
+      "finishTime": 6.54,
+      "word": "about"
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.86,
+      "word": "her?"
+    },
+    {
+      "startTime": 7.18,
+      "finishTime": 7.46,
+      "word": "She's"
+    },
+    {
+      "startTime": 7.46,
+      "finishTime": 7.5,
+      "word": "a"
+    },
+    {
+      "startTime": 7.5,
+      "finishTime": 7.84,
+      "word": "tall"
+    },
+    {
+      "startTime": 7.84,
+      "finishTime": 8.24,
+      "word": "woman"
+    },
+    {
+      "startTime": 8.24,
+      "finishTime": 8.56,
+      "word": "in"
+    },
+    {
+      "startTime": 8.56,
+      "finishTime": 8.76,
+      "word": "her"
+    },
+    {
+      "startTime": 8.76,
+      "finishTime": 9.12,
+      "word": "early"
+    },
+    {
+      "startTime": 9.12,
+      "finishTime": 9.92,
+      "word": "40s"
+    },
+    {
+      "startTime": 9.92,
+      "finishTime": 10.26,
+      "word": "with"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.52,
+      "word": "long"
+    },
+    {
+      "startTime": 10.52,
+      "finishTime": 10.78,
+      "word": "blonde"
+    },
+    {
+      "startTime": 10.78,
+      "finishTime": 11.04,
+      "word": "hair"
+    },
+    {
+      "startTime": 11.04,
+      "finishTime": 11.24,
+      "word": "and"
+    },
+    {
+      "startTime": 11.24,
+      "finishTime": 11.7,
+      "word": "glasses."
+    },
+    {
+      "startTime": 11.94,
+      "finishTime": 12.34,
+      "word": "You'll"
+    },
+    {
+      "startTime": 12.34,
+      "finishTime": 12.68,
+      "word": "recognize"
+    },
+    {
+      "startTime": 12.68,
+      "finishTime": 12.86,
+      "word": "her"
+    },
+    {
+      "startTime": 12.86,
+      "finishTime": 13.08,
+      "word": "right"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.42,
+      "word": "away."
+    },
+    {
+      "startTime": 13.74,
+      "finishTime": 14.04,
+      "word": "She's"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.3,
+      "word": "quite"
+    },
+    {
+      "startTime": 14.3,
+      "finishTime": 14.74,
+      "word": "serious"
+    },
+    {
+      "startTime": 14.74,
+      "finishTime": 15.14,
+      "word": "and"
+    },
+    {
+      "startTime": 15.14,
+      "finishTime": 15.48,
+      "word": "organized,"
+    },
+    {
+      "startTime": 15.54,
+      "finishTime": 15.78,
+      "word": "which"
+    },
+    {
+      "startTime": 15.78,
+      "finishTime": 15.96,
+      "word": "makes"
+    },
+    {
+      "startTime": 15.96,
+      "finishTime": 16.26,
+      "word": "her"
+    },
+    {
+      "startTime": 16.26,
+      "finishTime": 16.58,
+      "word": "excellent"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.82,
+      "word": "at"
+    },
+    {
+      "startTime": 16.82,
+      "finishTime": 17.02,
+      "word": "her"
+    },
+    {
+      "startTime": 17.02,
+      "finishTime": 17.22,
+      "word": "job."
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 17.84,
+      "word": "She's"
+    },
+    {
+      "startTime": 17.84,
+      "finishTime": 17.98,
+      "word": "been"
+    },
+    {
+      "startTime": 17.98,
+      "finishTime": 18.22,
+      "word": "working"
+    },
+    {
+      "startTime": 18.22,
+      "finishTime": 18.44,
+      "word": "with"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.64,
+      "word": "tech"
+    },
+    {
+      "startTime": 18.64,
+      "finishTime": 19,
+      "word": "companies"
+    },
+    {
+      "startTime": 19,
+      "finishTime": 19.22,
+      "word": "for"
+    },
+    {
+      "startTime": 19.22,
+      "finishTime": 19.48,
+      "word": "about"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.7,
+      "word": "10"
+    },
+    {
+      "startTime": 19.7,
+      "finishTime": 20.2,
+      "word": "years."
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.82,
+      "word": "10"
+    },
+    {
+      "startTime": 20.82,
+      "finishTime": 21.16,
+      "word": "years?"
+    },
+    {
+      "startTime": 21.16,
+      "finishTime": 21.48,
+      "word": "That's"
+    },
+    {
+      "startTime": 21.48,
+      "finishTime": 21.92,
+      "word": "impressive."
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.24,
+      "word": "What"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.34,
+      "word": "does"
+    },
+    {
+      "startTime": 22.34,
+      "finishTime": 22.46,
+      "word": "she"
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.66,
+      "word": "do"
+    },
+    {
+      "startTime": 22.66,
+      "finishTime": 23.06,
+      "word": "exactly?"
+    },
+    {
+      "startTime": 23.44,
+      "finishTime": 23.8,
+      "word": "Well,"
+    },
+    {
+      "startTime": 23.94,
+      "finishTime": 24.28,
+      "word": "she's"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.72,
+      "word": "responsible"
+    },
+    {
+      "startTime": 24.72,
+      "finishTime": 24.98,
+      "word": "for"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.3,
+      "word": "hiring"
+    },
+    {
+      "startTime": 25.3,
+      "finishTime": 25.7,
+      "word": "people"
+    },
+    {
+      "startTime": 25.7,
+      "finishTime": 26,
+      "word": "and"
+    },
+    {
+      "startTime": 26,
+      "finishTime": 26.18,
+      "word": "taking"
+    },
+    {
+      "startTime": 26.18,
+      "finishTime": 26.42,
+      "word": "care"
+    },
+    {
+      "startTime": 26.42,
+      "finishTime": 26.6,
+      "word": "of"
+    },
+    {
+      "startTime": 26.6,
+      "finishTime": 26.98,
+      "word": "workers."
+    },
+    {
+      "startTime": 26.98,
+      "finishTime": 27.5,
+      "word": "She"
+    },
+    {
+      "startTime": 27.5,
+      "finishTime": 27.72,
+      "word": "makes"
+    },
+    {
+      "startTime": 27.72,
+      "finishTime": 27.96,
+      "word": "sure"
+    },
+    {
+      "startTime": 27.96,
+      "finishTime": 28.18,
+      "word": "we"
+    },
+    {
+      "startTime": 28.18,
+      "finishTime": 28.44,
+      "word": "follow"
+    },
+    {
+      "startTime": 28.44,
+      "finishTime": 28.66,
+      "word": "the"
+    },
+    {
+      "startTime": 28.66,
+      "finishTime": 28.92,
+      "word": "rules"
+    },
+    {
+      "startTime": 28.92,
+      "finishTime": 29.24,
+      "word": "and"
+    },
+    {
+      "startTime": 29.24,
+      "finishTime": 29.58,
+      "word": "that"
+    },
+    {
+      "startTime": 29.58,
+      "finishTime": 29.84,
+      "word": "everyone"
+    },
+    {
+      "startTime": 29.84,
+      "finishTime": 30.1,
+      "word": "is"
+    },
+    {
+      "startTime": 30.1,
+      "finishTime": 30.62,
+      "word": "happy."
+    },
+    {
+      "startTime": 31.12,
+      "finishTime": 31.18,
+      "word": "Word"
+    },
+    {
+      "startTime": 31.18,
+      "finishTime": 31.4,
+      "word": "is"
+    },
+    {
+      "startTime": 31.4,
+      "finishTime": 31.54,
+      "word": "that"
+    },
+    {
+      "startTime": 31.54,
+      "finishTime": 31.98,
+      "word": "she's"
+    },
+    {
+      "startTime": 31.98,
+      "finishTime": 32.22,
+      "word": "strict"
+    },
+    {
+      "startTime": 32.22,
+      "finishTime": 32.68,
+      "word": "but"
+    },
+    {
+      "startTime": 32.68,
+      "finishTime": 32.92,
+      "word": "fair"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 33.26,
+      "word": "and"
+    },
+    {
+      "startTime": 33.26,
+      "finishTime": 33.44,
+      "word": "she"
+    },
+    {
+      "startTime": 33.44,
+      "finishTime": 33.74,
+      "word": "always"
+    },
+    {
+      "startTime": 33.74,
+      "finishTime": 33.92,
+      "word": "looks"
+    },
+    {
+      "startTime": 33.92,
+      "finishTime": 34.16,
+      "word": "out"
+    },
+    {
+      "startTime": 34.16,
+      "finishTime": 34.32,
+      "word": "for"
+    },
+    {
+      "startTime": 34.32,
+      "finishTime": 34.5,
+      "word": "the"
+    },
+    {
+      "startTime": 34.5,
+      "finishTime": 34.7,
+      "word": "best"
+    },
+    {
+      "startTime": 34.7,
+      "finishTime": 35.06,
+      "word": "interests"
+    },
+    {
+      "startTime": 35.06,
+      "finishTime": 35.3,
+      "word": "of"
+    },
+    {
+      "startTime": 35.3,
+      "finishTime": 35.46,
+      "word": "the"
+    },
+    {
+      "startTime": 35.46,
+      "finishTime": 35.74,
+      "word": "team."
+    },
+    {
+      "startTime": 36.42,
+      "finishTime": 36.54,
+      "word": "Those"
+    },
+    {
+      "startTime": 36.54,
+      "finishTime": 36.76,
+      "word": "are"
+    },
+    {
+      "startTime": 36.76,
+      "finishTime": 37.02,
+      "word": "very"
+    },
+    {
+      "startTime": 37.02,
+      "finishTime": 37.46,
+      "word": "positive"
+    },
+    {
+      "startTime": 37.46,
+      "finishTime": 37.7,
+      "word": "things"
+    },
+    {
+      "startTime": 37.7,
+      "finishTime": 37.92,
+      "word": "you've"
+    },
+    {
+      "startTime": 37.92,
+      "finishTime": 38.12,
+      "word": "just"
+    },
+    {
+      "startTime": 38.12,
+      "finishTime": 38.34,
+      "word": "said."
+    },
+    {
+      "startTime": 38.78,
+      "finishTime": 39,
+      "word": "I'm"
+    },
+    {
+      "startTime": 39,
+      "finishTime": 39.24,
+      "word": "excited"
+    },
+    {
+      "startTime": 39.24,
+      "finishTime": 39.42,
+      "word": "we"
+    },
+    {
+      "startTime": 39.42,
+      "finishTime": 39.58,
+      "word": "have"
+    },
+    {
+      "startTime": 39.58,
+      "finishTime": 39.78,
+      "word": "someone"
+    },
+    {
+      "startTime": 39.78,
+      "finishTime": 39.98,
+      "word": "like"
+    },
+    {
+      "startTime": 39.98,
+      "finishTime": 40.16,
+      "word": "her"
+    },
+    {
+      "startTime": 40.16,
+      "finishTime": 40.26,
+      "word": "in"
+    },
+    {
+      "startTime": 40.26,
+      "finishTime": 40.44,
+      "word": "our"
+    },
+    {
+      "startTime": 40.44,
+      "finishTime": 40.74,
+      "word": "company."
+    },
+    {
+      "startTime": 41.14,
+      "finishTime": 41.34,
+      "word": "I'd"
+    },
+    {
+      "startTime": 41.34,
+      "finishTime": 41.44,
+      "word": "love"
+    },
+    {
+      "startTime": 41.44,
+      "finishTime": 41.6,
+      "word": "to"
+    },
+    {
+      "startTime": 41.6,
+      "finishTime": 41.72,
+      "word": "chat"
+    },
+    {
+      "startTime": 41.72,
+      "finishTime": 41.84,
+      "word": "with"
+    },
+    {
+      "startTime": 41.84,
+      "finishTime": 42.04,
+      "word": "her"
+    },
+    {
+      "startTime": 42.04,
+      "finishTime": 42.36,
+      "word": "sometime"
+    },
+    {
+      "startTime": 42.36,
+      "finishTime": 42.6,
+      "word": "and"
+    },
+    {
+      "startTime": 42.6,
+      "finishTime": 42.72,
+      "word": "learn"
+    },
+    {
+      "startTime": 42.72,
+      "finishTime": 42.9,
+      "word": "from"
+    },
+    {
+      "startTime": 42.9,
+      "finishTime": 43.16,
+      "word": "her"
+    },
+    {
+      "startTime": 43.16,
+      "finishTime": 43.66,
+      "word": "experiences."
+    }
+  ]
+}

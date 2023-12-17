@@ -1,0 +1,780 @@
+{
+  "text": "Tell me about our team meetings, Sophie. Do they happen every week? Yes, they do. We have meetings on Monday mornings. Hmm. Do we discuss all our ongoing projects in these meetings? We do. It's a chance to update everyone on project progress. Awesome. Do they usually last long? Not too long. They usually take about 30 to 45 minutes. That's reasonable. Do we have an agenda for each meeting? Yes, we do. Maria prepares the agenda in advance. Good to know. Do the meetings involve everyone on the team? Absolutely. All the team members have a chance to speak, so everyone knows what the others are doing. That's important. Does Maria assign tasks during these meetings? Sometimes, but we normally discuss tasks we plan on tackling for the week. Does this include brainstorming sessions? Occasionally, yeah. It depends on the project's needs. I can't wait for the first meeting I'll attend. Probably next Monday.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.66,
+      "word": "Tell"
+    },
+    {
+      "startTime": 0.66,
+      "finishTime": 0.88,
+      "word": "me"
+    },
+    {
+      "startTime": 0.88,
+      "finishTime": 1.04,
+      "word": "about"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.3,
+      "word": "our"
+    },
+    {
+      "startTime": 1.3,
+      "finishTime": 1.48,
+      "word": "team"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.78,
+      "word": "meetings,"
+    },
+    {
+      "startTime": 2.06,
+      "finishTime": 2.16,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 2.4,
+      "finishTime": 2.54,
+      "word": "Do"
+    },
+    {
+      "startTime": 2.54,
+      "finishTime": 2.74,
+      "word": "they"
+    },
+    {
+      "startTime": 2.74,
+      "finishTime": 3,
+      "word": "happen"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.3,
+      "word": "every"
+    },
+    {
+      "startTime": 3.3,
+      "finishTime": 3.7,
+      "word": "week?"
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.78,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 4.78,
+      "finishTime": 4.98,
+      "word": "they"
+    },
+    {
+      "startTime": 4.98,
+      "finishTime": 5.24,
+      "word": "do."
+    },
+    {
+      "startTime": 5.3,
+      "finishTime": 5.46,
+      "word": "We"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.6,
+      "word": "have"
+    },
+    {
+      "startTime": 5.6,
+      "finishTime": 5.88,
+      "word": "meetings"
+    },
+    {
+      "startTime": 5.88,
+      "finishTime": 6.08,
+      "word": "on"
+    },
+    {
+      "startTime": 6.08,
+      "finishTime": 6.36,
+      "word": "Monday"
+    },
+    {
+      "startTime": 6.36,
+      "finishTime": 6.86,
+      "word": "mornings."
+    },
+    {
+      "startTime": 7.84,
+      "finishTime": 8.2,
+      "word": "Hmm."
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9,
+      "word": "Do"
+    },
+    {
+      "startTime": 9,
+      "finishTime": 9.2,
+      "word": "we"
+    },
+    {
+      "startTime": 9.2,
+      "finishTime": 9.66,
+      "word": "discuss"
+    },
+    {
+      "startTime": 9.66,
+      "finishTime": 10.3,
+      "word": "all"
+    },
+    {
+      "startTime": 10.3,
+      "finishTime": 10.8,
+      "word": "our"
+    },
+    {
+      "startTime": 10.8,
+      "finishTime": 11.1,
+      "word": "ongoing"
+    },
+    {
+      "startTime": 11.1,
+      "finishTime": 11.54,
+      "word": "projects"
+    },
+    {
+      "startTime": 11.54,
+      "finishTime": 11.72,
+      "word": "in"
+    },
+    {
+      "startTime": 11.72,
+      "finishTime": 11.94,
+      "word": "these"
+    },
+    {
+      "startTime": 11.94,
+      "finishTime": 12.2,
+      "word": "meetings?"
+    },
+    {
+      "startTime": 13,
+      "finishTime": 13.3,
+      "word": "We"
+    },
+    {
+      "startTime": 13.3,
+      "finishTime": 13.6,
+      "word": "do."
+    },
+    {
+      "startTime": 13.78,
+      "finishTime": 13.94,
+      "word": "It's"
+    },
+    {
+      "startTime": 13.94,
+      "finishTime": 14.06,
+      "word": "a"
+    },
+    {
+      "startTime": 14.06,
+      "finishTime": 14.24,
+      "word": "chance"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.46,
+      "word": "to"
+    },
+    {
+      "startTime": 14.46,
+      "finishTime": 14.68,
+      "word": "update"
+    },
+    {
+      "startTime": 14.68,
+      "finishTime": 15,
+      "word": "everyone"
+    },
+    {
+      "startTime": 15,
+      "finishTime": 15.34,
+      "word": "on"
+    },
+    {
+      "startTime": 15.34,
+      "finishTime": 15.84,
+      "word": "project"
+    },
+    {
+      "startTime": 15.84,
+      "finishTime": 16.32,
+      "word": "progress."
+    },
+    {
+      "startTime": 16.82,
+      "finishTime": 17.34,
+      "word": "Awesome."
+    },
+    {
+      "startTime": 17.8,
+      "finishTime": 17.9,
+      "word": "Do"
+    },
+    {
+      "startTime": 17.9,
+      "finishTime": 18.12,
+      "word": "they"
+    },
+    {
+      "startTime": 18.12,
+      "finishTime": 18.4,
+      "word": "usually"
+    },
+    {
+      "startTime": 18.4,
+      "finishTime": 18.78,
+      "word": "last"
+    },
+    {
+      "startTime": 18.78,
+      "finishTime": 19.14,
+      "word": "long?"
+    },
+    {
+      "startTime": 19.86,
+      "finishTime": 20.08,
+      "word": "Not"
+    },
+    {
+      "startTime": 20.08,
+      "finishTime": 20.32,
+      "word": "too"
+    },
+    {
+      "startTime": 20.32,
+      "finishTime": 20.6,
+      "word": "long."
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.86,
+      "word": "They"
+    },
+    {
+      "startTime": 20.86,
+      "finishTime": 21.08,
+      "word": "usually"
+    },
+    {
+      "startTime": 21.08,
+      "finishTime": 21.3,
+      "word": "take"
+    },
+    {
+      "startTime": 21.3,
+      "finishTime": 21.72,
+      "word": "about"
+    },
+    {
+      "startTime": 21.72,
+      "finishTime": 22,
+      "word": "30"
+    },
+    {
+      "startTime": 22,
+      "finishTime": 22.12,
+      "word": "to"
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.5,
+      "word": "45"
+    },
+    {
+      "startTime": 22.5,
+      "finishTime": 22.92,
+      "word": "minutes."
+    },
+    {
+      "startTime": 23.14,
+      "finishTime": 23.56,
+      "word": "That's"
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 24,
+      "word": "reasonable."
+    },
+    {
+      "startTime": 24.7,
+      "finishTime": 24.92,
+      "word": "Do"
+    },
+    {
+      "startTime": 24.92,
+      "finishTime": 25.1,
+      "word": "we"
+    },
+    {
+      "startTime": 25.1,
+      "finishTime": 25.26,
+      "word": "have"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.5,
+      "word": "an"
+    },
+    {
+      "startTime": 25.5,
+      "finishTime": 25.76,
+      "word": "agenda"
+    },
+    {
+      "startTime": 25.76,
+      "finishTime": 26.04,
+      "word": "for"
+    },
+    {
+      "startTime": 26.04,
+      "finishTime": 26.26,
+      "word": "each"
+    },
+    {
+      "startTime": 26.26,
+      "finishTime": 26.52,
+      "word": "meeting?"
+    },
+    {
+      "startTime": 27.34,
+      "finishTime": 27.66,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 27.66,
+      "finishTime": 27.84,
+      "word": "we"
+    },
+    {
+      "startTime": 27.84,
+      "finishTime": 28.18,
+      "word": "do."
+    },
+    {
+      "startTime": 28.18,
+      "finishTime": 28.58,
+      "word": "Maria"
+    },
+    {
+      "startTime": 28.58,
+      "finishTime": 29,
+      "word": "prepares"
+    },
+    {
+      "startTime": 29,
+      "finishTime": 29.22,
+      "word": "the"
+    },
+    {
+      "startTime": 29.22,
+      "finishTime": 29.54,
+      "word": "agenda"
+    },
+    {
+      "startTime": 29.54,
+      "finishTime": 29.78,
+      "word": "in"
+    },
+    {
+      "startTime": 29.78,
+      "finishTime": 30.48,
+      "word": "advance."
+    },
+    {
+      "startTime": 30.64,
+      "finishTime": 31.02,
+      "word": "Good"
+    },
+    {
+      "startTime": 31.02,
+      "finishTime": 31.32,
+      "word": "to"
+    },
+    {
+      "startTime": 31.32,
+      "finishTime": 31.94,
+      "word": "know."
+    },
+    {
+      "startTime": 32.2,
+      "finishTime": 32.34,
+      "word": "Do"
+    },
+    {
+      "startTime": 32.34,
+      "finishTime": 32.54,
+      "word": "the"
+    },
+    {
+      "startTime": 32.54,
+      "finishTime": 32.78,
+      "word": "meetings"
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 33.24,
+      "word": "involve"
+    },
+    {
+      "startTime": 33.24,
+      "finishTime": 33.72,
+      "word": "everyone"
+    },
+    {
+      "startTime": 33.72,
+      "finishTime": 33.96,
+      "word": "on"
+    },
+    {
+      "startTime": 33.96,
+      "finishTime": 34.18,
+      "word": "the"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.44,
+      "word": "team?"
+    },
+    {
+      "startTime": 35.24,
+      "finishTime": 35.6,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 36.06,
+      "finishTime": 36.24,
+      "word": "All"
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.42,
+      "word": "the"
+    },
+    {
+      "startTime": 36.42,
+      "finishTime": 36.56,
+      "word": "team"
+    },
+    {
+      "startTime": 36.56,
+      "finishTime": 36.84,
+      "word": "members"
+    },
+    {
+      "startTime": 36.84,
+      "finishTime": 37.02,
+      "word": "have"
+    },
+    {
+      "startTime": 37.02,
+      "finishTime": 37.14,
+      "word": "a"
+    },
+    {
+      "startTime": 37.14,
+      "finishTime": 37.32,
+      "word": "chance"
+    },
+    {
+      "startTime": 37.32,
+      "finishTime": 37.54,
+      "word": "to"
+    },
+    {
+      "startTime": 37.54,
+      "finishTime": 37.84,
+      "word": "speak,"
+    },
+    {
+      "startTime": 38.2,
+      "finishTime": 38.28,
+      "word": "so"
+    },
+    {
+      "startTime": 38.28,
+      "finishTime": 38.6,
+      "word": "everyone"
+    },
+    {
+      "startTime": 38.6,
+      "finishTime": 38.86,
+      "word": "knows"
+    },
+    {
+      "startTime": 38.86,
+      "finishTime": 39.02,
+      "word": "what"
+    },
+    {
+      "startTime": 39.02,
+      "finishTime": 39.16,
+      "word": "the"
+    },
+    {
+      "startTime": 39.16,
+      "finishTime": 39.32,
+      "word": "others"
+    },
+    {
+      "startTime": 39.32,
+      "finishTime": 39.52,
+      "word": "are"
+    },
+    {
+      "startTime": 39.52,
+      "finishTime": 39.78,
+      "word": "doing."
+    },
+    {
+      "startTime": 40.22,
+      "finishTime": 40.6,
+      "word": "That's"
+    },
+    {
+      "startTime": 40.6,
+      "finishTime": 41.1,
+      "word": "important."
+    },
+    {
+      "startTime": 41.48,
+      "finishTime": 41.72,
+      "word": "Does"
+    },
+    {
+      "startTime": 41.72,
+      "finishTime": 42.1,
+      "word": "Maria"
+    },
+    {
+      "startTime": 42.1,
+      "finishTime": 42.54,
+      "word": "assign"
+    },
+    {
+      "startTime": 42.54,
+      "finishTime": 43.12,
+      "word": "tasks"
+    },
+    {
+      "startTime": 43.12,
+      "finishTime": 43.62,
+      "word": "during"
+    },
+    {
+      "startTime": 43.62,
+      "finishTime": 43.92,
+      "word": "these"
+    },
+    {
+      "startTime": 43.92,
+      "finishTime": 44.2,
+      "word": "meetings?"
+    },
+    {
+      "startTime": 45.02,
+      "finishTime": 45.54,
+      "word": "Sometimes,"
+    },
+    {
+      "startTime": 45.56,
+      "finishTime": 45.76,
+      "word": "but"
+    },
+    {
+      "startTime": 45.76,
+      "finishTime": 45.96,
+      "word": "we"
+    },
+    {
+      "startTime": 45.96,
+      "finishTime": 46.24,
+      "word": "normally"
+    },
+    {
+      "startTime": 46.24,
+      "finishTime": 46.7,
+      "word": "discuss"
+    },
+    {
+      "startTime": 46.7,
+      "finishTime": 47.16,
+      "word": "tasks"
+    },
+    {
+      "startTime": 47.16,
+      "finishTime": 47.42,
+      "word": "we"
+    },
+    {
+      "startTime": 47.42,
+      "finishTime": 47.6,
+      "word": "plan"
+    },
+    {
+      "startTime": 47.6,
+      "finishTime": 47.84,
+      "word": "on"
+    },
+    {
+      "startTime": 47.84,
+      "finishTime": 48.1,
+      "word": "tackling"
+    },
+    {
+      "startTime": 48.1,
+      "finishTime": 48.34,
+      "word": "for"
+    },
+    {
+      "startTime": 48.34,
+      "finishTime": 48.44,
+      "word": "the"
+    },
+    {
+      "startTime": 48.44,
+      "finishTime": 48.72,
+      "word": "week."
+    },
+    {
+      "startTime": 49.2,
+      "finishTime": 49.38,
+      "word": "Does"
+    },
+    {
+      "startTime": 49.38,
+      "finishTime": 49.66,
+      "word": "this"
+    },
+    {
+      "startTime": 49.66,
+      "finishTime": 50.12,
+      "word": "include"
+    },
+    {
+      "startTime": 50.12,
+      "finishTime": 50.84,
+      "word": "brainstorming"
+    },
+    {
+      "startTime": 50.84,
+      "finishTime": 51.24,
+      "word": "sessions?"
+    },
+    {
+      "startTime": 52.02,
+      "finishTime": 52.54,
+      "word": "Occasionally,"
+    },
+    {
+      "startTime": 52.56,
+      "finishTime": 52.92,
+      "word": "yeah."
+    },
+    {
+      "startTime": 53,
+      "finishTime": 53.26,
+      "word": "It"
+    },
+    {
+      "startTime": 53.26,
+      "finishTime": 53.48,
+      "word": "depends"
+    },
+    {
+      "startTime": 53.48,
+      "finishTime": 53.62,
+      "word": "on"
+    },
+    {
+      "startTime": 53.62,
+      "finishTime": 53.82,
+      "word": "the"
+    },
+    {
+      "startTime": 53.82,
+      "finishTime": 54.34,
+      "word": "project's"
+    },
+    {
+      "startTime": 54.34,
+      "finishTime": 54.56,
+      "word": "needs."
+    },
+    {
+      "startTime": 55.22,
+      "finishTime": 55.42,
+      "word": "I"
+    },
+    {
+      "startTime": 55.42,
+      "finishTime": 55.66,
+      "word": "can't"
+    },
+    {
+      "startTime": 55.66,
+      "finishTime": 55.88,
+      "word": "wait"
+    },
+    {
+      "startTime": 55.88,
+      "finishTime": 56.02,
+      "word": "for"
+    },
+    {
+      "startTime": 56.02,
+      "finishTime": 56.2,
+      "word": "the"
+    },
+    {
+      "startTime": 56.2,
+      "finishTime": 56.48,
+      "word": "first"
+    },
+    {
+      "startTime": 56.48,
+      "finishTime": 56.8,
+      "word": "meeting"
+    },
+    {
+      "startTime": 56.8,
+      "finishTime": 57.14,
+      "word": "I'll"
+    },
+    {
+      "startTime": 57.14,
+      "finishTime": 57.4,
+      "word": "attend."
+    },
+    {
+      "startTime": 57.4,
+      "finishTime": 58.16,
+      "word": "Probably"
+    },
+    {
+      "startTime": 58.16,
+      "finishTime": 58.44,
+      "word": "next"
+    },
+    {
+      "startTime": 58.44,
+      "finishTime": 58.68,
+      "word": "Monday."
+    }
+  ]
+}

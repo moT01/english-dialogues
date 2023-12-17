@@ -1,0 +1,550 @@
+{
+  "text": "Sarah, can you explain data types to me? I'm a bit confused. Sure. Data types are fundamental in programming. You use them to tell the computer what kind of data you're working with. Thanks, but I see many data types listed in the documentation. How do I know which one to choose? Good question. You usually choose data types based on the kind of information you want to store. For example, if you're working with text, you'd use data type string. If it's whole numbers, you'd choose int. Ah, I see. So this means I should pick the data type that matches the information I want to work with.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.56,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 0.7,
+      "finishTime": 0.88,
+      "word": "can"
+    },
+    {
+      "startTime": 0.88,
+      "finishTime": 1.1,
+      "word": "you"
+    },
+    {
+      "startTime": 1.1,
+      "finishTime": 1.4,
+      "word": "explain"
+    },
+    {
+      "startTime": 1.4,
+      "finishTime": 1.74,
+      "word": "data"
+    },
+    {
+      "startTime": 1.74,
+      "finishTime": 1.9,
+      "word": "types"
+    },
+    {
+      "startTime": 1.9,
+      "finishTime": 2.08,
+      "word": "to"
+    },
+    {
+      "startTime": 2.08,
+      "finishTime": 2.34,
+      "word": "me?"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 2.82,
+      "word": "I'm"
+    },
+    {
+      "startTime": 2.82,
+      "finishTime": 2.94,
+      "word": "a"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.1,
+      "word": "bit"
+    },
+    {
+      "startTime": 3.1,
+      "finishTime": 3.78,
+      "word": "confused."
+    },
+    {
+      "startTime": 4.4,
+      "finishTime": 4.76,
+      "word": "Sure."
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.22,
+      "word": "Data"
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.44,
+      "word": "types"
+    },
+    {
+      "startTime": 5.44,
+      "finishTime": 5.64,
+      "word": "are"
+    },
+    {
+      "startTime": 5.64,
+      "finishTime": 6.06,
+      "word": "fundamental"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.34,
+      "word": "in"
+    },
+    {
+      "startTime": 6.34,
+      "finishTime": 6.68,
+      "word": "programming."
+    },
+    {
+      "startTime": 7.1,
+      "finishTime": 7.3,
+      "word": "You"
+    },
+    {
+      "startTime": 7.3,
+      "finishTime": 7.52,
+      "word": "use"
+    },
+    {
+      "startTime": 7.52,
+      "finishTime": 7.74,
+      "word": "them"
+    },
+    {
+      "startTime": 7.74,
+      "finishTime": 7.96,
+      "word": "to"
+    },
+    {
+      "startTime": 7.96,
+      "finishTime": 8.04,
+      "word": "tell"
+    },
+    {
+      "startTime": 8.04,
+      "finishTime": 8.26,
+      "word": "the"
+    },
+    {
+      "startTime": 8.26,
+      "finishTime": 8.48,
+      "word": "computer"
+    },
+    {
+      "startTime": 8.48,
+      "finishTime": 8.7,
+      "word": "what"
+    },
+    {
+      "startTime": 8.7,
+      "finishTime": 8.92,
+      "word": "kind"
+    },
+    {
+      "startTime": 8.92,
+      "finishTime": 9.04,
+      "word": "of"
+    },
+    {
+      "startTime": 9.04,
+      "finishTime": 9.2,
+      "word": "data"
+    },
+    {
+      "startTime": 9.2,
+      "finishTime": 9.38,
+      "word": "you're"
+    },
+    {
+      "startTime": 9.38,
+      "finishTime": 9.64,
+      "word": "working"
+    },
+    {
+      "startTime": 9.64,
+      "finishTime": 10.16,
+      "word": "with."
+    },
+    {
+      "startTime": 10.46,
+      "finishTime": 10.9,
+      "word": "Thanks,"
+    },
+    {
+      "startTime": 10.9,
+      "finishTime": 11.26,
+      "word": "but"
+    },
+    {
+      "startTime": 11.26,
+      "finishTime": 11.44,
+      "word": "I"
+    },
+    {
+      "startTime": 11.44,
+      "finishTime": 11.52,
+      "word": "see"
+    },
+    {
+      "startTime": 11.52,
+      "finishTime": 11.84,
+      "word": "many"
+    },
+    {
+      "startTime": 11.84,
+      "finishTime": 12.16,
+      "word": "data"
+    },
+    {
+      "startTime": 12.16,
+      "finishTime": 12.38,
+      "word": "types"
+    },
+    {
+      "startTime": 12.38,
+      "finishTime": 12.7,
+      "word": "listed"
+    },
+    {
+      "startTime": 12.7,
+      "finishTime": 12.88,
+      "word": "in"
+    },
+    {
+      "startTime": 12.88,
+      "finishTime": 13.14,
+      "word": "the"
+    },
+    {
+      "startTime": 13.14,
+      "finishTime": 13.64,
+      "word": "documentation."
+    },
+    {
+      "startTime": 13.96,
+      "finishTime": 14.12,
+      "word": "How"
+    },
+    {
+      "startTime": 14.12,
+      "finishTime": 14.26,
+      "word": "do"
+    },
+    {
+      "startTime": 14.26,
+      "finishTime": 14.32,
+      "word": "I"
+    },
+    {
+      "startTime": 14.32,
+      "finishTime": 14.46,
+      "word": "know"
+    },
+    {
+      "startTime": 14.46,
+      "finishTime": 14.7,
+      "word": "which"
+    },
+    {
+      "startTime": 14.7,
+      "finishTime": 14.84,
+      "word": "one"
+    },
+    {
+      "startTime": 14.84,
+      "finishTime": 15.1,
+      "word": "to"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.4,
+      "word": "choose?"
+    },
+    {
+      "startTime": 15.82,
+      "finishTime": 16.02,
+      "word": "Good"
+    },
+    {
+      "startTime": 16.02,
+      "finishTime": 16.48,
+      "word": "question."
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 17,
+      "word": "You"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.4,
+      "word": "usually"
+    },
+    {
+      "startTime": 17.4,
+      "finishTime": 17.78,
+      "word": "choose"
+    },
+    {
+      "startTime": 17.78,
+      "finishTime": 18.08,
+      "word": "data"
+    },
+    {
+      "startTime": 18.08,
+      "finishTime": 18.34,
+      "word": "types"
+    },
+    {
+      "startTime": 18.34,
+      "finishTime": 18.58,
+      "word": "based"
+    },
+    {
+      "startTime": 18.58,
+      "finishTime": 18.74,
+      "word": "on"
+    },
+    {
+      "startTime": 18.74,
+      "finishTime": 18.9,
+      "word": "the"
+    },
+    {
+      "startTime": 18.9,
+      "finishTime": 19.04,
+      "word": "kind"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.24,
+      "word": "of"
+    },
+    {
+      "startTime": 19.24,
+      "finishTime": 19.66,
+      "word": "information"
+    },
+    {
+      "startTime": 19.66,
+      "finishTime": 19.88,
+      "word": "you"
+    },
+    {
+      "startTime": 19.88,
+      "finishTime": 20.04,
+      "word": "want"
+    },
+    {
+      "startTime": 20.04,
+      "finishTime": 20.3,
+      "word": "to"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.6,
+      "word": "store."
+    },
+    {
+      "startTime": 21.08,
+      "finishTime": 21.28,
+      "word": "For"
+    },
+    {
+      "startTime": 21.28,
+      "finishTime": 21.76,
+      "word": "example,"
+    },
+    {
+      "startTime": 21.76,
+      "finishTime": 21.96,
+      "word": "if"
+    },
+    {
+      "startTime": 21.96,
+      "finishTime": 22.12,
+      "word": "you're"
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.32,
+      "word": "working"
+    },
+    {
+      "startTime": 22.32,
+      "finishTime": 22.56,
+      "word": "with"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 22.94,
+      "word": "text,"
+    },
+    {
+      "startTime": 23.26,
+      "finishTime": 23.5,
+      "word": "you'd"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.68,
+      "word": "use"
+    },
+    {
+      "startTime": 23.68,
+      "finishTime": 24.12,
+      "word": "data"
+    },
+    {
+      "startTime": 24.12,
+      "finishTime": 24.52,
+      "word": "type"
+    },
+    {
+      "startTime": 24.52,
+      "finishTime": 25.02,
+      "word": "string."
+    },
+    {
+      "startTime": 25.52,
+      "finishTime": 25.62,
+      "word": "If"
+    },
+    {
+      "startTime": 25.62,
+      "finishTime": 25.88,
+      "word": "it's"
+    },
+    {
+      "startTime": 25.88,
+      "finishTime": 26,
+      "word": "whole"
+    },
+    {
+      "startTime": 26,
+      "finishTime": 26.4,
+      "word": "numbers,"
+    },
+    {
+      "startTime": 26.66,
+      "finishTime": 26.9,
+      "word": "you'd"
+    },
+    {
+      "startTime": 26.9,
+      "finishTime": 27.12,
+      "word": "choose"
+    },
+    {
+      "startTime": 27.12,
+      "finishTime": 27.52,
+      "word": "int."
+    },
+    {
+      "startTime": 28.18,
+      "finishTime": 28.56,
+      "word": "Ah,"
+    },
+    {
+      "startTime": 28.7,
+      "finishTime": 28.98,
+      "word": "I"
+    },
+    {
+      "startTime": 28.98,
+      "finishTime": 29.26,
+      "word": "see."
+    },
+    {
+      "startTime": 29.68,
+      "finishTime": 30.06,
+      "word": "So"
+    },
+    {
+      "startTime": 30.06,
+      "finishTime": 30.34,
+      "word": "this"
+    },
+    {
+      "startTime": 30.34,
+      "finishTime": 30.5,
+      "word": "means"
+    },
+    {
+      "startTime": 30.5,
+      "finishTime": 30.62,
+      "word": "I"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.78,
+      "word": "should"
+    },
+    {
+      "startTime": 30.78,
+      "finishTime": 30.98,
+      "word": "pick"
+    },
+    {
+      "startTime": 30.98,
+      "finishTime": 31.2,
+      "word": "the"
+    },
+    {
+      "startTime": 31.2,
+      "finishTime": 31.42,
+      "word": "data"
+    },
+    {
+      "startTime": 31.42,
+      "finishTime": 31.58,
+      "word": "type"
+    },
+    {
+      "startTime": 31.58,
+      "finishTime": 31.76,
+      "word": "that"
+    },
+    {
+      "startTime": 31.76,
+      "finishTime": 32.06,
+      "word": "matches"
+    },
+    {
+      "startTime": 32.06,
+      "finishTime": 32.36,
+      "word": "the"
+    },
+    {
+      "startTime": 32.36,
+      "finishTime": 32.74,
+      "word": "information"
+    },
+    {
+      "startTime": 32.74,
+      "finishTime": 32.9,
+      "word": "I"
+    },
+    {
+      "startTime": 32.9,
+      "finishTime": 33.08,
+      "word": "want"
+    },
+    {
+      "startTime": 33.08,
+      "finishTime": 33.22,
+      "word": "to"
+    },
+    {
+      "startTime": 33.22,
+      "finishTime": 33.4,
+      "word": "work"
+    },
+    {
+      "startTime": 33.4,
+      "finishTime": 33.64,
+      "word": "with."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "text": "Oh, look who's here. Hey, Brian. How is everything? Sophie. Great to see you here. You too. Brian, let me introduce you to Tom. Tom, this is Brian. He's a web developer. Brian, this is Tom. He's our new graphic designer and he is from Texas. It's a pleasure to meet you, Tom. Sophie is a great workmate. She's very kind and helpful. Oh, come on, Brian. But it's true. She's the person to go to if you need help.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.44,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 0.46,
+      "finishTime": 0.64,
+      "word": "look"
+    },
+    {
+      "startTime": 0.64,
+      "finishTime": 0.9,
+      "word": "who's"
+    },
+    {
+      "startTime": 0.9,
+      "finishTime": 1.26,
+      "word": "here."
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.66,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 1.78,
+      "finishTime": 1.9,
+      "word": "Brian."
+    },
+    {
+      "startTime": 2.14,
+      "finishTime": 2.28,
+      "word": "How"
+    },
+    {
+      "startTime": 2.28,
+      "finishTime": 2.48,
+      "word": "is"
+    },
+    {
+      "startTime": 2.48,
+      "finishTime": 3.02,
+      "word": "everything?"
+    },
+    {
+      "startTime": 3.78,
+      "finishTime": 4.02,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 4.48,
+      "finishTime": 4.66,
+      "word": "Great"
+    },
+    {
+      "startTime": 4.66,
+      "finishTime": 4.88,
+      "word": "to"
+    },
+    {
+      "startTime": 4.88,
+      "finishTime": 4.96,
+      "word": "see"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.1,
+      "word": "you"
+    },
+    {
+      "startTime": 5.1,
+      "finishTime": 5.56,
+      "word": "here."
+    },
+    {
+      "startTime": 5.98,
+      "finishTime": 6.24,
+      "word": "You"
+    },
+    {
+      "startTime": 6.24,
+      "finishTime": 6.68,
+      "word": "too."
+    },
+    {
+      "startTime": 7.2,
+      "finishTime": 7.46,
+      "word": "Brian,"
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 7.74,
+      "word": "let"
+    },
+    {
+      "startTime": 7.74,
+      "finishTime": 7.9,
+      "word": "me"
+    },
+    {
+      "startTime": 7.9,
+      "finishTime": 8.16,
+      "word": "introduce"
+    },
+    {
+      "startTime": 8.16,
+      "finishTime": 8.32,
+      "word": "you"
+    },
+    {
+      "startTime": 8.32,
+      "finishTime": 8.5,
+      "word": "to"
+    },
+    {
+      "startTime": 8.5,
+      "finishTime": 8.82,
+      "word": "Tom."
+    },
+    {
+      "startTime": 9.22,
+      "finishTime": 9.56,
+      "word": "Tom,"
+    },
+    {
+      "startTime": 9.72,
+      "finishTime": 9.92,
+      "word": "this"
+    },
+    {
+      "startTime": 9.92,
+      "finishTime": 10.1,
+      "word": "is"
+    },
+    {
+      "startTime": 10.1,
+      "finishTime": 10.4,
+      "word": "Brian."
+    },
+    {
+      "startTime": 10.8,
+      "finishTime": 11.04,
+      "word": "He's"
+    },
+    {
+      "startTime": 11.04,
+      "finishTime": 11.14,
+      "word": "a"
+    },
+    {
+      "startTime": 11.14,
+      "finishTime": 11.26,
+      "word": "web"
+    },
+    {
+      "startTime": 11.26,
+      "finishTime": 11.76,
+      "word": "developer."
+    },
+    {
+      "startTime": 12.4,
+      "finishTime": 12.6,
+      "word": "Brian,"
+    },
+    {
+      "startTime": 12.82,
+      "finishTime": 12.92,
+      "word": "this"
+    },
+    {
+      "startTime": 12.92,
+      "finishTime": 13.16,
+      "word": "is"
+    },
+    {
+      "startTime": 13.16,
+      "finishTime": 13.42,
+      "word": "Tom."
+    },
+    {
+      "startTime": 13.7,
+      "finishTime": 13.9,
+      "word": "He's"
+    },
+    {
+      "startTime": 13.9,
+      "finishTime": 14.04,
+      "word": "our"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.22,
+      "word": "new"
+    },
+    {
+      "startTime": 14.22,
+      "finishTime": 14.56,
+      "word": "graphic"
+    },
+    {
+      "startTime": 14.56,
+      "finishTime": 14.94,
+      "word": "designer"
+    },
+    {
+      "startTime": 14.94,
+      "finishTime": 15.16,
+      "word": "and"
+    },
+    {
+      "startTime": 15.16,
+      "finishTime": 15.28,
+      "word": "he"
+    },
+    {
+      "startTime": 15.28,
+      "finishTime": 15.42,
+      "word": "is"
+    },
+    {
+      "startTime": 15.42,
+      "finishTime": 15.58,
+      "word": "from"
+    },
+    {
+      "startTime": 15.58,
+      "finishTime": 16.02,
+      "word": "Texas."
+    },
+    {
+      "startTime": 16.66,
+      "finishTime": 16.9,
+      "word": "It's"
+    },
+    {
+      "startTime": 16.9,
+      "finishTime": 17,
+      "word": "a"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.2,
+      "word": "pleasure"
+    },
+    {
+      "startTime": 17.2,
+      "finishTime": 17.42,
+      "word": "to"
+    },
+    {
+      "startTime": 17.42,
+      "finishTime": 17.58,
+      "word": "meet"
+    },
+    {
+      "startTime": 17.58,
+      "finishTime": 17.82,
+      "word": "you,"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.18,
+      "word": "Tom."
+    },
+    {
+      "startTime": 18.88,
+      "finishTime": 19.18,
+      "word": "Sophie"
+    },
+    {
+      "startTime": 19.18,
+      "finishTime": 19.48,
+      "word": "is"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.72,
+      "word": "a"
+    },
+    {
+      "startTime": 19.72,
+      "finishTime": 19.9,
+      "word": "great"
+    },
+    {
+      "startTime": 19.9,
+      "finishTime": 20.34,
+      "word": "workmate."
+    },
+    {
+      "startTime": 20.52,
+      "finishTime": 20.84,
+      "word": "She's"
+    },
+    {
+      "startTime": 20.84,
+      "finishTime": 21.16,
+      "word": "very"
+    },
+    {
+      "startTime": 21.16,
+      "finishTime": 21.54,
+      "word": "kind"
+    },
+    {
+      "startTime": 21.54,
+      "finishTime": 21.92,
+      "word": "and"
+    },
+    {
+      "startTime": 21.92,
+      "finishTime": 22.3,
+      "word": "helpful."
+    },
+    {
+      "startTime": 22.84,
+      "finishTime": 23.08,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 23.08,
+      "finishTime": 23.26,
+      "word": "come"
+    },
+    {
+      "startTime": 23.26,
+      "finishTime": 23.48,
+      "word": "on,"
+    },
+    {
+      "startTime": 23.62,
+      "finishTime": 23.78,
+      "word": "Brian."
+    },
+    {
+      "startTime": 24.9,
+      "finishTime": 25.06,
+      "word": "But"
+    },
+    {
+      "startTime": 25.06,
+      "finishTime": 25.28,
+      "word": "it's"
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 25.6,
+      "word": "true."
+    },
+    {
+      "startTime": 26.02,
+      "finishTime": 26.4,
+      "word": "She's"
+    },
+    {
+      "startTime": 26.4,
+      "finishTime": 26.54,
+      "word": "the"
+    },
+    {
+      "startTime": 26.54,
+      "finishTime": 26.8,
+      "word": "person"
+    },
+    {
+      "startTime": 26.8,
+      "finishTime": 26.96,
+      "word": "to"
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.12,
+      "word": "go"
+    },
+    {
+      "startTime": 27.12,
+      "finishTime": 27.28,
+      "word": "to"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.46,
+      "word": "if"
+    },
+    {
+      "startTime": 27.46,
+      "finishTime": 27.68,
+      "word": "you"
+    },
+    {
+      "startTime": 27.68,
+      "finishTime": 27.8,
+      "word": "need"
+    },
+    {
+      "startTime": 27.8,
+      "finishTime": 28.16,
+      "word": "help."
+    }
+  ]
+}

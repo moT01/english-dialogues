@@ -1,0 +1,570 @@
+{
+  "text": "Hey, Sarah. I saw your comment on the issue I opened. Thanks for your help. No problem, Tom. I noticed the issue you mentioned and I've already tried a few things to solve it. That's great. What did you find? Well, I was investigating the code when I saw that the problem might be related to the recent updates. I tried rolling back to the previous version, but it didn't fix the issue. I see. We might have to talk to the team to see if they can help us. Agreed. I'll create a PR with the rollback and some additional logs for debugging. That may help us find what the problem is.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.5,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.6,
+      "finishTime": 0.9,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 1.3,
+      "finishTime": 1.36,
+      "word": "I"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.52,
+      "word": "saw"
+    },
+    {
+      "startTime": 1.52,
+      "finishTime": 1.72,
+      "word": "your"
+    },
+    {
+      "startTime": 1.72,
+      "finishTime": 2.02,
+      "word": "comment"
+    },
+    {
+      "startTime": 2.02,
+      "finishTime": 2.18,
+      "word": "on"
+    },
+    {
+      "startTime": 2.18,
+      "finishTime": 2.38,
+      "word": "the"
+    },
+    {
+      "startTime": 2.38,
+      "finishTime": 2.56,
+      "word": "issue"
+    },
+    {
+      "startTime": 2.56,
+      "finishTime": 2.86,
+      "word": "I"
+    },
+    {
+      "startTime": 2.86,
+      "finishTime": 3.06,
+      "word": "opened."
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.48,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 3.48,
+      "finishTime": 3.64,
+      "word": "for"
+    },
+    {
+      "startTime": 3.64,
+      "finishTime": 3.8,
+      "word": "your"
+    },
+    {
+      "startTime": 3.8,
+      "finishTime": 4.12,
+      "word": "help."
+    },
+    {
+      "startTime": 5.04,
+      "finishTime": 5.18,
+      "word": "No"
+    },
+    {
+      "startTime": 5.18,
+      "finishTime": 5.44,
+      "word": "problem,"
+    },
+    {
+      "startTime": 5.44,
+      "finishTime": 5.8,
+      "word": "Tom."
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.28,
+      "word": "I"
+    },
+    {
+      "startTime": 6.28,
+      "finishTime": 6.46,
+      "word": "noticed"
+    },
+    {
+      "startTime": 6.46,
+      "finishTime": 6.7,
+      "word": "the"
+    },
+    {
+      "startTime": 6.7,
+      "finishTime": 6.9,
+      "word": "issue"
+    },
+    {
+      "startTime": 6.9,
+      "finishTime": 7.14,
+      "word": "you"
+    },
+    {
+      "startTime": 7.14,
+      "finishTime": 7.56,
+      "word": "mentioned"
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 7.72,
+      "word": "and"
+    },
+    {
+      "startTime": 7.72,
+      "finishTime": 7.9,
+      "word": "I've"
+    },
+    {
+      "startTime": 7.9,
+      "finishTime": 8.12,
+      "word": "already"
+    },
+    {
+      "startTime": 8.12,
+      "finishTime": 8.32,
+      "word": "tried"
+    },
+    {
+      "startTime": 8.32,
+      "finishTime": 8.46,
+      "word": "a"
+    },
+    {
+      "startTime": 8.46,
+      "finishTime": 8.54,
+      "word": "few"
+    },
+    {
+      "startTime": 8.54,
+      "finishTime": 8.78,
+      "word": "things"
+    },
+    {
+      "startTime": 8.78,
+      "finishTime": 9.02,
+      "word": "to"
+    },
+    {
+      "startTime": 9.02,
+      "finishTime": 9.14,
+      "word": "solve"
+    },
+    {
+      "startTime": 9.14,
+      "finishTime": 9.5,
+      "word": "it."
+    },
+    {
+      "startTime": 9.7,
+      "finishTime": 10.06,
+      "word": "That's"
+    },
+    {
+      "startTime": 10.06,
+      "finishTime": 10.3,
+      "word": "great."
+    },
+    {
+      "startTime": 10.48,
+      "finishTime": 10.66,
+      "word": "What"
+    },
+    {
+      "startTime": 10.66,
+      "finishTime": 10.82,
+      "word": "did"
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11,
+      "word": "you"
+    },
+    {
+      "startTime": 11,
+      "finishTime": 11.38,
+      "word": "find?"
+    },
+    {
+      "startTime": 11.96,
+      "finishTime": 12.32,
+      "word": "Well,"
+    },
+    {
+      "startTime": 12.32,
+      "finishTime": 12.52,
+      "word": "I"
+    },
+    {
+      "startTime": 12.52,
+      "finishTime": 12.7,
+      "word": "was"
+    },
+    {
+      "startTime": 12.7,
+      "finishTime": 13.2,
+      "word": "investigating"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.52,
+      "word": "the"
+    },
+    {
+      "startTime": 13.52,
+      "finishTime": 13.72,
+      "word": "code"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 13.92,
+      "word": "when"
+    },
+    {
+      "startTime": 13.92,
+      "finishTime": 14.08,
+      "word": "I"
+    },
+    {
+      "startTime": 14.08,
+      "finishTime": 14.24,
+      "word": "saw"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.38,
+      "word": "that"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 14.62,
+      "word": "the"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 14.84,
+      "word": "problem"
+    },
+    {
+      "startTime": 14.84,
+      "finishTime": 15.06,
+      "word": "might"
+    },
+    {
+      "startTime": 15.06,
+      "finishTime": 15.3,
+      "word": "be"
+    },
+    {
+      "startTime": 15.3,
+      "finishTime": 15.5,
+      "word": "related"
+    },
+    {
+      "startTime": 15.5,
+      "finishTime": 15.7,
+      "word": "to"
+    },
+    {
+      "startTime": 15.7,
+      "finishTime": 15.84,
+      "word": "the"
+    },
+    {
+      "startTime": 15.84,
+      "finishTime": 16.1,
+      "word": "recent"
+    },
+    {
+      "startTime": 16.1,
+      "finishTime": 16.64,
+      "word": "updates."
+    },
+    {
+      "startTime": 17.16,
+      "finishTime": 17.38,
+      "word": "I"
+    },
+    {
+      "startTime": 17.38,
+      "finishTime": 17.6,
+      "word": "tried"
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 17.84,
+      "word": "rolling"
+    },
+    {
+      "startTime": 17.84,
+      "finishTime": 18.1,
+      "word": "back"
+    },
+    {
+      "startTime": 18.1,
+      "finishTime": 18.24,
+      "word": "to"
+    },
+    {
+      "startTime": 18.24,
+      "finishTime": 18.36,
+      "word": "the"
+    },
+    {
+      "startTime": 18.36,
+      "finishTime": 18.68,
+      "word": "previous"
+    },
+    {
+      "startTime": 18.68,
+      "finishTime": 19.1,
+      "word": "version,"
+    },
+    {
+      "startTime": 19.1,
+      "finishTime": 19.3,
+      "word": "but"
+    },
+    {
+      "startTime": 19.3,
+      "finishTime": 19.5,
+      "word": "it"
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.68,
+      "word": "didn't"
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 19.92,
+      "word": "fix"
+    },
+    {
+      "startTime": 19.92,
+      "finishTime": 20.18,
+      "word": "the"
+    },
+    {
+      "startTime": 20.18,
+      "finishTime": 20.48,
+      "word": "issue."
+    },
+    {
+      "startTime": 20.94,
+      "finishTime": 21.24,
+      "word": "I"
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.66,
+      "word": "see."
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.24,
+      "word": "We"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.42,
+      "word": "might"
+    },
+    {
+      "startTime": 22.42,
+      "finishTime": 22.64,
+      "word": "have"
+    },
+    {
+      "startTime": 22.64,
+      "finishTime": 22.74,
+      "word": "to"
+    },
+    {
+      "startTime": 22.74,
+      "finishTime": 22.96,
+      "word": "talk"
+    },
+    {
+      "startTime": 22.96,
+      "finishTime": 23.12,
+      "word": "to"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.34,
+      "word": "the"
+    },
+    {
+      "startTime": 23.34,
+      "finishTime": 23.58,
+      "word": "team"
+    },
+    {
+      "startTime": 23.58,
+      "finishTime": 23.76,
+      "word": "to"
+    },
+    {
+      "startTime": 23.76,
+      "finishTime": 23.88,
+      "word": "see"
+    },
+    {
+      "startTime": 23.88,
+      "finishTime": 23.96,
+      "word": "if"
+    },
+    {
+      "startTime": 23.96,
+      "finishTime": 24.12,
+      "word": "they"
+    },
+    {
+      "startTime": 24.12,
+      "finishTime": 24.24,
+      "word": "can"
+    },
+    {
+      "startTime": 24.24,
+      "finishTime": 24.44,
+      "word": "help"
+    },
+    {
+      "startTime": 24.44,
+      "finishTime": 24.66,
+      "word": "us."
+    },
+    {
+      "startTime": 25.580000000000002,
+      "finishTime": 26.02,
+      "word": "Agreed."
+    },
+    {
+      "startTime": 26.22,
+      "finishTime": 26.52,
+      "word": "I'll"
+    },
+    {
+      "startTime": 26.52,
+      "finishTime": 26.7,
+      "word": "create"
+    },
+    {
+      "startTime": 26.7,
+      "finishTime": 26.92,
+      "word": "a"
+    },
+    {
+      "startTime": 26.92,
+      "finishTime": 27.08,
+      "word": "PR"
+    },
+    {
+      "startTime": 27.08,
+      "finishTime": 27.32,
+      "word": "with"
+    },
+    {
+      "startTime": 27.32,
+      "finishTime": 27.58,
+      "word": "the"
+    },
+    {
+      "startTime": 27.58,
+      "finishTime": 27.92,
+      "word": "rollback"
+    },
+    {
+      "startTime": 27.92,
+      "finishTime": 28.08,
+      "word": "and"
+    },
+    {
+      "startTime": 28.08,
+      "finishTime": 28.28,
+      "word": "some"
+    },
+    {
+      "startTime": 28.28,
+      "finishTime": 28.66,
+      "word": "additional"
+    },
+    {
+      "startTime": 28.66,
+      "finishTime": 28.92,
+      "word": "logs"
+    },
+    {
+      "startTime": 28.92,
+      "finishTime": 29.16,
+      "word": "for"
+    },
+    {
+      "startTime": 29.16,
+      "finishTime": 29.58,
+      "word": "debugging."
+    },
+    {
+      "startTime": 29.58,
+      "finishTime": 30.08,
+      "word": "That"
+    },
+    {
+      "startTime": 30.08,
+      "finishTime": 30.3,
+      "word": "may"
+    },
+    {
+      "startTime": 30.3,
+      "finishTime": 30.42,
+      "word": "help"
+    },
+    {
+      "startTime": 30.42,
+      "finishTime": 30.62,
+      "word": "us"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.8,
+      "word": "find"
+    },
+    {
+      "startTime": 30.8,
+      "finishTime": 30.96,
+      "word": "what"
+    },
+    {
+      "startTime": 30.96,
+      "finishTime": 31.12,
+      "word": "the"
+    },
+    {
+      "startTime": 31.12,
+      "finishTime": 31.32,
+      "word": "problem"
+    },
+    {
+      "startTime": 31.32,
+      "finishTime": 31.66,
+      "word": "is."
+    }
+  ]
+}

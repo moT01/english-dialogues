@@ -1,0 +1,795 @@
+{
+  "text": "Hi, Sarah. What are you up to these days? Hi, Bob. I'm not working on any data projects at the moment. I'm taking some time off to learn new things. I'm attending online courses in data visualization, and I'm also exploring creative writing. It's a bit different from my usual work, but I'm enjoying the change. That's a productive break, Sarah. Are you finding the courses helpful? Absolutely. I'm learning new skills that I believe will be valuable in my future projects. By the way, what's keeping you busy these days? Well, I'm not currently working on any major data analysis projects either. I'm taking some time to review our data security protocols. I'm supposed to figure out if our current practices are robust enough to protect sensitive information. It's essential to ensure our data is secure. I agree. Keeping our data safe is a top priority. Indeed. It's a continuous effort to adapt to new security challenges.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.38,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 0.38,
+      "finishTime": 0.68,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 0.86,
+      "finishTime": 1,
+      "word": "What"
+    },
+    {
+      "startTime": 1,
+      "finishTime": 1.16,
+      "word": "are"
+    },
+    {
+      "startTime": 1.16,
+      "finishTime": 1.28,
+      "word": "you"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.48,
+      "word": "up"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.62,
+      "word": "to"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.84,
+      "word": "these"
+    },
+    {
+      "startTime": 1.84,
+      "finishTime": 2.32,
+      "word": "days?"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.06,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 3.06,
+      "finishTime": 3.34,
+      "word": "Bob."
+    },
+    {
+      "startTime": 3.74,
+      "finishTime": 3.88,
+      "word": "I'm"
+    },
+    {
+      "startTime": 3.88,
+      "finishTime": 4.04,
+      "word": "not"
+    },
+    {
+      "startTime": 4.04,
+      "finishTime": 4.32,
+      "word": "working"
+    },
+    {
+      "startTime": 4.32,
+      "finishTime": 4.48,
+      "word": "on"
+    },
+    {
+      "startTime": 4.48,
+      "finishTime": 4.74,
+      "word": "any"
+    },
+    {
+      "startTime": 4.74,
+      "finishTime": 4.94,
+      "word": "data"
+    },
+    {
+      "startTime": 4.94,
+      "finishTime": 5.32,
+      "word": "projects"
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.52,
+      "word": "at"
+    },
+    {
+      "startTime": 5.52,
+      "finishTime": 5.66,
+      "word": "the"
+    },
+    {
+      "startTime": 5.66,
+      "finishTime": 5.98,
+      "word": "moment."
+    },
+    {
+      "startTime": 6.24,
+      "finishTime": 6.44,
+      "word": "I'm"
+    },
+    {
+      "startTime": 6.44,
+      "finishTime": 6.7,
+      "word": "taking"
+    },
+    {
+      "startTime": 6.7,
+      "finishTime": 6.96,
+      "word": "some"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.2,
+      "word": "time"
+    },
+    {
+      "startTime": 7.2,
+      "finishTime": 7.52,
+      "word": "off"
+    },
+    {
+      "startTime": 7.52,
+      "finishTime": 7.68,
+      "word": "to"
+    },
+    {
+      "startTime": 7.68,
+      "finishTime": 7.86,
+      "word": "learn"
+    },
+    {
+      "startTime": 7.86,
+      "finishTime": 8.08,
+      "word": "new"
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.56,
+      "word": "things."
+    },
+    {
+      "startTime": 9.06,
+      "finishTime": 9.24,
+      "word": "I'm"
+    },
+    {
+      "startTime": 9.24,
+      "finishTime": 9.56,
+      "word": "attending"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 10,
+      "word": "online"
+    },
+    {
+      "startTime": 10,
+      "finishTime": 10.42,
+      "word": "courses"
+    },
+    {
+      "startTime": 10.42,
+      "finishTime": 10.66,
+      "word": "in"
+    },
+    {
+      "startTime": 10.66,
+      "finishTime": 10.86,
+      "word": "data"
+    },
+    {
+      "startTime": 10.86,
+      "finishTime": 11.52,
+      "word": "visualization,"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 12.08,
+      "word": "and"
+    },
+    {
+      "startTime": 12.08,
+      "finishTime": 12.26,
+      "word": "I'm"
+    },
+    {
+      "startTime": 12.26,
+      "finishTime": 12.48,
+      "word": "also"
+    },
+    {
+      "startTime": 12.48,
+      "finishTime": 12.9,
+      "word": "exploring"
+    },
+    {
+      "startTime": 12.9,
+      "finishTime": 13.36,
+      "word": "creative"
+    },
+    {
+      "startTime": 13.36,
+      "finishTime": 13.74,
+      "word": "writing."
+    },
+    {
+      "startTime": 14.14,
+      "finishTime": 14.36,
+      "word": "It's"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.44,
+      "word": "a"
+    },
+    {
+      "startTime": 14.44,
+      "finishTime": 14.58,
+      "word": "bit"
+    },
+    {
+      "startTime": 14.58,
+      "finishTime": 14.86,
+      "word": "different"
+    },
+    {
+      "startTime": 14.86,
+      "finishTime": 15.06,
+      "word": "from"
+    },
+    {
+      "startTime": 15.06,
+      "finishTime": 15.28,
+      "word": "my"
+    },
+    {
+      "startTime": 15.28,
+      "finishTime": 15.56,
+      "word": "usual"
+    },
+    {
+      "startTime": 15.56,
+      "finishTime": 15.88,
+      "word": "work,"
+    },
+    {
+      "startTime": 15.88,
+      "finishTime": 16.06,
+      "word": "but"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.24,
+      "word": "I'm"
+    },
+    {
+      "startTime": 16.24,
+      "finishTime": 16.52,
+      "word": "enjoying"
+    },
+    {
+      "startTime": 16.52,
+      "finishTime": 16.76,
+      "word": "the"
+    },
+    {
+      "startTime": 16.76,
+      "finishTime": 17.16,
+      "word": "change."
+    },
+    {
+      "startTime": 17.76,
+      "finishTime": 18.1,
+      "word": "That's"
+    },
+    {
+      "startTime": 18.1,
+      "finishTime": 18.3,
+      "word": "a"
+    },
+    {
+      "startTime": 18.3,
+      "finishTime": 18.6,
+      "word": "productive"
+    },
+    {
+      "startTime": 18.6,
+      "finishTime": 18.96,
+      "word": "break,"
+    },
+    {
+      "startTime": 18.96,
+      "finishTime": 19.38,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 19.9,
+      "word": "Are"
+    },
+    {
+      "startTime": 19.9,
+      "finishTime": 20.04,
+      "word": "you"
+    },
+    {
+      "startTime": 20.04,
+      "finishTime": 20.3,
+      "word": "finding"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.56,
+      "word": "the"
+    },
+    {
+      "startTime": 20.56,
+      "finishTime": 20.82,
+      "word": "courses"
+    },
+    {
+      "startTime": 20.82,
+      "finishTime": 21.32,
+      "word": "helpful?"
+    },
+    {
+      "startTime": 21.98,
+      "finishTime": 22.5,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 22.86,
+      "finishTime": 23.12,
+      "word": "I'm"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.42,
+      "word": "learning"
+    },
+    {
+      "startTime": 23.42,
+      "finishTime": 23.68,
+      "word": "new"
+    },
+    {
+      "startTime": 23.68,
+      "finishTime": 24.08,
+      "word": "skills"
+    },
+    {
+      "startTime": 24.08,
+      "finishTime": 24.24,
+      "word": "that"
+    },
+    {
+      "startTime": 24.24,
+      "finishTime": 24.48,
+      "word": "I"
+    },
+    {
+      "startTime": 24.48,
+      "finishTime": 24.6,
+      "word": "believe"
+    },
+    {
+      "startTime": 24.6,
+      "finishTime": 24.78,
+      "word": "will"
+    },
+    {
+      "startTime": 24.78,
+      "finishTime": 25,
+      "word": "be"
+    },
+    {
+      "startTime": 25,
+      "finishTime": 25.4,
+      "word": "valuable"
+    },
+    {
+      "startTime": 25.4,
+      "finishTime": 25.6,
+      "word": "in"
+    },
+    {
+      "startTime": 25.6,
+      "finishTime": 25.8,
+      "word": "my"
+    },
+    {
+      "startTime": 25.8,
+      "finishTime": 26.04,
+      "word": "future"
+    },
+    {
+      "startTime": 26.04,
+      "finishTime": 26.58,
+      "word": "projects."
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.26,
+      "word": "By"
+    },
+    {
+      "startTime": 27.26,
+      "finishTime": 27.4,
+      "word": "the"
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.66,
+      "word": "way,"
+    },
+    {
+      "startTime": 27.66,
+      "finishTime": 27.96,
+      "word": "what's"
+    },
+    {
+      "startTime": 27.96,
+      "finishTime": 28.12,
+      "word": "keeping"
+    },
+    {
+      "startTime": 28.12,
+      "finishTime": 28.34,
+      "word": "you"
+    },
+    {
+      "startTime": 28.34,
+      "finishTime": 28.54,
+      "word": "busy"
+    },
+    {
+      "startTime": 28.54,
+      "finishTime": 28.84,
+      "word": "these"
+    },
+    {
+      "startTime": 28.84,
+      "finishTime": 29.18,
+      "word": "days?"
+    },
+    {
+      "startTime": 29.18,
+      "finishTime": 30.12,
+      "word": "Well,"
+    },
+    {
+      "startTime": 30.32,
+      "finishTime": 30.44,
+      "word": "I'm"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.7,
+      "word": "not"
+    },
+    {
+      "startTime": 30.7,
+      "finishTime": 30.98,
+      "word": "currently"
+    },
+    {
+      "startTime": 30.98,
+      "finishTime": 31.28,
+      "word": "working"
+    },
+    {
+      "startTime": 31.28,
+      "finishTime": 31.5,
+      "word": "on"
+    },
+    {
+      "startTime": 31.5,
+      "finishTime": 31.72,
+      "word": "any"
+    },
+    {
+      "startTime": 31.72,
+      "finishTime": 32.02,
+      "word": "major"
+    },
+    {
+      "startTime": 32.02,
+      "finishTime": 32.44,
+      "word": "data"
+    },
+    {
+      "startTime": 32.44,
+      "finishTime": 32.94,
+      "word": "analysis"
+    },
+    {
+      "startTime": 32.94,
+      "finishTime": 33.3,
+      "word": "projects"
+    },
+    {
+      "startTime": 33.3,
+      "finishTime": 33.68,
+      "word": "either."
+    },
+    {
+      "startTime": 34,
+      "finishTime": 34.22,
+      "word": "I'm"
+    },
+    {
+      "startTime": 34.22,
+      "finishTime": 34.52,
+      "word": "taking"
+    },
+    {
+      "startTime": 34.52,
+      "finishTime": 34.82,
+      "word": "some"
+    },
+    {
+      "startTime": 34.82,
+      "finishTime": 35.08,
+      "word": "time"
+    },
+    {
+      "startTime": 35.08,
+      "finishTime": 35.32,
+      "word": "to"
+    },
+    {
+      "startTime": 35.32,
+      "finishTime": 35.54,
+      "word": "review"
+    },
+    {
+      "startTime": 35.54,
+      "finishTime": 35.8,
+      "word": "our"
+    },
+    {
+      "startTime": 35.8,
+      "finishTime": 35.98,
+      "word": "data"
+    },
+    {
+      "startTime": 35.98,
+      "finishTime": 36.44,
+      "word": "security"
+    },
+    {
+      "startTime": 36.44,
+      "finishTime": 36.98,
+      "word": "protocols."
+    },
+    {
+      "startTime": 37.42,
+      "finishTime": 37.82,
+      "word": "I'm"
+    },
+    {
+      "startTime": 37.82,
+      "finishTime": 38.1,
+      "word": "supposed"
+    },
+    {
+      "startTime": 38.1,
+      "finishTime": 38.34,
+      "word": "to"
+    },
+    {
+      "startTime": 38.34,
+      "finishTime": 38.46,
+      "word": "figure"
+    },
+    {
+      "startTime": 38.46,
+      "finishTime": 38.74,
+      "word": "out"
+    },
+    {
+      "startTime": 38.74,
+      "finishTime": 38.92,
+      "word": "if"
+    },
+    {
+      "startTime": 38.92,
+      "finishTime": 39.16,
+      "word": "our"
+    },
+    {
+      "startTime": 39.16,
+      "finishTime": 39.36,
+      "word": "current"
+    },
+    {
+      "startTime": 39.36,
+      "finishTime": 39.88,
+      "word": "practices"
+    },
+    {
+      "startTime": 39.88,
+      "finishTime": 40.32,
+      "word": "are"
+    },
+    {
+      "startTime": 40.32,
+      "finishTime": 40.72,
+      "word": "robust"
+    },
+    {
+      "startTime": 40.72,
+      "finishTime": 41.08,
+      "word": "enough"
+    },
+    {
+      "startTime": 41.08,
+      "finishTime": 41.38,
+      "word": "to"
+    },
+    {
+      "startTime": 41.38,
+      "finishTime": 41.66,
+      "word": "protect"
+    },
+    {
+      "startTime": 41.66,
+      "finishTime": 42.12,
+      "word": "sensitive"
+    },
+    {
+      "startTime": 42.12,
+      "finishTime": 42.76,
+      "word": "information."
+    },
+    {
+      "startTime": 43.32,
+      "finishTime": 43.62,
+      "word": "It's"
+    },
+    {
+      "startTime": 43.62,
+      "finishTime": 44.02,
+      "word": "essential"
+    },
+    {
+      "startTime": 44.02,
+      "finishTime": 44.32,
+      "word": "to"
+    },
+    {
+      "startTime": 44.32,
+      "finishTime": 44.6,
+      "word": "ensure"
+    },
+    {
+      "startTime": 44.6,
+      "finishTime": 44.92,
+      "word": "our"
+    },
+    {
+      "startTime": 44.92,
+      "finishTime": 45.18,
+      "word": "data"
+    },
+    {
+      "startTime": 45.18,
+      "finishTime": 45.54,
+      "word": "is"
+    },
+    {
+      "startTime": 45.54,
+      "finishTime": 45.92,
+      "word": "secure."
+    },
+    {
+      "startTime": 46.74,
+      "finishTime": 46.94,
+      "word": "I"
+    },
+    {
+      "startTime": 46.94,
+      "finishTime": 47.36,
+      "word": "agree."
+    },
+    {
+      "startTime": 47.54,
+      "finishTime": 47.76,
+      "word": "Keeping"
+    },
+    {
+      "startTime": 47.76,
+      "finishTime": 48,
+      "word": "our"
+    },
+    {
+      "startTime": 48,
+      "finishTime": 48.2,
+      "word": "data"
+    },
+    {
+      "startTime": 48.2,
+      "finishTime": 48.44,
+      "word": "safe"
+    },
+    {
+      "startTime": 48.44,
+      "finishTime": 48.72,
+      "word": "is"
+    },
+    {
+      "startTime": 48.72,
+      "finishTime": 48.78,
+      "word": "a"
+    },
+    {
+      "startTime": 48.78,
+      "finishTime": 48.98,
+      "word": "top"
+    },
+    {
+      "startTime": 48.98,
+      "finishTime": 49.46,
+      "word": "priority."
+    },
+    {
+      "startTime": 50.24,
+      "finishTime": 50.6,
+      "word": "Indeed."
+    },
+    {
+      "startTime": 51.12,
+      "finishTime": 51.36,
+      "word": "It's"
+    },
+    {
+      "startTime": 51.36,
+      "finishTime": 51.56,
+      "word": "a"
+    },
+    {
+      "startTime": 51.56,
+      "finishTime": 51.88,
+      "word": "continuous"
+    },
+    {
+      "startTime": 51.88,
+      "finishTime": 52.28,
+      "word": "effort"
+    },
+    {
+      "startTime": 52.28,
+      "finishTime": 52.6,
+      "word": "to"
+    },
+    {
+      "startTime": 52.6,
+      "finishTime": 52.94,
+      "word": "adapt"
+    },
+    {
+      "startTime": 52.94,
+      "finishTime": 53.22,
+      "word": "to"
+    },
+    {
+      "startTime": 53.22,
+      "finishTime": 53.46,
+      "word": "new"
+    },
+    {
+      "startTime": 53.46,
+      "finishTime": 53.92,
+      "word": "security"
+    },
+    {
+      "startTime": 53.92,
+      "finishTime": 54.4,
+      "word": "challenges."
+    }
+  ]
+}

@@ -1,0 +1,805 @@
+{
+  "text": "Hey, Linda. Today, I want to talk to you about compliance and the obligations we have in our daily tasks. Hey, James. So what's the meaning of compliance? Can you tell me? Of course. Compliance is when we put specific rules, policies and regulations that are important to our industry into practice. It helps promote ethics at the workplace. So what do we have to comply with in our projects? Great question. We have to comply with data protection regulations, security standards and our company's code of conduct. It's essential to protect sensitive information and maintain our reputation. Do we have to report every security incident? Absolutely. If you see any security breaches or incidents, you have to report them immediately. Reporting helps us address issues effectively. James, what about training? Do we have to attend training sessions regularly? Yes, you have to attend the training every year. It helps you stay updated on the latest regulations and best practices.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.64,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.8,
+      "finishTime": 1.08,
+      "word": "Linda."
+    },
+    {
+      "startTime": 1.52,
+      "finishTime": 1.98,
+      "word": "Today,"
+    },
+    {
+      "startTime": 2.2,
+      "finishTime": 2.32,
+      "word": "I"
+    },
+    {
+      "startTime": 2.32,
+      "finishTime": 2.54,
+      "word": "want"
+    },
+    {
+      "startTime": 2.54,
+      "finishTime": 2.68,
+      "word": "to"
+    },
+    {
+      "startTime": 2.68,
+      "finishTime": 2.88,
+      "word": "talk"
+    },
+    {
+      "startTime": 2.88,
+      "finishTime": 3,
+      "word": "to"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.4,
+      "word": "you"
+    },
+    {
+      "startTime": 3.4,
+      "finishTime": 3.7,
+      "word": "about"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 4.28,
+      "word": "compliance"
+    },
+    {
+      "startTime": 4.28,
+      "finishTime": 4.64,
+      "word": "and"
+    },
+    {
+      "startTime": 4.64,
+      "finishTime": 4.92,
+      "word": "the"
+    },
+    {
+      "startTime": 4.92,
+      "finishTime": 5.38,
+      "word": "obligations"
+    },
+    {
+      "startTime": 5.38,
+      "finishTime": 5.7,
+      "word": "we"
+    },
+    {
+      "startTime": 5.7,
+      "finishTime": 5.96,
+      "word": "have"
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.28,
+      "word": "in"
+    },
+    {
+      "startTime": 6.28,
+      "finishTime": 6.5,
+      "word": "our"
+    },
+    {
+      "startTime": 6.5,
+      "finishTime": 6.78,
+      "word": "daily"
+    },
+    {
+      "startTime": 6.78,
+      "finishTime": 7.4,
+      "word": "tasks."
+    },
+    {
+      "startTime": 8.18,
+      "finishTime": 8.22,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 8.22,
+      "finishTime": 8.66,
+      "word": "James."
+    },
+    {
+      "startTime": 9.04,
+      "finishTime": 9.22,
+      "word": "So"
+    },
+    {
+      "startTime": 9.22,
+      "finishTime": 9.5,
+      "word": "what's"
+    },
+    {
+      "startTime": 9.5,
+      "finishTime": 9.6,
+      "word": "the"
+    },
+    {
+      "startTime": 9.6,
+      "finishTime": 9.8,
+      "word": "meaning"
+    },
+    {
+      "startTime": 9.8,
+      "finishTime": 10.1,
+      "word": "of"
+    },
+    {
+      "startTime": 10.1,
+      "finishTime": 10.66,
+      "word": "compliance?"
+    },
+    {
+      "startTime": 10.8,
+      "finishTime": 10.92,
+      "word": "Can"
+    },
+    {
+      "startTime": 10.92,
+      "finishTime": 11.04,
+      "word": "you"
+    },
+    {
+      "startTime": 11.04,
+      "finishTime": 11.18,
+      "word": "tell"
+    },
+    {
+      "startTime": 11.18,
+      "finishTime": 11.48,
+      "word": "me?"
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 11.88,
+      "word": "Of"
+    },
+    {
+      "startTime": 11.88,
+      "finishTime": 12.34,
+      "word": "course."
+    },
+    {
+      "startTime": 12.78,
+      "finishTime": 13.38,
+      "word": "Compliance"
+    },
+    {
+      "startTime": 13.38,
+      "finishTime": 13.68,
+      "word": "is"
+    },
+    {
+      "startTime": 13.68,
+      "finishTime": 13.84,
+      "word": "when"
+    },
+    {
+      "startTime": 13.84,
+      "finishTime": 14.1,
+      "word": "we"
+    },
+    {
+      "startTime": 14.1,
+      "finishTime": 14.3,
+      "word": "put"
+    },
+    {
+      "startTime": 14.3,
+      "finishTime": 14.88,
+      "word": "specific"
+    },
+    {
+      "startTime": 14.88,
+      "finishTime": 15.42,
+      "word": "rules,"
+    },
+    {
+      "startTime": 15.8,
+      "finishTime": 16.16,
+      "word": "policies"
+    },
+    {
+      "startTime": 16.16,
+      "finishTime": 16.52,
+      "word": "and"
+    },
+    {
+      "startTime": 16.52,
+      "finishTime": 17.16,
+      "word": "regulations"
+    },
+    {
+      "startTime": 17.16,
+      "finishTime": 17.48,
+      "word": "that"
+    },
+    {
+      "startTime": 17.48,
+      "finishTime": 17.76,
+      "word": "are"
+    },
+    {
+      "startTime": 17.76,
+      "finishTime": 18.1,
+      "word": "important"
+    },
+    {
+      "startTime": 18.1,
+      "finishTime": 18.4,
+      "word": "to"
+    },
+    {
+      "startTime": 18.4,
+      "finishTime": 18.62,
+      "word": "our"
+    },
+    {
+      "startTime": 18.62,
+      "finishTime": 19.06,
+      "word": "industry"
+    },
+    {
+      "startTime": 19.06,
+      "finishTime": 19.38,
+      "word": "into"
+    },
+    {
+      "startTime": 19.38,
+      "finishTime": 19.92,
+      "word": "practice."
+    },
+    {
+      "startTime": 20.04,
+      "finishTime": 20.46,
+      "word": "It"
+    },
+    {
+      "startTime": 20.46,
+      "finishTime": 20.7,
+      "word": "helps"
+    },
+    {
+      "startTime": 20.7,
+      "finishTime": 21.18,
+      "word": "promote"
+    },
+    {
+      "startTime": 21.18,
+      "finishTime": 21.64,
+      "word": "ethics"
+    },
+    {
+      "startTime": 21.64,
+      "finishTime": 22.1,
+      "word": "at"
+    },
+    {
+      "startTime": 22.1,
+      "finishTime": 22.26,
+      "word": "the"
+    },
+    {
+      "startTime": 22.26,
+      "finishTime": 22.74,
+      "word": "workplace."
+    },
+    {
+      "startTime": 24.08,
+      "finishTime": 24.42,
+      "word": "So"
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.64,
+      "word": "what"
+    },
+    {
+      "startTime": 24.64,
+      "finishTime": 24.74,
+      "word": "do"
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 24.82,
+      "word": "we"
+    },
+    {
+      "startTime": 24.82,
+      "finishTime": 24.98,
+      "word": "have"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.22,
+      "word": "to"
+    },
+    {
+      "startTime": 25.22,
+      "finishTime": 25.44,
+      "word": "comply"
+    },
+    {
+      "startTime": 25.44,
+      "finishTime": 25.7,
+      "word": "with"
+    },
+    {
+      "startTime": 25.7,
+      "finishTime": 25.86,
+      "word": "in"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 25.96,
+      "word": "our"
+    },
+    {
+      "startTime": 25.96,
+      "finishTime": 26.52,
+      "word": "projects?"
+    },
+    {
+      "startTime": 27.52,
+      "finishTime": 27.7,
+      "word": "Great"
+    },
+    {
+      "startTime": 27.7,
+      "finishTime": 28.18,
+      "word": "question."
+    },
+    {
+      "startTime": 28.4,
+      "finishTime": 28.5,
+      "word": "We"
+    },
+    {
+      "startTime": 28.5,
+      "finishTime": 28.7,
+      "word": "have"
+    },
+    {
+      "startTime": 28.7,
+      "finishTime": 28.84,
+      "word": "to"
+    },
+    {
+      "startTime": 28.84,
+      "finishTime": 29.14,
+      "word": "comply"
+    },
+    {
+      "startTime": 29.14,
+      "finishTime": 29.44,
+      "word": "with"
+    },
+    {
+      "startTime": 29.44,
+      "finishTime": 29.66,
+      "word": "data"
+    },
+    {
+      "startTime": 29.66,
+      "finishTime": 30.2,
+      "word": "protection"
+    },
+    {
+      "startTime": 30.2,
+      "finishTime": 30.9,
+      "word": "regulations,"
+    },
+    {
+      "startTime": 31.4,
+      "finishTime": 31.8,
+      "word": "security"
+    },
+    {
+      "startTime": 31.8,
+      "finishTime": 32.26,
+      "word": "standards"
+    },
+    {
+      "startTime": 32.26,
+      "finishTime": 32.64,
+      "word": "and"
+    },
+    {
+      "startTime": 32.64,
+      "finishTime": 32.86,
+      "word": "our"
+    },
+    {
+      "startTime": 32.86,
+      "finishTime": 33.36,
+      "word": "company's"
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.48,
+      "word": "code"
+    },
+    {
+      "startTime": 33.48,
+      "finishTime": 33.74,
+      "word": "of"
+    },
+    {
+      "startTime": 33.74,
+      "finishTime": 34.06,
+      "word": "conduct."
+    },
+    {
+      "startTime": 34.42,
+      "finishTime": 34.74,
+      "word": "It's"
+    },
+    {
+      "startTime": 34.74,
+      "finishTime": 35.28,
+      "word": "essential"
+    },
+    {
+      "startTime": 35.28,
+      "finishTime": 35.68,
+      "word": "to"
+    },
+    {
+      "startTime": 35.68,
+      "finishTime": 36.12,
+      "word": "protect"
+    },
+    {
+      "startTime": 36.12,
+      "finishTime": 36.6,
+      "word": "sensitive"
+    },
+    {
+      "startTime": 36.6,
+      "finishTime": 37.32,
+      "word": "information"
+    },
+    {
+      "startTime": 37.32,
+      "finishTime": 38.06,
+      "word": "and"
+    },
+    {
+      "startTime": 38.06,
+      "finishTime": 38.64,
+      "word": "maintain"
+    },
+    {
+      "startTime": 38.64,
+      "finishTime": 39.06,
+      "word": "our"
+    },
+    {
+      "startTime": 39.06,
+      "finishTime": 39.62,
+      "word": "reputation."
+    },
+    {
+      "startTime": 40.94,
+      "finishTime": 40.96,
+      "word": "Do"
+    },
+    {
+      "startTime": 40.96,
+      "finishTime": 41.08,
+      "word": "we"
+    },
+    {
+      "startTime": 41.08,
+      "finishTime": 41.28,
+      "word": "have"
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.42,
+      "word": "to"
+    },
+    {
+      "startTime": 41.42,
+      "finishTime": 41.74,
+      "word": "report"
+    },
+    {
+      "startTime": 41.74,
+      "finishTime": 42.12,
+      "word": "every"
+    },
+    {
+      "startTime": 42.12,
+      "finishTime": 42.5,
+      "word": "security"
+    },
+    {
+      "startTime": 42.5,
+      "finishTime": 42.98,
+      "word": "incident?"
+    },
+    {
+      "startTime": 43.56,
+      "finishTime": 44.28,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 44.84,
+      "finishTime": 45,
+      "word": "If"
+    },
+    {
+      "startTime": 45,
+      "finishTime": 45.18,
+      "word": "you"
+    },
+    {
+      "startTime": 45.18,
+      "finishTime": 45.5,
+      "word": "see"
+    },
+    {
+      "startTime": 45.5,
+      "finishTime": 45.96,
+      "word": "any"
+    },
+    {
+      "startTime": 45.96,
+      "finishTime": 46.46,
+      "word": "security"
+    },
+    {
+      "startTime": 46.46,
+      "finishTime": 46.94,
+      "word": "breaches"
+    },
+    {
+      "startTime": 46.94,
+      "finishTime": 47.32,
+      "word": "or"
+    },
+    {
+      "startTime": 47.32,
+      "finishTime": 47.68,
+      "word": "incidents,"
+    },
+    {
+      "startTime": 47.92,
+      "finishTime": 48.12,
+      "word": "you"
+    },
+    {
+      "startTime": 48.12,
+      "finishTime": 48.4,
+      "word": "have"
+    },
+    {
+      "startTime": 48.4,
+      "finishTime": 48.58,
+      "word": "to"
+    },
+    {
+      "startTime": 48.58,
+      "finishTime": 48.84,
+      "word": "report"
+    },
+    {
+      "startTime": 48.84,
+      "finishTime": 49.06,
+      "word": "them"
+    },
+    {
+      "startTime": 49.06,
+      "finishTime": 49.64,
+      "word": "immediately."
+    },
+    {
+      "startTime": 50.1,
+      "finishTime": 50.6,
+      "word": "Reporting"
+    },
+    {
+      "startTime": 50.6,
+      "finishTime": 51.08,
+      "word": "helps"
+    },
+    {
+      "startTime": 51.08,
+      "finishTime": 51.38,
+      "word": "us"
+    },
+    {
+      "startTime": 51.38,
+      "finishTime": 51.7,
+      "word": "address"
+    },
+    {
+      "startTime": 51.7,
+      "finishTime": 52.24,
+      "word": "issues"
+    },
+    {
+      "startTime": 52.24,
+      "finishTime": 53.16,
+      "word": "effectively."
+    },
+    {
+      "startTime": 54.24,
+      "finishTime": 54.36,
+      "word": "James,"
+    },
+    {
+      "startTime": 54.54,
+      "finishTime": 54.72,
+      "word": "what"
+    },
+    {
+      "startTime": 54.72,
+      "finishTime": 54.96,
+      "word": "about"
+    },
+    {
+      "startTime": 54.96,
+      "finishTime": 55.34,
+      "word": "training?"
+    },
+    {
+      "startTime": 55.74,
+      "finishTime": 55.84,
+      "word": "Do"
+    },
+    {
+      "startTime": 55.84,
+      "finishTime": 55.96,
+      "word": "we"
+    },
+    {
+      "startTime": 55.96,
+      "finishTime": 56.14,
+      "word": "have"
+    },
+    {
+      "startTime": 56.14,
+      "finishTime": 56.28,
+      "word": "to"
+    },
+    {
+      "startTime": 56.28,
+      "finishTime": 56.52,
+      "word": "attend"
+    },
+    {
+      "startTime": 56.52,
+      "finishTime": 56.88,
+      "word": "training"
+    },
+    {
+      "startTime": 56.88,
+      "finishTime": 57.26,
+      "word": "sessions"
+    },
+    {
+      "startTime": 57.26,
+      "finishTime": 57.7,
+      "word": "regularly?"
+    },
+    {
+      "startTime": 58.48,
+      "finishTime": 58.86,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 59.18,
+      "finishTime": 59.26,
+      "word": "you"
+    },
+    {
+      "startTime": 59.26,
+      "finishTime": 59.48,
+      "word": "have"
+    },
+    {
+      "startTime": 59.48,
+      "finishTime": 59.62,
+      "word": "to"
+    },
+    {
+      "startTime": 59.62,
+      "finishTime": 59.84,
+      "word": "attend"
+    },
+    {
+      "startTime": 59.84,
+      "finishTime": 60.1,
+      "word": "the"
+    },
+    {
+      "startTime": 60.1,
+      "finishTime": 60.32,
+      "word": "training"
+    },
+    {
+      "startTime": 60.32,
+      "finishTime": 60.84,
+      "word": "every"
+    },
+    {
+      "startTime": 60.84,
+      "finishTime": 61.14,
+      "word": "year."
+    },
+    {
+      "startTime": 61.32,
+      "finishTime": 61.46,
+      "word": "It"
+    },
+    {
+      "startTime": 61.46,
+      "finishTime": 61.62,
+      "word": "helps"
+    },
+    {
+      "startTime": 61.62,
+      "finishTime": 61.84,
+      "word": "you"
+    },
+    {
+      "startTime": 61.84,
+      "finishTime": 62.02,
+      "word": "stay"
+    },
+    {
+      "startTime": 62.02,
+      "finishTime": 62.46,
+      "word": "updated"
+    },
+    {
+      "startTime": 62.46,
+      "finishTime": 62.76,
+      "word": "on"
+    },
+    {
+      "startTime": 62.76,
+      "finishTime": 62.96,
+      "word": "the"
+    },
+    {
+      "startTime": 62.96,
+      "finishTime": 63.2,
+      "word": "latest"
+    },
+    {
+      "startTime": 63.2,
+      "finishTime": 63.82,
+      "word": "regulations"
+    },
+    {
+      "startTime": 63.82,
+      "finishTime": 64.26,
+      "word": "and"
+    },
+    {
+      "startTime": 64.26,
+      "finishTime": 64.5,
+      "word": "best"
+    },
+    {
+      "startTime": 64.5,
+      "finishTime": 65.04,
+      "word": "practices."
+    }
+  ]
+}

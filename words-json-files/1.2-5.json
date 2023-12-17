@@ -1,0 +1,780 @@
+{
+  "text": "Welcome everyone. Today we have with us our clients from FCC Corporation. David, let me introduce the team and briefly explain what we do. I'm Maria, the lead developer. I'm responsible for the technical aspects of the project. This is Bob, the project manager. He's responsible for coordinating our efforts to meet your needs. Hey Bob, how's it going? And this is Sarah, the senior developer. She and I work together to ensure the project's success. Great to meet you, Sarah. And this is Linda. She's our UX UI designer. She works in user experience and she creates our interface design. Wonderful to meet you all. I'm David, the project manager from FCC Corp. I'll be your point of contact and I'll make sure our collaboration is great. We're excited about this project. I'm confident that we can achieve great results. Thanks. Now let's get started with the project details and your specific requirements, David.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.7,
+      "word": "Welcome"
+    },
+    {
+      "startTime": 0.7,
+      "finishTime": 1.22,
+      "word": "everyone."
+    },
+    {
+      "startTime": 1.68,
+      "finishTime": 2.02,
+      "word": "Today"
+    },
+    {
+      "startTime": 2.02,
+      "finishTime": 2.22,
+      "word": "we"
+    },
+    {
+      "startTime": 2.22,
+      "finishTime": 2.44,
+      "word": "have"
+    },
+    {
+      "startTime": 2.44,
+      "finishTime": 2.58,
+      "word": "with"
+    },
+    {
+      "startTime": 2.58,
+      "finishTime": 2.8,
+      "word": "us"
+    },
+    {
+      "startTime": 2.8,
+      "finishTime": 3.02,
+      "word": "our"
+    },
+    {
+      "startTime": 3.02,
+      "finishTime": 3.34,
+      "word": "clients"
+    },
+    {
+      "startTime": 3.34,
+      "finishTime": 3.66,
+      "word": "from"
+    },
+    {
+      "startTime": 3.66,
+      "finishTime": 4.04,
+      "word": "FCC"
+    },
+    {
+      "startTime": 4.04,
+      "finishTime": 4.74,
+      "word": "Corporation."
+    },
+    {
+      "startTime": 5.44,
+      "finishTime": 5.74,
+      "word": "David,"
+    },
+    {
+      "startTime": 5.76,
+      "finishTime": 5.96,
+      "word": "let"
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.16,
+      "word": "me"
+    },
+    {
+      "startTime": 6.16,
+      "finishTime": 6.48,
+      "word": "introduce"
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.76,
+      "word": "the"
+    },
+    {
+      "startTime": 6.76,
+      "finishTime": 6.96,
+      "word": "team"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.28,
+      "word": "and"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.6,
+      "word": "briefly"
+    },
+    {
+      "startTime": 7.6,
+      "finishTime": 7.96,
+      "word": "explain"
+    },
+    {
+      "startTime": 7.96,
+      "finishTime": 8.14,
+      "word": "what"
+    },
+    {
+      "startTime": 8.14,
+      "finishTime": 8.32,
+      "word": "we"
+    },
+    {
+      "startTime": 8.32,
+      "finishTime": 8.68,
+      "word": "do."
+    },
+    {
+      "startTime": 9.18,
+      "finishTime": 9.46,
+      "word": "I'm"
+    },
+    {
+      "startTime": 9.46,
+      "finishTime": 9.78,
+      "word": "Maria,"
+    },
+    {
+      "startTime": 9.96,
+      "finishTime": 10.12,
+      "word": "the"
+    },
+    {
+      "startTime": 10.12,
+      "finishTime": 10.32,
+      "word": "lead"
+    },
+    {
+      "startTime": 10.32,
+      "finishTime": 10.82,
+      "word": "developer."
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.34,
+      "word": "I'm"
+    },
+    {
+      "startTime": 11.34,
+      "finishTime": 11.8,
+      "word": "responsible"
+    },
+    {
+      "startTime": 11.8,
+      "finishTime": 12.02,
+      "word": "for"
+    },
+    {
+      "startTime": 12.02,
+      "finishTime": 12.22,
+      "word": "the"
+    },
+    {
+      "startTime": 12.22,
+      "finishTime": 12.54,
+      "word": "technical"
+    },
+    {
+      "startTime": 12.54,
+      "finishTime": 12.96,
+      "word": "aspects"
+    },
+    {
+      "startTime": 12.96,
+      "finishTime": 13.14,
+      "word": "of"
+    },
+    {
+      "startTime": 13.14,
+      "finishTime": 13.3,
+      "word": "the"
+    },
+    {
+      "startTime": 13.3,
+      "finishTime": 13.64,
+      "word": "project."
+    },
+    {
+      "startTime": 14.2,
+      "finishTime": 14.4,
+      "word": "This"
+    },
+    {
+      "startTime": 14.4,
+      "finishTime": 14.62,
+      "word": "is"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 14.9,
+      "word": "Bob,"
+    },
+    {
+      "startTime": 15.04,
+      "finishTime": 15.3,
+      "word": "the"
+    },
+    {
+      "startTime": 15.3,
+      "finishTime": 15.48,
+      "word": "project"
+    },
+    {
+      "startTime": 15.48,
+      "finishTime": 15.9,
+      "word": "manager."
+    },
+    {
+      "startTime": 16.24,
+      "finishTime": 16.54,
+      "word": "He's"
+    },
+    {
+      "startTime": 16.54,
+      "finishTime": 17,
+      "word": "responsible"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.3,
+      "word": "for"
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.62,
+      "word": "coordinating"
+    },
+    {
+      "startTime": 17.62,
+      "finishTime": 17.94,
+      "word": "our"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.14,
+      "word": "efforts"
+    },
+    {
+      "startTime": 18.14,
+      "finishTime": 18.34,
+      "word": "to"
+    },
+    {
+      "startTime": 18.34,
+      "finishTime": 18.46,
+      "word": "meet"
+    },
+    {
+      "startTime": 18.46,
+      "finishTime": 18.68,
+      "word": "your"
+    },
+    {
+      "startTime": 18.68,
+      "finishTime": 19.08,
+      "word": "needs."
+    },
+    {
+      "startTime": 19.54,
+      "finishTime": 19.76,
+      "word": "Hey"
+    },
+    {
+      "startTime": 19.76,
+      "finishTime": 20.04,
+      "word": "Bob,"
+    },
+    {
+      "startTime": 20.22,
+      "finishTime": 20.5,
+      "word": "how's"
+    },
+    {
+      "startTime": 20.5,
+      "finishTime": 20.66,
+      "word": "it"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 20.9,
+      "word": "going?"
+    },
+    {
+      "startTime": 22.22,
+      "finishTime": 22.62,
+      "word": "And"
+    },
+    {
+      "startTime": 22.62,
+      "finishTime": 22.78,
+      "word": "this"
+    },
+    {
+      "startTime": 22.78,
+      "finishTime": 22.98,
+      "word": "is"
+    },
+    {
+      "startTime": 22.98,
+      "finishTime": 23.22,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 23.38,
+      "finishTime": 23.56,
+      "word": "the"
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 23.78,
+      "word": "senior"
+    },
+    {
+      "startTime": 23.78,
+      "finishTime": 24.3,
+      "word": "developer."
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 24.82,
+      "word": "She"
+    },
+    {
+      "startTime": 24.82,
+      "finishTime": 24.98,
+      "word": "and"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.12,
+      "word": "I"
+    },
+    {
+      "startTime": 25.12,
+      "finishTime": 25.26,
+      "word": "work"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.6,
+      "word": "together"
+    },
+    {
+      "startTime": 25.6,
+      "finishTime": 25.8,
+      "word": "to"
+    },
+    {
+      "startTime": 25.8,
+      "finishTime": 26.1,
+      "word": "ensure"
+    },
+    {
+      "startTime": 26.1,
+      "finishTime": 26.38,
+      "word": "the"
+    },
+    {
+      "startTime": 26.38,
+      "finishTime": 26.98,
+      "word": "project's"
+    },
+    {
+      "startTime": 26.98,
+      "finishTime": 27.38,
+      "word": "success."
+    },
+    {
+      "startTime": 27.38,
+      "finishTime": 28.18,
+      "word": "Great"
+    },
+    {
+      "startTime": 28.18,
+      "finishTime": 28.36,
+      "word": "to"
+    },
+    {
+      "startTime": 28.36,
+      "finishTime": 28.5,
+      "word": "meet"
+    },
+    {
+      "startTime": 28.5,
+      "finishTime": 28.7,
+      "word": "you,"
+    },
+    {
+      "startTime": 28.74,
+      "finishTime": 29.06,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 30.12,
+      "finishTime": 30.26,
+      "word": "And"
+    },
+    {
+      "startTime": 30.26,
+      "finishTime": 30.44,
+      "word": "this"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.62,
+      "word": "is"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.84,
+      "word": "Linda."
+    },
+    {
+      "startTime": 31.08,
+      "finishTime": 31.36,
+      "word": "She's"
+    },
+    {
+      "startTime": 31.36,
+      "finishTime": 31.54,
+      "word": "our"
+    },
+    {
+      "startTime": 31.54,
+      "finishTime": 31.88,
+      "word": "UX"
+    },
+    {
+      "startTime": 31.88,
+      "finishTime": 32.14,
+      "word": "UI"
+    },
+    {
+      "startTime": 32.14,
+      "finishTime": 32.52,
+      "word": "designer."
+    },
+    {
+      "startTime": 32.98,
+      "finishTime": 33.12,
+      "word": "She"
+    },
+    {
+      "startTime": 33.12,
+      "finishTime": 33.36,
+      "word": "works"
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.6,
+      "word": "in"
+    },
+    {
+      "startTime": 33.6,
+      "finishTime": 33.82,
+      "word": "user"
+    },
+    {
+      "startTime": 33.82,
+      "finishTime": 34.4,
+      "word": "experience"
+    },
+    {
+      "startTime": 34.4,
+      "finishTime": 34.6,
+      "word": "and"
+    },
+    {
+      "startTime": 34.6,
+      "finishTime": 34.86,
+      "word": "she"
+    },
+    {
+      "startTime": 34.86,
+      "finishTime": 35.06,
+      "word": "creates"
+    },
+    {
+      "startTime": 35.06,
+      "finishTime": 35.36,
+      "word": "our"
+    },
+    {
+      "startTime": 35.36,
+      "finishTime": 35.68,
+      "word": "interface"
+    },
+    {
+      "startTime": 35.68,
+      "finishTime": 36.08,
+      "word": "design."
+    },
+    {
+      "startTime": 37.24,
+      "finishTime": 37.64,
+      "word": "Wonderful"
+    },
+    {
+      "startTime": 37.64,
+      "finishTime": 37.86,
+      "word": "to"
+    },
+    {
+      "startTime": 37.86,
+      "finishTime": 37.98,
+      "word": "meet"
+    },
+    {
+      "startTime": 37.98,
+      "finishTime": 38.2,
+      "word": "you"
+    },
+    {
+      "startTime": 38.2,
+      "finishTime": 38.54,
+      "word": "all."
+    },
+    {
+      "startTime": 38.66,
+      "finishTime": 38.94,
+      "word": "I'm"
+    },
+    {
+      "startTime": 38.94,
+      "finishTime": 39.28,
+      "word": "David,"
+    },
+    {
+      "startTime": 39.36,
+      "finishTime": 39.62,
+      "word": "the"
+    },
+    {
+      "startTime": 39.62,
+      "finishTime": 39.88,
+      "word": "project"
+    },
+    {
+      "startTime": 39.88,
+      "finishTime": 40.34,
+      "word": "manager"
+    },
+    {
+      "startTime": 40.34,
+      "finishTime": 40.82,
+      "word": "from"
+    },
+    {
+      "startTime": 40.82,
+      "finishTime": 41.28,
+      "word": "FCC"
+    },
+    {
+      "startTime": 41.28,
+      "finishTime": 41.84,
+      "word": "Corp."
+    },
+    {
+      "startTime": 42.1,
+      "finishTime": 42.32,
+      "word": "I'll"
+    },
+    {
+      "startTime": 42.32,
+      "finishTime": 42.48,
+      "word": "be"
+    },
+    {
+      "startTime": 42.48,
+      "finishTime": 42.68,
+      "word": "your"
+    },
+    {
+      "startTime": 42.68,
+      "finishTime": 42.84,
+      "word": "point"
+    },
+    {
+      "startTime": 42.84,
+      "finishTime": 43.06,
+      "word": "of"
+    },
+    {
+      "startTime": 43.06,
+      "finishTime": 43.48,
+      "word": "contact"
+    },
+    {
+      "startTime": 43.48,
+      "finishTime": 43.7,
+      "word": "and"
+    },
+    {
+      "startTime": 43.7,
+      "finishTime": 44.04,
+      "word": "I'll"
+    },
+    {
+      "startTime": 44.04,
+      "finishTime": 44.22,
+      "word": "make"
+    },
+    {
+      "startTime": 44.22,
+      "finishTime": 44.6,
+      "word": "sure"
+    },
+    {
+      "startTime": 44.6,
+      "finishTime": 45.02,
+      "word": "our"
+    },
+    {
+      "startTime": 45.02,
+      "finishTime": 45.56,
+      "word": "collaboration"
+    },
+    {
+      "startTime": 45.56,
+      "finishTime": 46,
+      "word": "is"
+    },
+    {
+      "startTime": 46,
+      "finishTime": 46.32,
+      "word": "great."
+    },
+    {
+      "startTime": 46.84,
+      "finishTime": 47.06,
+      "word": "We're"
+    },
+    {
+      "startTime": 47.06,
+      "finishTime": 47.32,
+      "word": "excited"
+    },
+    {
+      "startTime": 47.32,
+      "finishTime": 47.52,
+      "word": "about"
+    },
+    {
+      "startTime": 47.52,
+      "finishTime": 47.78,
+      "word": "this"
+    },
+    {
+      "startTime": 47.78,
+      "finishTime": 48.22,
+      "word": "project."
+    },
+    {
+      "startTime": 48.58,
+      "finishTime": 48.98,
+      "word": "I'm"
+    },
+    {
+      "startTime": 48.98,
+      "finishTime": 49.32,
+      "word": "confident"
+    },
+    {
+      "startTime": 49.32,
+      "finishTime": 49.5,
+      "word": "that"
+    },
+    {
+      "startTime": 49.5,
+      "finishTime": 49.62,
+      "word": "we"
+    },
+    {
+      "startTime": 49.62,
+      "finishTime": 49.82,
+      "word": "can"
+    },
+    {
+      "startTime": 49.82,
+      "finishTime": 50.14,
+      "word": "achieve"
+    },
+    {
+      "startTime": 50.14,
+      "finishTime": 50.4,
+      "word": "great"
+    },
+    {
+      "startTime": 50.4,
+      "finishTime": 51,
+      "word": "results."
+    },
+    {
+      "startTime": 52.12,
+      "finishTime": 52.6,
+      "word": "Thanks."
+    },
+    {
+      "startTime": 52.8,
+      "finishTime": 52.98,
+      "word": "Now"
+    },
+    {
+      "startTime": 52.98,
+      "finishTime": 53.14,
+      "word": "let's"
+    },
+    {
+      "startTime": 53.14,
+      "finishTime": 53.44,
+      "word": "get"
+    },
+    {
+      "startTime": 53.44,
+      "finishTime": 53.66,
+      "word": "started"
+    },
+    {
+      "startTime": 53.66,
+      "finishTime": 53.88,
+      "word": "with"
+    },
+    {
+      "startTime": 53.88,
+      "finishTime": 54.14,
+      "word": "the"
+    },
+    {
+      "startTime": 54.14,
+      "finishTime": 54.32,
+      "word": "project"
+    },
+    {
+      "startTime": 54.32,
+      "finishTime": 54.74,
+      "word": "details"
+    },
+    {
+      "startTime": 54.74,
+      "finishTime": 54.96,
+      "word": "and"
+    },
+    {
+      "startTime": 54.96,
+      "finishTime": 55.16,
+      "word": "your"
+    },
+    {
+      "startTime": 55.16,
+      "finishTime": 55.62,
+      "word": "specific"
+    },
+    {
+      "startTime": 55.62,
+      "finishTime": 56.16,
+      "word": "requirements,"
+    },
+    {
+      "startTime": 56.36,
+      "finishTime": 56.54,
+      "word": "David."
+    }
+  ]
+}

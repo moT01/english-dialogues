@@ -1,0 +1,1080 @@
+{
+  "text": "Maria, I have a question. Do you know what motivates the team? How about you? What makes you feel motivated? Hi, Brian. Well, one thing that really motivates me is learning new things. I love exploring many new technologies and improving my skills. It keeps me excited about our projects. That's great to hear, Maria. Learning and growing professionally motivates me a lot, but you know what demotivates me sometimes? Dealing with many tight deadlines and feeling like I'm rushing to complete tasks. I can understand that, Brian. Racing against the clock can be demotivating. Well, collaborating with our creative team and brainstorming many ideas really inspires me. It's where we generate our best concepts. I agree, Maria. Collaboration and creativity are great. The problem is encountering many technical issues that slow our progress down. It is really frustrating. Yeah, technical glitches are complicated and there's not much we can do other than try to solve them. But do you know what else is great? Seeing the team's enthusiasm after solving these issues. When you see the team inspired, it can boost your motivation. Yeah, wow. You know what? This was a really motivating talk. Thanks for sharing your thoughts. Anytime. It's good to have these discussions. It reminds us of what keeps us going.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.46,
+      "word": "Maria,"
+    },
+    {
+      "startTime": 0.54,
+      "finishTime": 0.84,
+      "word": "I"
+    },
+    {
+      "startTime": 0.84,
+      "finishTime": 1.04,
+      "word": "have"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.18,
+      "word": "a"
+    },
+    {
+      "startTime": 1.18,
+      "finishTime": 1.56,
+      "word": "question."
+    },
+    {
+      "startTime": 1.94,
+      "finishTime": 2.06,
+      "word": "Do"
+    },
+    {
+      "startTime": 2.06,
+      "finishTime": 2.16,
+      "word": "you"
+    },
+    {
+      "startTime": 2.16,
+      "finishTime": 2.28,
+      "word": "know"
+    },
+    {
+      "startTime": 2.28,
+      "finishTime": 2.52,
+      "word": "what"
+    },
+    {
+      "startTime": 2.52,
+      "finishTime": 2.96,
+      "word": "motivates"
+    },
+    {
+      "startTime": 2.96,
+      "finishTime": 3.3,
+      "word": "the"
+    },
+    {
+      "startTime": 3.3,
+      "finishTime": 3.52,
+      "word": "team?"
+    },
+    {
+      "startTime": 3.92,
+      "finishTime": 4.14,
+      "word": "How"
+    },
+    {
+      "startTime": 4.14,
+      "finishTime": 4.32,
+      "word": "about"
+    },
+    {
+      "startTime": 4.32,
+      "finishTime": 4.7,
+      "word": "you?"
+    },
+    {
+      "startTime": 4.88,
+      "finishTime": 5,
+      "word": "What"
+    },
+    {
+      "startTime": 5,
+      "finishTime": 5.22,
+      "word": "makes"
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.54,
+      "word": "you"
+    },
+    {
+      "startTime": 5.54,
+      "finishTime": 5.78,
+      "word": "feel"
+    },
+    {
+      "startTime": 5.78,
+      "finishTime": 6.42,
+      "word": "motivated?"
+    },
+    {
+      "startTime": 7.68,
+      "finishTime": 7.82,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 7.82,
+      "finishTime": 8.14,
+      "word": "Brian."
+    },
+    {
+      "startTime": 8.36,
+      "finishTime": 8.68,
+      "word": "Well,"
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9,
+      "word": "one"
+    },
+    {
+      "startTime": 9,
+      "finishTime": 9.14,
+      "word": "thing"
+    },
+    {
+      "startTime": 9.14,
+      "finishTime": 9.3,
+      "word": "that"
+    },
+    {
+      "startTime": 9.3,
+      "finishTime": 9.52,
+      "word": "really"
+    },
+    {
+      "startTime": 9.52,
+      "finishTime": 9.86,
+      "word": "motivates"
+    },
+    {
+      "startTime": 9.86,
+      "finishTime": 10.2,
+      "word": "me"
+    },
+    {
+      "startTime": 10.2,
+      "finishTime": 10.36,
+      "word": "is"
+    },
+    {
+      "startTime": 10.36,
+      "finishTime": 10.6,
+      "word": "learning"
+    },
+    {
+      "startTime": 10.6,
+      "finishTime": 10.82,
+      "word": "new"
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11.3,
+      "word": "things."
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 11.9,
+      "word": "I"
+    },
+    {
+      "startTime": 11.9,
+      "finishTime": 12.1,
+      "word": "love"
+    },
+    {
+      "startTime": 12.1,
+      "finishTime": 12.58,
+      "word": "exploring"
+    },
+    {
+      "startTime": 12.58,
+      "finishTime": 12.9,
+      "word": "many"
+    },
+    {
+      "startTime": 12.9,
+      "finishTime": 13.16,
+      "word": "new"
+    },
+    {
+      "startTime": 13.16,
+      "finishTime": 13.74,
+      "word": "technologies"
+    },
+    {
+      "startTime": 13.74,
+      "finishTime": 14.08,
+      "word": "and"
+    },
+    {
+      "startTime": 14.08,
+      "finishTime": 14.32,
+      "word": "improving"
+    },
+    {
+      "startTime": 14.32,
+      "finishTime": 14.62,
+      "word": "my"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 15.04,
+      "word": "skills."
+    },
+    {
+      "startTime": 15.52,
+      "finishTime": 15.7,
+      "word": "It"
+    },
+    {
+      "startTime": 15.7,
+      "finishTime": 15.84,
+      "word": "keeps"
+    },
+    {
+      "startTime": 15.84,
+      "finishTime": 16.06,
+      "word": "me"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.38,
+      "word": "excited"
+    },
+    {
+      "startTime": 16.38,
+      "finishTime": 16.6,
+      "word": "about"
+    },
+    {
+      "startTime": 16.6,
+      "finishTime": 16.86,
+      "word": "our"
+    },
+    {
+      "startTime": 16.86,
+      "finishTime": 17.26,
+      "word": "projects."
+    },
+    {
+      "startTime": 18.68,
+      "finishTime": 18.98,
+      "word": "That's"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.1,
+      "word": "great"
+    },
+    {
+      "startTime": 19.1,
+      "finishTime": 19.3,
+      "word": "to"
+    },
+    {
+      "startTime": 19.3,
+      "finishTime": 19.42,
+      "word": "hear,"
+    },
+    {
+      "startTime": 19.6,
+      "finishTime": 19.86,
+      "word": "Maria."
+    },
+    {
+      "startTime": 20.28,
+      "finishTime": 20.7,
+      "word": "Learning"
+    },
+    {
+      "startTime": 20.7,
+      "finishTime": 21.04,
+      "word": "and"
+    },
+    {
+      "startTime": 21.04,
+      "finishTime": 21.32,
+      "word": "growing"
+    },
+    {
+      "startTime": 21.32,
+      "finishTime": 22.08,
+      "word": "professionally"
+    },
+    {
+      "startTime": 22.08,
+      "finishTime": 22.74,
+      "word": "motivates"
+    },
+    {
+      "startTime": 22.74,
+      "finishTime": 23.12,
+      "word": "me"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.32,
+      "word": "a"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.66,
+      "word": "lot,"
+    },
+    {
+      "startTime": 24.04,
+      "finishTime": 24.18,
+      "word": "but"
+    },
+    {
+      "startTime": 24.18,
+      "finishTime": 24.3,
+      "word": "you"
+    },
+    {
+      "startTime": 24.3,
+      "finishTime": 24.48,
+      "word": "know"
+    },
+    {
+      "startTime": 24.48,
+      "finishTime": 24.74,
+      "word": "what"
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 25.42,
+      "word": "demotivates"
+    },
+    {
+      "startTime": 25.42,
+      "finishTime": 25.66,
+      "word": "me"
+    },
+    {
+      "startTime": 25.66,
+      "finishTime": 26.26,
+      "word": "sometimes?"
+    },
+    {
+      "startTime": 26.66,
+      "finishTime": 26.94,
+      "word": "Dealing"
+    },
+    {
+      "startTime": 26.94,
+      "finishTime": 27.28,
+      "word": "with"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.68,
+      "word": "many"
+    },
+    {
+      "startTime": 27.68,
+      "finishTime": 27.94,
+      "word": "tight"
+    },
+    {
+      "startTime": 27.94,
+      "finishTime": 28.4,
+      "word": "deadlines"
+    },
+    {
+      "startTime": 28.4,
+      "finishTime": 28.7,
+      "word": "and"
+    },
+    {
+      "startTime": 28.7,
+      "finishTime": 29.08,
+      "word": "feeling"
+    },
+    {
+      "startTime": 29.08,
+      "finishTime": 29.38,
+      "word": "like"
+    },
+    {
+      "startTime": 29.38,
+      "finishTime": 29.66,
+      "word": "I'm"
+    },
+    {
+      "startTime": 29.66,
+      "finishTime": 30.06,
+      "word": "rushing"
+    },
+    {
+      "startTime": 30.06,
+      "finishTime": 30.44,
+      "word": "to"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.78,
+      "word": "complete"
+    },
+    {
+      "startTime": 30.78,
+      "finishTime": 31.58,
+      "word": "tasks."
+    },
+    {
+      "startTime": 32.42,
+      "finishTime": 32.42,
+      "word": "I"
+    },
+    {
+      "startTime": 32.42,
+      "finishTime": 32.54,
+      "word": "can"
+    },
+    {
+      "startTime": 32.54,
+      "finishTime": 32.96,
+      "word": "understand"
+    },
+    {
+      "startTime": 32.96,
+      "finishTime": 33.26,
+      "word": "that,"
+    },
+    {
+      "startTime": 33.44,
+      "finishTime": 33.56,
+      "word": "Brian."
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.22,
+      "word": "Racing"
+    },
+    {
+      "startTime": 34.22,
+      "finishTime": 34.58,
+      "word": "against"
+    },
+    {
+      "startTime": 34.58,
+      "finishTime": 34.82,
+      "word": "the"
+    },
+    {
+      "startTime": 34.82,
+      "finishTime": 35,
+      "word": "clock"
+    },
+    {
+      "startTime": 35,
+      "finishTime": 35.24,
+      "word": "can"
+    },
+    {
+      "startTime": 35.24,
+      "finishTime": 35.42,
+      "word": "be"
+    },
+    {
+      "startTime": 35.42,
+      "finishTime": 36.28,
+      "word": "demotivating."
+    },
+    {
+      "startTime": 36.7,
+      "finishTime": 37.08,
+      "word": "Well,"
+    },
+    {
+      "startTime": 37.12,
+      "finishTime": 37.52,
+      "word": "collaborating"
+    },
+    {
+      "startTime": 37.52,
+      "finishTime": 37.8,
+      "word": "with"
+    },
+    {
+      "startTime": 37.8,
+      "finishTime": 38,
+      "word": "our"
+    },
+    {
+      "startTime": 38,
+      "finishTime": 38.32,
+      "word": "creative"
+    },
+    {
+      "startTime": 38.32,
+      "finishTime": 38.74,
+      "word": "team"
+    },
+    {
+      "startTime": 38.74,
+      "finishTime": 39.04,
+      "word": "and"
+    },
+    {
+      "startTime": 39.04,
+      "finishTime": 39.68,
+      "word": "brainstorming"
+    },
+    {
+      "startTime": 39.68,
+      "finishTime": 39.86,
+      "word": "many"
+    },
+    {
+      "startTime": 39.86,
+      "finishTime": 40.3,
+      "word": "ideas"
+    },
+    {
+      "startTime": 40.3,
+      "finishTime": 40.6,
+      "word": "really"
+    },
+    {
+      "startTime": 40.6,
+      "finishTime": 41.04,
+      "word": "inspires"
+    },
+    {
+      "startTime": 41.04,
+      "finishTime": 41.48,
+      "word": "me."
+    },
+    {
+      "startTime": 41.84,
+      "finishTime": 42.02,
+      "word": "It's"
+    },
+    {
+      "startTime": 42.02,
+      "finishTime": 42.16,
+      "word": "where"
+    },
+    {
+      "startTime": 42.16,
+      "finishTime": 42.34,
+      "word": "we"
+    },
+    {
+      "startTime": 42.34,
+      "finishTime": 42.6,
+      "word": "generate"
+    },
+    {
+      "startTime": 42.6,
+      "finishTime": 42.8,
+      "word": "our"
+    },
+    {
+      "startTime": 42.8,
+      "finishTime": 43.02,
+      "word": "best"
+    },
+    {
+      "startTime": 43.02,
+      "finishTime": 43.62,
+      "word": "concepts."
+    },
+    {
+      "startTime": 44.48,
+      "finishTime": 44.54,
+      "word": "I"
+    },
+    {
+      "startTime": 44.54,
+      "finishTime": 44.84,
+      "word": "agree,"
+    },
+    {
+      "startTime": 45,
+      "finishTime": 45.24,
+      "word": "Maria."
+    },
+    {
+      "startTime": 45.76,
+      "finishTime": 46.4,
+      "word": "Collaboration"
+    },
+    {
+      "startTime": 46.4,
+      "finishTime": 46.74,
+      "word": "and"
+    },
+    {
+      "startTime": 46.74,
+      "finishTime": 47.24,
+      "word": "creativity"
+    },
+    {
+      "startTime": 47.24,
+      "finishTime": 47.66,
+      "word": "are"
+    },
+    {
+      "startTime": 47.66,
+      "finishTime": 48,
+      "word": "great."
+    },
+    {
+      "startTime": 48.3,
+      "finishTime": 48.54,
+      "word": "The"
+    },
+    {
+      "startTime": 48.54,
+      "finishTime": 48.82,
+      "word": "problem"
+    },
+    {
+      "startTime": 48.82,
+      "finishTime": 49.14,
+      "word": "is"
+    },
+    {
+      "startTime": 49.14,
+      "finishTime": 49.74,
+      "word": "encountering"
+    },
+    {
+      "startTime": 49.74,
+      "finishTime": 50.04,
+      "word": "many"
+    },
+    {
+      "startTime": 50.04,
+      "finishTime": 50.54,
+      "word": "technical"
+    },
+    {
+      "startTime": 50.54,
+      "finishTime": 51.06,
+      "word": "issues"
+    },
+    {
+      "startTime": 51.06,
+      "finishTime": 51.4,
+      "word": "that"
+    },
+    {
+      "startTime": 51.4,
+      "finishTime": 51.64,
+      "word": "slow"
+    },
+    {
+      "startTime": 51.64,
+      "finishTime": 51.94,
+      "word": "our"
+    },
+    {
+      "startTime": 51.94,
+      "finishTime": 52.24,
+      "word": "progress"
+    },
+    {
+      "startTime": 52.24,
+      "finishTime": 52.62,
+      "word": "down."
+    },
+    {
+      "startTime": 53.02,
+      "finishTime": 53.28,
+      "word": "It"
+    },
+    {
+      "startTime": 53.28,
+      "finishTime": 53.62,
+      "word": "is"
+    },
+    {
+      "startTime": 53.62,
+      "finishTime": 53.98,
+      "word": "really"
+    },
+    {
+      "startTime": 53.98,
+      "finishTime": 54.52,
+      "word": "frustrating."
+    },
+    {
+      "startTime": 55.54,
+      "finishTime": 55.84,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 55.96,
+      "finishTime": 56.26,
+      "word": "technical"
+    },
+    {
+      "startTime": 56.26,
+      "finishTime": 56.66,
+      "word": "glitches"
+    },
+    {
+      "startTime": 56.66,
+      "finishTime": 56.84,
+      "word": "are"
+    },
+    {
+      "startTime": 56.84,
+      "finishTime": 57.44,
+      "word": "complicated"
+    },
+    {
+      "startTime": 57.44,
+      "finishTime": 57.66,
+      "word": "and"
+    },
+    {
+      "startTime": 57.66,
+      "finishTime": 57.92,
+      "word": "there's"
+    },
+    {
+      "startTime": 57.92,
+      "finishTime": 58.1,
+      "word": "not"
+    },
+    {
+      "startTime": 58.1,
+      "finishTime": 58.28,
+      "word": "much"
+    },
+    {
+      "startTime": 58.28,
+      "finishTime": 58.42,
+      "word": "we"
+    },
+    {
+      "startTime": 58.42,
+      "finishTime": 58.62,
+      "word": "can"
+    },
+    {
+      "startTime": 58.62,
+      "finishTime": 58.98,
+      "word": "do"
+    },
+    {
+      "startTime": 58.98,
+      "finishTime": 59.24,
+      "word": "other"
+    },
+    {
+      "startTime": 59.24,
+      "finishTime": 59.4,
+      "word": "than"
+    },
+    {
+      "startTime": 59.4,
+      "finishTime": 59.6,
+      "word": "try"
+    },
+    {
+      "startTime": 59.6,
+      "finishTime": 59.8,
+      "word": "to"
+    },
+    {
+      "startTime": 59.8,
+      "finishTime": 59.96,
+      "word": "solve"
+    },
+    {
+      "startTime": 59.96,
+      "finishTime": 60.36,
+      "word": "them."
+    },
+    {
+      "startTime": 60.96,
+      "finishTime": 61.08,
+      "word": "But"
+    },
+    {
+      "startTime": 61.08,
+      "finishTime": 61.24,
+      "word": "do"
+    },
+    {
+      "startTime": 61.24,
+      "finishTime": 61.32,
+      "word": "you"
+    },
+    {
+      "startTime": 61.32,
+      "finishTime": 61.42,
+      "word": "know"
+    },
+    {
+      "startTime": 61.42,
+      "finishTime": 61.62,
+      "word": "what"
+    },
+    {
+      "startTime": 61.62,
+      "finishTime": 61.88,
+      "word": "else"
+    },
+    {
+      "startTime": 61.88,
+      "finishTime": 62.08,
+      "word": "is"
+    },
+    {
+      "startTime": 62.08,
+      "finishTime": 62.34,
+      "word": "great?"
+    },
+    {
+      "startTime": 62.76,
+      "finishTime": 63.02,
+      "word": "Seeing"
+    },
+    {
+      "startTime": 63.02,
+      "finishTime": 63.26,
+      "word": "the"
+    },
+    {
+      "startTime": 63.26,
+      "finishTime": 63.74,
+      "word": "team's"
+    },
+    {
+      "startTime": 63.74,
+      "finishTime": 64.2,
+      "word": "enthusiasm"
+    },
+    {
+      "startTime": 64.2,
+      "finishTime": 64.58,
+      "word": "after"
+    },
+    {
+      "startTime": 64.58,
+      "finishTime": 64.96,
+      "word": "solving"
+    },
+    {
+      "startTime": 64.96,
+      "finishTime": 65.28,
+      "word": "these"
+    },
+    {
+      "startTime": 65.28,
+      "finishTime": 65.66,
+      "word": "issues."
+    },
+    {
+      "startTime": 66.12,
+      "finishTime": 66.26,
+      "word": "When"
+    },
+    {
+      "startTime": 66.26,
+      "finishTime": 66.4,
+      "word": "you"
+    },
+    {
+      "startTime": 66.4,
+      "finishTime": 66.56,
+      "word": "see"
+    },
+    {
+      "startTime": 66.56,
+      "finishTime": 66.78,
+      "word": "the"
+    },
+    {
+      "startTime": 66.78,
+      "finishTime": 66.98,
+      "word": "team"
+    },
+    {
+      "startTime": 66.98,
+      "finishTime": 67.54,
+      "word": "inspired,"
+    },
+    {
+      "startTime": 67.68,
+      "finishTime": 67.76,
+      "word": "it"
+    },
+    {
+      "startTime": 67.76,
+      "finishTime": 67.96,
+      "word": "can"
+    },
+    {
+      "startTime": 67.96,
+      "finishTime": 68.14,
+      "word": "boost"
+    },
+    {
+      "startTime": 68.14,
+      "finishTime": 68.34,
+      "word": "your"
+    },
+    {
+      "startTime": 68.34,
+      "finishTime": 68.8,
+      "word": "motivation."
+    },
+    {
+      "startTime": 70.38,
+      "finishTime": 70.82,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 71.02,
+      "finishTime": 71.44,
+      "word": "wow."
+    },
+    {
+      "startTime": 71.8,
+      "finishTime": 71.94,
+      "word": "You"
+    },
+    {
+      "startTime": 71.94,
+      "finishTime": 72.12,
+      "word": "know"
+    },
+    {
+      "startTime": 72.12,
+      "finishTime": 72.38,
+      "word": "what?"
+    },
+    {
+      "startTime": 72.68,
+      "finishTime": 72.88,
+      "word": "This"
+    },
+    {
+      "startTime": 72.88,
+      "finishTime": 73.1,
+      "word": "was"
+    },
+    {
+      "startTime": 73.1,
+      "finishTime": 73.28,
+      "word": "a"
+    },
+    {
+      "startTime": 73.28,
+      "finishTime": 73.56,
+      "word": "really"
+    },
+    {
+      "startTime": 73.56,
+      "finishTime": 74.04,
+      "word": "motivating"
+    },
+    {
+      "startTime": 74.04,
+      "finishTime": 74.4,
+      "word": "talk."
+    },
+    {
+      "startTime": 74.74,
+      "finishTime": 74.96,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 74.96,
+      "finishTime": 75.2,
+      "word": "for"
+    },
+    {
+      "startTime": 75.2,
+      "finishTime": 75.4,
+      "word": "sharing"
+    },
+    {
+      "startTime": 75.4,
+      "finishTime": 75.66,
+      "word": "your"
+    },
+    {
+      "startTime": 75.66,
+      "finishTime": 76.1,
+      "word": "thoughts."
+    },
+    {
+      "startTime": 76.72,
+      "finishTime": 77.04,
+      "word": "Anytime."
+    },
+    {
+      "startTime": 77.48,
+      "finishTime": 77.68,
+      "word": "It's"
+    },
+    {
+      "startTime": 77.68,
+      "finishTime": 77.78,
+      "word": "good"
+    },
+    {
+      "startTime": 77.78,
+      "finishTime": 77.94,
+      "word": "to"
+    },
+    {
+      "startTime": 77.94,
+      "finishTime": 78.04,
+      "word": "have"
+    },
+    {
+      "startTime": 78.04,
+      "finishTime": 78.3,
+      "word": "these"
+    },
+    {
+      "startTime": 78.3,
+      "finishTime": 78.78,
+      "word": "discussions."
+    },
+    {
+      "startTime": 79.06,
+      "finishTime": 79.26,
+      "word": "It"
+    },
+    {
+      "startTime": 79.26,
+      "finishTime": 79.46,
+      "word": "reminds"
+    },
+    {
+      "startTime": 79.46,
+      "finishTime": 79.7,
+      "word": "us"
+    },
+    {
+      "startTime": 79.7,
+      "finishTime": 79.84,
+      "word": "of"
+    },
+    {
+      "startTime": 79.84,
+      "finishTime": 79.98,
+      "word": "what"
+    },
+    {
+      "startTime": 79.98,
+      "finishTime": 80.16,
+      "word": "keeps"
+    },
+    {
+      "startTime": 80.16,
+      "finishTime": 80.36,
+      "word": "us"
+    },
+    {
+      "startTime": 80.36,
+      "finishTime": 80.6,
+      "word": "going."
+    }
+  ]
+}

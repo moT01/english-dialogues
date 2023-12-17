@@ -1,0 +1,495 @@
+{
+  "text": "Hey Bob, I wanted to talk about our presentation for the conference next month. What's the plan? Well, I think we should use a slide deck for the presentation. It's the standard format, and it will make the information more accessible. True, but I was thinking we could try something different. Let's use an interactive demo instead of slides. It will engage the audience more effectively. Oh, I see what you mean. That's a great idea. It will certainly grab the audience's attention better. Awesome. We'll work on the interactive demo and make sure it's ready in time.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.68,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.68,
+      "finishTime": 0.96,
+      "word": "Bob,"
+    },
+    {
+      "startTime": 1.16,
+      "finishTime": 1.28,
+      "word": "I"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.48,
+      "word": "wanted"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.62,
+      "word": "to"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.82,
+      "word": "talk"
+    },
+    {
+      "startTime": 1.82,
+      "finishTime": 1.98,
+      "word": "about"
+    },
+    {
+      "startTime": 1.98,
+      "finishTime": 2.26,
+      "word": "our"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.74,
+      "word": "presentation"
+    },
+    {
+      "startTime": 2.74,
+      "finishTime": 2.98,
+      "word": "for"
+    },
+    {
+      "startTime": 2.98,
+      "finishTime": 3.12,
+      "word": "the"
+    },
+    {
+      "startTime": 3.12,
+      "finishTime": 3.42,
+      "word": "conference"
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.76,
+      "word": "next"
+    },
+    {
+      "startTime": 3.76,
+      "finishTime": 4.04,
+      "word": "month."
+    },
+    {
+      "startTime": 4.32,
+      "finishTime": 4.58,
+      "word": "What's"
+    },
+    {
+      "startTime": 4.58,
+      "finishTime": 4.7,
+      "word": "the"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 4.94,
+      "word": "plan?"
+    },
+    {
+      "startTime": 5.68,
+      "finishTime": 6,
+      "word": "Well,"
+    },
+    {
+      "startTime": 6.2,
+      "finishTime": 6.36,
+      "word": "I"
+    },
+    {
+      "startTime": 6.36,
+      "finishTime": 6.54,
+      "word": "think"
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.72,
+      "word": "we"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 6.88,
+      "word": "should"
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7.08,
+      "word": "use"
+    },
+    {
+      "startTime": 7.08,
+      "finishTime": 7.32,
+      "word": "a"
+    },
+    {
+      "startTime": 7.32,
+      "finishTime": 7.56,
+      "word": "slide"
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 7.68,
+      "word": "deck"
+    },
+    {
+      "startTime": 7.68,
+      "finishTime": 7.86,
+      "word": "for"
+    },
+    {
+      "startTime": 7.86,
+      "finishTime": 8.08,
+      "word": "the"
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.56,
+      "word": "presentation."
+    },
+    {
+      "startTime": 8.8,
+      "finishTime": 9.1,
+      "word": "It's"
+    },
+    {
+      "startTime": 9.1,
+      "finishTime": 9.34,
+      "word": "the"
+    },
+    {
+      "startTime": 9.34,
+      "finishTime": 9.62,
+      "word": "standard"
+    },
+    {
+      "startTime": 9.62,
+      "finishTime": 10.08,
+      "word": "format,"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.38,
+      "word": "and"
+    },
+    {
+      "startTime": 10.38,
+      "finishTime": 10.56,
+      "word": "it"
+    },
+    {
+      "startTime": 10.56,
+      "finishTime": 10.72,
+      "word": "will"
+    },
+    {
+      "startTime": 10.72,
+      "finishTime": 10.92,
+      "word": "make"
+    },
+    {
+      "startTime": 10.92,
+      "finishTime": 11.12,
+      "word": "the"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.56,
+      "word": "information"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 11.84,
+      "word": "more"
+    },
+    {
+      "startTime": 11.84,
+      "finishTime": 12.44,
+      "word": "accessible."
+    },
+    {
+      "startTime": 13.3,
+      "finishTime": 13.6,
+      "word": "True,"
+    },
+    {
+      "startTime": 13.6,
+      "finishTime": 13.88,
+      "word": "but"
+    },
+    {
+      "startTime": 13.88,
+      "finishTime": 14,
+      "word": "I"
+    },
+    {
+      "startTime": 14,
+      "finishTime": 14.16,
+      "word": "was"
+    },
+    {
+      "startTime": 14.16,
+      "finishTime": 14.4,
+      "word": "thinking"
+    },
+    {
+      "startTime": 14.4,
+      "finishTime": 14.56,
+      "word": "we"
+    },
+    {
+      "startTime": 14.56,
+      "finishTime": 14.68,
+      "word": "could"
+    },
+    {
+      "startTime": 14.68,
+      "finishTime": 14.88,
+      "word": "try"
+    },
+    {
+      "startTime": 14.88,
+      "finishTime": 15.2,
+      "word": "something"
+    },
+    {
+      "startTime": 15.2,
+      "finishTime": 15.7,
+      "word": "different."
+    },
+    {
+      "startTime": 16.1,
+      "finishTime": 16.42,
+      "word": "Let's"
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.58,
+      "word": "use"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.84,
+      "word": "an"
+    },
+    {
+      "startTime": 16.84,
+      "finishTime": 17.24,
+      "word": "interactive"
+    },
+    {
+      "startTime": 17.24,
+      "finishTime": 17.62,
+      "word": "demo"
+    },
+    {
+      "startTime": 17.62,
+      "finishTime": 17.96,
+      "word": "instead"
+    },
+    {
+      "startTime": 17.96,
+      "finishTime": 18.22,
+      "word": "of"
+    },
+    {
+      "startTime": 18.22,
+      "finishTime": 18.62,
+      "word": "slides."
+    },
+    {
+      "startTime": 18.92,
+      "finishTime": 19.02,
+      "word": "It"
+    },
+    {
+      "startTime": 19.02,
+      "finishTime": 19.2,
+      "word": "will"
+    },
+    {
+      "startTime": 19.2,
+      "finishTime": 19.5,
+      "word": "engage"
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.78,
+      "word": "the"
+    },
+    {
+      "startTime": 19.78,
+      "finishTime": 20.08,
+      "word": "audience"
+    },
+    {
+      "startTime": 20.08,
+      "finishTime": 20.46,
+      "word": "more"
+    },
+    {
+      "startTime": 20.46,
+      "finishTime": 20.88,
+      "word": "effectively."
+    },
+    {
+      "startTime": 21.44,
+      "finishTime": 21.84,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 21.84,
+      "finishTime": 22.04,
+      "word": "I"
+    },
+    {
+      "startTime": 22.04,
+      "finishTime": 22.16,
+      "word": "see"
+    },
+    {
+      "startTime": 22.16,
+      "finishTime": 22.32,
+      "word": "what"
+    },
+    {
+      "startTime": 22.32,
+      "finishTime": 22.48,
+      "word": "you"
+    },
+    {
+      "startTime": 22.48,
+      "finishTime": 22.78,
+      "word": "mean."
+    },
+    {
+      "startTime": 22.98,
+      "finishTime": 23.26,
+      "word": "That's"
+    },
+    {
+      "startTime": 23.26,
+      "finishTime": 23.38,
+      "word": "a"
+    },
+    {
+      "startTime": 23.38,
+      "finishTime": 23.5,
+      "word": "great"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 24,
+      "word": "idea."
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.58,
+      "word": "It"
+    },
+    {
+      "startTime": 24.58,
+      "finishTime": 24.78,
+      "word": "will"
+    },
+    {
+      "startTime": 24.78,
+      "finishTime": 25.04,
+      "word": "certainly"
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.28,
+      "word": "grab"
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 25.58,
+      "word": "the"
+    },
+    {
+      "startTime": 25.58,
+      "finishTime": 26.04,
+      "word": "audience's"
+    },
+    {
+      "startTime": 26.04,
+      "finishTime": 26.46,
+      "word": "attention"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.86,
+      "word": "better."
+    },
+    {
+      "startTime": 27.5,
+      "finishTime": 27.88,
+      "word": "Awesome."
+    },
+    {
+      "startTime": 28.1,
+      "finishTime": 28.18,
+      "word": "We'll"
+    },
+    {
+      "startTime": 28.18,
+      "finishTime": 28.34,
+      "word": "work"
+    },
+    {
+      "startTime": 28.34,
+      "finishTime": 28.48,
+      "word": "on"
+    },
+    {
+      "startTime": 28.48,
+      "finishTime": 28.72,
+      "word": "the"
+    },
+    {
+      "startTime": 28.72,
+      "finishTime": 29.04,
+      "word": "interactive"
+    },
+    {
+      "startTime": 29.04,
+      "finishTime": 29.4,
+      "word": "demo"
+    },
+    {
+      "startTime": 29.4,
+      "finishTime": 29.64,
+      "word": "and"
+    },
+    {
+      "startTime": 29.64,
+      "finishTime": 29.76,
+      "word": "make"
+    },
+    {
+      "startTime": 29.76,
+      "finishTime": 29.92,
+      "word": "sure"
+    },
+    {
+      "startTime": 29.92,
+      "finishTime": 30.14,
+      "word": "it's"
+    },
+    {
+      "startTime": 30.14,
+      "finishTime": 30.3,
+      "word": "ready"
+    },
+    {
+      "startTime": 30.3,
+      "finishTime": 30.56,
+      "word": "in"
+    },
+    {
+      "startTime": 30.56,
+      "finishTime": 30.72,
+      "word": "time."
+    }
+  ]
+}

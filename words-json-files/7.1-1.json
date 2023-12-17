@@ -1,0 +1,620 @@
+{
+  "text": "Hey, Brian, I've been assigned to work on this project, and I'm not sure where to start. Could you help me understand how we should document the code? Of course. The first thing you should do is create a clear README file that's in the project's root directory. This file should contain information about the project, its purpose, and how to set it up. Got it. What else should I include in my README? You should list the project dependencies so that anyone who wants to work on it knows what they need. Then specify how to run the code and any other essential setup instructions. Also, mention coding conventions we follow in this project. Thanks, I'll make sure to follow your instructions.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.3,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.3,
+      "finishTime": 0.64,
+      "word": "Brian,"
+    },
+    {
+      "startTime": 0.64,
+      "finishTime": 0.96,
+      "word": "I've"
+    },
+    {
+      "startTime": 0.96,
+      "finishTime": 1.08,
+      "word": "been"
+    },
+    {
+      "startTime": 1.08,
+      "finishTime": 1.38,
+      "word": "assigned"
+    },
+    {
+      "startTime": 1.38,
+      "finishTime": 1.54,
+      "word": "to"
+    },
+    {
+      "startTime": 1.54,
+      "finishTime": 1.66,
+      "word": "work"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.78,
+      "word": "on"
+    },
+    {
+      "startTime": 1.78,
+      "finishTime": 1.96,
+      "word": "this"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.4,
+      "word": "project,"
+    },
+    {
+      "startTime": 2.56,
+      "finishTime": 2.62,
+      "word": "and"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 2.74,
+      "word": "I'm"
+    },
+    {
+      "startTime": 2.74,
+      "finishTime": 2.98,
+      "word": "not"
+    },
+    {
+      "startTime": 2.98,
+      "finishTime": 3.18,
+      "word": "sure"
+    },
+    {
+      "startTime": 3.18,
+      "finishTime": 3.36,
+      "word": "where"
+    },
+    {
+      "startTime": 3.36,
+      "finishTime": 3.64,
+      "word": "to"
+    },
+    {
+      "startTime": 3.64,
+      "finishTime": 3.94,
+      "word": "start."
+    },
+    {
+      "startTime": 4.48,
+      "finishTime": 4.64,
+      "word": "Could"
+    },
+    {
+      "startTime": 4.64,
+      "finishTime": 4.8,
+      "word": "you"
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 4.88,
+      "word": "help"
+    },
+    {
+      "startTime": 4.88,
+      "finishTime": 5.14,
+      "word": "me"
+    },
+    {
+      "startTime": 5.14,
+      "finishTime": 5.5,
+      "word": "understand"
+    },
+    {
+      "startTime": 5.5,
+      "finishTime": 5.72,
+      "word": "how"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 5.94,
+      "word": "we"
+    },
+    {
+      "startTime": 5.94,
+      "finishTime": 6.06,
+      "word": "should"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.46,
+      "word": "document"
+    },
+    {
+      "startTime": 6.46,
+      "finishTime": 6.72,
+      "word": "the"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 6.94,
+      "word": "code?"
+    },
+    {
+      "startTime": 7.5,
+      "finishTime": 7.74,
+      "word": "Of"
+    },
+    {
+      "startTime": 7.74,
+      "finishTime": 8.12,
+      "word": "course."
+    },
+    {
+      "startTime": 8.28,
+      "finishTime": 8.48,
+      "word": "The"
+    },
+    {
+      "startTime": 8.48,
+      "finishTime": 8.72,
+      "word": "first"
+    },
+    {
+      "startTime": 8.72,
+      "finishTime": 8.86,
+      "word": "thing"
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9.06,
+      "word": "you"
+    },
+    {
+      "startTime": 9.06,
+      "finishTime": 9.16,
+      "word": "should"
+    },
+    {
+      "startTime": 9.16,
+      "finishTime": 9.3,
+      "word": "do"
+    },
+    {
+      "startTime": 9.3,
+      "finishTime": 9.5,
+      "word": "is"
+    },
+    {
+      "startTime": 9.5,
+      "finishTime": 9.76,
+      "word": "create"
+    },
+    {
+      "startTime": 9.76,
+      "finishTime": 10.04,
+      "word": "a"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.3,
+      "word": "clear"
+    },
+    {
+      "startTime": 10.3,
+      "finishTime": 10.66,
+      "word": "README"
+    },
+    {
+      "startTime": 10.66,
+      "finishTime": 11.06,
+      "word": "file"
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.36,
+      "word": "that's"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.56,
+      "word": "in"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 11.78,
+      "word": "the"
+    },
+    {
+      "startTime": 11.78,
+      "finishTime": 12.28,
+      "word": "project's"
+    },
+    {
+      "startTime": 12.28,
+      "finishTime": 12.4,
+      "word": "root"
+    },
+    {
+      "startTime": 12.4,
+      "finishTime": 12.96,
+      "word": "directory."
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.8,
+      "word": "This"
+    },
+    {
+      "startTime": 13.8,
+      "finishTime": 13.98,
+      "word": "file"
+    },
+    {
+      "startTime": 13.98,
+      "finishTime": 14.18,
+      "word": "should"
+    },
+    {
+      "startTime": 14.18,
+      "finishTime": 14.54,
+      "word": "contain"
+    },
+    {
+      "startTime": 14.54,
+      "finishTime": 15.04,
+      "word": "information"
+    },
+    {
+      "startTime": 15.04,
+      "finishTime": 15.28,
+      "word": "about"
+    },
+    {
+      "startTime": 15.28,
+      "finishTime": 15.52,
+      "word": "the"
+    },
+    {
+      "startTime": 15.52,
+      "finishTime": 15.92,
+      "word": "project,"
+    },
+    {
+      "startTime": 16.3,
+      "finishTime": 16.46,
+      "word": "its"
+    },
+    {
+      "startTime": 16.46,
+      "finishTime": 16.9,
+      "word": "purpose,"
+    },
+    {
+      "startTime": 16.9,
+      "finishTime": 17.26,
+      "word": "and"
+    },
+    {
+      "startTime": 17.26,
+      "finishTime": 17.5,
+      "word": "how"
+    },
+    {
+      "startTime": 17.5,
+      "finishTime": 17.7,
+      "word": "to"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.82,
+      "word": "set"
+    },
+    {
+      "startTime": 17.82,
+      "finishTime": 18,
+      "word": "it"
+    },
+    {
+      "startTime": 18,
+      "finishTime": 18.3,
+      "word": "up."
+    },
+    {
+      "startTime": 18.72,
+      "finishTime": 18.94,
+      "word": "Got"
+    },
+    {
+      "startTime": 18.94,
+      "finishTime": 19.18,
+      "word": "it."
+    },
+    {
+      "startTime": 19.28,
+      "finishTime": 19.48,
+      "word": "What"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.64,
+      "word": "else"
+    },
+    {
+      "startTime": 19.64,
+      "finishTime": 19.8,
+      "word": "should"
+    },
+    {
+      "startTime": 19.8,
+      "finishTime": 20,
+      "word": "I"
+    },
+    {
+      "startTime": 20,
+      "finishTime": 20.2,
+      "word": "include"
+    },
+    {
+      "startTime": 20.2,
+      "finishTime": 20.32,
+      "word": "in"
+    },
+    {
+      "startTime": 20.32,
+      "finishTime": 20.5,
+      "word": "my"
+    },
+    {
+      "startTime": 20.5,
+      "finishTime": 20.8,
+      "word": "README?"
+    },
+    {
+      "startTime": 21.22,
+      "finishTime": 21.48,
+      "word": "You"
+    },
+    {
+      "startTime": 21.48,
+      "finishTime": 21.72,
+      "word": "should"
+    },
+    {
+      "startTime": 21.72,
+      "finishTime": 22.08,
+      "word": "list"
+    },
+    {
+      "startTime": 22.08,
+      "finishTime": 22.38,
+      "word": "the"
+    },
+    {
+      "startTime": 22.38,
+      "finishTime": 22.76,
+      "word": "project"
+    },
+    {
+      "startTime": 22.76,
+      "finishTime": 23.34,
+      "word": "dependencies"
+    },
+    {
+      "startTime": 23.34,
+      "finishTime": 23.88,
+      "word": "so"
+    },
+    {
+      "startTime": 23.88,
+      "finishTime": 24.16,
+      "word": "that"
+    },
+    {
+      "startTime": 24.16,
+      "finishTime": 24.42,
+      "word": "anyone"
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.64,
+      "word": "who"
+    },
+    {
+      "startTime": 24.64,
+      "finishTime": 24.8,
+      "word": "wants"
+    },
+    {
+      "startTime": 24.8,
+      "finishTime": 25,
+      "word": "to"
+    },
+    {
+      "startTime": 25,
+      "finishTime": 25.16,
+      "word": "work"
+    },
+    {
+      "startTime": 25.16,
+      "finishTime": 25.3,
+      "word": "on"
+    },
+    {
+      "startTime": 25.3,
+      "finishTime": 25.46,
+      "word": "it"
+    },
+    {
+      "startTime": 25.46,
+      "finishTime": 25.68,
+      "word": "knows"
+    },
+    {
+      "startTime": 25.68,
+      "finishTime": 25.9,
+      "word": "what"
+    },
+    {
+      "startTime": 25.9,
+      "finishTime": 26.12,
+      "word": "they"
+    },
+    {
+      "startTime": 26.12,
+      "finishTime": 26.38,
+      "word": "need."
+    },
+    {
+      "startTime": 26.38,
+      "finishTime": 27.24,
+      "word": "Then"
+    },
+    {
+      "startTime": 27.24,
+      "finishTime": 27.74,
+      "word": "specify"
+    },
+    {
+      "startTime": 27.74,
+      "finishTime": 27.96,
+      "word": "how"
+    },
+    {
+      "startTime": 27.96,
+      "finishTime": 28.06,
+      "word": "to"
+    },
+    {
+      "startTime": 28.06,
+      "finishTime": 28.28,
+      "word": "run"
+    },
+    {
+      "startTime": 28.28,
+      "finishTime": 28.46,
+      "word": "the"
+    },
+    {
+      "startTime": 28.46,
+      "finishTime": 28.62,
+      "word": "code"
+    },
+    {
+      "startTime": 28.62,
+      "finishTime": 29.06,
+      "word": "and"
+    },
+    {
+      "startTime": 29.06,
+      "finishTime": 29.36,
+      "word": "any"
+    },
+    {
+      "startTime": 29.36,
+      "finishTime": 29.66,
+      "word": "other"
+    },
+    {
+      "startTime": 29.66,
+      "finishTime": 30.04,
+      "word": "essential"
+    },
+    {
+      "startTime": 30.04,
+      "finishTime": 30.36,
+      "word": "setup"
+    },
+    {
+      "startTime": 30.36,
+      "finishTime": 30.96,
+      "word": "instructions."
+    },
+    {
+      "startTime": 32.04,
+      "finishTime": 32.04,
+      "word": "Also,"
+    },
+    {
+      "startTime": 32.62,
+      "finishTime": 32.72,
+      "word": "mention"
+    },
+    {
+      "startTime": 32.72,
+      "finishTime": 33.1,
+      "word": "coding"
+    },
+    {
+      "startTime": 33.1,
+      "finishTime": 33.56,
+      "word": "conventions"
+    },
+    {
+      "startTime": 33.56,
+      "finishTime": 33.9,
+      "word": "we"
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.14,
+      "word": "follow"
+    },
+    {
+      "startTime": 34.14,
+      "finishTime": 34.34,
+      "word": "in"
+    },
+    {
+      "startTime": 34.34,
+      "finishTime": 34.48,
+      "word": "this"
+    },
+    {
+      "startTime": 34.48,
+      "finishTime": 34.96,
+      "word": "project."
+    },
+    {
+      "startTime": 35.92,
+      "finishTime": 36.08,
+      "word": "Thanks,"
+    },
+    {
+      "startTime": 36.14,
+      "finishTime": 36.34,
+      "word": "I'll"
+    },
+    {
+      "startTime": 36.34,
+      "finishTime": 36.46,
+      "word": "make"
+    },
+    {
+      "startTime": 36.46,
+      "finishTime": 36.64,
+      "word": "sure"
+    },
+    {
+      "startTime": 36.64,
+      "finishTime": 36.82,
+      "word": "to"
+    },
+    {
+      "startTime": 36.82,
+      "finishTime": 37,
+      "word": "follow"
+    },
+    {
+      "startTime": 37,
+      "finishTime": 37.3,
+      "word": "your"
+    },
+    {
+      "startTime": 37.3,
+      "finishTime": 37.78,
+      "word": "instructions."
+    }
+  ]
+}

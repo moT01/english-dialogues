@@ -1,0 +1,750 @@
+{
+  "text": "Hey, Sarah, do you know what really gets me excited about tech? It's all those amazing gadgets. I can see your enthusiasm, Bob. Tell me, which gadgets are your absolute favorites? Well, one of my favorite gadgets is the smartwatch. I love how it keeps me connected, tracks my health, and even helps me stay organized with reminders and notifications. Smartwatches are cool. I'm more into smartphones. The camera quality, the speed, and the number of apps available are what I like the most. Oh, smartphones are fantastic too, Sarah. Gadgets like these are transforming our daily lives. But you know what my obsession is these days? Drones! I love capturing stunning aerial shots and exploring new angles for photography. Drones are an open door for exciting possibilities, Bob. Your passion for tech gadgets is contagious. It's amazing how these innovations keep making our lives more interesting and connected.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.82,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.82,
+      "finishTime": 1.22,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.76,
+      "word": "do"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 1.78,
+      "word": "you"
+    },
+    {
+      "startTime": 1.78,
+      "finishTime": 1.92,
+      "word": "know"
+    },
+    {
+      "startTime": 1.92,
+      "finishTime": 2.04,
+      "word": "what"
+    },
+    {
+      "startTime": 2.04,
+      "finishTime": 2.34,
+      "word": "really"
+    },
+    {
+      "startTime": 2.34,
+      "finishTime": 2.5,
+      "word": "gets"
+    },
+    {
+      "startTime": 2.5,
+      "finishTime": 2.72,
+      "word": "me"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 3,
+      "word": "excited"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.28,
+      "word": "about"
+    },
+    {
+      "startTime": 3.28,
+      "finishTime": 3.6,
+      "word": "tech?"
+    },
+    {
+      "startTime": 4,
+      "finishTime": 4.42,
+      "word": "It's"
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.7,
+      "word": "all"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 4.92,
+      "word": "those"
+    },
+    {
+      "startTime": 4.92,
+      "finishTime": 5.56,
+      "word": "amazing"
+    },
+    {
+      "startTime": 5.56,
+      "finishTime": 6.08,
+      "word": "gadgets."
+    },
+    {
+      "startTime": 6.86,
+      "finishTime": 7.04,
+      "word": "I"
+    },
+    {
+      "startTime": 7.04,
+      "finishTime": 7.28,
+      "word": "can"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.36,
+      "word": "see"
+    },
+    {
+      "startTime": 7.36,
+      "finishTime": 7.62,
+      "word": "your"
+    },
+    {
+      "startTime": 7.62,
+      "finishTime": 8.18,
+      "word": "enthusiasm,"
+    },
+    {
+      "startTime": 8.26,
+      "finishTime": 8.6,
+      "word": "Bob."
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9.06,
+      "word": "Tell"
+    },
+    {
+      "startTime": 9.06,
+      "finishTime": 9.4,
+      "word": "me,"
+    },
+    {
+      "startTime": 9.4,
+      "finishTime": 9.66,
+      "word": "which"
+    },
+    {
+      "startTime": 9.66,
+      "finishTime": 10.04,
+      "word": "gadgets"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.26,
+      "word": "are"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.6,
+      "word": "your"
+    },
+    {
+      "startTime": 10.6,
+      "finishTime": 10.9,
+      "word": "absolute"
+    },
+    {
+      "startTime": 10.9,
+      "finishTime": 11.36,
+      "word": "favorites?"
+    },
+    {
+      "startTime": 12.04,
+      "finishTime": 12.52,
+      "word": "Well,"
+    },
+    {
+      "startTime": 12.76,
+      "finishTime": 12.96,
+      "word": "one"
+    },
+    {
+      "startTime": 12.96,
+      "finishTime": 13.1,
+      "word": "of"
+    },
+    {
+      "startTime": 13.1,
+      "finishTime": 13.3,
+      "word": "my"
+    },
+    {
+      "startTime": 13.3,
+      "finishTime": 13.66,
+      "word": "favorite"
+    },
+    {
+      "startTime": 13.66,
+      "finishTime": 14.04,
+      "word": "gadgets"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.44,
+      "word": "is"
+    },
+    {
+      "startTime": 14.44,
+      "finishTime": 14.7,
+      "word": "the"
+    },
+    {
+      "startTime": 14.7,
+      "finishTime": 15.2,
+      "word": "smartwatch."
+    },
+    {
+      "startTime": 15.36,
+      "finishTime": 15.66,
+      "word": "I"
+    },
+    {
+      "startTime": 15.66,
+      "finishTime": 15.82,
+      "word": "love"
+    },
+    {
+      "startTime": 15.82,
+      "finishTime": 16.06,
+      "word": "how"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.22,
+      "word": "it"
+    },
+    {
+      "startTime": 16.22,
+      "finishTime": 16.34,
+      "word": "keeps"
+    },
+    {
+      "startTime": 16.34,
+      "finishTime": 16.62,
+      "word": "me"
+    },
+    {
+      "startTime": 16.62,
+      "finishTime": 17.04,
+      "word": "connected,"
+    },
+    {
+      "startTime": 17.28,
+      "finishTime": 17.44,
+      "word": "tracks"
+    },
+    {
+      "startTime": 17.44,
+      "finishTime": 17.7,
+      "word": "my"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.94,
+      "word": "health,"
+    },
+    {
+      "startTime": 18.24,
+      "finishTime": 18.5,
+      "word": "and"
+    },
+    {
+      "startTime": 18.5,
+      "finishTime": 18.8,
+      "word": "even"
+    },
+    {
+      "startTime": 18.8,
+      "finishTime": 19,
+      "word": "helps"
+    },
+    {
+      "startTime": 19,
+      "finishTime": 19.24,
+      "word": "me"
+    },
+    {
+      "startTime": 19.24,
+      "finishTime": 19.42,
+      "word": "stay"
+    },
+    {
+      "startTime": 19.42,
+      "finishTime": 19.94,
+      "word": "organized"
+    },
+    {
+      "startTime": 19.94,
+      "finishTime": 20.24,
+      "word": "with"
+    },
+    {
+      "startTime": 20.24,
+      "finishTime": 20.72,
+      "word": "reminders"
+    },
+    {
+      "startTime": 20.72,
+      "finishTime": 21.04,
+      "word": "and"
+    },
+    {
+      "startTime": 21.04,
+      "finishTime": 21.74,
+      "word": "notifications."
+    },
+    {
+      "startTime": 22.76,
+      "finishTime": 23.16,
+      "word": "Smartwatches"
+    },
+    {
+      "startTime": 23.16,
+      "finishTime": 23.36,
+      "word": "are"
+    },
+    {
+      "startTime": 23.36,
+      "finishTime": 23.68,
+      "word": "cool."
+    },
+    {
+      "startTime": 23.88,
+      "finishTime": 24.16,
+      "word": "I'm"
+    },
+    {
+      "startTime": 24.16,
+      "finishTime": 24.26,
+      "word": "more"
+    },
+    {
+      "startTime": 24.26,
+      "finishTime": 24.48,
+      "word": "into"
+    },
+    {
+      "startTime": 24.48,
+      "finishTime": 25.04,
+      "word": "smartphones."
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.58,
+      "word": "The"
+    },
+    {
+      "startTime": 25.58,
+      "finishTime": 25.9,
+      "word": "camera"
+    },
+    {
+      "startTime": 25.9,
+      "finishTime": 26.46,
+      "word": "quality,"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.9,
+      "word": "the"
+    },
+    {
+      "startTime": 26.9,
+      "finishTime": 27.14,
+      "word": "speed,"
+    },
+    {
+      "startTime": 27.36,
+      "finishTime": 27.46,
+      "word": "and"
+    },
+    {
+      "startTime": 27.46,
+      "finishTime": 27.56,
+      "word": "the"
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 27.78,
+      "word": "number"
+    },
+    {
+      "startTime": 27.78,
+      "finishTime": 27.9,
+      "word": "of"
+    },
+    {
+      "startTime": 27.9,
+      "finishTime": 28.16,
+      "word": "apps"
+    },
+    {
+      "startTime": 28.16,
+      "finishTime": 28.58,
+      "word": "available"
+    },
+    {
+      "startTime": 28.58,
+      "finishTime": 28.74,
+      "word": "are"
+    },
+    {
+      "startTime": 28.74,
+      "finishTime": 28.9,
+      "word": "what"
+    },
+    {
+      "startTime": 28.9,
+      "finishTime": 29.04,
+      "word": "I"
+    },
+    {
+      "startTime": 29.04,
+      "finishTime": 29.2,
+      "word": "like"
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.34,
+      "word": "the"
+    },
+    {
+      "startTime": 29.34,
+      "finishTime": 29.84,
+      "word": "most."
+    },
+    {
+      "startTime": 30.2,
+      "finishTime": 30.62,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 30.92,
+      "finishTime": 31.2,
+      "word": "smartphones"
+    },
+    {
+      "startTime": 31.2,
+      "finishTime": 31.44,
+      "word": "are"
+    },
+    {
+      "startTime": 31.44,
+      "finishTime": 32.02,
+      "word": "fantastic"
+    },
+    {
+      "startTime": 32.02,
+      "finishTime": 32.4,
+      "word": "too,"
+    },
+    {
+      "startTime": 32.48,
+      "finishTime": 32.88,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.58,
+      "word": "Gadgets"
+    },
+    {
+      "startTime": 33.58,
+      "finishTime": 33.9,
+      "word": "like"
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.2,
+      "word": "these"
+    },
+    {
+      "startTime": 34.2,
+      "finishTime": 34.62,
+      "word": "are"
+    },
+    {
+      "startTime": 34.62,
+      "finishTime": 35.1,
+      "word": "transforming"
+    },
+    {
+      "startTime": 35.1,
+      "finishTime": 35.5,
+      "word": "our"
+    },
+    {
+      "startTime": 35.5,
+      "finishTime": 35.76,
+      "word": "daily"
+    },
+    {
+      "startTime": 35.76,
+      "finishTime": 36.22,
+      "word": "lives."
+    },
+    {
+      "startTime": 36.58,
+      "finishTime": 36.78,
+      "word": "But"
+    },
+    {
+      "startTime": 36.78,
+      "finishTime": 36.94,
+      "word": "you"
+    },
+    {
+      "startTime": 36.94,
+      "finishTime": 37.04,
+      "word": "know"
+    },
+    {
+      "startTime": 37.04,
+      "finishTime": 37.18,
+      "word": "what"
+    },
+    {
+      "startTime": 37.18,
+      "finishTime": 37.44,
+      "word": "my"
+    },
+    {
+      "startTime": 37.44,
+      "finishTime": 37.84,
+      "word": "obsession"
+    },
+    {
+      "startTime": 37.84,
+      "finishTime": 38.1,
+      "word": "is"
+    },
+    {
+      "startTime": 38.1,
+      "finishTime": 38.34,
+      "word": "these"
+    },
+    {
+      "startTime": 38.34,
+      "finishTime": 38.8,
+      "word": "days?"
+    },
+    {
+      "startTime": 39.28,
+      "finishTime": 39.78,
+      "word": "Drones!"
+    },
+    {
+      "startTime": 40.36,
+      "finishTime": 40.54,
+      "word": "I"
+    },
+    {
+      "startTime": 40.54,
+      "finishTime": 40.84,
+      "word": "love"
+    },
+    {
+      "startTime": 40.84,
+      "finishTime": 41.34,
+      "word": "capturing"
+    },
+    {
+      "startTime": 41.34,
+      "finishTime": 42.04,
+      "word": "stunning"
+    },
+    {
+      "startTime": 42.04,
+      "finishTime": 42.52,
+      "word": "aerial"
+    },
+    {
+      "startTime": 42.52,
+      "finishTime": 43.04,
+      "word": "shots"
+    },
+    {
+      "startTime": 43.04,
+      "finishTime": 43.68,
+      "word": "and"
+    },
+    {
+      "startTime": 43.68,
+      "finishTime": 44.02,
+      "word": "exploring"
+    },
+    {
+      "startTime": 44.02,
+      "finishTime": 44.26,
+      "word": "new"
+    },
+    {
+      "startTime": 44.26,
+      "finishTime": 44.6,
+      "word": "angles"
+    },
+    {
+      "startTime": 44.6,
+      "finishTime": 44.9,
+      "word": "for"
+    },
+    {
+      "startTime": 44.9,
+      "finishTime": 45.56,
+      "word": "photography."
+    },
+    {
+      "startTime": 46.68,
+      "finishTime": 46.9,
+      "word": "Drones"
+    },
+    {
+      "startTime": 46.9,
+      "finishTime": 47.1,
+      "word": "are"
+    },
+    {
+      "startTime": 47.1,
+      "finishTime": 47.3,
+      "word": "an"
+    },
+    {
+      "startTime": 47.3,
+      "finishTime": 47.5,
+      "word": "open"
+    },
+    {
+      "startTime": 47.5,
+      "finishTime": 47.7,
+      "word": "door"
+    },
+    {
+      "startTime": 47.7,
+      "finishTime": 47.98,
+      "word": "for"
+    },
+    {
+      "startTime": 47.98,
+      "finishTime": 48.36,
+      "word": "exciting"
+    },
+    {
+      "startTime": 48.36,
+      "finishTime": 48.98,
+      "word": "possibilities,"
+    },
+    {
+      "startTime": 49.32,
+      "finishTime": 49.32,
+      "word": "Bob."
+    },
+    {
+      "startTime": 49.72,
+      "finishTime": 49.88,
+      "word": "Your"
+    },
+    {
+      "startTime": 49.88,
+      "finishTime": 50.16,
+      "word": "passion"
+    },
+    {
+      "startTime": 50.16,
+      "finishTime": 50.36,
+      "word": "for"
+    },
+    {
+      "startTime": 50.36,
+      "finishTime": 50.56,
+      "word": "tech"
+    },
+    {
+      "startTime": 50.56,
+      "finishTime": 50.92,
+      "word": "gadgets"
+    },
+    {
+      "startTime": 50.92,
+      "finishTime": 51.24,
+      "word": "is"
+    },
+    {
+      "startTime": 51.24,
+      "finishTime": 51.74,
+      "word": "contagious."
+    },
+    {
+      "startTime": 51.74,
+      "finishTime": 52.32,
+      "word": "It's"
+    },
+    {
+      "startTime": 52.32,
+      "finishTime": 52.62,
+      "word": "amazing"
+    },
+    {
+      "startTime": 52.62,
+      "finishTime": 52.84,
+      "word": "how"
+    },
+    {
+      "startTime": 52.84,
+      "finishTime": 53.1,
+      "word": "these"
+    },
+    {
+      "startTime": 53.1,
+      "finishTime": 53.5,
+      "word": "innovations"
+    },
+    {
+      "startTime": 53.5,
+      "finishTime": 53.82,
+      "word": "keep"
+    },
+    {
+      "startTime": 53.82,
+      "finishTime": 54.12,
+      "word": "making"
+    },
+    {
+      "startTime": 54.12,
+      "finishTime": 54.3,
+      "word": "our"
+    },
+    {
+      "startTime": 54.3,
+      "finishTime": 54.52,
+      "word": "lives"
+    },
+    {
+      "startTime": 54.52,
+      "finishTime": 54.86,
+      "word": "more"
+    },
+    {
+      "startTime": 54.86,
+      "finishTime": 55.2,
+      "word": "interesting"
+    },
+    {
+      "startTime": 55.2,
+      "finishTime": 55.54,
+      "word": "and"
+    },
+    {
+      "startTime": 55.54,
+      "finishTime": 55.84,
+      "word": "connected."
+    }
+  ]
+}

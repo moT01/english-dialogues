@@ -1,0 +1,405 @@
+{
+  "text": "Hello. You're the new graphic designer, right? I'm Maria, the team lead. Hi, that's right. I'm Tom McKenzie. It's a pleasure to meet you. Welcome aboard, Tom. How do you like California so far? I like it. It's different from Texas, but I like it here. Great. Let me show you to your desk. Do you see the desk with a drawing tablet and a computer? That's your workspace. Everything looks great. Thanks for showing me around the place, Maria.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.56,
+      "word": "Hello."
+    },
+    {
+      "startTime": 0.82,
+      "finishTime": 1.04,
+      "word": "You're"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.12,
+      "word": "the"
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.32,
+      "word": "new"
+    },
+    {
+      "startTime": 1.32,
+      "finishTime": 1.66,
+      "word": "graphic"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 2,
+      "word": "designer,"
+    },
+    {
+      "startTime": 2.2,
+      "finishTime": 2.38,
+      "word": "right?"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 2.96,
+      "word": "I'm"
+    },
+    {
+      "startTime": 2.96,
+      "finishTime": 3.22,
+      "word": "Maria,"
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.6,
+      "word": "the"
+    },
+    {
+      "startTime": 3.6,
+      "finishTime": 3.76,
+      "word": "team"
+    },
+    {
+      "startTime": 3.76,
+      "finishTime": 4.04,
+      "word": "lead."
+    },
+    {
+      "startTime": 4.62,
+      "finishTime": 4.96,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 5.18,
+      "finishTime": 5.46,
+      "word": "that's"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.7,
+      "word": "right."
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.18,
+      "word": "I'm"
+    },
+    {
+      "startTime": 6.18,
+      "finishTime": 6.46,
+      "word": "Tom"
+    },
+    {
+      "startTime": 6.46,
+      "finishTime": 6.9,
+      "word": "McKenzie."
+    },
+    {
+      "startTime": 7.14,
+      "finishTime": 7.36,
+      "word": "It's"
+    },
+    {
+      "startTime": 7.36,
+      "finishTime": 7.48,
+      "word": "a"
+    },
+    {
+      "startTime": 7.48,
+      "finishTime": 7.66,
+      "word": "pleasure"
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 7.86,
+      "word": "to"
+    },
+    {
+      "startTime": 7.86,
+      "finishTime": 8,
+      "word": "meet"
+    },
+    {
+      "startTime": 8,
+      "finishTime": 8.46,
+      "word": "you."
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9.1,
+      "word": "Welcome"
+    },
+    {
+      "startTime": 9.1,
+      "finishTime": 9.42,
+      "word": "aboard,"
+    },
+    {
+      "startTime": 9.66,
+      "finishTime": 9.78,
+      "word": "Tom."
+    },
+    {
+      "startTime": 10.06,
+      "finishTime": 10.18,
+      "word": "How"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.3,
+      "word": "do"
+    },
+    {
+      "startTime": 10.3,
+      "finishTime": 10.4,
+      "word": "you"
+    },
+    {
+      "startTime": 10.4,
+      "finishTime": 10.58,
+      "word": "like"
+    },
+    {
+      "startTime": 10.58,
+      "finishTime": 11,
+      "word": "California"
+    },
+    {
+      "startTime": 11,
+      "finishTime": 11.3,
+      "word": "so"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.5,
+      "word": "far?"
+    },
+    {
+      "startTime": 11.9,
+      "finishTime": 12.08,
+      "word": "I"
+    },
+    {
+      "startTime": 12.08,
+      "finishTime": 12.3,
+      "word": "like"
+    },
+    {
+      "startTime": 12.3,
+      "finishTime": 12.66,
+      "word": "it."
+    },
+    {
+      "startTime": 12.86,
+      "finishTime": 13.22,
+      "word": "It's"
+    },
+    {
+      "startTime": 13.22,
+      "finishTime": 13.44,
+      "word": "different"
+    },
+    {
+      "startTime": 13.44,
+      "finishTime": 13.66,
+      "word": "from"
+    },
+    {
+      "startTime": 13.66,
+      "finishTime": 14,
+      "word": "Texas,"
+    },
+    {
+      "startTime": 14.12,
+      "finishTime": 14.36,
+      "word": "but"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.52,
+      "word": "I"
+    },
+    {
+      "startTime": 14.52,
+      "finishTime": 14.7,
+      "word": "like"
+    },
+    {
+      "startTime": 14.7,
+      "finishTime": 14.82,
+      "word": "it"
+    },
+    {
+      "startTime": 14.82,
+      "finishTime": 15.18,
+      "word": "here."
+    },
+    {
+      "startTime": 15.74,
+      "finishTime": 16.08,
+      "word": "Great."
+    },
+    {
+      "startTime": 16.28,
+      "finishTime": 16.44,
+      "word": "Let"
+    },
+    {
+      "startTime": 16.44,
+      "finishTime": 16.52,
+      "word": "me"
+    },
+    {
+      "startTime": 16.52,
+      "finishTime": 16.7,
+      "word": "show"
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.8,
+      "word": "you"
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 16.96,
+      "word": "to"
+    },
+    {
+      "startTime": 16.96,
+      "finishTime": 17.12,
+      "word": "your"
+    },
+    {
+      "startTime": 17.12,
+      "finishTime": 17.42,
+      "word": "desk."
+    },
+    {
+      "startTime": 17.9,
+      "finishTime": 18.02,
+      "word": "Do"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.14,
+      "word": "you"
+    },
+    {
+      "startTime": 18.14,
+      "finishTime": 18.24,
+      "word": "see"
+    },
+    {
+      "startTime": 18.24,
+      "finishTime": 18.44,
+      "word": "the"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.66,
+      "word": "desk"
+    },
+    {
+      "startTime": 18.66,
+      "finishTime": 18.84,
+      "word": "with"
+    },
+    {
+      "startTime": 18.84,
+      "finishTime": 19.04,
+      "word": "a"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.22,
+      "word": "drawing"
+    },
+    {
+      "startTime": 19.22,
+      "finishTime": 19.6,
+      "word": "tablet"
+    },
+    {
+      "startTime": 19.6,
+      "finishTime": 19.78,
+      "word": "and"
+    },
+    {
+      "startTime": 19.78,
+      "finishTime": 20.02,
+      "word": "a"
+    },
+    {
+      "startTime": 20.02,
+      "finishTime": 20.22,
+      "word": "computer?"
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.92,
+      "word": "That's"
+    },
+    {
+      "startTime": 20.92,
+      "finishTime": 21.08,
+      "word": "your"
+    },
+    {
+      "startTime": 21.08,
+      "finishTime": 21.44,
+      "word": "workspace."
+    },
+    {
+      "startTime": 22.2,
+      "finishTime": 22.46,
+      "word": "Everything"
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.72,
+      "word": "looks"
+    },
+    {
+      "startTime": 22.72,
+      "finishTime": 23.14,
+      "word": "great."
+    },
+    {
+      "startTime": 23.42,
+      "finishTime": 23.64,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 23.64,
+      "finishTime": 23.82,
+      "word": "for"
+    },
+    {
+      "startTime": 23.82,
+      "finishTime": 24,
+      "word": "showing"
+    },
+    {
+      "startTime": 24,
+      "finishTime": 24.2,
+      "word": "me"
+    },
+    {
+      "startTime": 24.2,
+      "finishTime": 24.38,
+      "word": "around"
+    },
+    {
+      "startTime": 24.38,
+      "finishTime": 24.6,
+      "word": "the"
+    },
+    {
+      "startTime": 24.6,
+      "finishTime": 24.78,
+      "word": "place,"
+    },
+    {
+      "startTime": 24.84,
+      "finishTime": 25.1,
+      "word": "Maria."
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "text": "Hey, I've been curious about your background. How did you end up as a tech recruiter? Hey, that's an interesting story. I actually studied psychology in college. My plan was to become a therapist or counselor, but during my last year, I took a course in organizational psychology and it piqued my interest in the workplace and employee dynamics. That's a cool twist. Did you immediately start working as a tech recruiter after college? Not right away. I worked in a general HR role at a non-tech company first, focusing on training and development. What made you make the jump to tech? I saw that tech companies appreciate innovation and care for their employees' wellbeing. This is directly related to what made me want to become a psychologist. So basically, that's what brought me here. Awesome. It was great to get to know you better.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.52,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.82,
+      "finishTime": 1,
+      "word": "I've"
+    },
+    {
+      "startTime": 1,
+      "finishTime": 1.14,
+      "word": "been"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.44,
+      "word": "curious"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.66,
+      "word": "about"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.86,
+      "word": "your"
+    },
+    {
+      "startTime": 1.86,
+      "finishTime": 2.36,
+      "word": "background."
+    },
+    {
+      "startTime": 2.6,
+      "finishTime": 2.78,
+      "word": "How"
+    },
+    {
+      "startTime": 2.78,
+      "finishTime": 2.94,
+      "word": "did"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.04,
+      "word": "you"
+    },
+    {
+      "startTime": 3.04,
+      "finishTime": 3.2,
+      "word": "end"
+    },
+    {
+      "startTime": 3.2,
+      "finishTime": 3.32,
+      "word": "up"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.54,
+      "word": "as"
+    },
+    {
+      "startTime": 3.54,
+      "finishTime": 3.62,
+      "word": "a"
+    },
+    {
+      "startTime": 3.62,
+      "finishTime": 3.84,
+      "word": "tech"
+    },
+    {
+      "startTime": 3.84,
+      "finishTime": 4.16,
+      "word": "recruiter?"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.24,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 5.4,
+      "finishTime": 5.6,
+      "word": "that's"
+    },
+    {
+      "startTime": 5.6,
+      "finishTime": 5.82,
+      "word": "an"
+    },
+    {
+      "startTime": 5.82,
+      "finishTime": 6.14,
+      "word": "interesting"
+    },
+    {
+      "startTime": 6.14,
+      "finishTime": 6.6,
+      "word": "story."
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.14,
+      "word": "I"
+    },
+    {
+      "startTime": 7.14,
+      "finishTime": 7.44,
+      "word": "actually"
+    },
+    {
+      "startTime": 7.44,
+      "finishTime": 7.72,
+      "word": "studied"
+    },
+    {
+      "startTime": 7.72,
+      "finishTime": 8.36,
+      "word": "psychology"
+    },
+    {
+      "startTime": 8.36,
+      "finishTime": 8.72,
+      "word": "in"
+    },
+    {
+      "startTime": 8.72,
+      "finishTime": 9.12,
+      "word": "college."
+    },
+    {
+      "startTime": 9.28,
+      "finishTime": 9.48,
+      "word": "My"
+    },
+    {
+      "startTime": 9.48,
+      "finishTime": 9.7,
+      "word": "plan"
+    },
+    {
+      "startTime": 9.7,
+      "finishTime": 9.88,
+      "word": "was"
+    },
+    {
+      "startTime": 9.88,
+      "finishTime": 10.02,
+      "word": "to"
+    },
+    {
+      "startTime": 10.02,
+      "finishTime": 10.22,
+      "word": "become"
+    },
+    {
+      "startTime": 10.22,
+      "finishTime": 10.44,
+      "word": "a"
+    },
+    {
+      "startTime": 10.44,
+      "finishTime": 10.82,
+      "word": "therapist"
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11.06,
+      "word": "or"
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.56,
+      "word": "counselor,"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 12.06,
+      "word": "but"
+    },
+    {
+      "startTime": 12.06,
+      "finishTime": 12.28,
+      "word": "during"
+    },
+    {
+      "startTime": 12.28,
+      "finishTime": 12.46,
+      "word": "my"
+    },
+    {
+      "startTime": 12.46,
+      "finishTime": 12.76,
+      "word": "last"
+    },
+    {
+      "startTime": 12.76,
+      "finishTime": 13.1,
+      "word": "year,"
+    },
+    {
+      "startTime": 13.14,
+      "finishTime": 13.28,
+      "word": "I"
+    },
+    {
+      "startTime": 13.28,
+      "finishTime": 13.4,
+      "word": "took"
+    },
+    {
+      "startTime": 13.4,
+      "finishTime": 13.62,
+      "word": "a"
+    },
+    {
+      "startTime": 13.62,
+      "finishTime": 13.8,
+      "word": "course"
+    },
+    {
+      "startTime": 13.8,
+      "finishTime": 14.1,
+      "word": "in"
+    },
+    {
+      "startTime": 14.1,
+      "finishTime": 14.66,
+      "word": "organizational"
+    },
+    {
+      "startTime": 14.66,
+      "finishTime": 15.38,
+      "word": "psychology"
+    },
+    {
+      "startTime": 15.38,
+      "finishTime": 15.8,
+      "word": "and"
+    },
+    {
+      "startTime": 15.8,
+      "finishTime": 15.96,
+      "word": "it"
+    },
+    {
+      "startTime": 15.96,
+      "finishTime": 16.14,
+      "word": "piqued"
+    },
+    {
+      "startTime": 16.14,
+      "finishTime": 16.4,
+      "word": "my"
+    },
+    {
+      "startTime": 16.4,
+      "finishTime": 16.7,
+      "word": "interest"
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.86,
+      "word": "in"
+    },
+    {
+      "startTime": 16.86,
+      "finishTime": 17,
+      "word": "the"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.42,
+      "word": "workplace"
+    },
+    {
+      "startTime": 17.42,
+      "finishTime": 17.82,
+      "word": "and"
+    },
+    {
+      "startTime": 17.82,
+      "finishTime": 18.04,
+      "word": "employee"
+    },
+    {
+      "startTime": 18.04,
+      "finishTime": 18.62,
+      "word": "dynamics."
+    },
+    {
+      "startTime": 19.02,
+      "finishTime": 19.32,
+      "word": "That's"
+    },
+    {
+      "startTime": 19.32,
+      "finishTime": 19.42,
+      "word": "a"
+    },
+    {
+      "startTime": 19.42,
+      "finishTime": 19.58,
+      "word": "cool"
+    },
+    {
+      "startTime": 19.58,
+      "finishTime": 20.04,
+      "word": "twist."
+    },
+    {
+      "startTime": 20.36,
+      "finishTime": 20.48,
+      "word": "Did"
+    },
+    {
+      "startTime": 20.48,
+      "finishTime": 20.66,
+      "word": "you"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 21.12,
+      "word": "immediately"
+    },
+    {
+      "startTime": 21.12,
+      "finishTime": 21.36,
+      "word": "start"
+    },
+    {
+      "startTime": 21.36,
+      "finishTime": 21.64,
+      "word": "working"
+    },
+    {
+      "startTime": 21.64,
+      "finishTime": 21.84,
+      "word": "as"
+    },
+    {
+      "startTime": 21.84,
+      "finishTime": 22,
+      "word": "a"
+    },
+    {
+      "startTime": 22,
+      "finishTime": 22.18,
+      "word": "tech"
+    },
+    {
+      "startTime": 22.18,
+      "finishTime": 22.56,
+      "word": "recruiter"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 22.84,
+      "word": "after"
+    },
+    {
+      "startTime": 22.84,
+      "finishTime": 23.26,
+      "word": "college?"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 23.86,
+      "word": "Not"
+    },
+    {
+      "startTime": 23.86,
+      "finishTime": 24.08,
+      "word": "right"
+    },
+    {
+      "startTime": 24.08,
+      "finishTime": 24.42,
+      "word": "away."
+    },
+    {
+      "startTime": 24.72,
+      "finishTime": 24.96,
+      "word": "I"
+    },
+    {
+      "startTime": 24.96,
+      "finishTime": 25.12,
+      "word": "worked"
+    },
+    {
+      "startTime": 25.12,
+      "finishTime": 25.28,
+      "word": "in"
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 25.42,
+      "word": "a"
+    },
+    {
+      "startTime": 25.42,
+      "finishTime": 25.78,
+      "word": "general"
+    },
+    {
+      "startTime": 25.78,
+      "finishTime": 26.1,
+      "word": "HR"
+    },
+    {
+      "startTime": 26.1,
+      "finishTime": 26.42,
+      "word": "role"
+    },
+    {
+      "startTime": 26.42,
+      "finishTime": 26.64,
+      "word": "at"
+    },
+    {
+      "startTime": 26.64,
+      "finishTime": 26.82,
+      "word": "a"
+    },
+    {
+      "startTime": 26.82,
+      "finishTime": 27,
+      "word": "non"
+    },
+    {
+      "startTime": 27,
+      "finishTime": 27.18,
+      "word": "-tech"
+    },
+    {
+      "startTime": 27.18,
+      "finishTime": 27.56,
+      "word": "company"
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 28.08,
+      "word": "first,"
+    },
+    {
+      "startTime": 28.08,
+      "finishTime": 28.66,
+      "word": "focusing"
+    },
+    {
+      "startTime": 28.66,
+      "finishTime": 29.14,
+      "word": "on"
+    },
+    {
+      "startTime": 29.14,
+      "finishTime": 29.5,
+      "word": "training"
+    },
+    {
+      "startTime": 29.5,
+      "finishTime": 29.82,
+      "word": "and"
+    },
+    {
+      "startTime": 29.82,
+      "finishTime": 30.24,
+      "word": "development."
+    },
+    {
+      "startTime": 30.76,
+      "finishTime": 30.92,
+      "word": "What"
+    },
+    {
+      "startTime": 30.92,
+      "finishTime": 31.14,
+      "word": "made"
+    },
+    {
+      "startTime": 31.14,
+      "finishTime": 31.36,
+      "word": "you"
+    },
+    {
+      "startTime": 31.36,
+      "finishTime": 31.5,
+      "word": "make"
+    },
+    {
+      "startTime": 31.5,
+      "finishTime": 31.74,
+      "word": "the"
+    },
+    {
+      "startTime": 31.74,
+      "finishTime": 31.9,
+      "word": "jump"
+    },
+    {
+      "startTime": 31.9,
+      "finishTime": 32.12,
+      "word": "to"
+    },
+    {
+      "startTime": 32.12,
+      "finishTime": 32.38,
+      "word": "tech?"
+    },
+    {
+      "startTime": 33.3,
+      "finishTime": 33.36,
+      "word": "I"
+    },
+    {
+      "startTime": 33.36,
+      "finishTime": 33.6,
+      "word": "saw"
+    },
+    {
+      "startTime": 33.6,
+      "finishTime": 33.84,
+      "word": "that"
+    },
+    {
+      "startTime": 33.84,
+      "finishTime": 34,
+      "word": "tech"
+    },
+    {
+      "startTime": 34,
+      "finishTime": 34.36,
+      "word": "companies"
+    },
+    {
+      "startTime": 34.36,
+      "finishTime": 34.92,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 34.92,
+      "finishTime": 35.4,
+      "word": "innovation"
+    },
+    {
+      "startTime": 35.4,
+      "finishTime": 35.86,
+      "word": "and"
+    },
+    {
+      "startTime": 35.86,
+      "finishTime": 36.08,
+      "word": "care"
+    },
+    {
+      "startTime": 36.08,
+      "finishTime": 36.28,
+      "word": "for"
+    },
+    {
+      "startTime": 36.28,
+      "finishTime": 36.52,
+      "word": "their"
+    },
+    {
+      "startTime": 36.52,
+      "finishTime": 36.8,
+      "word": "employees'"
+    },
+    {
+      "startTime": 37.16,
+      "finishTime": 37.22,
+      "word": "wellbeing."
+    },
+    {
+      "startTime": 37.9,
+      "finishTime": 38.04,
+      "word": "This"
+    },
+    {
+      "startTime": 38.04,
+      "finishTime": 38.28,
+      "word": "is"
+    },
+    {
+      "startTime": 38.28,
+      "finishTime": 38.62,
+      "word": "directly"
+    },
+    {
+      "startTime": 38.62,
+      "finishTime": 39.1,
+      "word": "related"
+    },
+    {
+      "startTime": 39.1,
+      "finishTime": 39.36,
+      "word": "to"
+    },
+    {
+      "startTime": 39.36,
+      "finishTime": 39.5,
+      "word": "what"
+    },
+    {
+      "startTime": 39.5,
+      "finishTime": 39.66,
+      "word": "made"
+    },
+    {
+      "startTime": 39.66,
+      "finishTime": 39.84,
+      "word": "me"
+    },
+    {
+      "startTime": 39.84,
+      "finishTime": 39.96,
+      "word": "want"
+    },
+    {
+      "startTime": 39.96,
+      "finishTime": 40.16,
+      "word": "to"
+    },
+    {
+      "startTime": 40.16,
+      "finishTime": 40.32,
+      "word": "become"
+    },
+    {
+      "startTime": 40.32,
+      "finishTime": 40.52,
+      "word": "a"
+    },
+    {
+      "startTime": 40.52,
+      "finishTime": 41.08,
+      "word": "psychologist."
+    },
+    {
+      "startTime": 41.48,
+      "finishTime": 41.62,
+      "word": "So"
+    },
+    {
+      "startTime": 41.62,
+      "finishTime": 41.98,
+      "word": "basically,"
+    },
+    {
+      "startTime": 42.22,
+      "finishTime": 42.3,
+      "word": "that's"
+    },
+    {
+      "startTime": 42.3,
+      "finishTime": 42.44,
+      "word": "what"
+    },
+    {
+      "startTime": 42.44,
+      "finishTime": 42.58,
+      "word": "brought"
+    },
+    {
+      "startTime": 42.58,
+      "finishTime": 42.74,
+      "word": "me"
+    },
+    {
+      "startTime": 42.74,
+      "finishTime": 43.16,
+      "word": "here."
+    },
+    {
+      "startTime": 43.84,
+      "finishTime": 44.28,
+      "word": "Awesome."
+    },
+    {
+      "startTime": 44.88,
+      "finishTime": 45.04,
+      "word": "It"
+    },
+    {
+      "startTime": 45.04,
+      "finishTime": 45.24,
+      "word": "was"
+    },
+    {
+      "startTime": 45.24,
+      "finishTime": 45.44,
+      "word": "great"
+    },
+    {
+      "startTime": 45.44,
+      "finishTime": 45.6,
+      "word": "to"
+    },
+    {
+      "startTime": 45.6,
+      "finishTime": 45.68,
+      "word": "get"
+    },
+    {
+      "startTime": 45.68,
+      "finishTime": 45.86,
+      "word": "to"
+    },
+    {
+      "startTime": 45.86,
+      "finishTime": 46,
+      "word": "know"
+    },
+    {
+      "startTime": 46,
+      "finishTime": 46.18,
+      "word": "you"
+    },
+    {
+      "startTime": 46.18,
+      "finishTime": 46.36,
+      "word": "better."
+    }
+  ]
+}

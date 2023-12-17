@@ -1,0 +1,380 @@
+{
+  "text": "Bob, could you tell me about your job and your responsibilities in the office? Of course. I'd be happy to. In my role, I have to meet project deadlines and collaborate with the development team. I also can't disclose sensitive information to anyone outside of the company. What about daily tasks? Well, I have to attend team meetings and provide progress reports, but I don't have to work over time unless it's an urgent situation.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.74,
+      "word": "Bob,"
+    },
+    {
+      "startTime": 0.82,
+      "finishTime": 0.98,
+      "word": "could"
+    },
+    {
+      "startTime": 0.98,
+      "finishTime": 1.1,
+      "word": "you"
+    },
+    {
+      "startTime": 1.1,
+      "finishTime": 1.22,
+      "word": "tell"
+    },
+    {
+      "startTime": 1.22,
+      "finishTime": 1.36,
+      "word": "me"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.54,
+      "word": "about"
+    },
+    {
+      "startTime": 1.54,
+      "finishTime": 1.76,
+      "word": "your"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 1.98,
+      "word": "job"
+    },
+    {
+      "startTime": 1.98,
+      "finishTime": 2.18,
+      "word": "and"
+    },
+    {
+      "startTime": 2.18,
+      "finishTime": 2.38,
+      "word": "your"
+    },
+    {
+      "startTime": 2.38,
+      "finishTime": 2.92,
+      "word": "responsibilities"
+    },
+    {
+      "startTime": 2.92,
+      "finishTime": 3.12,
+      "word": "in"
+    },
+    {
+      "startTime": 3.12,
+      "finishTime": 3.28,
+      "word": "the"
+    },
+    {
+      "startTime": 3.28,
+      "finishTime": 3.56,
+      "word": "office?"
+    },
+    {
+      "startTime": 3.96,
+      "finishTime": 4.22,
+      "word": "Of"
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.6,
+      "word": "course."
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 5.04,
+      "word": "I'd"
+    },
+    {
+      "startTime": 5.04,
+      "finishTime": 5.2,
+      "word": "be"
+    },
+    {
+      "startTime": 5.2,
+      "finishTime": 5.4,
+      "word": "happy"
+    },
+    {
+      "startTime": 5.4,
+      "finishTime": 5.74,
+      "word": "to."
+    },
+    {
+      "startTime": 5.94,
+      "finishTime": 6.1,
+      "word": "In"
+    },
+    {
+      "startTime": 6.1,
+      "finishTime": 6.36,
+      "word": "my"
+    },
+    {
+      "startTime": 6.36,
+      "finishTime": 6.64,
+      "word": "role,"
+    },
+    {
+      "startTime": 6.82,
+      "finishTime": 6.96,
+      "word": "I"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.14,
+      "word": "have"
+    },
+    {
+      "startTime": 7.14,
+      "finishTime": 7.34,
+      "word": "to"
+    },
+    {
+      "startTime": 7.34,
+      "finishTime": 7.5,
+      "word": "meet"
+    },
+    {
+      "startTime": 7.5,
+      "finishTime": 7.88,
+      "word": "project"
+    },
+    {
+      "startTime": 7.88,
+      "finishTime": 8.36,
+      "word": "deadlines"
+    },
+    {
+      "startTime": 8.36,
+      "finishTime": 8.8,
+      "word": "and"
+    },
+    {
+      "startTime": 8.8,
+      "finishTime": 9.22,
+      "word": "collaborate"
+    },
+    {
+      "startTime": 9.22,
+      "finishTime": 9.48,
+      "word": "with"
+    },
+    {
+      "startTime": 9.48,
+      "finishTime": 9.7,
+      "word": "the"
+    },
+    {
+      "startTime": 9.7,
+      "finishTime": 10.08,
+      "word": "development"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.38,
+      "word": "team."
+    },
+    {
+      "startTime": 10.82,
+      "finishTime": 11.06,
+      "word": "I"
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.3,
+      "word": "also"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.72,
+      "word": "can't"
+    },
+    {
+      "startTime": 11.72,
+      "finishTime": 12.12,
+      "word": "disclose"
+    },
+    {
+      "startTime": 12.12,
+      "finishTime": 12.6,
+      "word": "sensitive"
+    },
+    {
+      "startTime": 12.6,
+      "finishTime": 13.26,
+      "word": "information"
+    },
+    {
+      "startTime": 13.26,
+      "finishTime": 13.8,
+      "word": "to"
+    },
+    {
+      "startTime": 13.8,
+      "finishTime": 14.04,
+      "word": "anyone"
+    },
+    {
+      "startTime": 14.04,
+      "finishTime": 14.4,
+      "word": "outside"
+    },
+    {
+      "startTime": 14.4,
+      "finishTime": 14.56,
+      "word": "of"
+    },
+    {
+      "startTime": 14.56,
+      "finishTime": 14.72,
+      "word": "the"
+    },
+    {
+      "startTime": 14.72,
+      "finishTime": 15.06,
+      "word": "company."
+    },
+    {
+      "startTime": 15.74,
+      "finishTime": 15.88,
+      "word": "What"
+    },
+    {
+      "startTime": 15.88,
+      "finishTime": 16.12,
+      "word": "about"
+    },
+    {
+      "startTime": 16.12,
+      "finishTime": 16.4,
+      "word": "daily"
+    },
+    {
+      "startTime": 16.4,
+      "finishTime": 16.86,
+      "word": "tasks?"
+    },
+    {
+      "startTime": 17.38,
+      "finishTime": 17.78,
+      "word": "Well,"
+    },
+    {
+      "startTime": 18.04,
+      "finishTime": 18.16,
+      "word": "I"
+    },
+    {
+      "startTime": 18.16,
+      "finishTime": 18.36,
+      "word": "have"
+    },
+    {
+      "startTime": 18.36,
+      "finishTime": 18.52,
+      "word": "to"
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.78,
+      "word": "attend"
+    },
+    {
+      "startTime": 18.78,
+      "finishTime": 19.08,
+      "word": "team"
+    },
+    {
+      "startTime": 19.08,
+      "finishTime": 19.36,
+      "word": "meetings"
+    },
+    {
+      "startTime": 19.36,
+      "finishTime": 19.72,
+      "word": "and"
+    },
+    {
+      "startTime": 19.72,
+      "finishTime": 20.06,
+      "word": "provide"
+    },
+    {
+      "startTime": 20.06,
+      "finishTime": 20.52,
+      "word": "progress"
+    },
+    {
+      "startTime": 20.52,
+      "finishTime": 20.96,
+      "word": "reports,"
+    },
+    {
+      "startTime": 21.08,
+      "finishTime": 21.26,
+      "word": "but"
+    },
+    {
+      "startTime": 21.26,
+      "finishTime": 21.44,
+      "word": "I"
+    },
+    {
+      "startTime": 21.44,
+      "finishTime": 21.58,
+      "word": "don't"
+    },
+    {
+      "startTime": 21.58,
+      "finishTime": 21.78,
+      "word": "have"
+    },
+    {
+      "startTime": 21.78,
+      "finishTime": 21.96,
+      "word": "to"
+    },
+    {
+      "startTime": 21.96,
+      "finishTime": 22.26,
+      "word": "work"
+    },
+    {
+      "startTime": 22.26,
+      "finishTime": 22.54,
+      "word": "over"
+    },
+    {
+      "startTime": 22.54,
+      "finishTime": 22.82,
+      "word": "time"
+    },
+    {
+      "startTime": 22.82,
+      "finishTime": 23.16,
+      "word": "unless"
+    },
+    {
+      "startTime": 23.16,
+      "finishTime": 23.5,
+      "word": "it's"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.66,
+      "word": "an"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 23.98,
+      "word": "urgent"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.62,
+      "word": "situation."
+    }
+  ]
+}

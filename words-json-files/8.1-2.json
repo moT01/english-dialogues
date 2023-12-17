@@ -1,0 +1,765 @@
+{
+  "text": "Hi there, Brian. It's time for our performance review. How's everything going? Things are going well. Last week, I worked on improving our project's documentation. I updated the user manual and added some FAQs based on customer feedback. I also attended the customer support training session. It helped me to understand the issues our customers are facing, and I learned some strategies for better addressing their concerns. Excellent. Learning more about our customers is essential. I appreciate your dedication. Can you tell me about your long-term goals? Of course. By the end of the quarter, I plan to have the documentation I'm working on fully updated, and I intend to improve our customer support process based on the training I received. It sounds like you're on the right track. Keep up the good work, and don't hesitate to reach out if you need any support. Thanks, Maria. I appreciate your guidance.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.36,
+      "word": "Hi"
+    },
+    {
+      "startTime": 0.36,
+      "finishTime": 0.68,
+      "word": "there,"
+    },
+    {
+      "startTime": 0.7,
+      "finishTime": 0.9,
+      "word": "Brian."
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.28,
+      "word": "It's"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.44,
+      "word": "time"
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.64,
+      "word": "for"
+    },
+    {
+      "startTime": 1.64,
+      "finishTime": 1.8,
+      "word": "our"
+    },
+    {
+      "startTime": 1.8,
+      "finishTime": 2.26,
+      "word": "performance"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.58,
+      "word": "review."
+    },
+    {
+      "startTime": 2.82,
+      "finishTime": 3.02,
+      "word": "How's"
+    },
+    {
+      "startTime": 3.02,
+      "finishTime": 3.32,
+      "word": "everything"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.64,
+      "word": "going?"
+    },
+    {
+      "startTime": 3.94,
+      "finishTime": 4.08,
+      "word": "Things"
+    },
+    {
+      "startTime": 4.08,
+      "finishTime": 4.28,
+      "word": "are"
+    },
+    {
+      "startTime": 4.28,
+      "finishTime": 4.42,
+      "word": "going"
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.8,
+      "word": "well."
+    },
+    {
+      "startTime": 4.98,
+      "finishTime": 5.28,
+      "word": "Last"
+    },
+    {
+      "startTime": 5.28,
+      "finishTime": 5.54,
+      "word": "week,"
+    },
+    {
+      "startTime": 5.58,
+      "finishTime": 5.8,
+      "word": "I"
+    },
+    {
+      "startTime": 5.8,
+      "finishTime": 5.92,
+      "word": "worked"
+    },
+    {
+      "startTime": 5.92,
+      "finishTime": 6.16,
+      "word": "on"
+    },
+    {
+      "startTime": 6.16,
+      "finishTime": 6.44,
+      "word": "improving"
+    },
+    {
+      "startTime": 6.44,
+      "finishTime": 6.76,
+      "word": "our"
+    },
+    {
+      "startTime": 6.76,
+      "finishTime": 7.28,
+      "word": "project's"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.74,
+      "word": "documentation."
+    },
+    {
+      "startTime": 8.22,
+      "finishTime": 8.32,
+      "word": "I"
+    },
+    {
+      "startTime": 8.32,
+      "finishTime": 8.6,
+      "word": "updated"
+    },
+    {
+      "startTime": 8.6,
+      "finishTime": 8.84,
+      "word": "the"
+    },
+    {
+      "startTime": 8.84,
+      "finishTime": 9.12,
+      "word": "user"
+    },
+    {
+      "startTime": 9.12,
+      "finishTime": 9.38,
+      "word": "manual"
+    },
+    {
+      "startTime": 9.38,
+      "finishTime": 9.7,
+      "word": "and"
+    },
+    {
+      "startTime": 9.7,
+      "finishTime": 9.92,
+      "word": "added"
+    },
+    {
+      "startTime": 9.92,
+      "finishTime": 10.3,
+      "word": "some"
+    },
+    {
+      "startTime": 10.3,
+      "finishTime": 11.26,
+      "word": "FAQs"
+    },
+    {
+      "startTime": 11.26,
+      "finishTime": 11.56,
+      "word": "based"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 11.84,
+      "word": "on"
+    },
+    {
+      "startTime": 11.84,
+      "finishTime": 12.24,
+      "word": "customer"
+    },
+    {
+      "startTime": 12.24,
+      "finishTime": 12.76,
+      "word": "feedback."
+    },
+    {
+      "startTime": 13.36,
+      "finishTime": 13.64,
+      "word": "I"
+    },
+    {
+      "startTime": 13.64,
+      "finishTime": 14.02,
+      "word": "also"
+    },
+    {
+      "startTime": 14.02,
+      "finishTime": 14.34,
+      "word": "attended"
+    },
+    {
+      "startTime": 14.34,
+      "finishTime": 14.68,
+      "word": "the"
+    },
+    {
+      "startTime": 14.68,
+      "finishTime": 14.98,
+      "word": "customer"
+    },
+    {
+      "startTime": 14.98,
+      "finishTime": 15.5,
+      "word": "support"
+    },
+    {
+      "startTime": 15.5,
+      "finishTime": 15.84,
+      "word": "training"
+    },
+    {
+      "startTime": 15.84,
+      "finishTime": 16.28,
+      "word": "session."
+    },
+    {
+      "startTime": 16.48,
+      "finishTime": 16.7,
+      "word": "It"
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.84,
+      "word": "helped"
+    },
+    {
+      "startTime": 16.84,
+      "finishTime": 17.04,
+      "word": "me"
+    },
+    {
+      "startTime": 17.04,
+      "finishTime": 17.3,
+      "word": "to"
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.62,
+      "word": "understand"
+    },
+    {
+      "startTime": 17.62,
+      "finishTime": 17.92,
+      "word": "the"
+    },
+    {
+      "startTime": 17.92,
+      "finishTime": 18.16,
+      "word": "issues"
+    },
+    {
+      "startTime": 18.16,
+      "finishTime": 18.42,
+      "word": "our"
+    },
+    {
+      "startTime": 18.42,
+      "finishTime": 18.78,
+      "word": "customers"
+    },
+    {
+      "startTime": 18.78,
+      "finishTime": 19.08,
+      "word": "are"
+    },
+    {
+      "startTime": 19.08,
+      "finishTime": 19.36,
+      "word": "facing,"
+    },
+    {
+      "startTime": 19.36,
+      "finishTime": 19.8,
+      "word": "and"
+    },
+    {
+      "startTime": 19.8,
+      "finishTime": 20.02,
+      "word": "I"
+    },
+    {
+      "startTime": 20.02,
+      "finishTime": 20.14,
+      "word": "learned"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.44,
+      "word": "some"
+    },
+    {
+      "startTime": 20.44,
+      "finishTime": 20.78,
+      "word": "strategies"
+    },
+    {
+      "startTime": 20.78,
+      "finishTime": 21.08,
+      "word": "for"
+    },
+    {
+      "startTime": 21.08,
+      "finishTime": 21.34,
+      "word": "better"
+    },
+    {
+      "startTime": 21.34,
+      "finishTime": 21.7,
+      "word": "addressing"
+    },
+    {
+      "startTime": 21.7,
+      "finishTime": 21.96,
+      "word": "their"
+    },
+    {
+      "startTime": 21.96,
+      "finishTime": 22.5,
+      "word": "concerns."
+    },
+    {
+      "startTime": 23.38,
+      "finishTime": 23.74,
+      "word": "Excellent."
+    },
+    {
+      "startTime": 24,
+      "finishTime": 24.28,
+      "word": "Learning"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.54,
+      "word": "more"
+    },
+    {
+      "startTime": 24.54,
+      "finishTime": 24.74,
+      "word": "about"
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 24.98,
+      "word": "our"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.28,
+      "word": "customers"
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 25.52,
+      "word": "is"
+    },
+    {
+      "startTime": 25.52,
+      "finishTime": 25.98,
+      "word": "essential."
+    },
+    {
+      "startTime": 26.44,
+      "finishTime": 26.66,
+      "word": "I"
+    },
+    {
+      "startTime": 26.66,
+      "finishTime": 26.98,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 26.98,
+      "finishTime": 27.2,
+      "word": "your"
+    },
+    {
+      "startTime": 27.2,
+      "finishTime": 27.66,
+      "word": "dedication."
+    },
+    {
+      "startTime": 28.06,
+      "finishTime": 28.2,
+      "word": "Can"
+    },
+    {
+      "startTime": 28.2,
+      "finishTime": 28.32,
+      "word": "you"
+    },
+    {
+      "startTime": 28.32,
+      "finishTime": 28.46,
+      "word": "tell"
+    },
+    {
+      "startTime": 28.46,
+      "finishTime": 28.64,
+      "word": "me"
+    },
+    {
+      "startTime": 28.64,
+      "finishTime": 28.78,
+      "word": "about"
+    },
+    {
+      "startTime": 28.78,
+      "finishTime": 29,
+      "word": "your"
+    },
+    {
+      "startTime": 29,
+      "finishTime": 29.2,
+      "word": "long"
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.34,
+      "word": "-term"
+    },
+    {
+      "startTime": 29.34,
+      "finishTime": 29.72,
+      "word": "goals?"
+    },
+    {
+      "startTime": 29.72,
+      "finishTime": 30.12,
+      "word": "Of"
+    },
+    {
+      "startTime": 30.12,
+      "finishTime": 30.52,
+      "word": "course."
+    },
+    {
+      "startTime": 30.72,
+      "finishTime": 30.96,
+      "word": "By"
+    },
+    {
+      "startTime": 30.96,
+      "finishTime": 31.08,
+      "word": "the"
+    },
+    {
+      "startTime": 31.08,
+      "finishTime": 31.18,
+      "word": "end"
+    },
+    {
+      "startTime": 31.18,
+      "finishTime": 31.32,
+      "word": "of"
+    },
+    {
+      "startTime": 31.32,
+      "finishTime": 31.46,
+      "word": "the"
+    },
+    {
+      "startTime": 31.46,
+      "finishTime": 31.66,
+      "word": "quarter,"
+    },
+    {
+      "startTime": 31.84,
+      "finishTime": 31.92,
+      "word": "I"
+    },
+    {
+      "startTime": 31.92,
+      "finishTime": 32.1,
+      "word": "plan"
+    },
+    {
+      "startTime": 32.1,
+      "finishTime": 32.28,
+      "word": "to"
+    },
+    {
+      "startTime": 32.28,
+      "finishTime": 32.42,
+      "word": "have"
+    },
+    {
+      "startTime": 32.42,
+      "finishTime": 32.66,
+      "word": "the"
+    },
+    {
+      "startTime": 32.66,
+      "finishTime": 33.2,
+      "word": "documentation"
+    },
+    {
+      "startTime": 33.2,
+      "finishTime": 33.42,
+      "word": "I'm"
+    },
+    {
+      "startTime": 33.42,
+      "finishTime": 33.64,
+      "word": "working"
+    },
+    {
+      "startTime": 33.64,
+      "finishTime": 33.9,
+      "word": "on"
+    },
+    {
+      "startTime": 33.9,
+      "finishTime": 34.18,
+      "word": "fully"
+    },
+    {
+      "startTime": 34.18,
+      "finishTime": 34.62,
+      "word": "updated,"
+    },
+    {
+      "startTime": 34.82,
+      "finishTime": 34.98,
+      "word": "and"
+    },
+    {
+      "startTime": 34.98,
+      "finishTime": 35.2,
+      "word": "I"
+    },
+    {
+      "startTime": 35.2,
+      "finishTime": 35.34,
+      "word": "intend"
+    },
+    {
+      "startTime": 35.34,
+      "finishTime": 35.62,
+      "word": "to"
+    },
+    {
+      "startTime": 35.62,
+      "finishTime": 35.86,
+      "word": "improve"
+    },
+    {
+      "startTime": 35.86,
+      "finishTime": 36.18,
+      "word": "our"
+    },
+    {
+      "startTime": 36.18,
+      "finishTime": 36.6,
+      "word": "customer"
+    },
+    {
+      "startTime": 36.6,
+      "finishTime": 37.04,
+      "word": "support"
+    },
+    {
+      "startTime": 37.04,
+      "finishTime": 37.54,
+      "word": "process"
+    },
+    {
+      "startTime": 37.54,
+      "finishTime": 37.82,
+      "word": "based"
+    },
+    {
+      "startTime": 37.82,
+      "finishTime": 38.02,
+      "word": "on"
+    },
+    {
+      "startTime": 38.02,
+      "finishTime": 38.2,
+      "word": "the"
+    },
+    {
+      "startTime": 38.2,
+      "finishTime": 38.32,
+      "word": "training"
+    },
+    {
+      "startTime": 38.32,
+      "finishTime": 38.6,
+      "word": "I"
+    },
+    {
+      "startTime": 38.6,
+      "finishTime": 39,
+      "word": "received."
+    },
+    {
+      "startTime": 39.58,
+      "finishTime": 39.6,
+      "word": "It"
+    },
+    {
+      "startTime": 39.6,
+      "finishTime": 39.76,
+      "word": "sounds"
+    },
+    {
+      "startTime": 39.76,
+      "finishTime": 39.92,
+      "word": "like"
+    },
+    {
+      "startTime": 39.92,
+      "finishTime": 40.08,
+      "word": "you're"
+    },
+    {
+      "startTime": 40.08,
+      "finishTime": 40.18,
+      "word": "on"
+    },
+    {
+      "startTime": 40.18,
+      "finishTime": 40.28,
+      "word": "the"
+    },
+    {
+      "startTime": 40.28,
+      "finishTime": 40.46,
+      "word": "right"
+    },
+    {
+      "startTime": 40.46,
+      "finishTime": 40.82,
+      "word": "track."
+    },
+    {
+      "startTime": 41.18,
+      "finishTime": 41.3,
+      "word": "Keep"
+    },
+    {
+      "startTime": 41.3,
+      "finishTime": 41.44,
+      "word": "up"
+    },
+    {
+      "startTime": 41.44,
+      "finishTime": 41.58,
+      "word": "the"
+    },
+    {
+      "startTime": 41.58,
+      "finishTime": 41.76,
+      "word": "good"
+    },
+    {
+      "startTime": 41.76,
+      "finishTime": 41.96,
+      "word": "work,"
+    },
+    {
+      "startTime": 42.02,
+      "finishTime": 42.18,
+      "word": "and"
+    },
+    {
+      "startTime": 42.18,
+      "finishTime": 42.42,
+      "word": "don't"
+    },
+    {
+      "startTime": 42.42,
+      "finishTime": 42.74,
+      "word": "hesitate"
+    },
+    {
+      "startTime": 42.74,
+      "finishTime": 42.94,
+      "word": "to"
+    },
+    {
+      "startTime": 42.94,
+      "finishTime": 43.1,
+      "word": "reach"
+    },
+    {
+      "startTime": 43.1,
+      "finishTime": 43.22,
+      "word": "out"
+    },
+    {
+      "startTime": 43.22,
+      "finishTime": 43.36,
+      "word": "if"
+    },
+    {
+      "startTime": 43.36,
+      "finishTime": 43.48,
+      "word": "you"
+    },
+    {
+      "startTime": 43.48,
+      "finishTime": 43.6,
+      "word": "need"
+    },
+    {
+      "startTime": 43.6,
+      "finishTime": 43.9,
+      "word": "any"
+    },
+    {
+      "startTime": 43.9,
+      "finishTime": 44.24,
+      "word": "support."
+    },
+    {
+      "startTime": 44.7,
+      "finishTime": 44.94,
+      "word": "Thanks,"
+    },
+    {
+      "startTime": 45.02,
+      "finishTime": 45.26,
+      "word": "Maria."
+    },
+    {
+      "startTime": 45.56,
+      "finishTime": 45.78,
+      "word": "I"
+    },
+    {
+      "startTime": 45.78,
+      "finishTime": 46.08,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 46.08,
+      "finishTime": 46.3,
+      "word": "your"
+    },
+    {
+      "startTime": 46.3,
+      "finishTime": 46.64,
+      "word": "guidance."
+    }
+  ]
+}

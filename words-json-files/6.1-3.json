@@ -1,0 +1,375 @@
+{
+  "text": "Hey Tom, I saw that you fixed the issue on github. Great job. Thanks Maria I was debugging it when I realized that it was a simple configuration error in the code That's good to hear. I was worried. It might be something more complicated. It happens to all of us Maria I'll make sure to document this for future reference so we won't run into the same problem again. That's an excellent idea",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.64,
+      "word": "Hey"
+    },
+    {
+      "startTime": 0.64,
+      "finishTime": 0.92,
+      "word": "Tom,"
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.28,
+      "word": "I"
+    },
+    {
+      "startTime": 1.28,
+      "finishTime": 1.48,
+      "word": "saw"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.66,
+      "word": "that"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.82,
+      "word": "you"
+    },
+    {
+      "startTime": 1.82,
+      "finishTime": 2.04,
+      "word": "fixed"
+    },
+    {
+      "startTime": 2.04,
+      "finishTime": 2.26,
+      "word": "the"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.4,
+      "word": "issue"
+    },
+    {
+      "startTime": 2.4,
+      "finishTime": 2.62,
+      "word": "on"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 3.18,
+      "word": "github."
+    },
+    {
+      "startTime": 3.24,
+      "finishTime": 3.42,
+      "word": "Great"
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.8,
+      "word": "job."
+    },
+    {
+      "startTime": 4.2,
+      "finishTime": 4.42,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.72,
+      "word": "Maria"
+    },
+    {
+      "startTime": 4.72,
+      "finishTime": 5.38,
+      "word": "I"
+    },
+    {
+      "startTime": 5.38,
+      "finishTime": 5.58,
+      "word": "was"
+    },
+    {
+      "startTime": 5.58,
+      "finishTime": 5.96,
+      "word": "debugging"
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.18,
+      "word": "it"
+    },
+    {
+      "startTime": 6.18,
+      "finishTime": 6.3,
+      "word": "when"
+    },
+    {
+      "startTime": 6.3,
+      "finishTime": 6.54,
+      "word": "I"
+    },
+    {
+      "startTime": 6.54,
+      "finishTime": 6.88,
+      "word": "realized"
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7.1,
+      "word": "that"
+    },
+    {
+      "startTime": 7.1,
+      "finishTime": 7.3,
+      "word": "it"
+    },
+    {
+      "startTime": 7.3,
+      "finishTime": 7.52,
+      "word": "was"
+    },
+    {
+      "startTime": 7.52,
+      "finishTime": 7.7,
+      "word": "a"
+    },
+    {
+      "startTime": 7.7,
+      "finishTime": 7.98,
+      "word": "simple"
+    },
+    {
+      "startTime": 7.98,
+      "finishTime": 8.62,
+      "word": "configuration"
+    },
+    {
+      "startTime": 8.62,
+      "finishTime": 8.88,
+      "word": "error"
+    },
+    {
+      "startTime": 8.88,
+      "finishTime": 9.06,
+      "word": "in"
+    },
+    {
+      "startTime": 9.06,
+      "finishTime": 9.24,
+      "word": "the"
+    },
+    {
+      "startTime": 9.24,
+      "finishTime": 9.52,
+      "word": "code"
+    },
+    {
+      "startTime": 10.020000000000001,
+      "finishTime": 10.46,
+      "word": "That's"
+    },
+    {
+      "startTime": 10.46,
+      "finishTime": 10.54,
+      "word": "good"
+    },
+    {
+      "startTime": 10.54,
+      "finishTime": 10.74,
+      "word": "to"
+    },
+    {
+      "startTime": 10.74,
+      "finishTime": 11,
+      "word": "hear."
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.3,
+      "word": "I"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.52,
+      "word": "was"
+    },
+    {
+      "startTime": 11.52,
+      "finishTime": 11.66,
+      "word": "worried."
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 11.8,
+      "word": "It"
+    },
+    {
+      "startTime": 11.8,
+      "finishTime": 11.96,
+      "word": "might"
+    },
+    {
+      "startTime": 11.96,
+      "finishTime": 12.12,
+      "word": "be"
+    },
+    {
+      "startTime": 12.12,
+      "finishTime": 12.36,
+      "word": "something"
+    },
+    {
+      "startTime": 12.36,
+      "finishTime": 12.66,
+      "word": "more"
+    },
+    {
+      "startTime": 12.66,
+      "finishTime": 13.18,
+      "word": "complicated."
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.72,
+      "word": "It"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 13.94,
+      "word": "happens"
+    },
+    {
+      "startTime": 13.94,
+      "finishTime": 14.16,
+      "word": "to"
+    },
+    {
+      "startTime": 14.16,
+      "finishTime": 14.3,
+      "word": "all"
+    },
+    {
+      "startTime": 14.3,
+      "finishTime": 14.42,
+      "word": "of"
+    },
+    {
+      "startTime": 14.42,
+      "finishTime": 14.54,
+      "word": "us"
+    },
+    {
+      "startTime": 14.54,
+      "finishTime": 14.86,
+      "word": "Maria"
+    },
+    {
+      "startTime": 14.86,
+      "finishTime": 15.58,
+      "word": "I'll"
+    },
+    {
+      "startTime": 15.58,
+      "finishTime": 15.7,
+      "word": "make"
+    },
+    {
+      "startTime": 15.7,
+      "finishTime": 15.88,
+      "word": "sure"
+    },
+    {
+      "startTime": 15.88,
+      "finishTime": 16.1,
+      "word": "to"
+    },
+    {
+      "startTime": 16.1,
+      "finishTime": 16.44,
+      "word": "document"
+    },
+    {
+      "startTime": 16.44,
+      "finishTime": 16.7,
+      "word": "this"
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.94,
+      "word": "for"
+    },
+    {
+      "startTime": 16.94,
+      "finishTime": 17.22,
+      "word": "future"
+    },
+    {
+      "startTime": 17.22,
+      "finishTime": 17.62,
+      "word": "reference"
+    },
+    {
+      "startTime": 17.62,
+      "finishTime": 18.02,
+      "word": "so"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.22,
+      "word": "we"
+    },
+    {
+      "startTime": 18.22,
+      "finishTime": 18.4,
+      "word": "won't"
+    },
+    {
+      "startTime": 18.4,
+      "finishTime": 18.58,
+      "word": "run"
+    },
+    {
+      "startTime": 18.58,
+      "finishTime": 18.72,
+      "word": "into"
+    },
+    {
+      "startTime": 18.72,
+      "finishTime": 18.94,
+      "word": "the"
+    },
+    {
+      "startTime": 18.94,
+      "finishTime": 19.1,
+      "word": "same"
+    },
+    {
+      "startTime": 19.1,
+      "finishTime": 19.38,
+      "word": "problem"
+    },
+    {
+      "startTime": 19.38,
+      "finishTime": 19.8,
+      "word": "again."
+    },
+    {
+      "startTime": 20.16,
+      "finishTime": 20.46,
+      "word": "That's"
+    },
+    {
+      "startTime": 20.46,
+      "finishTime": 20.62,
+      "word": "an"
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.9,
+      "word": "excellent"
+    },
+    {
+      "startTime": 20.9,
+      "finishTime": 21.28,
+      "word": "idea"
+    }
+  ]
+}

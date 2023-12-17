@@ -1,0 +1,555 @@
+{
+  "text": "Hey, Sarah. I was checking the branch we worked on yesterday when I saw a problem. I think we should open an issue on GitHub. Sure, Bob. What's the problem? I pushed some changes to the repository earlier, but now the code won't compile. It's showing some strange errors. I see. Let's open an issue then. What happened when you pushed the changes? Well, I was adding a new feature. While I was pushing it, I noticed that some of the tests were failing. Got it. I'll create the issue on GitHub and write out the details. We can attach the error messages, too. Thanks, Sarah. I appreciate your help.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.72,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.82,
+      "finishTime": 1.1,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 1.1,
+      "finishTime": 1.36,
+      "word": "I"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.56,
+      "word": "was"
+    },
+    {
+      "startTime": 1.56,
+      "finishTime": 1.8,
+      "word": "checking"
+    },
+    {
+      "startTime": 1.8,
+      "finishTime": 2.04,
+      "word": "the"
+    },
+    {
+      "startTime": 2.04,
+      "finishTime": 2.22,
+      "word": "branch"
+    },
+    {
+      "startTime": 2.22,
+      "finishTime": 2.46,
+      "word": "we"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.62,
+      "word": "worked"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 2.8,
+      "word": "on"
+    },
+    {
+      "startTime": 2.8,
+      "finishTime": 3.24,
+      "word": "yesterday"
+    },
+    {
+      "startTime": 3.24,
+      "finishTime": 3.44,
+      "word": "when"
+    },
+    {
+      "startTime": 3.44,
+      "finishTime": 3.64,
+      "word": "I"
+    },
+    {
+      "startTime": 3.64,
+      "finishTime": 3.8,
+      "word": "saw"
+    },
+    {
+      "startTime": 3.8,
+      "finishTime": 4,
+      "word": "a"
+    },
+    {
+      "startTime": 4,
+      "finishTime": 4.3,
+      "word": "problem."
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.82,
+      "word": "I"
+    },
+    {
+      "startTime": 4.82,
+      "finishTime": 4.98,
+      "word": "think"
+    },
+    {
+      "startTime": 4.98,
+      "finishTime": 5.18,
+      "word": "we"
+    },
+    {
+      "startTime": 5.18,
+      "finishTime": 5.34,
+      "word": "should"
+    },
+    {
+      "startTime": 5.34,
+      "finishTime": 5.72,
+      "word": "open"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 6.02,
+      "word": "an"
+    },
+    {
+      "startTime": 6.02,
+      "finishTime": 6.24,
+      "word": "issue"
+    },
+    {
+      "startTime": 6.24,
+      "finishTime": 6.46,
+      "word": "on"
+    },
+    {
+      "startTime": 6.46,
+      "finishTime": 6.84,
+      "word": "GitHub."
+    },
+    {
+      "startTime": 7.5,
+      "finishTime": 7.68,
+      "word": "Sure,"
+    },
+    {
+      "startTime": 7.68,
+      "finishTime": 7.94,
+      "word": "Bob."
+    },
+    {
+      "startTime": 8.02,
+      "finishTime": 8.3,
+      "word": "What's"
+    },
+    {
+      "startTime": 8.3,
+      "finishTime": 8.42,
+      "word": "the"
+    },
+    {
+      "startTime": 8.42,
+      "finishTime": 8.74,
+      "word": "problem?"
+    },
+    {
+      "startTime": 9.18,
+      "finishTime": 9.42,
+      "word": "I"
+    },
+    {
+      "startTime": 9.42,
+      "finishTime": 9.58,
+      "word": "pushed"
+    },
+    {
+      "startTime": 9.58,
+      "finishTime": 9.84,
+      "word": "some"
+    },
+    {
+      "startTime": 9.84,
+      "finishTime": 10.18,
+      "word": "changes"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.4,
+      "word": "to"
+    },
+    {
+      "startTime": 10.4,
+      "finishTime": 10.64,
+      "word": "the"
+    },
+    {
+      "startTime": 10.64,
+      "finishTime": 11.18,
+      "word": "repository"
+    },
+    {
+      "startTime": 11.18,
+      "finishTime": 11.76,
+      "word": "earlier,"
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 12.36,
+      "word": "but"
+    },
+    {
+      "startTime": 12.36,
+      "finishTime": 12.64,
+      "word": "now"
+    },
+    {
+      "startTime": 12.64,
+      "finishTime": 12.84,
+      "word": "the"
+    },
+    {
+      "startTime": 12.84,
+      "finishTime": 12.98,
+      "word": "code"
+    },
+    {
+      "startTime": 12.98,
+      "finishTime": 13.22,
+      "word": "won't"
+    },
+    {
+      "startTime": 13.22,
+      "finishTime": 13.7,
+      "word": "compile."
+    },
+    {
+      "startTime": 13.88,
+      "finishTime": 14.32,
+      "word": "It's"
+    },
+    {
+      "startTime": 14.32,
+      "finishTime": 14.46,
+      "word": "showing"
+    },
+    {
+      "startTime": 14.46,
+      "finishTime": 14.8,
+      "word": "some"
+    },
+    {
+      "startTime": 14.8,
+      "finishTime": 15.14,
+      "word": "strange"
+    },
+    {
+      "startTime": 15.14,
+      "finishTime": 15.6,
+      "word": "errors."
+    },
+    {
+      "startTime": 16.24,
+      "finishTime": 16.48,
+      "word": "I"
+    },
+    {
+      "startTime": 16.48,
+      "finishTime": 16.86,
+      "word": "see."
+    },
+    {
+      "startTime": 17.06,
+      "finishTime": 17.34,
+      "word": "Let's"
+    },
+    {
+      "startTime": 17.34,
+      "finishTime": 17.48,
+      "word": "open"
+    },
+    {
+      "startTime": 17.48,
+      "finishTime": 17.72,
+      "word": "an"
+    },
+    {
+      "startTime": 17.72,
+      "finishTime": 17.9,
+      "word": "issue"
+    },
+    {
+      "startTime": 17.9,
+      "finishTime": 18.24,
+      "word": "then."
+    },
+    {
+      "startTime": 18.5,
+      "finishTime": 18.76,
+      "word": "What"
+    },
+    {
+      "startTime": 18.76,
+      "finishTime": 19.04,
+      "word": "happened"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.16,
+      "word": "when"
+    },
+    {
+      "startTime": 19.16,
+      "finishTime": 19.38,
+      "word": "you"
+    },
+    {
+      "startTime": 19.38,
+      "finishTime": 19.54,
+      "word": "pushed"
+    },
+    {
+      "startTime": 19.54,
+      "finishTime": 19.8,
+      "word": "the"
+    },
+    {
+      "startTime": 19.8,
+      "finishTime": 20.18,
+      "word": "changes?"
+    },
+    {
+      "startTime": 20.74,
+      "finishTime": 21.1,
+      "word": "Well,"
+    },
+    {
+      "startTime": 21.1,
+      "finishTime": 21.4,
+      "word": "I"
+    },
+    {
+      "startTime": 21.4,
+      "finishTime": 21.62,
+      "word": "was"
+    },
+    {
+      "startTime": 21.62,
+      "finishTime": 21.8,
+      "word": "adding"
+    },
+    {
+      "startTime": 21.8,
+      "finishTime": 21.96,
+      "word": "a"
+    },
+    {
+      "startTime": 21.96,
+      "finishTime": 22.1,
+      "word": "new"
+    },
+    {
+      "startTime": 22.1,
+      "finishTime": 22.52,
+      "word": "feature."
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.12,
+      "word": "While"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.28,
+      "word": "I"
+    },
+    {
+      "startTime": 23.28,
+      "finishTime": 23.48,
+      "word": "was"
+    },
+    {
+      "startTime": 23.48,
+      "finishTime": 23.74,
+      "word": "pushing"
+    },
+    {
+      "startTime": 23.74,
+      "finishTime": 24.02,
+      "word": "it,"
+    },
+    {
+      "startTime": 24.02,
+      "finishTime": 24.28,
+      "word": "I"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.52,
+      "word": "noticed"
+    },
+    {
+      "startTime": 24.52,
+      "finishTime": 24.74,
+      "word": "that"
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 24.92,
+      "word": "some"
+    },
+    {
+      "startTime": 24.92,
+      "finishTime": 25.04,
+      "word": "of"
+    },
+    {
+      "startTime": 25.04,
+      "finishTime": 25.18,
+      "word": "the"
+    },
+    {
+      "startTime": 25.18,
+      "finishTime": 25.34,
+      "word": "tests"
+    },
+    {
+      "startTime": 25.34,
+      "finishTime": 25.56,
+      "word": "were"
+    },
+    {
+      "startTime": 25.56,
+      "finishTime": 25.96,
+      "word": "failing."
+    },
+    {
+      "startTime": 25.96,
+      "finishTime": 26.76,
+      "word": "Got"
+    },
+    {
+      "startTime": 26.76,
+      "finishTime": 27.06,
+      "word": "it."
+    },
+    {
+      "startTime": 27.46,
+      "finishTime": 27.6,
+      "word": "I'll"
+    },
+    {
+      "startTime": 27.6,
+      "finishTime": 27.86,
+      "word": "create"
+    },
+    {
+      "startTime": 27.86,
+      "finishTime": 28.06,
+      "word": "the"
+    },
+    {
+      "startTime": 28.06,
+      "finishTime": 28.2,
+      "word": "issue"
+    },
+    {
+      "startTime": 28.2,
+      "finishTime": 28.36,
+      "word": "on"
+    },
+    {
+      "startTime": 28.36,
+      "finishTime": 28.68,
+      "word": "GitHub"
+    },
+    {
+      "startTime": 28.68,
+      "finishTime": 28.92,
+      "word": "and"
+    },
+    {
+      "startTime": 28.92,
+      "finishTime": 29.12,
+      "word": "write"
+    },
+    {
+      "startTime": 29.12,
+      "finishTime": 29.26,
+      "word": "out"
+    },
+    {
+      "startTime": 29.26,
+      "finishTime": 29.42,
+      "word": "the"
+    },
+    {
+      "startTime": 29.42,
+      "finishTime": 29.76,
+      "word": "details."
+    },
+    {
+      "startTime": 30.2,
+      "finishTime": 30.3,
+      "word": "We"
+    },
+    {
+      "startTime": 30.3,
+      "finishTime": 30.48,
+      "word": "can"
+    },
+    {
+      "startTime": 30.48,
+      "finishTime": 30.82,
+      "word": "attach"
+    },
+    {
+      "startTime": 30.82,
+      "finishTime": 31.04,
+      "word": "the"
+    },
+    {
+      "startTime": 31.04,
+      "finishTime": 31.14,
+      "word": "error"
+    },
+    {
+      "startTime": 31.14,
+      "finishTime": 31.58,
+      "word": "messages,"
+    },
+    {
+      "startTime": 31.94,
+      "finishTime": 31.98,
+      "word": "too."
+    },
+    {
+      "startTime": 32.46,
+      "finishTime": 32.66,
+      "word": "Thanks,"
+    },
+    {
+      "startTime": 32.66,
+      "finishTime": 32.94,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 33.2,
+      "finishTime": 33.38,
+      "word": "I"
+    },
+    {
+      "startTime": 33.38,
+      "finishTime": 33.74,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 33.74,
+      "finishTime": 33.98,
+      "word": "your"
+    },
+    {
+      "startTime": 33.98,
+      "finishTime": 34.2,
+      "word": "help."
+    }
+  ]
+}

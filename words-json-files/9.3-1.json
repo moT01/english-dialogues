@@ -1,0 +1,395 @@
+{
+  "text": "Hey, Sarah. My computer is acting up. I can't open any files. Oh, that's frustrating. Have you tried restarting it? Yes, I did, but it didn't work. Okay, no worries. You might want to check if there's enough storage space on your hard drive. Sometimes that causes issues. How do I do that? Just right click on the hard drive icon and select properties. It'll show you the available space. Got it. Thanks. I'll give that a shot.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.46,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.46,
+      "finishTime": 0.78,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 0.98,
+      "finishTime": 1.14,
+      "word": "My"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.52,
+      "word": "computer"
+    },
+    {
+      "startTime": 1.52,
+      "finishTime": 1.78,
+      "word": "is"
+    },
+    {
+      "startTime": 1.78,
+      "finishTime": 1.98,
+      "word": "acting"
+    },
+    {
+      "startTime": 1.98,
+      "finishTime": 2.24,
+      "word": "up."
+    },
+    {
+      "startTime": 2.34,
+      "finishTime": 2.46,
+      "word": "I"
+    },
+    {
+      "startTime": 2.46,
+      "finishTime": 2.78,
+      "word": "can't"
+    },
+    {
+      "startTime": 2.78,
+      "finishTime": 3.04,
+      "word": "open"
+    },
+    {
+      "startTime": 3.04,
+      "finishTime": 3.32,
+      "word": "any"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.8,
+      "word": "files."
+    },
+    {
+      "startTime": 4.4,
+      "finishTime": 4.6,
+      "word": "Oh,"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 5.02,
+      "word": "that's"
+    },
+    {
+      "startTime": 5.02,
+      "finishTime": 5.44,
+      "word": "frustrating."
+    },
+    {
+      "startTime": 5.78,
+      "finishTime": 5.9,
+      "word": "Have"
+    },
+    {
+      "startTime": 5.9,
+      "finishTime": 6.06,
+      "word": "you"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.26,
+      "word": "tried"
+    },
+    {
+      "startTime": 6.26,
+      "finishTime": 6.88,
+      "word": "restarting"
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7.04,
+      "word": "it?"
+    },
+    {
+      "startTime": 7.3,
+      "finishTime": 7.62,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 7.72,
+      "finishTime": 7.9,
+      "word": "I"
+    },
+    {
+      "startTime": 7.9,
+      "finishTime": 8.18,
+      "word": "did,"
+    },
+    {
+      "startTime": 8.28,
+      "finishTime": 8.44,
+      "word": "but"
+    },
+    {
+      "startTime": 8.44,
+      "finishTime": 8.62,
+      "word": "it"
+    },
+    {
+      "startTime": 8.62,
+      "finishTime": 8.86,
+      "word": "didn't"
+    },
+    {
+      "startTime": 8.86,
+      "finishTime": 9.26,
+      "word": "work."
+    },
+    {
+      "startTime": 9.72,
+      "finishTime": 9.98,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 10.16,
+      "finishTime": 10.22,
+      "word": "no"
+    },
+    {
+      "startTime": 10.22,
+      "finishTime": 10.58,
+      "word": "worries."
+    },
+    {
+      "startTime": 10.84,
+      "finishTime": 10.94,
+      "word": "You"
+    },
+    {
+      "startTime": 10.94,
+      "finishTime": 11.14,
+      "word": "might"
+    },
+    {
+      "startTime": 11.14,
+      "finishTime": 11.3,
+      "word": "want"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.44,
+      "word": "to"
+    },
+    {
+      "startTime": 11.44,
+      "finishTime": 11.58,
+      "word": "check"
+    },
+    {
+      "startTime": 11.58,
+      "finishTime": 11.68,
+      "word": "if"
+    },
+    {
+      "startTime": 11.68,
+      "finishTime": 11.96,
+      "word": "there's"
+    },
+    {
+      "startTime": 11.96,
+      "finishTime": 12.2,
+      "word": "enough"
+    },
+    {
+      "startTime": 12.2,
+      "finishTime": 12.6,
+      "word": "storage"
+    },
+    {
+      "startTime": 12.6,
+      "finishTime": 12.84,
+      "word": "space"
+    },
+    {
+      "startTime": 12.84,
+      "finishTime": 13.02,
+      "word": "on"
+    },
+    {
+      "startTime": 13.02,
+      "finishTime": 13.18,
+      "word": "your"
+    },
+    {
+      "startTime": 13.18,
+      "finishTime": 13.46,
+      "word": "hard"
+    },
+    {
+      "startTime": 13.46,
+      "finishTime": 13.72,
+      "word": "drive."
+    },
+    {
+      "startTime": 13.9,
+      "finishTime": 14.34,
+      "word": "Sometimes"
+    },
+    {
+      "startTime": 14.34,
+      "finishTime": 14.6,
+      "word": "that"
+    },
+    {
+      "startTime": 14.6,
+      "finishTime": 14.9,
+      "word": "causes"
+    },
+    {
+      "startTime": 14.9,
+      "finishTime": 15.42,
+      "word": "issues."
+    },
+    {
+      "startTime": 15.72,
+      "finishTime": 15.88,
+      "word": "How"
+    },
+    {
+      "startTime": 15.88,
+      "finishTime": 16.06,
+      "word": "do"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.14,
+      "word": "I"
+    },
+    {
+      "startTime": 16.14,
+      "finishTime": 16.32,
+      "word": "do"
+    },
+    {
+      "startTime": 16.32,
+      "finishTime": 16.78,
+      "word": "that?"
+    },
+    {
+      "startTime": 17.18,
+      "finishTime": 17.42,
+      "word": "Just"
+    },
+    {
+      "startTime": 17.42,
+      "finishTime": 17.7,
+      "word": "right"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 17.86,
+      "word": "click"
+    },
+    {
+      "startTime": 17.86,
+      "finishTime": 18.02,
+      "word": "on"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.16,
+      "word": "the"
+    },
+    {
+      "startTime": 18.16,
+      "finishTime": 18.34,
+      "word": "hard"
+    },
+    {
+      "startTime": 18.34,
+      "finishTime": 18.54,
+      "word": "drive"
+    },
+    {
+      "startTime": 18.54,
+      "finishTime": 18.9,
+      "word": "icon"
+    },
+    {
+      "startTime": 18.9,
+      "finishTime": 19.16,
+      "word": "and"
+    },
+    {
+      "startTime": 19.16,
+      "finishTime": 19.46,
+      "word": "select"
+    },
+    {
+      "startTime": 19.46,
+      "finishTime": 20.06,
+      "word": "properties."
+    },
+    {
+      "startTime": 20.4,
+      "finishTime": 20.7,
+      "word": "It'll"
+    },
+    {
+      "startTime": 20.7,
+      "finishTime": 20.86,
+      "word": "show"
+    },
+    {
+      "startTime": 20.86,
+      "finishTime": 21.04,
+      "word": "you"
+    },
+    {
+      "startTime": 21.04,
+      "finishTime": 21.2,
+      "word": "the"
+    },
+    {
+      "startTime": 21.2,
+      "finishTime": 21.54,
+      "word": "available"
+    },
+    {
+      "startTime": 21.54,
+      "finishTime": 22.02,
+      "word": "space."
+    },
+    {
+      "startTime": 22.42,
+      "finishTime": 22.64,
+      "word": "Got"
+    },
+    {
+      "startTime": 22.64,
+      "finishTime": 22.94,
+      "word": "it."
+    },
+    {
+      "startTime": 23.06,
+      "finishTime": 23.34,
+      "word": "Thanks."
+    },
+    {
+      "startTime": 23.64,
+      "finishTime": 23.84,
+      "word": "I'll"
+    },
+    {
+      "startTime": 23.84,
+      "finishTime": 23.96,
+      "word": "give"
+    },
+    {
+      "startTime": 23.96,
+      "finishTime": 24.18,
+      "word": "that"
+    },
+    {
+      "startTime": 24.18,
+      "finishTime": 24.42,
+      "word": "a"
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.58,
+      "word": "shot."
+    }
+  ]
+}

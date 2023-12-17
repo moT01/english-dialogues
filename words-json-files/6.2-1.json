@@ -1,0 +1,835 @@
+{
+  "text": "Good morning, everyone. Let's start our stand-up meeting. Sophie, can you begin? Sure, Bob. I could use some help with the coding problem. I've been working on it for a while, and I may need a fresh pair of eyes to look at the code. Could you take a look at it after the meeting? Absolutely. I can definitely help you with that. Just share the code with me, and I'll check it out. I might have a few ideas on how to approach this issue. Mind if I call you later? Not at all. I'd appreciate your input. I'd like to suggest something as well. Could we provide more details about the problem so we can brainstorm some potential solutions during the review? Great suggestion. I'll prepare some documentation, and we can discuss it during the code review. Excellent. Let's set up a time for our code review session. When is best for you? I'm sure we'll gain some valuable insights from our discussion.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.66,
+      "word": "Good"
+    },
+    {
+      "startTime": 0.66,
+      "finishTime": 0.94,
+      "word": "morning,"
+    },
+    {
+      "startTime": 1.08,
+      "finishTime": 1.4,
+      "word": "everyone."
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.9,
+      "word": "Let's"
+    },
+    {
+      "startTime": 1.9,
+      "finishTime": 2.14,
+      "word": "start"
+    },
+    {
+      "startTime": 2.14,
+      "finishTime": 2.36,
+      "word": "our"
+    },
+    {
+      "startTime": 2.36,
+      "finishTime": 2.54,
+      "word": "stand"
+    },
+    {
+      "startTime": 2.54,
+      "finishTime": 2.64,
+      "word": "-up"
+    },
+    {
+      "startTime": 2.64,
+      "finishTime": 3,
+      "word": "meeting."
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.46,
+      "word": "Sophie,"
+    },
+    {
+      "startTime": 3.64,
+      "finishTime": 3.84,
+      "word": "can"
+    },
+    {
+      "startTime": 3.84,
+      "finishTime": 4.02,
+      "word": "you"
+    },
+    {
+      "startTime": 4.02,
+      "finishTime": 4.36,
+      "word": "begin?"
+    },
+    {
+      "startTime": 5.1,
+      "finishTime": 5.32,
+      "word": "Sure,"
+    },
+    {
+      "startTime": 5.32,
+      "finishTime": 5.6,
+      "word": "Bob."
+    },
+    {
+      "startTime": 5.84,
+      "finishTime": 5.96,
+      "word": "I"
+    },
+    {
+      "startTime": 5.96,
+      "finishTime": 6.18,
+      "word": "could"
+    },
+    {
+      "startTime": 6.18,
+      "finishTime": 6.32,
+      "word": "use"
+    },
+    {
+      "startTime": 6.32,
+      "finishTime": 6.52,
+      "word": "some"
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.64,
+      "word": "help"
+    },
+    {
+      "startTime": 6.64,
+      "finishTime": 6.8,
+      "word": "with"
+    },
+    {
+      "startTime": 6.8,
+      "finishTime": 6.96,
+      "word": "the"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.16,
+      "word": "coding"
+    },
+    {
+      "startTime": 7.16,
+      "finishTime": 7.58,
+      "word": "problem."
+    },
+    {
+      "startTime": 7.98,
+      "finishTime": 8.14,
+      "word": "I've"
+    },
+    {
+      "startTime": 8.14,
+      "finishTime": 8.24,
+      "word": "been"
+    },
+    {
+      "startTime": 8.24,
+      "finishTime": 8.52,
+      "word": "working"
+    },
+    {
+      "startTime": 8.52,
+      "finishTime": 8.66,
+      "word": "on"
+    },
+    {
+      "startTime": 8.66,
+      "finishTime": 8.82,
+      "word": "it"
+    },
+    {
+      "startTime": 8.82,
+      "finishTime": 9.02,
+      "word": "for"
+    },
+    {
+      "startTime": 9.02,
+      "finishTime": 9.16,
+      "word": "a"
+    },
+    {
+      "startTime": 9.16,
+      "finishTime": 9.48,
+      "word": "while,"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 9.72,
+      "word": "and"
+    },
+    {
+      "startTime": 9.72,
+      "finishTime": 9.9,
+      "word": "I"
+    },
+    {
+      "startTime": 9.9,
+      "finishTime": 10.06,
+      "word": "may"
+    },
+    {
+      "startTime": 10.06,
+      "finishTime": 10.24,
+      "word": "need"
+    },
+    {
+      "startTime": 10.24,
+      "finishTime": 10.38,
+      "word": "a"
+    },
+    {
+      "startTime": 10.38,
+      "finishTime": 10.56,
+      "word": "fresh"
+    },
+    {
+      "startTime": 10.56,
+      "finishTime": 10.74,
+      "word": "pair"
+    },
+    {
+      "startTime": 10.74,
+      "finishTime": 10.96,
+      "word": "of"
+    },
+    {
+      "startTime": 10.96,
+      "finishTime": 11.18,
+      "word": "eyes"
+    },
+    {
+      "startTime": 11.18,
+      "finishTime": 11.34,
+      "word": "to"
+    },
+    {
+      "startTime": 11.34,
+      "finishTime": 11.5,
+      "word": "look"
+    },
+    {
+      "startTime": 11.5,
+      "finishTime": 11.6,
+      "word": "at"
+    },
+    {
+      "startTime": 11.6,
+      "finishTime": 11.78,
+      "word": "the"
+    },
+    {
+      "startTime": 11.78,
+      "finishTime": 12,
+      "word": "code."
+    },
+    {
+      "startTime": 12.38,
+      "finishTime": 12.56,
+      "word": "Could"
+    },
+    {
+      "startTime": 12.56,
+      "finishTime": 12.72,
+      "word": "you"
+    },
+    {
+      "startTime": 12.72,
+      "finishTime": 12.9,
+      "word": "take"
+    },
+    {
+      "startTime": 12.9,
+      "finishTime": 13,
+      "word": "a"
+    },
+    {
+      "startTime": 13,
+      "finishTime": 13.08,
+      "word": "look"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.22,
+      "word": "at"
+    },
+    {
+      "startTime": 13.22,
+      "finishTime": 13.34,
+      "word": "it"
+    },
+    {
+      "startTime": 13.34,
+      "finishTime": 13.52,
+      "word": "after"
+    },
+    {
+      "startTime": 13.52,
+      "finishTime": 13.7,
+      "word": "the"
+    },
+    {
+      "startTime": 13.7,
+      "finishTime": 13.9,
+      "word": "meeting?"
+    },
+    {
+      "startTime": 14.860000000000001,
+      "finishTime": 15.26,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 15.48,
+      "finishTime": 15.68,
+      "word": "I"
+    },
+    {
+      "startTime": 15.68,
+      "finishTime": 15.92,
+      "word": "can"
+    },
+    {
+      "startTime": 15.92,
+      "finishTime": 16.26,
+      "word": "definitely"
+    },
+    {
+      "startTime": 16.26,
+      "finishTime": 16.48,
+      "word": "help"
+    },
+    {
+      "startTime": 16.48,
+      "finishTime": 16.64,
+      "word": "you"
+    },
+    {
+      "startTime": 16.64,
+      "finishTime": 16.78,
+      "word": "with"
+    },
+    {
+      "startTime": 16.78,
+      "finishTime": 17.08,
+      "word": "that."
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.54,
+      "word": "Just"
+    },
+    {
+      "startTime": 17.54,
+      "finishTime": 17.72,
+      "word": "share"
+    },
+    {
+      "startTime": 17.72,
+      "finishTime": 17.92,
+      "word": "the"
+    },
+    {
+      "startTime": 17.92,
+      "finishTime": 18.04,
+      "word": "code"
+    },
+    {
+      "startTime": 18.04,
+      "finishTime": 18.24,
+      "word": "with"
+    },
+    {
+      "startTime": 18.24,
+      "finishTime": 18.5,
+      "word": "me,"
+    },
+    {
+      "startTime": 18.5,
+      "finishTime": 18.64,
+      "word": "and"
+    },
+    {
+      "startTime": 18.64,
+      "finishTime": 18.72,
+      "word": "I'll"
+    },
+    {
+      "startTime": 18.72,
+      "finishTime": 18.94,
+      "word": "check"
+    },
+    {
+      "startTime": 18.94,
+      "finishTime": 19.12,
+      "word": "it"
+    },
+    {
+      "startTime": 19.12,
+      "finishTime": 19.36,
+      "word": "out."
+    },
+    {
+      "startTime": 19.66,
+      "finishTime": 19.84,
+      "word": "I"
+    },
+    {
+      "startTime": 19.84,
+      "finishTime": 20.02,
+      "word": "might"
+    },
+    {
+      "startTime": 20.02,
+      "finishTime": 20.22,
+      "word": "have"
+    },
+    {
+      "startTime": 20.22,
+      "finishTime": 20.3,
+      "word": "a"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.52,
+      "word": "few"
+    },
+    {
+      "startTime": 20.52,
+      "finishTime": 20.8,
+      "word": "ideas"
+    },
+    {
+      "startTime": 20.8,
+      "finishTime": 21,
+      "word": "on"
+    },
+    {
+      "startTime": 21,
+      "finishTime": 21.14,
+      "word": "how"
+    },
+    {
+      "startTime": 21.14,
+      "finishTime": 21.32,
+      "word": "to"
+    },
+    {
+      "startTime": 21.32,
+      "finishTime": 21.62,
+      "word": "approach"
+    },
+    {
+      "startTime": 21.62,
+      "finishTime": 21.9,
+      "word": "this"
+    },
+    {
+      "startTime": 21.9,
+      "finishTime": 22.26,
+      "word": "issue."
+    },
+    {
+      "startTime": 22.68,
+      "finishTime": 22.88,
+      "word": "Mind"
+    },
+    {
+      "startTime": 22.88,
+      "finishTime": 23.04,
+      "word": "if"
+    },
+    {
+      "startTime": 23.04,
+      "finishTime": 23.18,
+      "word": "I"
+    },
+    {
+      "startTime": 23.18,
+      "finishTime": 23.32,
+      "word": "call"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.5,
+      "word": "you"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.74,
+      "word": "later?"
+    },
+    {
+      "startTime": 24.32,
+      "finishTime": 24.66,
+      "word": "Not"
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 24.8,
+      "word": "at"
+    },
+    {
+      "startTime": 24.8,
+      "finishTime": 25.02,
+      "word": "all."
+    },
+    {
+      "startTime": 25.02,
+      "finishTime": 25.32,
+      "word": "I'd"
+    },
+    {
+      "startTime": 25.32,
+      "finishTime": 25.64,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 25.64,
+      "finishTime": 25.88,
+      "word": "your"
+    },
+    {
+      "startTime": 25.88,
+      "finishTime": 26.22,
+      "word": "input."
+    },
+    {
+      "startTime": 26.86,
+      "finishTime": 27.34,
+      "word": "I'd"
+    },
+    {
+      "startTime": 27.34,
+      "finishTime": 27.48,
+      "word": "like"
+    },
+    {
+      "startTime": 27.48,
+      "finishTime": 27.7,
+      "word": "to"
+    },
+    {
+      "startTime": 27.7,
+      "finishTime": 28.02,
+      "word": "suggest"
+    },
+    {
+      "startTime": 28.02,
+      "finishTime": 28.3,
+      "word": "something"
+    },
+    {
+      "startTime": 28.3,
+      "finishTime": 28.56,
+      "word": "as"
+    },
+    {
+      "startTime": 28.56,
+      "finishTime": 29.04,
+      "word": "well."
+    },
+    {
+      "startTime": 29.54,
+      "finishTime": 29.68,
+      "word": "Could"
+    },
+    {
+      "startTime": 29.68,
+      "finishTime": 29.92,
+      "word": "we"
+    },
+    {
+      "startTime": 29.92,
+      "finishTime": 30.18,
+      "word": "provide"
+    },
+    {
+      "startTime": 30.18,
+      "finishTime": 30.46,
+      "word": "more"
+    },
+    {
+      "startTime": 30.46,
+      "finishTime": 30.8,
+      "word": "details"
+    },
+    {
+      "startTime": 30.8,
+      "finishTime": 31.04,
+      "word": "about"
+    },
+    {
+      "startTime": 31.04,
+      "finishTime": 31.24,
+      "word": "the"
+    },
+    {
+      "startTime": 31.24,
+      "finishTime": 31.54,
+      "word": "problem"
+    },
+    {
+      "startTime": 31.54,
+      "finishTime": 31.72,
+      "word": "so"
+    },
+    {
+      "startTime": 31.72,
+      "finishTime": 31.86,
+      "word": "we"
+    },
+    {
+      "startTime": 31.86,
+      "finishTime": 32.04,
+      "word": "can"
+    },
+    {
+      "startTime": 32.04,
+      "finishTime": 32.46,
+      "word": "brainstorm"
+    },
+    {
+      "startTime": 32.46,
+      "finishTime": 32.78,
+      "word": "some"
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 33.22,
+      "word": "potential"
+    },
+    {
+      "startTime": 33.22,
+      "finishTime": 33.78,
+      "word": "solutions"
+    },
+    {
+      "startTime": 33.78,
+      "finishTime": 34.04,
+      "word": "during"
+    },
+    {
+      "startTime": 34.04,
+      "finishTime": 34.24,
+      "word": "the"
+    },
+    {
+      "startTime": 34.24,
+      "finishTime": 34.46,
+      "word": "review?"
+    },
+    {
+      "startTime": 35.24,
+      "finishTime": 35.44,
+      "word": "Great"
+    },
+    {
+      "startTime": 35.44,
+      "finishTime": 35.96,
+      "word": "suggestion."
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.48,
+      "word": "I'll"
+    },
+    {
+      "startTime": 36.48,
+      "finishTime": 36.7,
+      "word": "prepare"
+    },
+    {
+      "startTime": 36.7,
+      "finishTime": 36.92,
+      "word": "some"
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.52,
+      "word": "documentation,"
+    },
+    {
+      "startTime": 37.84,
+      "finishTime": 38.04,
+      "word": "and"
+    },
+    {
+      "startTime": 38.04,
+      "finishTime": 38.12,
+      "word": "we"
+    },
+    {
+      "startTime": 38.12,
+      "finishTime": 38.32,
+      "word": "can"
+    },
+    {
+      "startTime": 38.32,
+      "finishTime": 38.58,
+      "word": "discuss"
+    },
+    {
+      "startTime": 38.58,
+      "finishTime": 38.72,
+      "word": "it"
+    },
+    {
+      "startTime": 38.72,
+      "finishTime": 38.96,
+      "word": "during"
+    },
+    {
+      "startTime": 38.96,
+      "finishTime": 39.1,
+      "word": "the"
+    },
+    {
+      "startTime": 39.1,
+      "finishTime": 39.24,
+      "word": "code"
+    },
+    {
+      "startTime": 39.24,
+      "finishTime": 39.5,
+      "word": "review."
+    },
+    {
+      "startTime": 40.26,
+      "finishTime": 40.54,
+      "word": "Excellent."
+    },
+    {
+      "startTime": 40.68,
+      "finishTime": 41.02,
+      "word": "Let's"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.06,
+      "word": "set"
+    },
+    {
+      "startTime": 41.06,
+      "finishTime": 41.2,
+      "word": "up"
+    },
+    {
+      "startTime": 41.2,
+      "finishTime": 41.34,
+      "word": "a"
+    },
+    {
+      "startTime": 41.34,
+      "finishTime": 41.46,
+      "word": "time"
+    },
+    {
+      "startTime": 41.46,
+      "finishTime": 41.66,
+      "word": "for"
+    },
+    {
+      "startTime": 41.66,
+      "finishTime": 41.86,
+      "word": "our"
+    },
+    {
+      "startTime": 41.86,
+      "finishTime": 42.04,
+      "word": "code"
+    },
+    {
+      "startTime": 42.04,
+      "finishTime": 42.3,
+      "word": "review"
+    },
+    {
+      "startTime": 42.3,
+      "finishTime": 42.68,
+      "word": "session."
+    },
+    {
+      "startTime": 43.02,
+      "finishTime": 43.16,
+      "word": "When"
+    },
+    {
+      "startTime": 43.16,
+      "finishTime": 43.4,
+      "word": "is"
+    },
+    {
+      "startTime": 43.4,
+      "finishTime": 43.58,
+      "word": "best"
+    },
+    {
+      "startTime": 43.58,
+      "finishTime": 43.78,
+      "word": "for"
+    },
+    {
+      "startTime": 43.78,
+      "finishTime": 44.02,
+      "word": "you?"
+    },
+    {
+      "startTime": 44.38,
+      "finishTime": 44.6,
+      "word": "I'm"
+    },
+    {
+      "startTime": 44.6,
+      "finishTime": 44.7,
+      "word": "sure"
+    },
+    {
+      "startTime": 44.7,
+      "finishTime": 44.98,
+      "word": "we'll"
+    },
+    {
+      "startTime": 44.98,
+      "finishTime": 45.1,
+      "word": "gain"
+    },
+    {
+      "startTime": 45.1,
+      "finishTime": 45.34,
+      "word": "some"
+    },
+    {
+      "startTime": 45.34,
+      "finishTime": 45.78,
+      "word": "valuable"
+    },
+    {
+      "startTime": 45.78,
+      "finishTime": 46.24,
+      "word": "insights"
+    },
+    {
+      "startTime": 46.24,
+      "finishTime": 46.56,
+      "word": "from"
+    },
+    {
+      "startTime": 46.56,
+      "finishTime": 46.8,
+      "word": "our"
+    },
+    {
+      "startTime": 46.8,
+      "finishTime": 47.18,
+      "word": "discussion."
+    }
+  ]
+}

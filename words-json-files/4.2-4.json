@@ -1,0 +1,565 @@
+{
+  "text": "Alice, what's the deal with biometrics? I keep hearing about facial recognition and fingerprint scanning. Biometrics is the use of physical or behavioral traits for security. It's used for access control, like unlocking your phone with your face or fingerprint. Also, it's used for identity verification at airports and secure facilities. Is it safe? It's generally secure, but like any technology, it has its challenges and privacy concerns. It's necessary to keep biometric data protected to maintain its security. What are people studying in biometrics these days? Researchers are exploring biometrics beyond traditional methods. For example, they're experimenting with palm vein recognition and even behavioral biometrics, like typing patterns to enhance security.",
+  "words": [
+    {
+      "startTime": 0.72,
+      "finishTime": 1.18,
+      "word": "Alice,"
+    },
+    {
+      "startTime": 1.7,
+      "finishTime": 2.02,
+      "word": "what's"
+    },
+    {
+      "startTime": 2.02,
+      "finishTime": 2.1,
+      "word": "the"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.28,
+      "word": "deal"
+    },
+    {
+      "startTime": 2.28,
+      "finishTime": 2.56,
+      "word": "with"
+    },
+    {
+      "startTime": 2.56,
+      "finishTime": 3.12,
+      "word": "biometrics?"
+    },
+    {
+      "startTime": 3.46,
+      "finishTime": 3.46,
+      "word": "I"
+    },
+    {
+      "startTime": 3.46,
+      "finishTime": 3.7,
+      "word": "keep"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 3.98,
+      "word": "hearing"
+    },
+    {
+      "startTime": 3.98,
+      "finishTime": 4.24,
+      "word": "about"
+    },
+    {
+      "startTime": 4.24,
+      "finishTime": 4.56,
+      "word": "facial"
+    },
+    {
+      "startTime": 4.56,
+      "finishTime": 5.12,
+      "word": "recognition"
+    },
+    {
+      "startTime": 5.12,
+      "finishTime": 5.46,
+      "word": "and"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.9,
+      "word": "fingerprint"
+    },
+    {
+      "startTime": 5.9,
+      "finishTime": 6.5,
+      "word": "scanning."
+    },
+    {
+      "startTime": 7.12,
+      "finishTime": 7.6,
+      "word": "Biometrics"
+    },
+    {
+      "startTime": 7.6,
+      "finishTime": 7.82,
+      "word": "is"
+    },
+    {
+      "startTime": 7.82,
+      "finishTime": 7.98,
+      "word": "the"
+    },
+    {
+      "startTime": 7.98,
+      "finishTime": 8.14,
+      "word": "use"
+    },
+    {
+      "startTime": 8.14,
+      "finishTime": 8.46,
+      "word": "of"
+    },
+    {
+      "startTime": 8.46,
+      "finishTime": 8.78,
+      "word": "physical"
+    },
+    {
+      "startTime": 8.78,
+      "finishTime": 9.14,
+      "word": "or"
+    },
+    {
+      "startTime": 9.14,
+      "finishTime": 9.56,
+      "word": "behavioral"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 9.86,
+      "word": "traits"
+    },
+    {
+      "startTime": 9.86,
+      "finishTime": 10.08,
+      "word": "for"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.56,
+      "word": "security."
+    },
+    {
+      "startTime": 11.14,
+      "finishTime": 11.26,
+      "word": "It's"
+    },
+    {
+      "startTime": 11.26,
+      "finishTime": 11.46,
+      "word": "used"
+    },
+    {
+      "startTime": 11.46,
+      "finishTime": 11.76,
+      "word": "for"
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 12.08,
+      "word": "access"
+    },
+    {
+      "startTime": 12.08,
+      "finishTime": 12.62,
+      "word": "control,"
+    },
+    {
+      "startTime": 12.8,
+      "finishTime": 12.92,
+      "word": "like"
+    },
+    {
+      "startTime": 12.92,
+      "finishTime": 13.22,
+      "word": "unlocking"
+    },
+    {
+      "startTime": 13.22,
+      "finishTime": 13.54,
+      "word": "your"
+    },
+    {
+      "startTime": 13.54,
+      "finishTime": 13.76,
+      "word": "phone"
+    },
+    {
+      "startTime": 13.76,
+      "finishTime": 13.92,
+      "word": "with"
+    },
+    {
+      "startTime": 13.92,
+      "finishTime": 14.14,
+      "word": "your"
+    },
+    {
+      "startTime": 14.14,
+      "finishTime": 14.32,
+      "word": "face"
+    },
+    {
+      "startTime": 14.32,
+      "finishTime": 14.5,
+      "word": "or"
+    },
+    {
+      "startTime": 14.5,
+      "finishTime": 14.9,
+      "word": "fingerprint."
+    },
+    {
+      "startTime": 15.42,
+      "finishTime": 15.74,
+      "word": "Also,"
+    },
+    {
+      "startTime": 15.74,
+      "finishTime": 16,
+      "word": "it's"
+    },
+    {
+      "startTime": 16,
+      "finishTime": 16.12,
+      "word": "used"
+    },
+    {
+      "startTime": 16.12,
+      "finishTime": 16.38,
+      "word": "for"
+    },
+    {
+      "startTime": 16.38,
+      "finishTime": 16.76,
+      "word": "identity"
+    },
+    {
+      "startTime": 16.76,
+      "finishTime": 17.34,
+      "word": "verification"
+    },
+    {
+      "startTime": 17.34,
+      "finishTime": 17.6,
+      "word": "at"
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 17.96,
+      "word": "airports"
+    },
+    {
+      "startTime": 17.96,
+      "finishTime": 18.26,
+      "word": "and"
+    },
+    {
+      "startTime": 18.26,
+      "finishTime": 18.44,
+      "word": "secure"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 19.04,
+      "word": "facilities."
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.68,
+      "word": "Is"
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 20.08,
+      "word": "it"
+    },
+    {
+      "startTime": 20.08,
+      "finishTime": 20.46,
+      "word": "safe?"
+    },
+    {
+      "startTime": 21.02,
+      "finishTime": 21.48,
+      "word": "It's"
+    },
+    {
+      "startTime": 21.48,
+      "finishTime": 21.78,
+      "word": "generally"
+    },
+    {
+      "startTime": 21.78,
+      "finishTime": 22.3,
+      "word": "secure,"
+    },
+    {
+      "startTime": 22.3,
+      "finishTime": 22.56,
+      "word": "but"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 22.82,
+      "word": "like"
+    },
+    {
+      "startTime": 22.82,
+      "finishTime": 23.06,
+      "word": "any"
+    },
+    {
+      "startTime": 23.06,
+      "finishTime": 23.6,
+      "word": "technology,"
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 23.84,
+      "word": "it"
+    },
+    {
+      "startTime": 23.84,
+      "finishTime": 24.02,
+      "word": "has"
+    },
+    {
+      "startTime": 24.02,
+      "finishTime": 24.26,
+      "word": "its"
+    },
+    {
+      "startTime": 24.26,
+      "finishTime": 24.66,
+      "word": "challenges"
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 24.98,
+      "word": "and"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.34,
+      "word": "privacy"
+    },
+    {
+      "startTime": 25.34,
+      "finishTime": 25.86,
+      "word": "concerns."
+    },
+    {
+      "startTime": 26.36,
+      "finishTime": 26.68,
+      "word": "It's"
+    },
+    {
+      "startTime": 26.68,
+      "finishTime": 27.1,
+      "word": "necessary"
+    },
+    {
+      "startTime": 27.1,
+      "finishTime": 27.34,
+      "word": "to"
+    },
+    {
+      "startTime": 27.34,
+      "finishTime": 27.48,
+      "word": "keep"
+    },
+    {
+      "startTime": 27.48,
+      "finishTime": 28,
+      "word": "biometric"
+    },
+    {
+      "startTime": 28,
+      "finishTime": 28.26,
+      "word": "data"
+    },
+    {
+      "startTime": 28.26,
+      "finishTime": 28.84,
+      "word": "protected"
+    },
+    {
+      "startTime": 28.84,
+      "finishTime": 29.06,
+      "word": "to"
+    },
+    {
+      "startTime": 29.06,
+      "finishTime": 29.48,
+      "word": "maintain"
+    },
+    {
+      "startTime": 29.48,
+      "finishTime": 29.8,
+      "word": "its"
+    },
+    {
+      "startTime": 29.8,
+      "finishTime": 30.26,
+      "word": "security."
+    },
+    {
+      "startTime": 30.74,
+      "finishTime": 30.94,
+      "word": "What"
+    },
+    {
+      "startTime": 30.94,
+      "finishTime": 31.12,
+      "word": "are"
+    },
+    {
+      "startTime": 31.12,
+      "finishTime": 31.42,
+      "word": "people"
+    },
+    {
+      "startTime": 31.42,
+      "finishTime": 31.88,
+      "word": "studying"
+    },
+    {
+      "startTime": 31.88,
+      "finishTime": 32.26,
+      "word": "in"
+    },
+    {
+      "startTime": 32.26,
+      "finishTime": 32.76,
+      "word": "biometrics"
+    },
+    {
+      "startTime": 32.76,
+      "finishTime": 33.06,
+      "word": "these"
+    },
+    {
+      "startTime": 33.06,
+      "finishTime": 33.42,
+      "word": "days?"
+    },
+    {
+      "startTime": 34.24,
+      "finishTime": 34.6,
+      "word": "Researchers"
+    },
+    {
+      "startTime": 34.6,
+      "finishTime": 34.96,
+      "word": "are"
+    },
+    {
+      "startTime": 34.96,
+      "finishTime": 35.3,
+      "word": "exploring"
+    },
+    {
+      "startTime": 35.3,
+      "finishTime": 35.96,
+      "word": "biometrics"
+    },
+    {
+      "startTime": 35.96,
+      "finishTime": 36.28,
+      "word": "beyond"
+    },
+    {
+      "startTime": 36.28,
+      "finishTime": 36.76,
+      "word": "traditional"
+    },
+    {
+      "startTime": 36.76,
+      "finishTime": 37.26,
+      "word": "methods."
+    },
+    {
+      "startTime": 37.72,
+      "finishTime": 37.9,
+      "word": "For"
+    },
+    {
+      "startTime": 37.9,
+      "finishTime": 38.42,
+      "word": "example,"
+    },
+    {
+      "startTime": 38.66,
+      "finishTime": 38.84,
+      "word": "they're"
+    },
+    {
+      "startTime": 38.84,
+      "finishTime": 39.32,
+      "word": "experimenting"
+    },
+    {
+      "startTime": 39.32,
+      "finishTime": 39.74,
+      "word": "with"
+    },
+    {
+      "startTime": 39.74,
+      "finishTime": 40.02,
+      "word": "palm"
+    },
+    {
+      "startTime": 40.02,
+      "finishTime": 40.24,
+      "word": "vein"
+    },
+    {
+      "startTime": 40.24,
+      "finishTime": 40.86,
+      "word": "recognition"
+    },
+    {
+      "startTime": 40.86,
+      "finishTime": 41.22,
+      "word": "and"
+    },
+    {
+      "startTime": 41.22,
+      "finishTime": 41.5,
+      "word": "even"
+    },
+    {
+      "startTime": 41.5,
+      "finishTime": 42,
+      "word": "behavioral"
+    },
+    {
+      "startTime": 42,
+      "finishTime": 42.74,
+      "word": "biometrics,"
+    },
+    {
+      "startTime": 43.06,
+      "finishTime": 43.22,
+      "word": "like"
+    },
+    {
+      "startTime": 43.22,
+      "finishTime": 43.5,
+      "word": "typing"
+    },
+    {
+      "startTime": 43.5,
+      "finishTime": 43.92,
+      "word": "patterns"
+    },
+    {
+      "startTime": 43.92,
+      "finishTime": 44.18,
+      "word": "to"
+    },
+    {
+      "startTime": 44.18,
+      "finishTime": 44.46,
+      "word": "enhance"
+    },
+    {
+      "startTime": 44.46,
+      "finishTime": 44.92,
+      "word": "security."
+    }
+  ]
+}

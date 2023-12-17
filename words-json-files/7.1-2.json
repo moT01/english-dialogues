@@ -1,0 +1,590 @@
+{
+  "text": "I'm working on this code and I think it's a good idea to add comments. How should I write comments in the code? Great idea. To write comments, you simply need to use double slashes to start a comment. Then you can describe what the code does so that other people can understand it too. And what should I comment on? Are there any specific things I should focus on? You should comment on any complex or tricky parts of your code. You can also explain what certain functions do and clarify the purpose of variables. Try to ensure that your comments are clear and concise. I appreciate your help. I'll start adding comments to the code.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.76,
+      "word": "I'm"
+    },
+    {
+      "startTime": 0.76,
+      "finishTime": 1.02,
+      "word": "working"
+    },
+    {
+      "startTime": 1.02,
+      "finishTime": 1.18,
+      "word": "on"
+    },
+    {
+      "startTime": 1.18,
+      "finishTime": 1.46,
+      "word": "this"
+    },
+    {
+      "startTime": 1.46,
+      "finishTime": 1.76,
+      "word": "code"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 1.96,
+      "word": "and"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.1,
+      "word": "I"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.24,
+      "word": "think"
+    },
+    {
+      "startTime": 2.24,
+      "finishTime": 2.42,
+      "word": "it's"
+    },
+    {
+      "startTime": 2.42,
+      "finishTime": 2.48,
+      "word": "a"
+    },
+    {
+      "startTime": 2.48,
+      "finishTime": 2.6,
+      "word": "good"
+    },
+    {
+      "startTime": 2.6,
+      "finishTime": 2.82,
+      "word": "idea"
+    },
+    {
+      "startTime": 2.82,
+      "finishTime": 3.06,
+      "word": "to"
+    },
+    {
+      "startTime": 3.06,
+      "finishTime": 3.28,
+      "word": "add"
+    },
+    {
+      "startTime": 3.28,
+      "finishTime": 3.82,
+      "word": "comments."
+    },
+    {
+      "startTime": 4.22,
+      "finishTime": 4.42,
+      "word": "How"
+    },
+    {
+      "startTime": 4.42,
+      "finishTime": 4.56,
+      "word": "should"
+    },
+    {
+      "startTime": 4.56,
+      "finishTime": 4.76,
+      "word": "I"
+    },
+    {
+      "startTime": 4.76,
+      "finishTime": 4.9,
+      "word": "write"
+    },
+    {
+      "startTime": 4.9,
+      "finishTime": 5.28,
+      "word": "comments"
+    },
+    {
+      "startTime": 5.28,
+      "finishTime": 5.46,
+      "word": "in"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.64,
+      "word": "the"
+    },
+    {
+      "startTime": 5.64,
+      "finishTime": 5.9,
+      "word": "code?"
+    },
+    {
+      "startTime": 6.44,
+      "finishTime": 6.62,
+      "word": "Great"
+    },
+    {
+      "startTime": 6.62,
+      "finishTime": 7.14,
+      "word": "idea."
+    },
+    {
+      "startTime": 7.58,
+      "finishTime": 7.78,
+      "word": "To"
+    },
+    {
+      "startTime": 7.78,
+      "finishTime": 7.98,
+      "word": "write"
+    },
+    {
+      "startTime": 7.98,
+      "finishTime": 8.38,
+      "word": "comments,"
+    },
+    {
+      "startTime": 8.4,
+      "finishTime": 8.68,
+      "word": "you"
+    },
+    {
+      "startTime": 8.68,
+      "finishTime": 8.96,
+      "word": "simply"
+    },
+    {
+      "startTime": 8.96,
+      "finishTime": 9.18,
+      "word": "need"
+    },
+    {
+      "startTime": 9.18,
+      "finishTime": 9.4,
+      "word": "to"
+    },
+    {
+      "startTime": 9.4,
+      "finishTime": 9.64,
+      "word": "use"
+    },
+    {
+      "startTime": 9.64,
+      "finishTime": 10.02,
+      "word": "double"
+    },
+    {
+      "startTime": 10.02,
+      "finishTime": 10.38,
+      "word": "slashes"
+    },
+    {
+      "startTime": 10.38,
+      "finishTime": 10.68,
+      "word": "to"
+    },
+    {
+      "startTime": 10.68,
+      "finishTime": 10.84,
+      "word": "start"
+    },
+    {
+      "startTime": 10.84,
+      "finishTime": 11.1,
+      "word": "a"
+    },
+    {
+      "startTime": 11.1,
+      "finishTime": 11.36,
+      "word": "comment."
+    },
+    {
+      "startTime": 11.98,
+      "finishTime": 12.42,
+      "word": "Then"
+    },
+    {
+      "startTime": 12.42,
+      "finishTime": 12.86,
+      "word": "you"
+    },
+    {
+      "startTime": 12.86,
+      "finishTime": 13.08,
+      "word": "can"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.4,
+      "word": "describe"
+    },
+    {
+      "startTime": 13.4,
+      "finishTime": 13.58,
+      "word": "what"
+    },
+    {
+      "startTime": 13.58,
+      "finishTime": 13.78,
+      "word": "the"
+    },
+    {
+      "startTime": 13.78,
+      "finishTime": 13.9,
+      "word": "code"
+    },
+    {
+      "startTime": 13.9,
+      "finishTime": 14.26,
+      "word": "does"
+    },
+    {
+      "startTime": 14.26,
+      "finishTime": 14.52,
+      "word": "so"
+    },
+    {
+      "startTime": 14.52,
+      "finishTime": 14.76,
+      "word": "that"
+    },
+    {
+      "startTime": 14.76,
+      "finishTime": 14.96,
+      "word": "other"
+    },
+    {
+      "startTime": 14.96,
+      "finishTime": 15.2,
+      "word": "people"
+    },
+    {
+      "startTime": 15.2,
+      "finishTime": 15.48,
+      "word": "can"
+    },
+    {
+      "startTime": 15.48,
+      "finishTime": 15.88,
+      "word": "understand"
+    },
+    {
+      "startTime": 15.88,
+      "finishTime": 16.2,
+      "word": "it"
+    },
+    {
+      "startTime": 16.2,
+      "finishTime": 16.56,
+      "word": "too."
+    },
+    {
+      "startTime": 17.36,
+      "finishTime": 17.54,
+      "word": "And"
+    },
+    {
+      "startTime": 17.54,
+      "finishTime": 17.68,
+      "word": "what"
+    },
+    {
+      "startTime": 17.68,
+      "finishTime": 17.84,
+      "word": "should"
+    },
+    {
+      "startTime": 17.84,
+      "finishTime": 18.06,
+      "word": "I"
+    },
+    {
+      "startTime": 18.06,
+      "finishTime": 18.34,
+      "word": "comment"
+    },
+    {
+      "startTime": 18.34,
+      "finishTime": 18.7,
+      "word": "on?"
+    },
+    {
+      "startTime": 18.84,
+      "finishTime": 18.98,
+      "word": "Are"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.1,
+      "word": "there"
+    },
+    {
+      "startTime": 19.1,
+      "finishTime": 19.32,
+      "word": "any"
+    },
+    {
+      "startTime": 19.32,
+      "finishTime": 19.74,
+      "word": "specific"
+    },
+    {
+      "startTime": 19.74,
+      "finishTime": 20.04,
+      "word": "things"
+    },
+    {
+      "startTime": 20.04,
+      "finishTime": 20.22,
+      "word": "I"
+    },
+    {
+      "startTime": 20.22,
+      "finishTime": 20.34,
+      "word": "should"
+    },
+    {
+      "startTime": 20.34,
+      "finishTime": 20.62,
+      "word": "focus"
+    },
+    {
+      "startTime": 20.62,
+      "finishTime": 20.94,
+      "word": "on?"
+    },
+    {
+      "startTime": 21.34,
+      "finishTime": 21.54,
+      "word": "You"
+    },
+    {
+      "startTime": 21.54,
+      "finishTime": 21.84,
+      "word": "should"
+    },
+    {
+      "startTime": 21.84,
+      "finishTime": 22.16,
+      "word": "comment"
+    },
+    {
+      "startTime": 22.16,
+      "finishTime": 22.5,
+      "word": "on"
+    },
+    {
+      "startTime": 22.5,
+      "finishTime": 23,
+      "word": "any"
+    },
+    {
+      "startTime": 23,
+      "finishTime": 23.56,
+      "word": "complex"
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 23.94,
+      "word": "or"
+    },
+    {
+      "startTime": 23.94,
+      "finishTime": 24.2,
+      "word": "tricky"
+    },
+    {
+      "startTime": 24.2,
+      "finishTime": 24.48,
+      "word": "parts"
+    },
+    {
+      "startTime": 24.48,
+      "finishTime": 24.68,
+      "word": "of"
+    },
+    {
+      "startTime": 24.68,
+      "finishTime": 24.92,
+      "word": "your"
+    },
+    {
+      "startTime": 24.92,
+      "finishTime": 25.24,
+      "word": "code."
+    },
+    {
+      "startTime": 25.24,
+      "finishTime": 25.8,
+      "word": "You"
+    },
+    {
+      "startTime": 25.8,
+      "finishTime": 26.1,
+      "word": "can"
+    },
+    {
+      "startTime": 26.1,
+      "finishTime": 26.44,
+      "word": "also"
+    },
+    {
+      "startTime": 26.44,
+      "finishTime": 26.8,
+      "word": "explain"
+    },
+    {
+      "startTime": 26.8,
+      "finishTime": 27.06,
+      "word": "what"
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.38,
+      "word": "certain"
+    },
+    {
+      "startTime": 27.38,
+      "finishTime": 27.8,
+      "word": "functions"
+    },
+    {
+      "startTime": 27.8,
+      "finishTime": 28.12,
+      "word": "do"
+    },
+    {
+      "startTime": 28.12,
+      "finishTime": 28.42,
+      "word": "and"
+    },
+    {
+      "startTime": 28.42,
+      "finishTime": 28.78,
+      "word": "clarify"
+    },
+    {
+      "startTime": 28.78,
+      "finishTime": 29.04,
+      "word": "the"
+    },
+    {
+      "startTime": 29.04,
+      "finishTime": 29.26,
+      "word": "purpose"
+    },
+    {
+      "startTime": 29.26,
+      "finishTime": 29.58,
+      "word": "of"
+    },
+    {
+      "startTime": 29.58,
+      "finishTime": 29.92,
+      "word": "variables."
+    },
+    {
+      "startTime": 30.36,
+      "finishTime": 30.66,
+      "word": "Try"
+    },
+    {
+      "startTime": 30.66,
+      "finishTime": 30.94,
+      "word": "to"
+    },
+    {
+      "startTime": 30.94,
+      "finishTime": 31.24,
+      "word": "ensure"
+    },
+    {
+      "startTime": 31.24,
+      "finishTime": 31.5,
+      "word": "that"
+    },
+    {
+      "startTime": 31.5,
+      "finishTime": 31.74,
+      "word": "your"
+    },
+    {
+      "startTime": 31.74,
+      "finishTime": 32.08,
+      "word": "comments"
+    },
+    {
+      "startTime": 32.08,
+      "finishTime": 32.48,
+      "word": "are"
+    },
+    {
+      "startTime": 32.48,
+      "finishTime": 32.82,
+      "word": "clear"
+    },
+    {
+      "startTime": 32.82,
+      "finishTime": 33.28,
+      "word": "and"
+    },
+    {
+      "startTime": 33.28,
+      "finishTime": 33.82,
+      "word": "concise."
+    },
+    {
+      "startTime": 34.66,
+      "finishTime": 34.74,
+      "word": "I"
+    },
+    {
+      "startTime": 34.74,
+      "finishTime": 35.06,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 35.06,
+      "finishTime": 35.3,
+      "word": "your"
+    },
+    {
+      "startTime": 35.3,
+      "finishTime": 35.54,
+      "word": "help."
+    },
+    {
+      "startTime": 35.78,
+      "finishTime": 36,
+      "word": "I'll"
+    },
+    {
+      "startTime": 36,
+      "finishTime": 36.14,
+      "word": "start"
+    },
+    {
+      "startTime": 36.14,
+      "finishTime": 36.42,
+      "word": "adding"
+    },
+    {
+      "startTime": 36.42,
+      "finishTime": 36.78,
+      "word": "comments"
+    },
+    {
+      "startTime": 36.78,
+      "finishTime": 37,
+      "word": "to"
+    },
+    {
+      "startTime": 37,
+      "finishTime": 37.16,
+      "word": "the"
+    },
+    {
+      "startTime": 37.16,
+      "finishTime": 37.3,
+      "word": "code."
+    }
+  ]
+}

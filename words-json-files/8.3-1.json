@@ -1,0 +1,370 @@
+{
+  "text": "I've received the new design and I think it looks great. What's your take on that? I respectfully disagree, Bob. I believe the color scheme needs some changes. Ah, I see what you mean. The color scheme doesn't match our brand's image. Also, I think the font choice needs improvement. Thanks for your feedback. I'll share this feedback with Tom and give him some extra time to work on these colors and fonts.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.54,
+      "word": "I've"
+    },
+    {
+      "startTime": 0.54,
+      "finishTime": 0.8,
+      "word": "received"
+    },
+    {
+      "startTime": 0.8,
+      "finishTime": 0.96,
+      "word": "the"
+    },
+    {
+      "startTime": 0.96,
+      "finishTime": 1.14,
+      "word": "new"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.52,
+      "word": "design"
+    },
+    {
+      "startTime": 1.52,
+      "finishTime": 1.76,
+      "word": "and"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 1.88,
+      "word": "I"
+    },
+    {
+      "startTime": 1.88,
+      "finishTime": 2,
+      "word": "think"
+    },
+    {
+      "startTime": 2,
+      "finishTime": 2.12,
+      "word": "it"
+    },
+    {
+      "startTime": 2.12,
+      "finishTime": 2.3,
+      "word": "looks"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.66,
+      "word": "great."
+    },
+    {
+      "startTime": 2.88,
+      "finishTime": 3.12,
+      "word": "What's"
+    },
+    {
+      "startTime": 3.12,
+      "finishTime": 3.24,
+      "word": "your"
+    },
+    {
+      "startTime": 3.24,
+      "finishTime": 3.42,
+      "word": "take"
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.6,
+      "word": "on"
+    },
+    {
+      "startTime": 3.6,
+      "finishTime": 3.98,
+      "word": "that?"
+    },
+    {
+      "startTime": 4.54,
+      "finishTime": 4.82,
+      "word": "I"
+    },
+    {
+      "startTime": 4.82,
+      "finishTime": 5.22,
+      "word": "respectfully"
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.74,
+      "word": "disagree,"
+    },
+    {
+      "startTime": 5.98,
+      "finishTime": 6.06,
+      "word": "Bob."
+    },
+    {
+      "startTime": 6.5,
+      "finishTime": 6.68,
+      "word": "I"
+    },
+    {
+      "startTime": 6.68,
+      "finishTime": 6.86,
+      "word": "believe"
+    },
+    {
+      "startTime": 6.86,
+      "finishTime": 7.1,
+      "word": "the"
+    },
+    {
+      "startTime": 7.1,
+      "finishTime": 7.34,
+      "word": "color"
+    },
+    {
+      "startTime": 7.34,
+      "finishTime": 7.64,
+      "word": "scheme"
+    },
+    {
+      "startTime": 7.64,
+      "finishTime": 7.92,
+      "word": "needs"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.26,
+      "word": "some"
+    },
+    {
+      "startTime": 8.26,
+      "finishTime": 8.8,
+      "word": "changes."
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 9.96,
+      "word": "Ah,"
+    },
+    {
+      "startTime": 10.1,
+      "finishTime": 10.22,
+      "word": "I"
+    },
+    {
+      "startTime": 10.22,
+      "finishTime": 10.32,
+      "word": "see"
+    },
+    {
+      "startTime": 10.32,
+      "finishTime": 10.5,
+      "word": "what"
+    },
+    {
+      "startTime": 10.5,
+      "finishTime": 10.64,
+      "word": "you"
+    },
+    {
+      "startTime": 10.64,
+      "finishTime": 10.92,
+      "word": "mean."
+    },
+    {
+      "startTime": 11.18,
+      "finishTime": 11.36,
+      "word": "The"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.54,
+      "word": "color"
+    },
+    {
+      "startTime": 11.54,
+      "finishTime": 11.72,
+      "word": "scheme"
+    },
+    {
+      "startTime": 11.72,
+      "finishTime": 12,
+      "word": "doesn't"
+    },
+    {
+      "startTime": 12,
+      "finishTime": 12.24,
+      "word": "match"
+    },
+    {
+      "startTime": 12.24,
+      "finishTime": 12.44,
+      "word": "our"
+    },
+    {
+      "startTime": 12.44,
+      "finishTime": 12.92,
+      "word": "brand's"
+    },
+    {
+      "startTime": 12.92,
+      "finishTime": 13.08,
+      "word": "image."
+    },
+    {
+      "startTime": 13.96,
+      "finishTime": 14.32,
+      "word": "Also,"
+    },
+    {
+      "startTime": 14.5,
+      "finishTime": 14.5,
+      "word": "I"
+    },
+    {
+      "startTime": 14.5,
+      "finishTime": 14.72,
+      "word": "think"
+    },
+    {
+      "startTime": 14.72,
+      "finishTime": 14.96,
+      "word": "the"
+    },
+    {
+      "startTime": 14.96,
+      "finishTime": 15.12,
+      "word": "font"
+    },
+    {
+      "startTime": 15.12,
+      "finishTime": 15.44,
+      "word": "choice"
+    },
+    {
+      "startTime": 15.44,
+      "finishTime": 15.7,
+      "word": "needs"
+    },
+    {
+      "startTime": 15.7,
+      "finishTime": 16.26,
+      "word": "improvement."
+    },
+    {
+      "startTime": 17.1,
+      "finishTime": 17.32,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 17.32,
+      "finishTime": 17.46,
+      "word": "for"
+    },
+    {
+      "startTime": 17.46,
+      "finishTime": 17.64,
+      "word": "your"
+    },
+    {
+      "startTime": 17.64,
+      "finishTime": 17.92,
+      "word": "feedback."
+    },
+    {
+      "startTime": 18.18,
+      "finishTime": 18.38,
+      "word": "I'll"
+    },
+    {
+      "startTime": 18.38,
+      "finishTime": 18.52,
+      "word": "share"
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.74,
+      "word": "this"
+    },
+    {
+      "startTime": 18.74,
+      "finishTime": 19,
+      "word": "feedback"
+    },
+    {
+      "startTime": 19,
+      "finishTime": 19.2,
+      "word": "with"
+    },
+    {
+      "startTime": 19.2,
+      "finishTime": 19.52,
+      "word": "Tom"
+    },
+    {
+      "startTime": 19.52,
+      "finishTime": 19.88,
+      "word": "and"
+    },
+    {
+      "startTime": 19.88,
+      "finishTime": 20.04,
+      "word": "give"
+    },
+    {
+      "startTime": 20.04,
+      "finishTime": 20.24,
+      "word": "him"
+    },
+    {
+      "startTime": 20.24,
+      "finishTime": 20.42,
+      "word": "some"
+    },
+    {
+      "startTime": 20.42,
+      "finishTime": 20.68,
+      "word": "extra"
+    },
+    {
+      "startTime": 20.68,
+      "finishTime": 20.86,
+      "word": "time"
+    },
+    {
+      "startTime": 20.86,
+      "finishTime": 21.06,
+      "word": "to"
+    },
+    {
+      "startTime": 21.06,
+      "finishTime": 21.18,
+      "word": "work"
+    },
+    {
+      "startTime": 21.18,
+      "finishTime": 21.34,
+      "word": "on"
+    },
+    {
+      "startTime": 21.34,
+      "finishTime": 21.56,
+      "word": "these"
+    },
+    {
+      "startTime": 21.56,
+      "finishTime": 21.84,
+      "word": "colors"
+    },
+    {
+      "startTime": 21.84,
+      "finishTime": 22.12,
+      "word": "and"
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.34,
+      "word": "fonts."
+    }
+  ]
+}

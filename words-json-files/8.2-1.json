@@ -1,0 +1,595 @@
+{
+  "text": "Brian, it's time to discuss our plans for the upcoming project. What do you think we should do? Well, we're going to use a framework for the frontend, probably React. It's the technology we're most comfortable with and it will make development faster. Good point. I agree. I also think we are going to need a dedicated UX designer. It's a complex project and a professional designer will help us create a great user interface. Absolutely. And as for the backend, I think we'll use Node.js. It's a solid choice and it will allow us to scale the application effectively. Sure thing. I'm glad we're on the same page. Let's finalize these plans and start assigning tasks.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.82,
+      "word": "Brian,"
+    },
+    {
+      "startTime": 0.9,
+      "finishTime": 1.12,
+      "word": "it's"
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.32,
+      "word": "time"
+    },
+    {
+      "startTime": 1.32,
+      "finishTime": 1.5,
+      "word": "to"
+    },
+    {
+      "startTime": 1.5,
+      "finishTime": 1.76,
+      "word": "discuss"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 2.02,
+      "word": "our"
+    },
+    {
+      "startTime": 2.02,
+      "finishTime": 2.3,
+      "word": "plans"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.48,
+      "word": "for"
+    },
+    {
+      "startTime": 2.48,
+      "finishTime": 2.62,
+      "word": "the"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 2.96,
+      "word": "upcoming"
+    },
+    {
+      "startTime": 2.96,
+      "finishTime": 3.52,
+      "word": "project."
+    },
+    {
+      "startTime": 4.36,
+      "finishTime": 4.58,
+      "word": "What"
+    },
+    {
+      "startTime": 4.58,
+      "finishTime": 4.8,
+      "word": "do"
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 4.8,
+      "word": "you"
+    },
+    {
+      "startTime": 4.8,
+      "finishTime": 5,
+      "word": "think"
+    },
+    {
+      "startTime": 5,
+      "finishTime": 5.14,
+      "word": "we"
+    },
+    {
+      "startTime": 5.14,
+      "finishTime": 5.3,
+      "word": "should"
+    },
+    {
+      "startTime": 5.3,
+      "finishTime": 5.7,
+      "word": "do?"
+    },
+    {
+      "startTime": 6.26,
+      "finishTime": 6.58,
+      "word": "Well,"
+    },
+    {
+      "startTime": 6.84,
+      "finishTime": 7,
+      "word": "we're"
+    },
+    {
+      "startTime": 7,
+      "finishTime": 7.2,
+      "word": "going"
+    },
+    {
+      "startTime": 7.2,
+      "finishTime": 7.32,
+      "word": "to"
+    },
+    {
+      "startTime": 7.32,
+      "finishTime": 7.46,
+      "word": "use"
+    },
+    {
+      "startTime": 7.46,
+      "finishTime": 7.66,
+      "word": "a"
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 7.86,
+      "word": "framework"
+    },
+    {
+      "startTime": 7.86,
+      "finishTime": 8.14,
+      "word": "for"
+    },
+    {
+      "startTime": 8.14,
+      "finishTime": 8.34,
+      "word": "the"
+    },
+    {
+      "startTime": 8.34,
+      "finishTime": 8.72,
+      "word": "frontend,"
+    },
+    {
+      "startTime": 9,
+      "finishTime": 9.46,
+      "word": "probably"
+    },
+    {
+      "startTime": 9.46,
+      "finishTime": 9.9,
+      "word": "React."
+    },
+    {
+      "startTime": 10.16,
+      "finishTime": 10.42,
+      "word": "It's"
+    },
+    {
+      "startTime": 10.42,
+      "finishTime": 10.62,
+      "word": "the"
+    },
+    {
+      "startTime": 10.62,
+      "finishTime": 11.06,
+      "word": "technology"
+    },
+    {
+      "startTime": 11.06,
+      "finishTime": 11.32,
+      "word": "we're"
+    },
+    {
+      "startTime": 11.32,
+      "finishTime": 11.66,
+      "word": "most"
+    },
+    {
+      "startTime": 11.66,
+      "finishTime": 12.04,
+      "word": "comfortable"
+    },
+    {
+      "startTime": 12.04,
+      "finishTime": 12.34,
+      "word": "with"
+    },
+    {
+      "startTime": 12.34,
+      "finishTime": 12.5,
+      "word": "and"
+    },
+    {
+      "startTime": 12.5,
+      "finishTime": 12.64,
+      "word": "it"
+    },
+    {
+      "startTime": 12.64,
+      "finishTime": 12.8,
+      "word": "will"
+    },
+    {
+      "startTime": 12.8,
+      "finishTime": 12.98,
+      "word": "make"
+    },
+    {
+      "startTime": 12.98,
+      "finishTime": 13.4,
+      "word": "development"
+    },
+    {
+      "startTime": 13.4,
+      "finishTime": 14.02,
+      "word": "faster."
+    },
+    {
+      "startTime": 14.56,
+      "finishTime": 14.76,
+      "word": "Good"
+    },
+    {
+      "startTime": 14.76,
+      "finishTime": 15.1,
+      "word": "point."
+    },
+    {
+      "startTime": 15.22,
+      "finishTime": 15.46,
+      "word": "I"
+    },
+    {
+      "startTime": 15.46,
+      "finishTime": 15.76,
+      "word": "agree."
+    },
+    {
+      "startTime": 16.3,
+      "finishTime": 16.52,
+      "word": "I"
+    },
+    {
+      "startTime": 16.52,
+      "finishTime": 16.8,
+      "word": "also"
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 17,
+      "word": "think"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.18,
+      "word": "we"
+    },
+    {
+      "startTime": 17.18,
+      "finishTime": 17.32,
+      "word": "are"
+    },
+    {
+      "startTime": 17.32,
+      "finishTime": 17.46,
+      "word": "going"
+    },
+    {
+      "startTime": 17.46,
+      "finishTime": 17.66,
+      "word": "to"
+    },
+    {
+      "startTime": 17.66,
+      "finishTime": 17.8,
+      "word": "need"
+    },
+    {
+      "startTime": 17.8,
+      "finishTime": 18.04,
+      "word": "a"
+    },
+    {
+      "startTime": 18.04,
+      "finishTime": 18.44,
+      "word": "dedicated"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.84,
+      "word": "UX"
+    },
+    {
+      "startTime": 18.84,
+      "finishTime": 19.3,
+      "word": "designer."
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 20.14,
+      "word": "It's"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.28,
+      "word": "a"
+    },
+    {
+      "startTime": 20.28,
+      "finishTime": 20.68,
+      "word": "complex"
+    },
+    {
+      "startTime": 20.68,
+      "finishTime": 21.16,
+      "word": "project"
+    },
+    {
+      "startTime": 21.16,
+      "finishTime": 21.36,
+      "word": "and"
+    },
+    {
+      "startTime": 21.36,
+      "finishTime": 21.5,
+      "word": "a"
+    },
+    {
+      "startTime": 21.5,
+      "finishTime": 21.92,
+      "word": "professional"
+    },
+    {
+      "startTime": 21.92,
+      "finishTime": 22.32,
+      "word": "designer"
+    },
+    {
+      "startTime": 22.32,
+      "finishTime": 22.56,
+      "word": "will"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 22.62,
+      "word": "help"
+    },
+    {
+      "startTime": 22.62,
+      "finishTime": 22.9,
+      "word": "us"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.06,
+      "word": "create"
+    },
+    {
+      "startTime": 23.06,
+      "finishTime": 23.36,
+      "word": "a"
+    },
+    {
+      "startTime": 23.36,
+      "finishTime": 23.5,
+      "word": "great"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.78,
+      "word": "user"
+    },
+    {
+      "startTime": 23.78,
+      "finishTime": 24.3,
+      "word": "interface."
+    },
+    {
+      "startTime": 25,
+      "finishTime": 25.48,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 25.9,
+      "finishTime": 26.04,
+      "word": "And"
+    },
+    {
+      "startTime": 26.04,
+      "finishTime": 26.2,
+      "word": "as"
+    },
+    {
+      "startTime": 26.2,
+      "finishTime": 26.34,
+      "word": "for"
+    },
+    {
+      "startTime": 26.34,
+      "finishTime": 26.54,
+      "word": "the"
+    },
+    {
+      "startTime": 26.54,
+      "finishTime": 26.82,
+      "word": "backend,"
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.18,
+      "word": "I"
+    },
+    {
+      "startTime": 27.18,
+      "finishTime": 27.34,
+      "word": "think"
+    },
+    {
+      "startTime": 27.34,
+      "finishTime": 27.58,
+      "word": "we'll"
+    },
+    {
+      "startTime": 27.58,
+      "finishTime": 27.68,
+      "word": "use"
+    },
+    {
+      "startTime": 27.68,
+      "finishTime": 27.98,
+      "word": "Node"
+    },
+    {
+      "startTime": 27.98,
+      "finishTime": 28.3,
+      "word": ".js."
+    },
+    {
+      "startTime": 28.3,
+      "finishTime": 28.92,
+      "word": "It's"
+    },
+    {
+      "startTime": 28.92,
+      "finishTime": 29.06,
+      "word": "a"
+    },
+    {
+      "startTime": 29.06,
+      "finishTime": 29.24,
+      "word": "solid"
+    },
+    {
+      "startTime": 29.24,
+      "finishTime": 29.6,
+      "word": "choice"
+    },
+    {
+      "startTime": 29.6,
+      "finishTime": 29.86,
+      "word": "and"
+    },
+    {
+      "startTime": 29.86,
+      "finishTime": 29.98,
+      "word": "it"
+    },
+    {
+      "startTime": 29.98,
+      "finishTime": 30.16,
+      "word": "will"
+    },
+    {
+      "startTime": 30.16,
+      "finishTime": 30.36,
+      "word": "allow"
+    },
+    {
+      "startTime": 30.36,
+      "finishTime": 30.62,
+      "word": "us"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 30.8,
+      "word": "to"
+    },
+    {
+      "startTime": 30.8,
+      "finishTime": 30.92,
+      "word": "scale"
+    },
+    {
+      "startTime": 30.92,
+      "finishTime": 31.18,
+      "word": "the"
+    },
+    {
+      "startTime": 31.18,
+      "finishTime": 31.68,
+      "word": "application"
+    },
+    {
+      "startTime": 31.68,
+      "finishTime": 32.36,
+      "word": "effectively."
+    },
+    {
+      "startTime": 33.44,
+      "finishTime": 33.58,
+      "word": "Sure"
+    },
+    {
+      "startTime": 33.58,
+      "finishTime": 33.9,
+      "word": "thing."
+    },
+    {
+      "startTime": 34.16,
+      "finishTime": 34.32,
+      "word": "I'm"
+    },
+    {
+      "startTime": 34.32,
+      "finishTime": 34.46,
+      "word": "glad"
+    },
+    {
+      "startTime": 34.46,
+      "finishTime": 34.64,
+      "word": "we're"
+    },
+    {
+      "startTime": 34.64,
+      "finishTime": 34.72,
+      "word": "on"
+    },
+    {
+      "startTime": 34.72,
+      "finishTime": 34.86,
+      "word": "the"
+    },
+    {
+      "startTime": 34.86,
+      "finishTime": 35.02,
+      "word": "same"
+    },
+    {
+      "startTime": 35.02,
+      "finishTime": 35.36,
+      "word": "page."
+    },
+    {
+      "startTime": 35.8,
+      "finishTime": 36.16,
+      "word": "Let's"
+    },
+    {
+      "startTime": 36.16,
+      "finishTime": 36.54,
+      "word": "finalize"
+    },
+    {
+      "startTime": 36.54,
+      "finishTime": 36.76,
+      "word": "these"
+    },
+    {
+      "startTime": 36.76,
+      "finishTime": 37.02,
+      "word": "plans"
+    },
+    {
+      "startTime": 37.02,
+      "finishTime": 37.32,
+      "word": "and"
+    },
+    {
+      "startTime": 37.32,
+      "finishTime": 37.48,
+      "word": "start"
+    },
+    {
+      "startTime": 37.48,
+      "finishTime": 37.84,
+      "word": "assigning"
+    },
+    {
+      "startTime": 37.84,
+      "finishTime": 38.36,
+      "word": "tasks."
+    }
+  ]
+}

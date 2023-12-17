@@ -1,0 +1,465 @@
+{
+  "text": "Sarah, I'm hearing a lot about AI and programming these days, but I don't know how to use it. Any ideas? AI and programming involves using smart computers to help write code or find errors. It's one of those trends that automate certain tasks and development. That's fascinating. It is, right? I was actually thinking of using AI and tasks like code analysis and bug detection. It can improve code quality and reduce the time spent on debugging. Great idea. I think we should give it a go and test it out.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.72,
+      "word": "Sarah,"
+    },
+    {
+      "startTime": 0.72,
+      "finishTime": 1.14,
+      "word": "I'm"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.4,
+      "word": "hearing"
+    },
+    {
+      "startTime": 1.4,
+      "finishTime": 1.46,
+      "word": "a"
+    },
+    {
+      "startTime": 1.46,
+      "finishTime": 1.7,
+      "word": "lot"
+    },
+    {
+      "startTime": 1.7,
+      "finishTime": 1.96,
+      "word": "about"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.38,
+      "word": "AI"
+    },
+    {
+      "startTime": 2.38,
+      "finishTime": 2.7,
+      "word": "and"
+    },
+    {
+      "startTime": 2.7,
+      "finishTime": 3.02,
+      "word": "programming"
+    },
+    {
+      "startTime": 3.02,
+      "finishTime": 3.34,
+      "word": "these"
+    },
+    {
+      "startTime": 3.34,
+      "finishTime": 3.56,
+      "word": "days,"
+    },
+    {
+      "startTime": 3.6,
+      "finishTime": 3.72,
+      "word": "but"
+    },
+    {
+      "startTime": 3.72,
+      "finishTime": 3.9,
+      "word": "I"
+    },
+    {
+      "startTime": 3.9,
+      "finishTime": 4.06,
+      "word": "don't"
+    },
+    {
+      "startTime": 4.06,
+      "finishTime": 4.18,
+      "word": "know"
+    },
+    {
+      "startTime": 4.18,
+      "finishTime": 4.34,
+      "word": "how"
+    },
+    {
+      "startTime": 4.34,
+      "finishTime": 4.52,
+      "word": "to"
+    },
+    {
+      "startTime": 4.52,
+      "finishTime": 4.64,
+      "word": "use"
+    },
+    {
+      "startTime": 4.64,
+      "finishTime": 4.9,
+      "word": "it."
+    },
+    {
+      "startTime": 4.98,
+      "finishTime": 5.22,
+      "word": "Any"
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.66,
+      "word": "ideas?"
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.82,
+      "word": "AI"
+    },
+    {
+      "startTime": 6.82,
+      "finishTime": 7.12,
+      "word": "and"
+    },
+    {
+      "startTime": 7.12,
+      "finishTime": 7.36,
+      "word": "programming"
+    },
+    {
+      "startTime": 7.36,
+      "finishTime": 7.8,
+      "word": "involves"
+    },
+    {
+      "startTime": 7.8,
+      "finishTime": 8.24,
+      "word": "using"
+    },
+    {
+      "startTime": 8.24,
+      "finishTime": 8.48,
+      "word": "smart"
+    },
+    {
+      "startTime": 8.48,
+      "finishTime": 8.9,
+      "word": "computers"
+    },
+    {
+      "startTime": 8.9,
+      "finishTime": 9.16,
+      "word": "to"
+    },
+    {
+      "startTime": 9.16,
+      "finishTime": 9.32,
+      "word": "help"
+    },
+    {
+      "startTime": 9.32,
+      "finishTime": 9.56,
+      "word": "write"
+    },
+    {
+      "startTime": 9.56,
+      "finishTime": 9.8,
+      "word": "code"
+    },
+    {
+      "startTime": 9.8,
+      "finishTime": 10.04,
+      "word": "or"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.26,
+      "word": "find"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.72,
+      "word": "errors."
+    },
+    {
+      "startTime": 11.22,
+      "finishTime": 11.36,
+      "word": "It's"
+    },
+    {
+      "startTime": 11.36,
+      "finishTime": 11.48,
+      "word": "one"
+    },
+    {
+      "startTime": 11.48,
+      "finishTime": 11.6,
+      "word": "of"
+    },
+    {
+      "startTime": 11.6,
+      "finishTime": 11.78,
+      "word": "those"
+    },
+    {
+      "startTime": 11.78,
+      "finishTime": 12.02,
+      "word": "trends"
+    },
+    {
+      "startTime": 12.02,
+      "finishTime": 12.26,
+      "word": "that"
+    },
+    {
+      "startTime": 12.26,
+      "finishTime": 12.54,
+      "word": "automate"
+    },
+    {
+      "startTime": 12.54,
+      "finishTime": 12.86,
+      "word": "certain"
+    },
+    {
+      "startTime": 12.86,
+      "finishTime": 13.24,
+      "word": "tasks"
+    },
+    {
+      "startTime": 13.24,
+      "finishTime": 13.5,
+      "word": "and"
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.92,
+      "word": "development."
+    },
+    {
+      "startTime": 14.22,
+      "finishTime": 14.68,
+      "word": "That's"
+    },
+    {
+      "startTime": 14.68,
+      "finishTime": 15.26,
+      "word": "fascinating."
+    },
+    {
+      "startTime": 15.74,
+      "finishTime": 15.88,
+      "word": "It"
+    },
+    {
+      "startTime": 15.88,
+      "finishTime": 16.12,
+      "word": "is,"
+    },
+    {
+      "startTime": 16.24,
+      "finishTime": 16.46,
+      "word": "right?"
+    },
+    {
+      "startTime": 16.72,
+      "finishTime": 16.84,
+      "word": "I"
+    },
+    {
+      "startTime": 16.84,
+      "finishTime": 17.02,
+      "word": "was"
+    },
+    {
+      "startTime": 17.02,
+      "finishTime": 17.28,
+      "word": "actually"
+    },
+    {
+      "startTime": 17.28,
+      "finishTime": 17.54,
+      "word": "thinking"
+    },
+    {
+      "startTime": 17.54,
+      "finishTime": 17.76,
+      "word": "of"
+    },
+    {
+      "startTime": 17.76,
+      "finishTime": 18.02,
+      "word": "using"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.44,
+      "word": "AI"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.68,
+      "word": "and"
+    },
+    {
+      "startTime": 18.68,
+      "finishTime": 18.98,
+      "word": "tasks"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.3,
+      "word": "like"
+    },
+    {
+      "startTime": 19.3,
+      "finishTime": 19.56,
+      "word": "code"
+    },
+    {
+      "startTime": 19.56,
+      "finishTime": 20.04,
+      "word": "analysis"
+    },
+    {
+      "startTime": 20.04,
+      "finishTime": 20.26,
+      "word": "and"
+    },
+    {
+      "startTime": 20.26,
+      "finishTime": 20.44,
+      "word": "bug"
+    },
+    {
+      "startTime": 20.44,
+      "finishTime": 20.92,
+      "word": "detection."
+    },
+    {
+      "startTime": 21.22,
+      "finishTime": 21.5,
+      "word": "It"
+    },
+    {
+      "startTime": 21.5,
+      "finishTime": 21.66,
+      "word": "can"
+    },
+    {
+      "startTime": 21.66,
+      "finishTime": 21.94,
+      "word": "improve"
+    },
+    {
+      "startTime": 21.94,
+      "finishTime": 22.24,
+      "word": "code"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.58,
+      "word": "quality"
+    },
+    {
+      "startTime": 22.58,
+      "finishTime": 22.84,
+      "word": "and"
+    },
+    {
+      "startTime": 22.84,
+      "finishTime": 23.14,
+      "word": "reduce"
+    },
+    {
+      "startTime": 23.14,
+      "finishTime": 23.4,
+      "word": "the"
+    },
+    {
+      "startTime": 23.4,
+      "finishTime": 23.52,
+      "word": "time"
+    },
+    {
+      "startTime": 23.52,
+      "finishTime": 23.8,
+      "word": "spent"
+    },
+    {
+      "startTime": 23.8,
+      "finishTime": 24.04,
+      "word": "on"
+    },
+    {
+      "startTime": 24.04,
+      "finishTime": 24.4,
+      "word": "debugging."
+    },
+    {
+      "startTime": 25.12,
+      "finishTime": 25.28,
+      "word": "Great"
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 25.7,
+      "word": "idea."
+    },
+    {
+      "startTime": 25.7,
+      "finishTime": 26.18,
+      "word": "I"
+    },
+    {
+      "startTime": 26.18,
+      "finishTime": 26.36,
+      "word": "think"
+    },
+    {
+      "startTime": 26.36,
+      "finishTime": 26.5,
+      "word": "we"
+    },
+    {
+      "startTime": 26.5,
+      "finishTime": 26.64,
+      "word": "should"
+    },
+    {
+      "startTime": 26.64,
+      "finishTime": 26.78,
+      "word": "give"
+    },
+    {
+      "startTime": 26.78,
+      "finishTime": 26.96,
+      "word": "it"
+    },
+    {
+      "startTime": 26.96,
+      "finishTime": 27.08,
+      "word": "a"
+    },
+    {
+      "startTime": 27.08,
+      "finishTime": 27.26,
+      "word": "go"
+    },
+    {
+      "startTime": 27.26,
+      "finishTime": 27.46,
+      "word": "and"
+    },
+    {
+      "startTime": 27.46,
+      "finishTime": 27.64,
+      "word": "test"
+    },
+    {
+      "startTime": 27.64,
+      "finishTime": 27.84,
+      "word": "it"
+    },
+    {
+      "startTime": 27.84,
+      "finishTime": 28.1,
+      "word": "out."
+    }
+  ]
+}

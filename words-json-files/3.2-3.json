@@ -1,0 +1,610 @@
+{
+  "text": "Hey, I noticed you have a huge collection of action figures on that shelf behind you. Are you a collector? You bet. I love action figures. That's awesome. What kind of figures are you most interested in? I like sci-fi and fantasy mostly. You can find everything here, from Star Wars to Lord of the Rings. That's cool. How long have you been into collecting? I've been a collector since I was 8 or 9 years old. It all started when I got my first action figure at a comic convention. I didn't know you were interested in this. Are you kidding? I go to at least one convention every year. It's the best moment of the year for me.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.42,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 0.82,
+      "finishTime": 0.94,
+      "word": "I"
+    },
+    {
+      "startTime": 0.94,
+      "finishTime": 1.14,
+      "word": "noticed"
+    },
+    {
+      "startTime": 1.14,
+      "finishTime": 1.26,
+      "word": "you"
+    },
+    {
+      "startTime": 1.26,
+      "finishTime": 1.48,
+      "word": "have"
+    },
+    {
+      "startTime": 1.48,
+      "finishTime": 1.62,
+      "word": "a"
+    },
+    {
+      "startTime": 1.62,
+      "finishTime": 1.88,
+      "word": "huge"
+    },
+    {
+      "startTime": 1.88,
+      "finishTime": 2.26,
+      "word": "collection"
+    },
+    {
+      "startTime": 2.26,
+      "finishTime": 2.52,
+      "word": "of"
+    },
+    {
+      "startTime": 2.52,
+      "finishTime": 2.68,
+      "word": "action"
+    },
+    {
+      "startTime": 2.68,
+      "finishTime": 3,
+      "word": "figures"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.26,
+      "word": "on"
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.46,
+      "word": "that"
+    },
+    {
+      "startTime": 3.46,
+      "finishTime": 3.7,
+      "word": "shelf"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 4.02,
+      "word": "behind"
+    },
+    {
+      "startTime": 4.02,
+      "finishTime": 4.3,
+      "word": "you."
+    },
+    {
+      "startTime": 4.44,
+      "finishTime": 4.6,
+      "word": "Are"
+    },
+    {
+      "startTime": 4.6,
+      "finishTime": 4.74,
+      "word": "you"
+    },
+    {
+      "startTime": 4.74,
+      "finishTime": 4.92,
+      "word": "a"
+    },
+    {
+      "startTime": 4.92,
+      "finishTime": 5.18,
+      "word": "collector?"
+    },
+    {
+      "startTime": 5.76,
+      "finishTime": 6.06,
+      "word": "You"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.32,
+      "word": "bet."
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.72,
+      "word": "I"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 6.92,
+      "word": "love"
+    },
+    {
+      "startTime": 6.92,
+      "finishTime": 7.22,
+      "word": "action"
+    },
+    {
+      "startTime": 7.22,
+      "finishTime": 7.62,
+      "word": "figures."
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.38,
+      "word": "That's"
+    },
+    {
+      "startTime": 8.38,
+      "finishTime": 8.76,
+      "word": "awesome."
+    },
+    {
+      "startTime": 9.08,
+      "finishTime": 9.28,
+      "word": "What"
+    },
+    {
+      "startTime": 9.28,
+      "finishTime": 9.48,
+      "word": "kind"
+    },
+    {
+      "startTime": 9.48,
+      "finishTime": 9.62,
+      "word": "of"
+    },
+    {
+      "startTime": 9.62,
+      "finishTime": 9.84,
+      "word": "figures"
+    },
+    {
+      "startTime": 9.84,
+      "finishTime": 10.04,
+      "word": "are"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.18,
+      "word": "you"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.42,
+      "word": "most"
+    },
+    {
+      "startTime": 10.42,
+      "finishTime": 10.88,
+      "word": "interested"
+    },
+    {
+      "startTime": 10.88,
+      "finishTime": 11.24,
+      "word": "in?"
+    },
+    {
+      "startTime": 11.72,
+      "finishTime": 11.82,
+      "word": "I"
+    },
+    {
+      "startTime": 11.82,
+      "finishTime": 12.06,
+      "word": "like"
+    },
+    {
+      "startTime": 12.06,
+      "finishTime": 12.36,
+      "word": "sci"
+    },
+    {
+      "startTime": 12.36,
+      "finishTime": 12.56,
+      "word": "-fi"
+    },
+    {
+      "startTime": 12.56,
+      "finishTime": 12.76,
+      "word": "and"
+    },
+    {
+      "startTime": 12.76,
+      "finishTime": 13.08,
+      "word": "fantasy"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.6,
+      "word": "mostly."
+    },
+    {
+      "startTime": 13.82,
+      "finishTime": 14,
+      "word": "You"
+    },
+    {
+      "startTime": 14,
+      "finishTime": 14.2,
+      "word": "can"
+    },
+    {
+      "startTime": 14.2,
+      "finishTime": 14.4,
+      "word": "find"
+    },
+    {
+      "startTime": 14.4,
+      "finishTime": 14.78,
+      "word": "everything"
+    },
+    {
+      "startTime": 14.78,
+      "finishTime": 15.14,
+      "word": "here,"
+    },
+    {
+      "startTime": 15.16,
+      "finishTime": 15.4,
+      "word": "from"
+    },
+    {
+      "startTime": 15.4,
+      "finishTime": 15.7,
+      "word": "Star"
+    },
+    {
+      "startTime": 15.7,
+      "finishTime": 15.94,
+      "word": "Wars"
+    },
+    {
+      "startTime": 15.94,
+      "finishTime": 16.12,
+      "word": "to"
+    },
+    {
+      "startTime": 16.12,
+      "finishTime": 16.32,
+      "word": "Lord"
+    },
+    {
+      "startTime": 16.32,
+      "finishTime": 16.42,
+      "word": "of"
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.52,
+      "word": "the"
+    },
+    {
+      "startTime": 16.52,
+      "finishTime": 16.9,
+      "word": "Rings."
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 17.92,
+      "word": "That's"
+    },
+    {
+      "startTime": 17.92,
+      "finishTime": 18.2,
+      "word": "cool."
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.76,
+      "word": "How"
+    },
+    {
+      "startTime": 18.76,
+      "finishTime": 18.98,
+      "word": "long"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.16,
+      "word": "have"
+    },
+    {
+      "startTime": 19.16,
+      "finishTime": 19.22,
+      "word": "you"
+    },
+    {
+      "startTime": 19.22,
+      "finishTime": 19.44,
+      "word": "been"
+    },
+    {
+      "startTime": 19.44,
+      "finishTime": 19.78,
+      "word": "into"
+    },
+    {
+      "startTime": 19.78,
+      "finishTime": 20.1,
+      "word": "collecting?"
+    },
+    {
+      "startTime": 20.72,
+      "finishTime": 21.12,
+      "word": "I've"
+    },
+    {
+      "startTime": 21.12,
+      "finishTime": 21.26,
+      "word": "been"
+    },
+    {
+      "startTime": 21.26,
+      "finishTime": 21.42,
+      "word": "a"
+    },
+    {
+      "startTime": 21.42,
+      "finishTime": 21.62,
+      "word": "collector"
+    },
+    {
+      "startTime": 21.62,
+      "finishTime": 21.9,
+      "word": "since"
+    },
+    {
+      "startTime": 21.9,
+      "finishTime": 22.06,
+      "word": "I"
+    },
+    {
+      "startTime": 22.06,
+      "finishTime": 22.24,
+      "word": "was"
+    },
+    {
+      "startTime": 22.24,
+      "finishTime": 22.42,
+      "word": "8"
+    },
+    {
+      "startTime": 22.42,
+      "finishTime": 22.48,
+      "word": "or"
+    },
+    {
+      "startTime": 22.48,
+      "finishTime": 22.7,
+      "word": "9"
+    },
+    {
+      "startTime": 22.7,
+      "finishTime": 22.9,
+      "word": "years"
+    },
+    {
+      "startTime": 22.9,
+      "finishTime": 23.24,
+      "word": "old."
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 23.76,
+      "word": "It"
+    },
+    {
+      "startTime": 23.76,
+      "finishTime": 23.96,
+      "word": "all"
+    },
+    {
+      "startTime": 23.96,
+      "finishTime": 24.28,
+      "word": "started"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.4,
+      "word": "when"
+    },
+    {
+      "startTime": 24.4,
+      "finishTime": 24.54,
+      "word": "I"
+    },
+    {
+      "startTime": 24.54,
+      "finishTime": 24.66,
+      "word": "got"
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 24.86,
+      "word": "my"
+    },
+    {
+      "startTime": 24.86,
+      "finishTime": 25.24,
+      "word": "first"
+    },
+    {
+      "startTime": 25.24,
+      "finishTime": 25.6,
+      "word": "action"
+    },
+    {
+      "startTime": 25.6,
+      "finishTime": 25.92,
+      "word": "figure"
+    },
+    {
+      "startTime": 25.92,
+      "finishTime": 26.1,
+      "word": "at"
+    },
+    {
+      "startTime": 26.1,
+      "finishTime": 26.26,
+      "word": "a"
+    },
+    {
+      "startTime": 26.26,
+      "finishTime": 26.46,
+      "word": "comic"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.98,
+      "word": "convention."
+    },
+    {
+      "startTime": 27.68,
+      "finishTime": 27.86,
+      "word": "I"
+    },
+    {
+      "startTime": 27.86,
+      "finishTime": 28.02,
+      "word": "didn't"
+    },
+    {
+      "startTime": 28.02,
+      "finishTime": 28.16,
+      "word": "know"
+    },
+    {
+      "startTime": 28.16,
+      "finishTime": 28.32,
+      "word": "you"
+    },
+    {
+      "startTime": 28.32,
+      "finishTime": 28.5,
+      "word": "were"
+    },
+    {
+      "startTime": 28.5,
+      "finishTime": 28.8,
+      "word": "interested"
+    },
+    {
+      "startTime": 28.8,
+      "finishTime": 29,
+      "word": "in"
+    },
+    {
+      "startTime": 29,
+      "finishTime": 29.28,
+      "word": "this."
+    },
+    {
+      "startTime": 29.28,
+      "finishTime": 29.84,
+      "word": "Are"
+    },
+    {
+      "startTime": 29.84,
+      "finishTime": 30.04,
+      "word": "you"
+    },
+    {
+      "startTime": 30.04,
+      "finishTime": 30.24,
+      "word": "kidding?"
+    },
+    {
+      "startTime": 30.46,
+      "finishTime": 30.56,
+      "word": "I"
+    },
+    {
+      "startTime": 30.56,
+      "finishTime": 30.68,
+      "word": "go"
+    },
+    {
+      "startTime": 30.68,
+      "finishTime": 30.8,
+      "word": "to"
+    },
+    {
+      "startTime": 30.8,
+      "finishTime": 30.94,
+      "word": "at"
+    },
+    {
+      "startTime": 30.94,
+      "finishTime": 31.18,
+      "word": "least"
+    },
+    {
+      "startTime": 31.18,
+      "finishTime": 31.38,
+      "word": "one"
+    },
+    {
+      "startTime": 31.38,
+      "finishTime": 31.78,
+      "word": "convention"
+    },
+    {
+      "startTime": 31.78,
+      "finishTime": 32.16,
+      "word": "every"
+    },
+    {
+      "startTime": 32.16,
+      "finishTime": 32.42,
+      "word": "year."
+    },
+    {
+      "startTime": 32.76,
+      "finishTime": 32.9,
+      "word": "It's"
+    },
+    {
+      "startTime": 32.9,
+      "finishTime": 33.02,
+      "word": "the"
+    },
+    {
+      "startTime": 33.02,
+      "finishTime": 33.24,
+      "word": "best"
+    },
+    {
+      "startTime": 33.24,
+      "finishTime": 33.48,
+      "word": "moment"
+    },
+    {
+      "startTime": 33.48,
+      "finishTime": 33.66,
+      "word": "of"
+    },
+    {
+      "startTime": 33.66,
+      "finishTime": 33.76,
+      "word": "the"
+    },
+    {
+      "startTime": 33.76,
+      "finishTime": 33.88,
+      "word": "year"
+    },
+    {
+      "startTime": 33.88,
+      "finishTime": 34.06,
+      "word": "for"
+    },
+    {
+      "startTime": 34.06,
+      "finishTime": 34.22,
+      "word": "me."
+    }
+  ]
+}

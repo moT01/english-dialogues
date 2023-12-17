@@ -1,0 +1,430 @@
+{
+  "text": "Sarah I'm learning about functions and programming and I'm not sure how to use them. Functions are like small reusable tasks that you can use in your code. Thanks for explaining Sarah. I see many functions in our code but I'm not sure what each of these does. No problem Tom. To understand them you can look at their names and comments. Comments explain that function's purpose. Got it. So that means I should read the function names and comments to what these functions do.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.5,
+      "word": "Sarah"
+    },
+    {
+      "startTime": 0.5,
+      "finishTime": 0.86,
+      "word": "I'm"
+    },
+    {
+      "startTime": 0.86,
+      "finishTime": 1.1,
+      "word": "learning"
+    },
+    {
+      "startTime": 1.1,
+      "finishTime": 1.4,
+      "word": "about"
+    },
+    {
+      "startTime": 1.4,
+      "finishTime": 1.74,
+      "word": "functions"
+    },
+    {
+      "startTime": 1.74,
+      "finishTime": 2,
+      "word": "and"
+    },
+    {
+      "startTime": 2,
+      "finishTime": 2.4,
+      "word": "programming"
+    },
+    {
+      "startTime": 2.4,
+      "finishTime": 2.72,
+      "word": "and"
+    },
+    {
+      "startTime": 2.72,
+      "finishTime": 2.84,
+      "word": "I'm"
+    },
+    {
+      "startTime": 2.84,
+      "finishTime": 3,
+      "word": "not"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.14,
+      "word": "sure"
+    },
+    {
+      "startTime": 3.14,
+      "finishTime": 3.32,
+      "word": "how"
+    },
+    {
+      "startTime": 3.32,
+      "finishTime": 3.48,
+      "word": "to"
+    },
+    {
+      "startTime": 3.48,
+      "finishTime": 3.66,
+      "word": "use"
+    },
+    {
+      "startTime": 3.66,
+      "finishTime": 4.26,
+      "word": "them."
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.74,
+      "word": "Functions"
+    },
+    {
+      "startTime": 4.74,
+      "finishTime": 4.94,
+      "word": "are"
+    },
+    {
+      "startTime": 4.94,
+      "finishTime": 5.22,
+      "word": "like"
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.58,
+      "word": "small"
+    },
+    {
+      "startTime": 5.58,
+      "finishTime": 6,
+      "word": "reusable"
+    },
+    {
+      "startTime": 6,
+      "finishTime": 6.48,
+      "word": "tasks"
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.72,
+      "word": "that"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 6.82,
+      "word": "you"
+    },
+    {
+      "startTime": 6.82,
+      "finishTime": 6.96,
+      "word": "can"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.1,
+      "word": "use"
+    },
+    {
+      "startTime": 7.1,
+      "finishTime": 7.28,
+      "word": "in"
+    },
+    {
+      "startTime": 7.28,
+      "finishTime": 7.46,
+      "word": "your"
+    },
+    {
+      "startTime": 7.46,
+      "finishTime": 7.76,
+      "word": "code."
+    },
+    {
+      "startTime": 8.48,
+      "finishTime": 8.7,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 8.7,
+      "finishTime": 8.92,
+      "word": "for"
+    },
+    {
+      "startTime": 8.92,
+      "finishTime": 9.22,
+      "word": "explaining"
+    },
+    {
+      "startTime": 9.22,
+      "finishTime": 9.56,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 9.74,
+      "finishTime": 9.9,
+      "word": "I"
+    },
+    {
+      "startTime": 9.9,
+      "finishTime": 10.08,
+      "word": "see"
+    },
+    {
+      "startTime": 10.08,
+      "finishTime": 10.36,
+      "word": "many"
+    },
+    {
+      "startTime": 10.36,
+      "finishTime": 10.72,
+      "word": "functions"
+    },
+    {
+      "startTime": 10.72,
+      "finishTime": 10.9,
+      "word": "in"
+    },
+    {
+      "startTime": 10.9,
+      "finishTime": 11.1,
+      "word": "our"
+    },
+    {
+      "startTime": 11.1,
+      "finishTime": 11.32,
+      "word": "code"
+    },
+    {
+      "startTime": 11.32,
+      "finishTime": 11.56,
+      "word": "but"
+    },
+    {
+      "startTime": 11.56,
+      "finishTime": 11.76,
+      "word": "I'm"
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 11.98,
+      "word": "not"
+    },
+    {
+      "startTime": 11.98,
+      "finishTime": 12.16,
+      "word": "sure"
+    },
+    {
+      "startTime": 12.16,
+      "finishTime": 12.46,
+      "word": "what"
+    },
+    {
+      "startTime": 12.46,
+      "finishTime": 12.68,
+      "word": "each"
+    },
+    {
+      "startTime": 12.68,
+      "finishTime": 12.8,
+      "word": "of"
+    },
+    {
+      "startTime": 12.8,
+      "finishTime": 12.94,
+      "word": "these"
+    },
+    {
+      "startTime": 12.94,
+      "finishTime": 13.52,
+      "word": "does."
+    },
+    {
+      "startTime": 14.26,
+      "finishTime": 14.44,
+      "word": "No"
+    },
+    {
+      "startTime": 14.44,
+      "finishTime": 14.76,
+      "word": "problem"
+    },
+    {
+      "startTime": 14.76,
+      "finishTime": 15.08,
+      "word": "Tom."
+    },
+    {
+      "startTime": 15.34,
+      "finishTime": 15.46,
+      "word": "To"
+    },
+    {
+      "startTime": 15.46,
+      "finishTime": 15.9,
+      "word": "understand"
+    },
+    {
+      "startTime": 15.9,
+      "finishTime": 16.18,
+      "word": "them"
+    },
+    {
+      "startTime": 16.18,
+      "finishTime": 16.52,
+      "word": "you"
+    },
+    {
+      "startTime": 16.52,
+      "finishTime": 16.62,
+      "word": "can"
+    },
+    {
+      "startTime": 16.62,
+      "finishTime": 16.74,
+      "word": "look"
+    },
+    {
+      "startTime": 16.74,
+      "finishTime": 16.88,
+      "word": "at"
+    },
+    {
+      "startTime": 16.88,
+      "finishTime": 17.04,
+      "word": "their"
+    },
+    {
+      "startTime": 17.04,
+      "finishTime": 17.32,
+      "word": "names"
+    },
+    {
+      "startTime": 17.32,
+      "finishTime": 17.7,
+      "word": "and"
+    },
+    {
+      "startTime": 17.7,
+      "finishTime": 18.14,
+      "word": "comments."
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.9,
+      "word": "Comments"
+    },
+    {
+      "startTime": 18.9,
+      "finishTime": 19.28,
+      "word": "explain"
+    },
+    {
+      "startTime": 19.28,
+      "finishTime": 19.52,
+      "word": "that"
+    },
+    {
+      "startTime": 19.52,
+      "finishTime": 20.08,
+      "word": "function's"
+    },
+    {
+      "startTime": 20.08,
+      "finishTime": 20.42,
+      "word": "purpose."
+    },
+    {
+      "startTime": 20.88,
+      "finishTime": 21.12,
+      "word": "Got"
+    },
+    {
+      "startTime": 21.12,
+      "finishTime": 21.52,
+      "word": "it."
+    },
+    {
+      "startTime": 21.68,
+      "finishTime": 22.12,
+      "word": "So"
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.48,
+      "word": "that"
+    },
+    {
+      "startTime": 22.48,
+      "finishTime": 22.64,
+      "word": "means"
+    },
+    {
+      "startTime": 22.64,
+      "finishTime": 22.78,
+      "word": "I"
+    },
+    {
+      "startTime": 22.78,
+      "finishTime": 22.92,
+      "word": "should"
+    },
+    {
+      "startTime": 22.92,
+      "finishTime": 23.1,
+      "word": "read"
+    },
+    {
+      "startTime": 23.1,
+      "finishTime": 23.34,
+      "word": "the"
+    },
+    {
+      "startTime": 23.34,
+      "finishTime": 23.58,
+      "word": "function"
+    },
+    {
+      "startTime": 23.58,
+      "finishTime": 23.88,
+      "word": "names"
+    },
+    {
+      "startTime": 23.88,
+      "finishTime": 24.2,
+      "word": "and"
+    },
+    {
+      "startTime": 24.2,
+      "finishTime": 24.48,
+      "word": "comments"
+    },
+    {
+      "startTime": 24.48,
+      "finishTime": 24.68,
+      "word": "to"
+    },
+    {
+      "startTime": 24.68,
+      "finishTime": 24.96,
+      "word": "what"
+    },
+    {
+      "startTime": 24.96,
+      "finishTime": 25.18,
+      "word": "these"
+    },
+    {
+      "startTime": 25.18,
+      "finishTime": 25.52,
+      "word": "functions"
+    },
+    {
+      "startTime": 25.52,
+      "finishTime": 25.86,
+      "word": "do."
+    }
+  ]
+}

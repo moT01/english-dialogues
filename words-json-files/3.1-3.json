@@ -1,0 +1,1245 @@
+{
+  "text": "Hey, how's it going? I noticed you're relatively new here. What's your background in tech? Hey, yeah, I joined the team a few months ago. I didn't study computer science at university, but I majored in electrical engineering. It wasn't exactly tech related, but I learned a lot about problem solving and critical thinking. That's interesting. So you didn't work on many programming projects during your studies, did you? No, not really. I played around with coding, but most of my projects involved circuit designs and electrical systems. It was a bit different. I see. Did you enjoy your time there, even if it wasn't entirely tech focused? I did. It was challenging, but I met some fantastic people. We had a bunch of fun coding marathons, although I wasn't always a very strong programmer. Well, we all have different journeys. I studied at a small college as well and majored in information technology. It was more hands on and I loved every bit of it. We didn't have to wear too many hats, but I got to build and maintain networks and manage a few small projects. That sounds cool. Did you ever work on any big projects during your studies? They weren't exactly big projects. Most of them were smaller scale, but it was a great learning experience. It's fascinating to me how we all take different paths, but end up in the same tech world, right? Absolutely. Let's grab a coffee sometime and chat more.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.82,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.36,
+      "word": "how's"
+    },
+    {
+      "startTime": 1.36,
+      "finishTime": 1.5,
+      "word": "it"
+    },
+    {
+      "startTime": 1.5,
+      "finishTime": 1.78,
+      "word": "going?"
+    },
+    {
+      "startTime": 2.04,
+      "finishTime": 2.22,
+      "word": "I"
+    },
+    {
+      "startTime": 2.22,
+      "finishTime": 2.48,
+      "word": "noticed"
+    },
+    {
+      "startTime": 2.48,
+      "finishTime": 2.74,
+      "word": "you're"
+    },
+    {
+      "startTime": 2.74,
+      "finishTime": 3.2,
+      "word": "relatively"
+    },
+    {
+      "startTime": 3.2,
+      "finishTime": 3.52,
+      "word": "new"
+    },
+    {
+      "startTime": 3.52,
+      "finishTime": 3.88,
+      "word": "here."
+    },
+    {
+      "startTime": 3.96,
+      "finishTime": 4.32,
+      "word": "What's"
+    },
+    {
+      "startTime": 4.32,
+      "finishTime": 4.38,
+      "word": "your"
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.84,
+      "word": "background"
+    },
+    {
+      "startTime": 4.84,
+      "finishTime": 5.1,
+      "word": "in"
+    },
+    {
+      "startTime": 5.1,
+      "finishTime": 5.36,
+      "word": "tech?"
+    },
+    {
+      "startTime": 6.06,
+      "finishTime": 6.48,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 6.52,
+      "finishTime": 6.86,
+      "word": "yeah,"
+    },
+    {
+      "startTime": 6.86,
+      "finishTime": 6.98,
+      "word": "I"
+    },
+    {
+      "startTime": 6.98,
+      "finishTime": 7.14,
+      "word": "joined"
+    },
+    {
+      "startTime": 7.14,
+      "finishTime": 7.32,
+      "word": "the"
+    },
+    {
+      "startTime": 7.32,
+      "finishTime": 7.46,
+      "word": "team"
+    },
+    {
+      "startTime": 7.46,
+      "finishTime": 7.62,
+      "word": "a"
+    },
+    {
+      "startTime": 7.62,
+      "finishTime": 7.7,
+      "word": "few"
+    },
+    {
+      "startTime": 7.7,
+      "finishTime": 7.98,
+      "word": "months"
+    },
+    {
+      "startTime": 7.98,
+      "finishTime": 8.3,
+      "word": "ago."
+    },
+    {
+      "startTime": 8.68,
+      "finishTime": 8.78,
+      "word": "I"
+    },
+    {
+      "startTime": 8.78,
+      "finishTime": 9.04,
+      "word": "didn't"
+    },
+    {
+      "startTime": 9.04,
+      "finishTime": 9.32,
+      "word": "study"
+    },
+    {
+      "startTime": 9.32,
+      "finishTime": 9.74,
+      "word": "computer"
+    },
+    {
+      "startTime": 9.74,
+      "finishTime": 10.1,
+      "word": "science"
+    },
+    {
+      "startTime": 10.1,
+      "finishTime": 10.26,
+      "word": "at"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.84,
+      "word": "university,"
+    },
+    {
+      "startTime": 10.86,
+      "finishTime": 11.14,
+      "word": "but"
+    },
+    {
+      "startTime": 11.14,
+      "finishTime": 11.3,
+      "word": "I"
+    },
+    {
+      "startTime": 11.3,
+      "finishTime": 11.52,
+      "word": "majored"
+    },
+    {
+      "startTime": 11.52,
+      "finishTime": 11.72,
+      "word": "in"
+    },
+    {
+      "startTime": 11.72,
+      "finishTime": 12.12,
+      "word": "electrical"
+    },
+    {
+      "startTime": 12.12,
+      "finishTime": 12.68,
+      "word": "engineering."
+    },
+    {
+      "startTime": 13.42,
+      "finishTime": 13.42,
+      "word": "It"
+    },
+    {
+      "startTime": 13.42,
+      "finishTime": 13.58,
+      "word": "wasn't"
+    },
+    {
+      "startTime": 13.58,
+      "finishTime": 14,
+      "word": "exactly"
+    },
+    {
+      "startTime": 14,
+      "finishTime": 14.24,
+      "word": "tech"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.62,
+      "word": "related,"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 14.82,
+      "word": "but"
+    },
+    {
+      "startTime": 14.82,
+      "finishTime": 14.98,
+      "word": "I"
+    },
+    {
+      "startTime": 14.98,
+      "finishTime": 15.14,
+      "word": "learned"
+    },
+    {
+      "startTime": 15.14,
+      "finishTime": 15.3,
+      "word": "a"
+    },
+    {
+      "startTime": 15.3,
+      "finishTime": 15.44,
+      "word": "lot"
+    },
+    {
+      "startTime": 15.44,
+      "finishTime": 15.76,
+      "word": "about"
+    },
+    {
+      "startTime": 15.76,
+      "finishTime": 16.12,
+      "word": "problem"
+    },
+    {
+      "startTime": 16.12,
+      "finishTime": 16.44,
+      "word": "solving"
+    },
+    {
+      "startTime": 16.44,
+      "finishTime": 16.7,
+      "word": "and"
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.98,
+      "word": "critical"
+    },
+    {
+      "startTime": 16.98,
+      "finishTime": 17.4,
+      "word": "thinking."
+    },
+    {
+      "startTime": 17.98,
+      "finishTime": 18.44,
+      "word": "That's"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.82,
+      "word": "interesting."
+    },
+    {
+      "startTime": 19.16,
+      "finishTime": 19.52,
+      "word": "So"
+    },
+    {
+      "startTime": 19.52,
+      "finishTime": 19.94,
+      "word": "you"
+    },
+    {
+      "startTime": 19.94,
+      "finishTime": 20.26,
+      "word": "didn't"
+    },
+    {
+      "startTime": 20.26,
+      "finishTime": 20.64,
+      "word": "work"
+    },
+    {
+      "startTime": 20.64,
+      "finishTime": 20.9,
+      "word": "on"
+    },
+    {
+      "startTime": 20.9,
+      "finishTime": 21.18,
+      "word": "many"
+    },
+    {
+      "startTime": 21.18,
+      "finishTime": 21.64,
+      "word": "programming"
+    },
+    {
+      "startTime": 21.64,
+      "finishTime": 22.06,
+      "word": "projects"
+    },
+    {
+      "startTime": 22.06,
+      "finishTime": 22.3,
+      "word": "during"
+    },
+    {
+      "startTime": 22.3,
+      "finishTime": 22.56,
+      "word": "your"
+    },
+    {
+      "startTime": 22.56,
+      "finishTime": 22.76,
+      "word": "studies,"
+    },
+    {
+      "startTime": 22.76,
+      "finishTime": 22.98,
+      "word": "did"
+    },
+    {
+      "startTime": 22.98,
+      "finishTime": 23.26,
+      "word": "you?"
+    },
+    {
+      "startTime": 24.02,
+      "finishTime": 24.28,
+      "word": "No,"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.5,
+      "word": "not"
+    },
+    {
+      "startTime": 24.5,
+      "finishTime": 24.88,
+      "word": "really."
+    },
+    {
+      "startTime": 25.08,
+      "finishTime": 25.26,
+      "word": "I"
+    },
+    {
+      "startTime": 25.26,
+      "finishTime": 25.42,
+      "word": "played"
+    },
+    {
+      "startTime": 25.42,
+      "finishTime": 25.72,
+      "word": "around"
+    },
+    {
+      "startTime": 25.72,
+      "finishTime": 26,
+      "word": "with"
+    },
+    {
+      "startTime": 26,
+      "finishTime": 26.28,
+      "word": "coding,"
+    },
+    {
+      "startTime": 26.28,
+      "finishTime": 26.76,
+      "word": "but"
+    },
+    {
+      "startTime": 26.76,
+      "finishTime": 26.98,
+      "word": "most"
+    },
+    {
+      "startTime": 26.98,
+      "finishTime": 27.1,
+      "word": "of"
+    },
+    {
+      "startTime": 27.1,
+      "finishTime": 27.3,
+      "word": "my"
+    },
+    {
+      "startTime": 27.3,
+      "finishTime": 27.6,
+      "word": "projects"
+    },
+    {
+      "startTime": 27.6,
+      "finishTime": 28,
+      "word": "involved"
+    },
+    {
+      "startTime": 28,
+      "finishTime": 28.36,
+      "word": "circuit"
+    },
+    {
+      "startTime": 28.36,
+      "finishTime": 28.84,
+      "word": "designs"
+    },
+    {
+      "startTime": 28.84,
+      "finishTime": 29.1,
+      "word": "and"
+    },
+    {
+      "startTime": 29.1,
+      "finishTime": 29.42,
+      "word": "electrical"
+    },
+    {
+      "startTime": 29.42,
+      "finishTime": 29.94,
+      "word": "systems."
+    },
+    {
+      "startTime": 30.18,
+      "finishTime": 30.26,
+      "word": "It"
+    },
+    {
+      "startTime": 30.26,
+      "finishTime": 30.4,
+      "word": "was"
+    },
+    {
+      "startTime": 30.4,
+      "finishTime": 30.5,
+      "word": "a"
+    },
+    {
+      "startTime": 30.5,
+      "finishTime": 30.62,
+      "word": "bit"
+    },
+    {
+      "startTime": 30.62,
+      "finishTime": 31.2,
+      "word": "different."
+    },
+    {
+      "startTime": 32,
+      "finishTime": 32.12,
+      "word": "I"
+    },
+    {
+      "startTime": 32.12,
+      "finishTime": 32.5,
+      "word": "see."
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 32.92,
+      "word": "Did"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 33.1,
+      "word": "you"
+    },
+    {
+      "startTime": 33.1,
+      "finishTime": 33.3,
+      "word": "enjoy"
+    },
+    {
+      "startTime": 33.3,
+      "finishTime": 33.54,
+      "word": "your"
+    },
+    {
+      "startTime": 33.54,
+      "finishTime": 33.7,
+      "word": "time"
+    },
+    {
+      "startTime": 33.7,
+      "finishTime": 33.98,
+      "word": "there,"
+    },
+    {
+      "startTime": 33.98,
+      "finishTime": 34.3,
+      "word": "even"
+    },
+    {
+      "startTime": 34.3,
+      "finishTime": 34.42,
+      "word": "if"
+    },
+    {
+      "startTime": 34.42,
+      "finishTime": 34.66,
+      "word": "it"
+    },
+    {
+      "startTime": 34.66,
+      "finishTime": 34.96,
+      "word": "wasn't"
+    },
+    {
+      "startTime": 34.96,
+      "finishTime": 35.44,
+      "word": "entirely"
+    },
+    {
+      "startTime": 35.44,
+      "finishTime": 35.74,
+      "word": "tech"
+    },
+    {
+      "startTime": 35.74,
+      "finishTime": 36.22,
+      "word": "focused?"
+    },
+    {
+      "startTime": 36.72,
+      "finishTime": 36.94,
+      "word": "I"
+    },
+    {
+      "startTime": 36.94,
+      "finishTime": 37.22,
+      "word": "did."
+    },
+    {
+      "startTime": 37.34,
+      "finishTime": 37.52,
+      "word": "It"
+    },
+    {
+      "startTime": 37.52,
+      "finishTime": 37.72,
+      "word": "was"
+    },
+    {
+      "startTime": 37.72,
+      "finishTime": 38.26,
+      "word": "challenging,"
+    },
+    {
+      "startTime": 38.26,
+      "finishTime": 38.54,
+      "word": "but"
+    },
+    {
+      "startTime": 38.54,
+      "finishTime": 38.68,
+      "word": "I"
+    },
+    {
+      "startTime": 38.68,
+      "finishTime": 38.74,
+      "word": "met"
+    },
+    {
+      "startTime": 38.74,
+      "finishTime": 38.98,
+      "word": "some"
+    },
+    {
+      "startTime": 38.98,
+      "finishTime": 39.38,
+      "word": "fantastic"
+    },
+    {
+      "startTime": 39.38,
+      "finishTime": 39.84,
+      "word": "people."
+    },
+    {
+      "startTime": 40.46,
+      "finishTime": 40.58,
+      "word": "We"
+    },
+    {
+      "startTime": 40.58,
+      "finishTime": 40.74,
+      "word": "had"
+    },
+    {
+      "startTime": 40.74,
+      "finishTime": 40.86,
+      "word": "a"
+    },
+    {
+      "startTime": 40.86,
+      "finishTime": 41,
+      "word": "bunch"
+    },
+    {
+      "startTime": 41,
+      "finishTime": 41.24,
+      "word": "of"
+    },
+    {
+      "startTime": 41.24,
+      "finishTime": 41.46,
+      "word": "fun"
+    },
+    {
+      "startTime": 41.46,
+      "finishTime": 41.84,
+      "word": "coding"
+    },
+    {
+      "startTime": 41.84,
+      "finishTime": 42.44,
+      "word": "marathons,"
+    },
+    {
+      "startTime": 42.5,
+      "finishTime": 42.64,
+      "word": "although"
+    },
+    {
+      "startTime": 42.64,
+      "finishTime": 42.8,
+      "word": "I"
+    },
+    {
+      "startTime": 42.8,
+      "finishTime": 42.96,
+      "word": "wasn't"
+    },
+    {
+      "startTime": 42.96,
+      "finishTime": 43.2,
+      "word": "always"
+    },
+    {
+      "startTime": 43.2,
+      "finishTime": 43.32,
+      "word": "a"
+    },
+    {
+      "startTime": 43.32,
+      "finishTime": 43.6,
+      "word": "very"
+    },
+    {
+      "startTime": 43.6,
+      "finishTime": 43.86,
+      "word": "strong"
+    },
+    {
+      "startTime": 43.86,
+      "finishTime": 44.28,
+      "word": "programmer."
+    },
+    {
+      "startTime": 44.86,
+      "finishTime": 45.2,
+      "word": "Well,"
+    },
+    {
+      "startTime": 45.32,
+      "finishTime": 45.58,
+      "word": "we"
+    },
+    {
+      "startTime": 45.58,
+      "finishTime": 45.76,
+      "word": "all"
+    },
+    {
+      "startTime": 45.76,
+      "finishTime": 45.94,
+      "word": "have"
+    },
+    {
+      "startTime": 45.94,
+      "finishTime": 46.18,
+      "word": "different"
+    },
+    {
+      "startTime": 46.18,
+      "finishTime": 46.54,
+      "word": "journeys."
+    },
+    {
+      "startTime": 47.08,
+      "finishTime": 47.3,
+      "word": "I"
+    },
+    {
+      "startTime": 47.3,
+      "finishTime": 47.62,
+      "word": "studied"
+    },
+    {
+      "startTime": 47.62,
+      "finishTime": 47.8,
+      "word": "at"
+    },
+    {
+      "startTime": 47.8,
+      "finishTime": 48,
+      "word": "a"
+    },
+    {
+      "startTime": 48,
+      "finishTime": 48.3,
+      "word": "small"
+    },
+    {
+      "startTime": 48.3,
+      "finishTime": 48.66,
+      "word": "college"
+    },
+    {
+      "startTime": 48.66,
+      "finishTime": 48.92,
+      "word": "as"
+    },
+    {
+      "startTime": 48.92,
+      "finishTime": 49.2,
+      "word": "well"
+    },
+    {
+      "startTime": 49.2,
+      "finishTime": 49.5,
+      "word": "and"
+    },
+    {
+      "startTime": 49.5,
+      "finishTime": 49.82,
+      "word": "majored"
+    },
+    {
+      "startTime": 49.82,
+      "finishTime": 50.12,
+      "word": "in"
+    },
+    {
+      "startTime": 50.12,
+      "finishTime": 50.56,
+      "word": "information"
+    },
+    {
+      "startTime": 50.56,
+      "finishTime": 51.16,
+      "word": "technology."
+    },
+    {
+      "startTime": 51.72,
+      "finishTime": 51.98,
+      "word": "It"
+    },
+    {
+      "startTime": 51.98,
+      "finishTime": 52.18,
+      "word": "was"
+    },
+    {
+      "startTime": 52.18,
+      "finishTime": 52.44,
+      "word": "more"
+    },
+    {
+      "startTime": 52.44,
+      "finishTime": 52.76,
+      "word": "hands"
+    },
+    {
+      "startTime": 52.76,
+      "finishTime": 53.04,
+      "word": "on"
+    },
+    {
+      "startTime": 53.04,
+      "finishTime": 53.3,
+      "word": "and"
+    },
+    {
+      "startTime": 53.3,
+      "finishTime": 53.52,
+      "word": "I"
+    },
+    {
+      "startTime": 53.52,
+      "finishTime": 53.68,
+      "word": "loved"
+    },
+    {
+      "startTime": 53.68,
+      "finishTime": 54.12,
+      "word": "every"
+    },
+    {
+      "startTime": 54.12,
+      "finishTime": 54.32,
+      "word": "bit"
+    },
+    {
+      "startTime": 54.32,
+      "finishTime": 54.46,
+      "word": "of"
+    },
+    {
+      "startTime": 54.46,
+      "finishTime": 54.64,
+      "word": "it."
+    },
+    {
+      "startTime": 54.92,
+      "finishTime": 55.1,
+      "word": "We"
+    },
+    {
+      "startTime": 55.1,
+      "finishTime": 55.3,
+      "word": "didn't"
+    },
+    {
+      "startTime": 55.3,
+      "finishTime": 55.52,
+      "word": "have"
+    },
+    {
+      "startTime": 55.52,
+      "finishTime": 55.72,
+      "word": "to"
+    },
+    {
+      "startTime": 55.72,
+      "finishTime": 55.98,
+      "word": "wear"
+    },
+    {
+      "startTime": 55.98,
+      "finishTime": 56.2,
+      "word": "too"
+    },
+    {
+      "startTime": 56.2,
+      "finishTime": 56.42,
+      "word": "many"
+    },
+    {
+      "startTime": 56.42,
+      "finishTime": 56.74,
+      "word": "hats,"
+    },
+    {
+      "startTime": 57.06,
+      "finishTime": 57.24,
+      "word": "but"
+    },
+    {
+      "startTime": 57.24,
+      "finishTime": 57.34,
+      "word": "I"
+    },
+    {
+      "startTime": 57.34,
+      "finishTime": 57.5,
+      "word": "got"
+    },
+    {
+      "startTime": 57.5,
+      "finishTime": 57.72,
+      "word": "to"
+    },
+    {
+      "startTime": 57.72,
+      "finishTime": 57.86,
+      "word": "build"
+    },
+    {
+      "startTime": 57.86,
+      "finishTime": 58.08,
+      "word": "and"
+    },
+    {
+      "startTime": 58.08,
+      "finishTime": 58.38,
+      "word": "maintain"
+    },
+    {
+      "startTime": 58.38,
+      "finishTime": 58.78,
+      "word": "networks"
+    },
+    {
+      "startTime": 58.78,
+      "finishTime": 59.38,
+      "word": "and"
+    },
+    {
+      "startTime": 59.38,
+      "finishTime": 59.66,
+      "word": "manage"
+    },
+    {
+      "startTime": 59.66,
+      "finishTime": 59.88,
+      "word": "a"
+    },
+    {
+      "startTime": 59.88,
+      "finishTime": 60.04,
+      "word": "few"
+    },
+    {
+      "startTime": 60.04,
+      "finishTime": 60.4,
+      "word": "small"
+    },
+    {
+      "startTime": 60.4,
+      "finishTime": 60.92,
+      "word": "projects."
+    },
+    {
+      "startTime": 61.54,
+      "finishTime": 61.74,
+      "word": "That"
+    },
+    {
+      "startTime": 61.74,
+      "finishTime": 62,
+      "word": "sounds"
+    },
+    {
+      "startTime": 62,
+      "finishTime": 62.4,
+      "word": "cool."
+    },
+    {
+      "startTime": 62.74,
+      "finishTime": 62.86,
+      "word": "Did"
+    },
+    {
+      "startTime": 62.86,
+      "finishTime": 63,
+      "word": "you"
+    },
+    {
+      "startTime": 63,
+      "finishTime": 63.2,
+      "word": "ever"
+    },
+    {
+      "startTime": 63.2,
+      "finishTime": 63.38,
+      "word": "work"
+    },
+    {
+      "startTime": 63.38,
+      "finishTime": 63.5,
+      "word": "on"
+    },
+    {
+      "startTime": 63.5,
+      "finishTime": 63.68,
+      "word": "any"
+    },
+    {
+      "startTime": 63.68,
+      "finishTime": 63.98,
+      "word": "big"
+    },
+    {
+      "startTime": 63.98,
+      "finishTime": 64.3,
+      "word": "projects"
+    },
+    {
+      "startTime": 64.3,
+      "finishTime": 64.54,
+      "word": "during"
+    },
+    {
+      "startTime": 64.54,
+      "finishTime": 64.76,
+      "word": "your"
+    },
+    {
+      "startTime": 64.76,
+      "finishTime": 65,
+      "word": "studies?"
+    },
+    {
+      "startTime": 66,
+      "finishTime": 66.16,
+      "word": "They"
+    },
+    {
+      "startTime": 66.16,
+      "finishTime": 66.38,
+      "word": "weren't"
+    },
+    {
+      "startTime": 66.38,
+      "finishTime": 66.84,
+      "word": "exactly"
+    },
+    {
+      "startTime": 66.84,
+      "finishTime": 67.2,
+      "word": "big"
+    },
+    {
+      "startTime": 67.2,
+      "finishTime": 67.74,
+      "word": "projects."
+    },
+    {
+      "startTime": 68.28,
+      "finishTime": 68.56,
+      "word": "Most"
+    },
+    {
+      "startTime": 68.56,
+      "finishTime": 68.72,
+      "word": "of"
+    },
+    {
+      "startTime": 68.72,
+      "finishTime": 68.84,
+      "word": "them"
+    },
+    {
+      "startTime": 68.84,
+      "finishTime": 69.08,
+      "word": "were"
+    },
+    {
+      "startTime": 69.08,
+      "finishTime": 69.34,
+      "word": "smaller"
+    },
+    {
+      "startTime": 69.34,
+      "finishTime": 69.78,
+      "word": "scale,"
+    },
+    {
+      "startTime": 69.92,
+      "finishTime": 70.3,
+      "word": "but"
+    },
+    {
+      "startTime": 70.3,
+      "finishTime": 70.44,
+      "word": "it"
+    },
+    {
+      "startTime": 70.44,
+      "finishTime": 70.64,
+      "word": "was"
+    },
+    {
+      "startTime": 70.64,
+      "finishTime": 70.82,
+      "word": "a"
+    },
+    {
+      "startTime": 70.82,
+      "finishTime": 70.98,
+      "word": "great"
+    },
+    {
+      "startTime": 70.98,
+      "finishTime": 71.3,
+      "word": "learning"
+    },
+    {
+      "startTime": 71.3,
+      "finishTime": 71.9,
+      "word": "experience."
+    },
+    {
+      "startTime": 72.42,
+      "finishTime": 72.84,
+      "word": "It's"
+    },
+    {
+      "startTime": 72.84,
+      "finishTime": 73.26,
+      "word": "fascinating"
+    },
+    {
+      "startTime": 73.26,
+      "finishTime": 73.56,
+      "word": "to"
+    },
+    {
+      "startTime": 73.56,
+      "finishTime": 73.88,
+      "word": "me"
+    },
+    {
+      "startTime": 73.88,
+      "finishTime": 74.14,
+      "word": "how"
+    },
+    {
+      "startTime": 74.14,
+      "finishTime": 74.44,
+      "word": "we"
+    },
+    {
+      "startTime": 74.44,
+      "finishTime": 74.66,
+      "word": "all"
+    },
+    {
+      "startTime": 74.66,
+      "finishTime": 74.9,
+      "word": "take"
+    },
+    {
+      "startTime": 74.9,
+      "finishTime": 75.26,
+      "word": "different"
+    },
+    {
+      "startTime": 75.26,
+      "finishTime": 75.72,
+      "word": "paths,"
+    },
+    {
+      "startTime": 75.8,
+      "finishTime": 76.06,
+      "word": "but"
+    },
+    {
+      "startTime": 76.06,
+      "finishTime": 76.3,
+      "word": "end"
+    },
+    {
+      "startTime": 76.3,
+      "finishTime": 76.46,
+      "word": "up"
+    },
+    {
+      "startTime": 76.46,
+      "finishTime": 76.66,
+      "word": "in"
+    },
+    {
+      "startTime": 76.66,
+      "finishTime": 76.88,
+      "word": "the"
+    },
+    {
+      "startTime": 76.88,
+      "finishTime": 77.2,
+      "word": "same"
+    },
+    {
+      "startTime": 77.2,
+      "finishTime": 77.54,
+      "word": "tech"
+    },
+    {
+      "startTime": 77.54,
+      "finishTime": 77.86,
+      "word": "world,"
+    },
+    {
+      "startTime": 77.86,
+      "finishTime": 78.42,
+      "word": "right?"
+    },
+    {
+      "startTime": 79.22,
+      "finishTime": 79.7,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 80.02,
+      "finishTime": 80.2,
+      "word": "Let's"
+    },
+    {
+      "startTime": 80.2,
+      "finishTime": 80.38,
+      "word": "grab"
+    },
+    {
+      "startTime": 80.38,
+      "finishTime": 80.52,
+      "word": "a"
+    },
+    {
+      "startTime": 80.52,
+      "finishTime": 80.68,
+      "word": "coffee"
+    },
+    {
+      "startTime": 80.68,
+      "finishTime": 81.08,
+      "word": "sometime"
+    },
+    {
+      "startTime": 81.08,
+      "finishTime": 81.3,
+      "word": "and"
+    },
+    {
+      "startTime": 81.3,
+      "finishTime": 81.48,
+      "word": "chat"
+    },
+    {
+      "startTime": 81.48,
+      "finishTime": 81.84,
+      "word": "more."
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "text": "Ugh. I'm really trying to understand how to use this library but I'm a bit lost. Mind if I ask you for some guidance? Of course. I'm here to help. What are you having trouble with? Well, I'm trying to understand the basics, like how to set up the environment. Have you ever worked with this tech stack before? Yes, I have. Setting up the environment can be a bit tricky initially. Let's walk through the steps together. First, download the installer from the official website. It'll guide you through the setup process. If you have any issues during the installation, don't hesitate to reach out. We can troubleshoot together. By the way, have you ever tried looking at the official documentation for this library? I looked at it but it seemed a bit overwhelming. Do you have any tips for how to approach it? When the documentation is extensive, start with the introductory sections. If you focus on understanding the core concepts first, it becomes more manageable. Also, have you ever joined online tech forums or communities? Not yet. Are they helpful? Absolutely. Joining forums or communities provides a platform where you can ask questions and learn from others' experiences. If you encounter any roadblocks, it's a great resource. Awesome. I'll give it a try. Thanks for the suggestions, Sarah.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.74,
+      "word": "Ugh."
+    },
+    {
+      "startTime": 1.18,
+      "finishTime": 1.32,
+      "word": "I'm"
+    },
+    {
+      "startTime": 1.32,
+      "finishTime": 1.64,
+      "word": "really"
+    },
+    {
+      "startTime": 1.64,
+      "finishTime": 1.84,
+      "word": "trying"
+    },
+    {
+      "startTime": 1.84,
+      "finishTime": 1.98,
+      "word": "to"
+    },
+    {
+      "startTime": 1.98,
+      "finishTime": 2.34,
+      "word": "understand"
+    },
+    {
+      "startTime": 2.34,
+      "finishTime": 2.5,
+      "word": "how"
+    },
+    {
+      "startTime": 2.5,
+      "finishTime": 2.64,
+      "word": "to"
+    },
+    {
+      "startTime": 2.64,
+      "finishTime": 2.78,
+      "word": "use"
+    },
+    {
+      "startTime": 2.78,
+      "finishTime": 3,
+      "word": "this"
+    },
+    {
+      "startTime": 3,
+      "finishTime": 3.34,
+      "word": "library"
+    },
+    {
+      "startTime": 3.34,
+      "finishTime": 3.54,
+      "word": "but"
+    },
+    {
+      "startTime": 3.54,
+      "finishTime": 3.7,
+      "word": "I'm"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 3.84,
+      "word": "a"
+    },
+    {
+      "startTime": 3.84,
+      "finishTime": 3.94,
+      "word": "bit"
+    },
+    {
+      "startTime": 3.94,
+      "finishTime": 4.4,
+      "word": "lost."
+    },
+    {
+      "startTime": 4.74,
+      "finishTime": 4.96,
+      "word": "Mind"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.12,
+      "word": "if"
+    },
+    {
+      "startTime": 5.12,
+      "finishTime": 5.28,
+      "word": "I"
+    },
+    {
+      "startTime": 5.28,
+      "finishTime": 5.44,
+      "word": "ask"
+    },
+    {
+      "startTime": 5.44,
+      "finishTime": 5.58,
+      "word": "you"
+    },
+    {
+      "startTime": 5.58,
+      "finishTime": 5.74,
+      "word": "for"
+    },
+    {
+      "startTime": 5.74,
+      "finishTime": 5.94,
+      "word": "some"
+    },
+    {
+      "startTime": 5.94,
+      "finishTime": 6.22,
+      "word": "guidance?"
+    },
+    {
+      "startTime": 6.84,
+      "finishTime": 7.1,
+      "word": "Of"
+    },
+    {
+      "startTime": 7.1,
+      "finishTime": 7.44,
+      "word": "course."
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 7.72,
+      "word": "I'm"
+    },
+    {
+      "startTime": 7.72,
+      "finishTime": 7.9,
+      "word": "here"
+    },
+    {
+      "startTime": 7.9,
+      "finishTime": 8.08,
+      "word": "to"
+    },
+    {
+      "startTime": 8.08,
+      "finishTime": 8.32,
+      "word": "help."
+    },
+    {
+      "startTime": 8.4,
+      "finishTime": 8.54,
+      "word": "What"
+    },
+    {
+      "startTime": 8.54,
+      "finishTime": 8.64,
+      "word": "are"
+    },
+    {
+      "startTime": 8.64,
+      "finishTime": 8.72,
+      "word": "you"
+    },
+    {
+      "startTime": 8.72,
+      "finishTime": 8.9,
+      "word": "having"
+    },
+    {
+      "startTime": 8.9,
+      "finishTime": 9.16,
+      "word": "trouble"
+    },
+    {
+      "startTime": 9.16,
+      "finishTime": 9.48,
+      "word": "with?"
+    },
+    {
+      "startTime": 9.8,
+      "finishTime": 10.16,
+      "word": "Well,"
+    },
+    {
+      "startTime": 10.34,
+      "finishTime": 10.48,
+      "word": "I'm"
+    },
+    {
+      "startTime": 10.48,
+      "finishTime": 10.68,
+      "word": "trying"
+    },
+    {
+      "startTime": 10.68,
+      "finishTime": 10.9,
+      "word": "to"
+    },
+    {
+      "startTime": 10.9,
+      "finishTime": 11.2,
+      "word": "understand"
+    },
+    {
+      "startTime": 11.2,
+      "finishTime": 11.42,
+      "word": "the"
+    },
+    {
+      "startTime": 11.42,
+      "finishTime": 11.74,
+      "word": "basics,"
+    },
+    {
+      "startTime": 11.76,
+      "finishTime": 12.06,
+      "word": "like"
+    },
+    {
+      "startTime": 12.06,
+      "finishTime": 12.24,
+      "word": "how"
+    },
+    {
+      "startTime": 12.24,
+      "finishTime": 12.4,
+      "word": "to"
+    },
+    {
+      "startTime": 12.4,
+      "finishTime": 12.5,
+      "word": "set"
+    },
+    {
+      "startTime": 12.5,
+      "finishTime": 12.6,
+      "word": "up"
+    },
+    {
+      "startTime": 12.6,
+      "finishTime": 12.78,
+      "word": "the"
+    },
+    {
+      "startTime": 12.78,
+      "finishTime": 13.16,
+      "word": "environment."
+    },
+    {
+      "startTime": 13.46,
+      "finishTime": 13.58,
+      "word": "Have"
+    },
+    {
+      "startTime": 13.58,
+      "finishTime": 13.72,
+      "word": "you"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 13.92,
+      "word": "ever"
+    },
+    {
+      "startTime": 13.92,
+      "finishTime": 14.14,
+      "word": "worked"
+    },
+    {
+      "startTime": 14.14,
+      "finishTime": 14.36,
+      "word": "with"
+    },
+    {
+      "startTime": 14.36,
+      "finishTime": 14.62,
+      "word": "this"
+    },
+    {
+      "startTime": 14.62,
+      "finishTime": 14.84,
+      "word": "tech"
+    },
+    {
+      "startTime": 14.84,
+      "finishTime": 15.08,
+      "word": "stack"
+    },
+    {
+      "startTime": 15.08,
+      "finishTime": 15.54,
+      "word": "before?"
+    },
+    {
+      "startTime": 16.18,
+      "finishTime": 16.48,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 16.48,
+      "finishTime": 16.72,
+      "word": "I"
+    },
+    {
+      "startTime": 16.72,
+      "finishTime": 17.12,
+      "word": "have."
+    },
+    {
+      "startTime": 17.34,
+      "finishTime": 17.56,
+      "word": "Setting"
+    },
+    {
+      "startTime": 17.56,
+      "finishTime": 17.76,
+      "word": "up"
+    },
+    {
+      "startTime": 17.76,
+      "finishTime": 18,
+      "word": "the"
+    },
+    {
+      "startTime": 18,
+      "finishTime": 18.3,
+      "word": "environment"
+    },
+    {
+      "startTime": 18.3,
+      "finishTime": 18.52,
+      "word": "can"
+    },
+    {
+      "startTime": 18.52,
+      "finishTime": 18.68,
+      "word": "be"
+    },
+    {
+      "startTime": 18.68,
+      "finishTime": 18.8,
+      "word": "a"
+    },
+    {
+      "startTime": 18.8,
+      "finishTime": 18.98,
+      "word": "bit"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.3,
+      "word": "tricky"
+    },
+    {
+      "startTime": 19.3,
+      "finishTime": 19.78,
+      "word": "initially."
+    },
+    {
+      "startTime": 20.18,
+      "finishTime": 20.56,
+      "word": "Let's"
+    },
+    {
+      "startTime": 20.56,
+      "finishTime": 20.76,
+      "word": "walk"
+    },
+    {
+      "startTime": 20.76,
+      "finishTime": 20.98,
+      "word": "through"
+    },
+    {
+      "startTime": 20.98,
+      "finishTime": 21.1,
+      "word": "the"
+    },
+    {
+      "startTime": 21.1,
+      "finishTime": 21.32,
+      "word": "steps"
+    },
+    {
+      "startTime": 21.32,
+      "finishTime": 21.78,
+      "word": "together."
+    },
+    {
+      "startTime": 22.6,
+      "finishTime": 23.04,
+      "word": "First,"
+    },
+    {
+      "startTime": 23.26,
+      "finishTime": 23.6,
+      "word": "download"
+    },
+    {
+      "startTime": 23.6,
+      "finishTime": 23.94,
+      "word": "the"
+    },
+    {
+      "startTime": 23.94,
+      "finishTime": 24.18,
+      "word": "installer"
+    },
+    {
+      "startTime": 24.18,
+      "finishTime": 24.42,
+      "word": "from"
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.58,
+      "word": "the"
+    },
+    {
+      "startTime": 24.58,
+      "finishTime": 24.88,
+      "word": "official"
+    },
+    {
+      "startTime": 24.88,
+      "finishTime": 25.28,
+      "word": "website."
+    },
+    {
+      "startTime": 25.28,
+      "finishTime": 26.08,
+      "word": "It'll"
+    },
+    {
+      "startTime": 26.08,
+      "finishTime": 26.3,
+      "word": "guide"
+    },
+    {
+      "startTime": 26.3,
+      "finishTime": 26.46,
+      "word": "you"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.62,
+      "word": "through"
+    },
+    {
+      "startTime": 26.62,
+      "finishTime": 26.84,
+      "word": "the"
+    },
+    {
+      "startTime": 26.84,
+      "finishTime": 27.04,
+      "word": "setup"
+    },
+    {
+      "startTime": 27.04,
+      "finishTime": 27.64,
+      "word": "process."
+    },
+    {
+      "startTime": 28.06,
+      "finishTime": 28.16,
+      "word": "If"
+    },
+    {
+      "startTime": 28.16,
+      "finishTime": 28.34,
+      "word": "you"
+    },
+    {
+      "startTime": 28.34,
+      "finishTime": 28.54,
+      "word": "have"
+    },
+    {
+      "startTime": 28.54,
+      "finishTime": 28.86,
+      "word": "any"
+    },
+    {
+      "startTime": 28.86,
+      "finishTime": 29.16,
+      "word": "issues"
+    },
+    {
+      "startTime": 29.16,
+      "finishTime": 29.44,
+      "word": "during"
+    },
+    {
+      "startTime": 29.44,
+      "finishTime": 29.66,
+      "word": "the"
+    },
+    {
+      "startTime": 29.66,
+      "finishTime": 30.12,
+      "word": "installation,"
+    },
+    {
+      "startTime": 30.32,
+      "finishTime": 30.58,
+      "word": "don't"
+    },
+    {
+      "startTime": 30.58,
+      "finishTime": 30.98,
+      "word": "hesitate"
+    },
+    {
+      "startTime": 30.98,
+      "finishTime": 31.18,
+      "word": "to"
+    },
+    {
+      "startTime": 31.18,
+      "finishTime": 31.38,
+      "word": "reach"
+    },
+    {
+      "startTime": 31.38,
+      "finishTime": 31.7,
+      "word": "out."
+    },
+    {
+      "startTime": 31.9,
+      "finishTime": 32.12,
+      "word": "We"
+    },
+    {
+      "startTime": 32.12,
+      "finishTime": 32.34,
+      "word": "can"
+    },
+    {
+      "startTime": 32.34,
+      "finishTime": 32.78,
+      "word": "troubleshoot"
+    },
+    {
+      "startTime": 32.78,
+      "finishTime": 33.3,
+      "word": "together."
+    },
+    {
+      "startTime": 33.82,
+      "finishTime": 33.98,
+      "word": "By"
+    },
+    {
+      "startTime": 33.98,
+      "finishTime": 34.14,
+      "word": "the"
+    },
+    {
+      "startTime": 34.14,
+      "finishTime": 34.38,
+      "word": "way,"
+    },
+    {
+      "startTime": 34.48,
+      "finishTime": 34.62,
+      "word": "have"
+    },
+    {
+      "startTime": 34.62,
+      "finishTime": 34.76,
+      "word": "you"
+    },
+    {
+      "startTime": 34.76,
+      "finishTime": 35,
+      "word": "ever"
+    },
+    {
+      "startTime": 35,
+      "finishTime": 35.26,
+      "word": "tried"
+    },
+    {
+      "startTime": 35.26,
+      "finishTime": 35.5,
+      "word": "looking"
+    },
+    {
+      "startTime": 35.5,
+      "finishTime": 35.68,
+      "word": "at"
+    },
+    {
+      "startTime": 35.68,
+      "finishTime": 35.84,
+      "word": "the"
+    },
+    {
+      "startTime": 35.84,
+      "finishTime": 36.08,
+      "word": "official"
+    },
+    {
+      "startTime": 36.08,
+      "finishTime": 36.68,
+      "word": "documentation"
+    },
+    {
+      "startTime": 36.68,
+      "finishTime": 36.9,
+      "word": "for"
+    },
+    {
+      "startTime": 36.9,
+      "finishTime": 37.04,
+      "word": "this"
+    },
+    {
+      "startTime": 37.04,
+      "finishTime": 37.36,
+      "word": "library?"
+    },
+    {
+      "startTime": 37.98,
+      "finishTime": 38.12,
+      "word": "I"
+    },
+    {
+      "startTime": 38.12,
+      "finishTime": 38.36,
+      "word": "looked"
+    },
+    {
+      "startTime": 38.36,
+      "finishTime": 38.54,
+      "word": "at"
+    },
+    {
+      "startTime": 38.54,
+      "finishTime": 38.7,
+      "word": "it"
+    },
+    {
+      "startTime": 38.7,
+      "finishTime": 38.8,
+      "word": "but"
+    },
+    {
+      "startTime": 38.8,
+      "finishTime": 39,
+      "word": "it"
+    },
+    {
+      "startTime": 39,
+      "finishTime": 39.12,
+      "word": "seemed"
+    },
+    {
+      "startTime": 39.12,
+      "finishTime": 39.28,
+      "word": "a"
+    },
+    {
+      "startTime": 39.28,
+      "finishTime": 39.54,
+      "word": "bit"
+    },
+    {
+      "startTime": 39.54,
+      "finishTime": 40.1,
+      "word": "overwhelming."
+    },
+    {
+      "startTime": 40.76,
+      "finishTime": 40.88,
+      "word": "Do"
+    },
+    {
+      "startTime": 40.88,
+      "finishTime": 41.02,
+      "word": "you"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.12,
+      "word": "have"
+    },
+    {
+      "startTime": 41.12,
+      "finishTime": 41.3,
+      "word": "any"
+    },
+    {
+      "startTime": 41.3,
+      "finishTime": 41.52,
+      "word": "tips"
+    },
+    {
+      "startTime": 41.52,
+      "finishTime": 41.74,
+      "word": "for"
+    },
+    {
+      "startTime": 41.74,
+      "finishTime": 41.88,
+      "word": "how"
+    },
+    {
+      "startTime": 41.88,
+      "finishTime": 42.02,
+      "word": "to"
+    },
+    {
+      "startTime": 42.02,
+      "finishTime": 42.3,
+      "word": "approach"
+    },
+    {
+      "startTime": 42.3,
+      "finishTime": 42.62,
+      "word": "it?"
+    },
+    {
+      "startTime": 43.5,
+      "finishTime": 43.76,
+      "word": "When"
+    },
+    {
+      "startTime": 43.76,
+      "finishTime": 44.02,
+      "word": "the"
+    },
+    {
+      "startTime": 44.02,
+      "finishTime": 44.46,
+      "word": "documentation"
+    },
+    {
+      "startTime": 44.46,
+      "finishTime": 44.8,
+      "word": "is"
+    },
+    {
+      "startTime": 44.8,
+      "finishTime": 45.32,
+      "word": "extensive,"
+    },
+    {
+      "startTime": 45.5,
+      "finishTime": 45.76,
+      "word": "start"
+    },
+    {
+      "startTime": 45.76,
+      "finishTime": 45.94,
+      "word": "with"
+    },
+    {
+      "startTime": 45.94,
+      "finishTime": 46.18,
+      "word": "the"
+    },
+    {
+      "startTime": 46.18,
+      "finishTime": 46.54,
+      "word": "introductory"
+    },
+    {
+      "startTime": 46.54,
+      "finishTime": 47.08,
+      "word": "sections."
+    },
+    {
+      "startTime": 47.5,
+      "finishTime": 47.72,
+      "word": "If"
+    },
+    {
+      "startTime": 47.72,
+      "finishTime": 47.92,
+      "word": "you"
+    },
+    {
+      "startTime": 47.92,
+      "finishTime": 48.12,
+      "word": "focus"
+    },
+    {
+      "startTime": 48.12,
+      "finishTime": 48.36,
+      "word": "on"
+    },
+    {
+      "startTime": 48.36,
+      "finishTime": 48.8,
+      "word": "understanding"
+    },
+    {
+      "startTime": 48.8,
+      "finishTime": 49.1,
+      "word": "the"
+    },
+    {
+      "startTime": 49.1,
+      "finishTime": 49.26,
+      "word": "core"
+    },
+    {
+      "startTime": 49.26,
+      "finishTime": 49.74,
+      "word": "concepts"
+    },
+    {
+      "startTime": 49.74,
+      "finishTime": 50.14,
+      "word": "first,"
+    },
+    {
+      "startTime": 50.18,
+      "finishTime": 50.38,
+      "word": "it"
+    },
+    {
+      "startTime": 50.38,
+      "finishTime": 50.64,
+      "word": "becomes"
+    },
+    {
+      "startTime": 50.64,
+      "finishTime": 50.96,
+      "word": "more"
+    },
+    {
+      "startTime": 50.96,
+      "finishTime": 51.36,
+      "word": "manageable."
+    },
+    {
+      "startTime": 51.36,
+      "finishTime": 52.26,
+      "word": "Also,"
+    },
+    {
+      "startTime": 52.58,
+      "finishTime": 52.7,
+      "word": "have"
+    },
+    {
+      "startTime": 52.7,
+      "finishTime": 52.82,
+      "word": "you"
+    },
+    {
+      "startTime": 52.82,
+      "finishTime": 53.04,
+      "word": "ever"
+    },
+    {
+      "startTime": 53.04,
+      "finishTime": 53.3,
+      "word": "joined"
+    },
+    {
+      "startTime": 53.3,
+      "finishTime": 53.72,
+      "word": "online"
+    },
+    {
+      "startTime": 53.72,
+      "finishTime": 53.98,
+      "word": "tech"
+    },
+    {
+      "startTime": 53.98,
+      "finishTime": 54.3,
+      "word": "forums"
+    },
+    {
+      "startTime": 54.3,
+      "finishTime": 54.52,
+      "word": "or"
+    },
+    {
+      "startTime": 54.52,
+      "finishTime": 54.96,
+      "word": "communities?"
+    },
+    {
+      "startTime": 55.48,
+      "finishTime": 55.64,
+      "word": "Not"
+    },
+    {
+      "startTime": 55.64,
+      "finishTime": 56,
+      "word": "yet."
+    },
+    {
+      "startTime": 56.28,
+      "finishTime": 56.38,
+      "word": "Are"
+    },
+    {
+      "startTime": 56.38,
+      "finishTime": 56.52,
+      "word": "they"
+    },
+    {
+      "startTime": 56.52,
+      "finishTime": 56.86,
+      "word": "helpful?"
+    },
+    {
+      "startTime": 57.64,
+      "finishTime": 58.16,
+      "word": "Absolutely."
+    },
+    {
+      "startTime": 58.72,
+      "finishTime": 59.08,
+      "word": "Joining"
+    },
+    {
+      "startTime": 59.08,
+      "finishTime": 59.5,
+      "word": "forums"
+    },
+    {
+      "startTime": 59.5,
+      "finishTime": 59.72,
+      "word": "or"
+    },
+    {
+      "startTime": 59.72,
+      "finishTime": 60.14,
+      "word": "communities"
+    },
+    {
+      "startTime": 60.14,
+      "finishTime": 60.54,
+      "word": "provides"
+    },
+    {
+      "startTime": 60.54,
+      "finishTime": 60.78,
+      "word": "a"
+    },
+    {
+      "startTime": 60.78,
+      "finishTime": 61.2,
+      "word": "platform"
+    },
+    {
+      "startTime": 61.2,
+      "finishTime": 61.48,
+      "word": "where"
+    },
+    {
+      "startTime": 61.48,
+      "finishTime": 61.56,
+      "word": "you"
+    },
+    {
+      "startTime": 61.56,
+      "finishTime": 61.74,
+      "word": "can"
+    },
+    {
+      "startTime": 61.74,
+      "finishTime": 62,
+      "word": "ask"
+    },
+    {
+      "startTime": 62,
+      "finishTime": 62.48,
+      "word": "questions"
+    },
+    {
+      "startTime": 62.48,
+      "finishTime": 62.7,
+      "word": "and"
+    },
+    {
+      "startTime": 62.7,
+      "finishTime": 62.9,
+      "word": "learn"
+    },
+    {
+      "startTime": 62.9,
+      "finishTime": 63.08,
+      "word": "from"
+    },
+    {
+      "startTime": 63.08,
+      "finishTime": 63.38,
+      "word": "others'"
+    },
+    {
+      "startTime": 64.02,
+      "finishTime": 64.02,
+      "word": "experiences."
+    },
+    {
+      "startTime": 64.62,
+      "finishTime": 64.76,
+      "word": "If"
+    },
+    {
+      "startTime": 64.76,
+      "finishTime": 64.94,
+      "word": "you"
+    },
+    {
+      "startTime": 64.94,
+      "finishTime": 65.26,
+      "word": "encounter"
+    },
+    {
+      "startTime": 65.26,
+      "finishTime": 65.56,
+      "word": "any"
+    },
+    {
+      "startTime": 65.56,
+      "finishTime": 66.06,
+      "word": "roadblocks,"
+    },
+    {
+      "startTime": 66.22,
+      "finishTime": 66.32,
+      "word": "it's"
+    },
+    {
+      "startTime": 66.32,
+      "finishTime": 66.4,
+      "word": "a"
+    },
+    {
+      "startTime": 66.4,
+      "finishTime": 66.54,
+      "word": "great"
+    },
+    {
+      "startTime": 66.54,
+      "finishTime": 66.98,
+      "word": "resource."
+    },
+    {
+      "startTime": 67.52,
+      "finishTime": 67.96,
+      "word": "Awesome."
+    },
+    {
+      "startTime": 68.22,
+      "finishTime": 68.4,
+      "word": "I'll"
+    },
+    {
+      "startTime": 68.4,
+      "finishTime": 68.5,
+      "word": "give"
+    },
+    {
+      "startTime": 68.5,
+      "finishTime": 68.72,
+      "word": "it"
+    },
+    {
+      "startTime": 68.72,
+      "finishTime": 68.86,
+      "word": "a"
+    },
+    {
+      "startTime": 68.86,
+      "finishTime": 69.1,
+      "word": "try."
+    },
+    {
+      "startTime": 69.4,
+      "finishTime": 69.64,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 69.64,
+      "finishTime": 69.9,
+      "word": "for"
+    },
+    {
+      "startTime": 69.9,
+      "finishTime": 70.12,
+      "word": "the"
+    },
+    {
+      "startTime": 70.12,
+      "finishTime": 70.72,
+      "word": "suggestions,"
+    },
+    {
+      "startTime": 70.72,
+      "finishTime": 71.14,
+      "word": "Sarah."
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "text": "Ugh, this class I'm working with is really complex. The documentation looks confusing. What should I do? When you're dealing with classes, begin by checking the class's name and properties. This will give you an idea of its purpose and its structure. Okay, what else? After that, you should read the methods and functions associated with the class. These can explain how to interact with the class and what you can achieve using it. I'll try to calm down and read the documentation more carefully. Thanks for the tips.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.66,
+      "word": "Ugh,"
+    },
+    {
+      "startTime": 0.84,
+      "finishTime": 1.06,
+      "word": "this"
+    },
+    {
+      "startTime": 1.06,
+      "finishTime": 1.32,
+      "word": "class"
+    },
+    {
+      "startTime": 1.32,
+      "finishTime": 1.46,
+      "word": "I'm"
+    },
+    {
+      "startTime": 1.46,
+      "finishTime": 1.74,
+      "word": "working"
+    },
+    {
+      "startTime": 1.74,
+      "finishTime": 1.98,
+      "word": "with"
+    },
+    {
+      "startTime": 1.98,
+      "finishTime": 2.2,
+      "word": "is"
+    },
+    {
+      "startTime": 2.2,
+      "finishTime": 2.5,
+      "word": "really"
+    },
+    {
+      "startTime": 2.5,
+      "finishTime": 3,
+      "word": "complex."
+    },
+    {
+      "startTime": 3.42,
+      "finishTime": 3.62,
+      "word": "The"
+    },
+    {
+      "startTime": 3.62,
+      "finishTime": 4.04,
+      "word": "documentation"
+    },
+    {
+      "startTime": 4.04,
+      "finishTime": 4.38,
+      "word": "looks"
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.96,
+      "word": "confusing."
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.38,
+      "word": "What"
+    },
+    {
+      "startTime": 5.38,
+      "finishTime": 5.54,
+      "word": "should"
+    },
+    {
+      "startTime": 5.54,
+      "finishTime": 5.72,
+      "word": "I"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 5.96,
+      "word": "do?"
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.62,
+      "word": "When"
+    },
+    {
+      "startTime": 6.62,
+      "finishTime": 6.8,
+      "word": "you're"
+    },
+    {
+      "startTime": 6.8,
+      "finishTime": 7.04,
+      "word": "dealing"
+    },
+    {
+      "startTime": 7.04,
+      "finishTime": 7.32,
+      "word": "with"
+    },
+    {
+      "startTime": 7.32,
+      "finishTime": 7.8,
+      "word": "classes,"
+    },
+    {
+      "startTime": 8.02,
+      "finishTime": 8.34,
+      "word": "begin"
+    },
+    {
+      "startTime": 8.34,
+      "finishTime": 8.6,
+      "word": "by"
+    },
+    {
+      "startTime": 8.6,
+      "finishTime": 8.82,
+      "word": "checking"
+    },
+    {
+      "startTime": 8.82,
+      "finishTime": 9.06,
+      "word": "the"
+    },
+    {
+      "startTime": 9.06,
+      "finishTime": 9.46,
+      "word": "class's"
+    },
+    {
+      "startTime": 9.46,
+      "finishTime": 9.62,
+      "word": "name"
+    },
+    {
+      "startTime": 9.62,
+      "finishTime": 9.9,
+      "word": "and"
+    },
+    {
+      "startTime": 9.9,
+      "finishTime": 10.3,
+      "word": "properties."
+    },
+    {
+      "startTime": 10.68,
+      "finishTime": 10.92,
+      "word": "This"
+    },
+    {
+      "startTime": 10.92,
+      "finishTime": 11.1,
+      "word": "will"
+    },
+    {
+      "startTime": 11.1,
+      "finishTime": 11.24,
+      "word": "give"
+    },
+    {
+      "startTime": 11.24,
+      "finishTime": 11.44,
+      "word": "you"
+    },
+    {
+      "startTime": 11.44,
+      "finishTime": 11.54,
+      "word": "an"
+    },
+    {
+      "startTime": 11.54,
+      "finishTime": 11.88,
+      "word": "idea"
+    },
+    {
+      "startTime": 11.88,
+      "finishTime": 12.14,
+      "word": "of"
+    },
+    {
+      "startTime": 12.14,
+      "finishTime": 12.32,
+      "word": "its"
+    },
+    {
+      "startTime": 12.32,
+      "finishTime": 12.78,
+      "word": "purpose"
+    },
+    {
+      "startTime": 12.78,
+      "finishTime": 13.1,
+      "word": "and"
+    },
+    {
+      "startTime": 13.1,
+      "finishTime": 13.38,
+      "word": "its"
+    },
+    {
+      "startTime": 13.38,
+      "finishTime": 13.78,
+      "word": "structure."
+    },
+    {
+      "startTime": 14.54,
+      "finishTime": 14.86,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 14.94,
+      "finishTime": 15.16,
+      "word": "what"
+    },
+    {
+      "startTime": 15.16,
+      "finishTime": 15.42,
+      "word": "else?"
+    },
+    {
+      "startTime": 16.2,
+      "finishTime": 16.58,
+      "word": "After"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.84,
+      "word": "that,"
+    },
+    {
+      "startTime": 16.96,
+      "finishTime": 17,
+      "word": "you"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.2,
+      "word": "should"
+    },
+    {
+      "startTime": 17.2,
+      "finishTime": 17.4,
+      "word": "read"
+    },
+    {
+      "startTime": 17.4,
+      "finishTime": 17.6,
+      "word": "the"
+    },
+    {
+      "startTime": 17.6,
+      "finishTime": 17.88,
+      "word": "methods"
+    },
+    {
+      "startTime": 17.88,
+      "finishTime": 18.08,
+      "word": "and"
+    },
+    {
+      "startTime": 18.08,
+      "finishTime": 18.48,
+      "word": "functions"
+    },
+    {
+      "startTime": 18.48,
+      "finishTime": 19.04,
+      "word": "associated"
+    },
+    {
+      "startTime": 19.04,
+      "finishTime": 19.26,
+      "word": "with"
+    },
+    {
+      "startTime": 19.26,
+      "finishTime": 19.46,
+      "word": "the"
+    },
+    {
+      "startTime": 19.46,
+      "finishTime": 19.78,
+      "word": "class."
+    },
+    {
+      "startTime": 20.16,
+      "finishTime": 20.42,
+      "word": "These"
+    },
+    {
+      "startTime": 20.42,
+      "finishTime": 20.66,
+      "word": "can"
+    },
+    {
+      "startTime": 20.66,
+      "finishTime": 21,
+      "word": "explain"
+    },
+    {
+      "startTime": 21,
+      "finishTime": 21.2,
+      "word": "how"
+    },
+    {
+      "startTime": 21.2,
+      "finishTime": 21.44,
+      "word": "to"
+    },
+    {
+      "startTime": 21.44,
+      "finishTime": 21.72,
+      "word": "interact"
+    },
+    {
+      "startTime": 21.72,
+      "finishTime": 21.9,
+      "word": "with"
+    },
+    {
+      "startTime": 21.9,
+      "finishTime": 22.1,
+      "word": "the"
+    },
+    {
+      "startTime": 22.1,
+      "finishTime": 22.46,
+      "word": "class"
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.92,
+      "word": "and"
+    },
+    {
+      "startTime": 22.92,
+      "finishTime": 23.12,
+      "word": "what"
+    },
+    {
+      "startTime": 23.12,
+      "finishTime": 23.32,
+      "word": "you"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.54,
+      "word": "can"
+    },
+    {
+      "startTime": 23.54,
+      "finishTime": 23.8,
+      "word": "achieve"
+    },
+    {
+      "startTime": 23.8,
+      "finishTime": 24.08,
+      "word": "using"
+    },
+    {
+      "startTime": 24.08,
+      "finishTime": 24.46,
+      "word": "it."
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.18,
+      "word": "I'll"
+    },
+    {
+      "startTime": 25.18,
+      "finishTime": 25.32,
+      "word": "try"
+    },
+    {
+      "startTime": 25.32,
+      "finishTime": 25.44,
+      "word": "to"
+    },
+    {
+      "startTime": 25.44,
+      "finishTime": 25.66,
+      "word": "calm"
+    },
+    {
+      "startTime": 25.66,
+      "finishTime": 25.92,
+      "word": "down"
+    },
+    {
+      "startTime": 25.92,
+      "finishTime": 26.04,
+      "word": "and"
+    },
+    {
+      "startTime": 26.04,
+      "finishTime": 26.22,
+      "word": "read"
+    },
+    {
+      "startTime": 26.22,
+      "finishTime": 26.48,
+      "word": "the"
+    },
+    {
+      "startTime": 26.48,
+      "finishTime": 26.98,
+      "word": "documentation"
+    },
+    {
+      "startTime": 26.98,
+      "finishTime": 27.3,
+      "word": "more"
+    },
+    {
+      "startTime": 27.3,
+      "finishTime": 27.62,
+      "word": "carefully."
+    },
+    {
+      "startTime": 27.86,
+      "finishTime": 28.14,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 28.14,
+      "finishTime": 28.3,
+      "word": "for"
+    },
+    {
+      "startTime": 28.3,
+      "finishTime": 28.44,
+      "word": "the"
+    },
+    {
+      "startTime": 28.44,
+      "finishTime": 28.72,
+      "word": "tips."
+    }
+  ]
+}

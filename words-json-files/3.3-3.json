@@ -1,0 +1,850 @@
+{
+  "text": "I got this message saying I must talk with Jeff from the security department. Do you know him? Yeah, I've seen him around. He's responsible for security operations in our company. He's been with us for some time, nearly 10 years. He's tall and has curly hair. He always has this vigilant look, probably a result of his job. He sounds like a dedicated professional. I've always wondered what the folks in security do around here. What are his responsibilities? He makes sure that the company's data and facilities are secure, monitors access controls, and conducts investigations when needed. He also ensures that everyone follows security procedures. Speaking of procedures, is there anything he told you that we need to do when it comes to office security? Yes, there is one thing he emphasizes. You mustn't share your access codes or passwords with anyone. Security is a big deal for him. Understandable. Well, thanks. No problem. If you ever need any security tips, you really must talk to Jeff.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.48,
+      "word": "I"
+    },
+    {
+      "startTime": 0.48,
+      "finishTime": 0.56,
+      "word": "got"
+    },
+    {
+      "startTime": 0.56,
+      "finishTime": 0.8,
+      "word": "this"
+    },
+    {
+      "startTime": 0.8,
+      "finishTime": 1.26,
+      "word": "message"
+    },
+    {
+      "startTime": 1.26,
+      "finishTime": 1.66,
+      "word": "saying"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 1.86,
+      "word": "I"
+    },
+    {
+      "startTime": 1.86,
+      "finishTime": 2.14,
+      "word": "must"
+    },
+    {
+      "startTime": 2.14,
+      "finishTime": 2.38,
+      "word": "talk"
+    },
+    {
+      "startTime": 2.38,
+      "finishTime": 2.62,
+      "word": "with"
+    },
+    {
+      "startTime": 2.62,
+      "finishTime": 2.82,
+      "word": "Jeff"
+    },
+    {
+      "startTime": 2.82,
+      "finishTime": 3.04,
+      "word": "from"
+    },
+    {
+      "startTime": 3.04,
+      "finishTime": 3.3,
+      "word": "the"
+    },
+    {
+      "startTime": 3.3,
+      "finishTime": 3.58,
+      "word": "security"
+    },
+    {
+      "startTime": 3.58,
+      "finishTime": 4.08,
+      "word": "department."
+    },
+    {
+      "startTime": 4.34,
+      "finishTime": 4.52,
+      "word": "Do"
+    },
+    {
+      "startTime": 4.52,
+      "finishTime": 4.58,
+      "word": "you"
+    },
+    {
+      "startTime": 4.58,
+      "finishTime": 4.7,
+      "word": "know"
+    },
+    {
+      "startTime": 4.7,
+      "finishTime": 5.16,
+      "word": "him?"
+    },
+    {
+      "startTime": 6.4,
+      "finishTime": 6.56,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 6.56,
+      "finishTime": 6.8,
+      "word": "I've"
+    },
+    {
+      "startTime": 6.8,
+      "finishTime": 6.88,
+      "word": "seen"
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7.08,
+      "word": "him"
+    },
+    {
+      "startTime": 7.08,
+      "finishTime": 7.48,
+      "word": "around."
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 7.92,
+      "word": "He's"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.38,
+      "word": "responsible"
+    },
+    {
+      "startTime": 8.38,
+      "finishTime": 8.66,
+      "word": "for"
+    },
+    {
+      "startTime": 8.66,
+      "finishTime": 9.08,
+      "word": "security"
+    },
+    {
+      "startTime": 9.08,
+      "finishTime": 9.68,
+      "word": "operations"
+    },
+    {
+      "startTime": 9.68,
+      "finishTime": 9.86,
+      "word": "in"
+    },
+    {
+      "startTime": 9.86,
+      "finishTime": 10,
+      "word": "our"
+    },
+    {
+      "startTime": 10,
+      "finishTime": 10.4,
+      "word": "company."
+    },
+    {
+      "startTime": 10.96,
+      "finishTime": 11.12,
+      "word": "He's"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.24,
+      "word": "been"
+    },
+    {
+      "startTime": 11.24,
+      "finishTime": 11.42,
+      "word": "with"
+    },
+    {
+      "startTime": 11.42,
+      "finishTime": 11.62,
+      "word": "us"
+    },
+    {
+      "startTime": 11.62,
+      "finishTime": 11.82,
+      "word": "for"
+    },
+    {
+      "startTime": 11.82,
+      "finishTime": 12.06,
+      "word": "some"
+    },
+    {
+      "startTime": 12.06,
+      "finishTime": 12.42,
+      "word": "time,"
+    },
+    {
+      "startTime": 12.54,
+      "finishTime": 12.74,
+      "word": "nearly"
+    },
+    {
+      "startTime": 12.74,
+      "finishTime": 12.98,
+      "word": "10"
+    },
+    {
+      "startTime": 12.98,
+      "finishTime": 13.42,
+      "word": "years."
+    },
+    {
+      "startTime": 13.84,
+      "finishTime": 14.12,
+      "word": "He's"
+    },
+    {
+      "startTime": 14.12,
+      "finishTime": 14.34,
+      "word": "tall"
+    },
+    {
+      "startTime": 14.34,
+      "finishTime": 14.52,
+      "word": "and"
+    },
+    {
+      "startTime": 14.52,
+      "finishTime": 14.76,
+      "word": "has"
+    },
+    {
+      "startTime": 14.76,
+      "finishTime": 14.98,
+      "word": "curly"
+    },
+    {
+      "startTime": 14.98,
+      "finishTime": 15.36,
+      "word": "hair."
+    },
+    {
+      "startTime": 15.66,
+      "finishTime": 15.82,
+      "word": "He"
+    },
+    {
+      "startTime": 15.82,
+      "finishTime": 16,
+      "word": "always"
+    },
+    {
+      "startTime": 16,
+      "finishTime": 16.2,
+      "word": "has"
+    },
+    {
+      "startTime": 16.2,
+      "finishTime": 16.5,
+      "word": "this"
+    },
+    {
+      "startTime": 16.5,
+      "finishTime": 16.9,
+      "word": "vigilant"
+    },
+    {
+      "startTime": 16.9,
+      "finishTime": 17.22,
+      "word": "look,"
+    },
+    {
+      "startTime": 17.48,
+      "finishTime": 17.72,
+      "word": "probably"
+    },
+    {
+      "startTime": 17.72,
+      "finishTime": 17.96,
+      "word": "a"
+    },
+    {
+      "startTime": 17.96,
+      "finishTime": 18.1,
+      "word": "result"
+    },
+    {
+      "startTime": 18.1,
+      "finishTime": 18.24,
+      "word": "of"
+    },
+    {
+      "startTime": 18.24,
+      "finishTime": 18.44,
+      "word": "his"
+    },
+    {
+      "startTime": 18.44,
+      "finishTime": 18.72,
+      "word": "job."
+    },
+    {
+      "startTime": 19.32,
+      "finishTime": 19.48,
+      "word": "He"
+    },
+    {
+      "startTime": 19.48,
+      "finishTime": 19.7,
+      "word": "sounds"
+    },
+    {
+      "startTime": 19.7,
+      "finishTime": 19.92,
+      "word": "like"
+    },
+    {
+      "startTime": 19.92,
+      "finishTime": 20.06,
+      "word": "a"
+    },
+    {
+      "startTime": 20.06,
+      "finishTime": 20.42,
+      "word": "dedicated"
+    },
+    {
+      "startTime": 20.42,
+      "finishTime": 21.02,
+      "word": "professional."
+    },
+    {
+      "startTime": 21.24,
+      "finishTime": 21.56,
+      "word": "I've"
+    },
+    {
+      "startTime": 21.56,
+      "finishTime": 21.82,
+      "word": "always"
+    },
+    {
+      "startTime": 21.82,
+      "finishTime": 22.08,
+      "word": "wondered"
+    },
+    {
+      "startTime": 22.08,
+      "finishTime": 22.3,
+      "word": "what"
+    },
+    {
+      "startTime": 22.3,
+      "finishTime": 22.54,
+      "word": "the"
+    },
+    {
+      "startTime": 22.54,
+      "finishTime": 22.74,
+      "word": "folks"
+    },
+    {
+      "startTime": 22.74,
+      "finishTime": 22.94,
+      "word": "in"
+    },
+    {
+      "startTime": 22.94,
+      "finishTime": 23.32,
+      "word": "security"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.66,
+      "word": "do"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 23.96,
+      "word": "around"
+    },
+    {
+      "startTime": 23.96,
+      "finishTime": 24.26,
+      "word": "here."
+    },
+    {
+      "startTime": 24.54,
+      "finishTime": 24.7,
+      "word": "What"
+    },
+    {
+      "startTime": 24.7,
+      "finishTime": 24.9,
+      "word": "are"
+    },
+    {
+      "startTime": 24.9,
+      "finishTime": 25.18,
+      "word": "his"
+    },
+    {
+      "startTime": 25.18,
+      "finishTime": 25.94,
+      "word": "responsibilities?"
+    },
+    {
+      "startTime": 26.580000000000002,
+      "finishTime": 26.9,
+      "word": "He"
+    },
+    {
+      "startTime": 26.9,
+      "finishTime": 27.14,
+      "word": "makes"
+    },
+    {
+      "startTime": 27.14,
+      "finishTime": 27.4,
+      "word": "sure"
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.56,
+      "word": "that"
+    },
+    {
+      "startTime": 27.56,
+      "finishTime": 27.68,
+      "word": "the"
+    },
+    {
+      "startTime": 27.68,
+      "finishTime": 28.14,
+      "word": "company's"
+    },
+    {
+      "startTime": 28.14,
+      "finishTime": 28.38,
+      "word": "data"
+    },
+    {
+      "startTime": 28.38,
+      "finishTime": 28.58,
+      "word": "and"
+    },
+    {
+      "startTime": 28.58,
+      "finishTime": 28.96,
+      "word": "facilities"
+    },
+    {
+      "startTime": 28.96,
+      "finishTime": 29.28,
+      "word": "are"
+    },
+    {
+      "startTime": 29.28,
+      "finishTime": 29.78,
+      "word": "secure,"
+    },
+    {
+      "startTime": 30.2,
+      "finishTime": 30.44,
+      "word": "monitors"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 31,
+      "word": "access"
+    },
+    {
+      "startTime": 31,
+      "finishTime": 31.54,
+      "word": "controls,"
+    },
+    {
+      "startTime": 31.82,
+      "finishTime": 31.9,
+      "word": "and"
+    },
+    {
+      "startTime": 31.9,
+      "finishTime": 32.92,
+      "word": "conducts"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 32.92,
+      "word": "investigations"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 33.18,
+      "word": "when"
+    },
+    {
+      "startTime": 33.18,
+      "finishTime": 33.52,
+      "word": "needed."
+    },
+    {
+      "startTime": 34,
+      "finishTime": 34.14,
+      "word": "He"
+    },
+    {
+      "startTime": 34.14,
+      "finishTime": 34.36,
+      "word": "also"
+    },
+    {
+      "startTime": 34.36,
+      "finishTime": 34.7,
+      "word": "ensures"
+    },
+    {
+      "startTime": 34.7,
+      "finishTime": 35,
+      "word": "that"
+    },
+    {
+      "startTime": 35,
+      "finishTime": 35.22,
+      "word": "everyone"
+    },
+    {
+      "startTime": 35.22,
+      "finishTime": 35.6,
+      "word": "follows"
+    },
+    {
+      "startTime": 35.6,
+      "finishTime": 36.02,
+      "word": "security"
+    },
+    {
+      "startTime": 36.02,
+      "finishTime": 36.76,
+      "word": "procedures."
+    },
+    {
+      "startTime": 37.62,
+      "finishTime": 38.18,
+      "word": "Speaking"
+    },
+    {
+      "startTime": 38.18,
+      "finishTime": 38.56,
+      "word": "of"
+    },
+    {
+      "startTime": 38.56,
+      "finishTime": 39,
+      "word": "procedures,"
+    },
+    {
+      "startTime": 39.42,
+      "finishTime": 39.52,
+      "word": "is"
+    },
+    {
+      "startTime": 39.52,
+      "finishTime": 39.74,
+      "word": "there"
+    },
+    {
+      "startTime": 39.74,
+      "finishTime": 40.06,
+      "word": "anything"
+    },
+    {
+      "startTime": 40.06,
+      "finishTime": 40.32,
+      "word": "he"
+    },
+    {
+      "startTime": 40.32,
+      "finishTime": 40.56,
+      "word": "told"
+    },
+    {
+      "startTime": 40.56,
+      "finishTime": 40.84,
+      "word": "you"
+    },
+    {
+      "startTime": 40.84,
+      "finishTime": 41.02,
+      "word": "that"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.16,
+      "word": "we"
+    },
+    {
+      "startTime": 41.16,
+      "finishTime": 41.34,
+      "word": "need"
+    },
+    {
+      "startTime": 41.34,
+      "finishTime": 41.5,
+      "word": "to"
+    },
+    {
+      "startTime": 41.5,
+      "finishTime": 41.68,
+      "word": "do"
+    },
+    {
+      "startTime": 41.68,
+      "finishTime": 41.86,
+      "word": "when"
+    },
+    {
+      "startTime": 41.86,
+      "finishTime": 41.96,
+      "word": "it"
+    },
+    {
+      "startTime": 41.96,
+      "finishTime": 42.22,
+      "word": "comes"
+    },
+    {
+      "startTime": 42.22,
+      "finishTime": 42.5,
+      "word": "to"
+    },
+    {
+      "startTime": 42.5,
+      "finishTime": 42.78,
+      "word": "office"
+    },
+    {
+      "startTime": 42.78,
+      "finishTime": 43.26,
+      "word": "security?"
+    },
+    {
+      "startTime": 44.1,
+      "finishTime": 44.38,
+      "word": "Yes,"
+    },
+    {
+      "startTime": 44.38,
+      "finishTime": 44.58,
+      "word": "there"
+    },
+    {
+      "startTime": 44.58,
+      "finishTime": 44.84,
+      "word": "is"
+    },
+    {
+      "startTime": 44.84,
+      "finishTime": 45.04,
+      "word": "one"
+    },
+    {
+      "startTime": 45.04,
+      "finishTime": 45.18,
+      "word": "thing"
+    },
+    {
+      "startTime": 45.18,
+      "finishTime": 45.44,
+      "word": "he"
+    },
+    {
+      "startTime": 45.44,
+      "finishTime": 45.92,
+      "word": "emphasizes."
+    },
+    {
+      "startTime": 46.32,
+      "finishTime": 46.52,
+      "word": "You"
+    },
+    {
+      "startTime": 46.52,
+      "finishTime": 46.86,
+      "word": "mustn't"
+    },
+    {
+      "startTime": 46.86,
+      "finishTime": 47.12,
+      "word": "share"
+    },
+    {
+      "startTime": 47.12,
+      "finishTime": 47.42,
+      "word": "your"
+    },
+    {
+      "startTime": 47.42,
+      "finishTime": 47.72,
+      "word": "access"
+    },
+    {
+      "startTime": 47.72,
+      "finishTime": 48.02,
+      "word": "codes"
+    },
+    {
+      "startTime": 48.02,
+      "finishTime": 48.28,
+      "word": "or"
+    },
+    {
+      "startTime": 48.28,
+      "finishTime": 48.8,
+      "word": "passwords"
+    },
+    {
+      "startTime": 48.8,
+      "finishTime": 49.08,
+      "word": "with"
+    },
+    {
+      "startTime": 49.08,
+      "finishTime": 49.4,
+      "word": "anyone."
+    },
+    {
+      "startTime": 49.92,
+      "finishTime": 50.26,
+      "word": "Security"
+    },
+    {
+      "startTime": 50.26,
+      "finishTime": 50.46,
+      "word": "is"
+    },
+    {
+      "startTime": 50.46,
+      "finishTime": 50.48,
+      "word": "a"
+    },
+    {
+      "startTime": 50.48,
+      "finishTime": 50.66,
+      "word": "big"
+    },
+    {
+      "startTime": 50.66,
+      "finishTime": 50.82,
+      "word": "deal"
+    },
+    {
+      "startTime": 50.82,
+      "finishTime": 50.98,
+      "word": "for"
+    },
+    {
+      "startTime": 50.98,
+      "finishTime": 51.28,
+      "word": "him."
+    },
+    {
+      "startTime": 52.120000000000005,
+      "finishTime": 52.6,
+      "word": "Understandable."
+    },
+    {
+      "startTime": 52.96,
+      "finishTime": 53.24,
+      "word": "Well,"
+    },
+    {
+      "startTime": 53.52,
+      "finishTime": 53.78,
+      "word": "thanks."
+    },
+    {
+      "startTime": 54.32,
+      "finishTime": 54.44,
+      "word": "No"
+    },
+    {
+      "startTime": 54.44,
+      "finishTime": 54.76,
+      "word": "problem."
+    },
+    {
+      "startTime": 54.96,
+      "finishTime": 55.06,
+      "word": "If"
+    },
+    {
+      "startTime": 55.06,
+      "finishTime": 55.18,
+      "word": "you"
+    },
+    {
+      "startTime": 55.18,
+      "finishTime": 55.32,
+      "word": "ever"
+    },
+    {
+      "startTime": 55.32,
+      "finishTime": 55.52,
+      "word": "need"
+    },
+    {
+      "startTime": 55.52,
+      "finishTime": 55.76,
+      "word": "any"
+    },
+    {
+      "startTime": 55.76,
+      "finishTime": 56.08,
+      "word": "security"
+    },
+    {
+      "startTime": 56.08,
+      "finishTime": 56.36,
+      "word": "tips,"
+    },
+    {
+      "startTime": 56.58,
+      "finishTime": 56.58,
+      "word": "you"
+    },
+    {
+      "startTime": 56.58,
+      "finishTime": 56.82,
+      "word": "really"
+    },
+    {
+      "startTime": 56.82,
+      "finishTime": 56.98,
+      "word": "must"
+    },
+    {
+      "startTime": 56.98,
+      "finishTime": 57.18,
+      "word": "talk"
+    },
+    {
+      "startTime": 57.18,
+      "finishTime": 57.36,
+      "word": "to"
+    },
+    {
+      "startTime": 57.36,
+      "finishTime": 57.52,
+      "word": "Jeff."
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "text": "I'm trying to understand the code documentation but it's quite overwhelming. What should I do to navigate it more effectively? Don't worry, when you're faced with extensive documentation, the first thing you should do is check for a table of contents or an index. It can help you find the specific information you're looking for. Okay, that makes sense. And what should I do next? Once you've found the section you need, you should start by reading the introductory paragraphs to get an overview of what the documentation covers. Then you can skim through and focus on the parts relevant to your current task. Thanks, I'll go over the documentation as you said.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.38,
+      "word": "I'm"
+    },
+    {
+      "startTime": 0.38,
+      "finishTime": 0.66,
+      "word": "trying"
+    },
+    {
+      "startTime": 0.66,
+      "finishTime": 0.86,
+      "word": "to"
+    },
+    {
+      "startTime": 0.86,
+      "finishTime": 1.22,
+      "word": "understand"
+    },
+    {
+      "startTime": 1.22,
+      "finishTime": 1.46,
+      "word": "the"
+    },
+    {
+      "startTime": 1.46,
+      "finishTime": 1.66,
+      "word": "code"
+    },
+    {
+      "startTime": 1.66,
+      "finishTime": 2.28,
+      "word": "documentation"
+    },
+    {
+      "startTime": 2.28,
+      "finishTime": 2.66,
+      "word": "but"
+    },
+    {
+      "startTime": 2.66,
+      "finishTime": 2.88,
+      "word": "it's"
+    },
+    {
+      "startTime": 2.88,
+      "finishTime": 3.16,
+      "word": "quite"
+    },
+    {
+      "startTime": 3.16,
+      "finishTime": 3.68,
+      "word": "overwhelming."
+    },
+    {
+      "startTime": 4.16,
+      "finishTime": 4.38,
+      "word": "What"
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.56,
+      "word": "should"
+    },
+    {
+      "startTime": 4.56,
+      "finishTime": 4.72,
+      "word": "I"
+    },
+    {
+      "startTime": 4.72,
+      "finishTime": 4.84,
+      "word": "do"
+    },
+    {
+      "startTime": 4.84,
+      "finishTime": 5.08,
+      "word": "to"
+    },
+    {
+      "startTime": 5.08,
+      "finishTime": 5.42,
+      "word": "navigate"
+    },
+    {
+      "startTime": 5.42,
+      "finishTime": 5.6,
+      "word": "it"
+    },
+    {
+      "startTime": 5.6,
+      "finishTime": 5.84,
+      "word": "more"
+    },
+    {
+      "startTime": 5.84,
+      "finishTime": 6.28,
+      "word": "effectively?"
+    },
+    {
+      "startTime": 7,
+      "finishTime": 7.14,
+      "word": "Don't"
+    },
+    {
+      "startTime": 7.14,
+      "finishTime": 7.48,
+      "word": "worry,"
+    },
+    {
+      "startTime": 7.58,
+      "finishTime": 7.76,
+      "word": "when"
+    },
+    {
+      "startTime": 7.76,
+      "finishTime": 7.92,
+      "word": "you're"
+    },
+    {
+      "startTime": 7.92,
+      "finishTime": 8.18,
+      "word": "faced"
+    },
+    {
+      "startTime": 8.18,
+      "finishTime": 8.44,
+      "word": "with"
+    },
+    {
+      "startTime": 8.44,
+      "finishTime": 8.94,
+      "word": "extensive"
+    },
+    {
+      "startTime": 8.94,
+      "finishTime": 9.74,
+      "word": "documentation,"
+    },
+    {
+      "startTime": 10.14,
+      "finishTime": 10.22,
+      "word": "the"
+    },
+    {
+      "startTime": 10.22,
+      "finishTime": 10.44,
+      "word": "first"
+    },
+    {
+      "startTime": 10.44,
+      "finishTime": 10.58,
+      "word": "thing"
+    },
+    {
+      "startTime": 10.58,
+      "finishTime": 10.76,
+      "word": "you"
+    },
+    {
+      "startTime": 10.76,
+      "finishTime": 10.9,
+      "word": "should"
+    },
+    {
+      "startTime": 10.9,
+      "finishTime": 11.22,
+      "word": "do"
+    },
+    {
+      "startTime": 11.22,
+      "finishTime": 11.44,
+      "word": "is"
+    },
+    {
+      "startTime": 11.44,
+      "finishTime": 11.68,
+      "word": "check"
+    },
+    {
+      "startTime": 11.68,
+      "finishTime": 11.9,
+      "word": "for"
+    },
+    {
+      "startTime": 11.9,
+      "finishTime": 11.98,
+      "word": "a"
+    },
+    {
+      "startTime": 11.98,
+      "finishTime": 12.18,
+      "word": "table"
+    },
+    {
+      "startTime": 12.18,
+      "finishTime": 12.52,
+      "word": "of"
+    },
+    {
+      "startTime": 12.52,
+      "finishTime": 12.84,
+      "word": "contents"
+    },
+    {
+      "startTime": 12.84,
+      "finishTime": 13.08,
+      "word": "or"
+    },
+    {
+      "startTime": 13.08,
+      "finishTime": 13.34,
+      "word": "an"
+    },
+    {
+      "startTime": 13.34,
+      "finishTime": 13.66,
+      "word": "index."
+    },
+    {
+      "startTime": 13.98,
+      "finishTime": 14.24,
+      "word": "It"
+    },
+    {
+      "startTime": 14.24,
+      "finishTime": 14.4,
+      "word": "can"
+    },
+    {
+      "startTime": 14.4,
+      "finishTime": 14.54,
+      "word": "help"
+    },
+    {
+      "startTime": 14.54,
+      "finishTime": 14.74,
+      "word": "you"
+    },
+    {
+      "startTime": 14.74,
+      "finishTime": 14.9,
+      "word": "find"
+    },
+    {
+      "startTime": 14.9,
+      "finishTime": 15.12,
+      "word": "the"
+    },
+    {
+      "startTime": 15.12,
+      "finishTime": 15.46,
+      "word": "specific"
+    },
+    {
+      "startTime": 15.46,
+      "finishTime": 15.96,
+      "word": "information"
+    },
+    {
+      "startTime": 15.96,
+      "finishTime": 16.14,
+      "word": "you're"
+    },
+    {
+      "startTime": 16.14,
+      "finishTime": 16.4,
+      "word": "looking"
+    },
+    {
+      "startTime": 16.4,
+      "finishTime": 16.94,
+      "word": "for."
+    },
+    {
+      "startTime": 17.28,
+      "finishTime": 17.7,
+      "word": "Okay,"
+    },
+    {
+      "startTime": 17.92,
+      "finishTime": 18.14,
+      "word": "that"
+    },
+    {
+      "startTime": 18.14,
+      "finishTime": 18.34,
+      "word": "makes"
+    },
+    {
+      "startTime": 18.34,
+      "finishTime": 18.8,
+      "word": "sense."
+    },
+    {
+      "startTime": 19.12,
+      "finishTime": 19.4,
+      "word": "And"
+    },
+    {
+      "startTime": 19.4,
+      "finishTime": 19.54,
+      "word": "what"
+    },
+    {
+      "startTime": 19.54,
+      "finishTime": 19.64,
+      "word": "should"
+    },
+    {
+      "startTime": 19.64,
+      "finishTime": 19.78,
+      "word": "I"
+    },
+    {
+      "startTime": 19.78,
+      "finishTime": 19.88,
+      "word": "do"
+    },
+    {
+      "startTime": 19.88,
+      "finishTime": 20.3,
+      "word": "next?"
+    },
+    {
+      "startTime": 20.88,
+      "finishTime": 21.1,
+      "word": "Once"
+    },
+    {
+      "startTime": 21.1,
+      "finishTime": 21.4,
+      "word": "you've"
+    },
+    {
+      "startTime": 21.4,
+      "finishTime": 21.48,
+      "word": "found"
+    },
+    {
+      "startTime": 21.48,
+      "finishTime": 21.68,
+      "word": "the"
+    },
+    {
+      "startTime": 21.68,
+      "finishTime": 21.88,
+      "word": "section"
+    },
+    {
+      "startTime": 21.88,
+      "finishTime": 22.14,
+      "word": "you"
+    },
+    {
+      "startTime": 22.14,
+      "finishTime": 22.36,
+      "word": "need,"
+    },
+    {
+      "startTime": 22.66,
+      "finishTime": 22.8,
+      "word": "you"
+    },
+    {
+      "startTime": 22.8,
+      "finishTime": 22.98,
+      "word": "should"
+    },
+    {
+      "startTime": 22.98,
+      "finishTime": 23.18,
+      "word": "start"
+    },
+    {
+      "startTime": 23.18,
+      "finishTime": 23.46,
+      "word": "by"
+    },
+    {
+      "startTime": 23.46,
+      "finishTime": 23.66,
+      "word": "reading"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 24,
+      "word": "the"
+    },
+    {
+      "startTime": 24,
+      "finishTime": 24.34,
+      "word": "introductory"
+    },
+    {
+      "startTime": 24.34,
+      "finishTime": 24.98,
+      "word": "paragraphs"
+    },
+    {
+      "startTime": 24.98,
+      "finishTime": 25.24,
+      "word": "to"
+    },
+    {
+      "startTime": 25.24,
+      "finishTime": 25.4,
+      "word": "get"
+    },
+    {
+      "startTime": 25.4,
+      "finishTime": 25.52,
+      "word": "an"
+    },
+    {
+      "startTime": 25.52,
+      "finishTime": 25.98,
+      "word": "overview"
+    },
+    {
+      "startTime": 25.98,
+      "finishTime": 26.22,
+      "word": "of"
+    },
+    {
+      "startTime": 26.22,
+      "finishTime": 26.4,
+      "word": "what"
+    },
+    {
+      "startTime": 26.4,
+      "finishTime": 26.66,
+      "word": "the"
+    },
+    {
+      "startTime": 26.66,
+      "finishTime": 27.06,
+      "word": "documentation"
+    },
+    {
+      "startTime": 27.06,
+      "finishTime": 27.62,
+      "word": "covers."
+    },
+    {
+      "startTime": 28.22,
+      "finishTime": 28.56,
+      "word": "Then"
+    },
+    {
+      "startTime": 28.56,
+      "finishTime": 28.74,
+      "word": "you"
+    },
+    {
+      "startTime": 28.74,
+      "finishTime": 28.98,
+      "word": "can"
+    },
+    {
+      "startTime": 28.98,
+      "finishTime": 29.2,
+      "word": "skim"
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.5,
+      "word": "through"
+    },
+    {
+      "startTime": 29.5,
+      "finishTime": 29.68,
+      "word": "and"
+    },
+    {
+      "startTime": 29.68,
+      "finishTime": 29.96,
+      "word": "focus"
+    },
+    {
+      "startTime": 29.96,
+      "finishTime": 30.12,
+      "word": "on"
+    },
+    {
+      "startTime": 30.12,
+      "finishTime": 30.26,
+      "word": "the"
+    },
+    {
+      "startTime": 30.26,
+      "finishTime": 30.44,
+      "word": "parts"
+    },
+    {
+      "startTime": 30.44,
+      "finishTime": 30.84,
+      "word": "relevant"
+    },
+    {
+      "startTime": 30.84,
+      "finishTime": 31.04,
+      "word": "to"
+    },
+    {
+      "startTime": 31.04,
+      "finishTime": 31.2,
+      "word": "your"
+    },
+    {
+      "startTime": 31.2,
+      "finishTime": 31.42,
+      "word": "current"
+    },
+    {
+      "startTime": 31.42,
+      "finishTime": 31.88,
+      "word": "task."
+    },
+    {
+      "startTime": 32.42,
+      "finishTime": 32.76,
+      "word": "Thanks,"
+    },
+    {
+      "startTime": 33.04,
+      "finishTime": 33.22,
+      "word": "I'll"
+    },
+    {
+      "startTime": 33.22,
+      "finishTime": 33.4,
+      "word": "go"
+    },
+    {
+      "startTime": 33.4,
+      "finishTime": 33.56,
+      "word": "over"
+    },
+    {
+      "startTime": 33.56,
+      "finishTime": 33.88,
+      "word": "the"
+    },
+    {
+      "startTime": 33.88,
+      "finishTime": 34.42,
+      "word": "documentation"
+    },
+    {
+      "startTime": 34.42,
+      "finishTime": 34.74,
+      "word": "as"
+    },
+    {
+      "startTime": 34.74,
+      "finishTime": 34.96,
+      "word": "you"
+    },
+    {
+      "startTime": 34.96,
+      "finishTime": 35.16,
+      "word": "said."
+    }
+  ]
+}

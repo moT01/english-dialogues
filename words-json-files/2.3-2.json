@@ -1,0 +1,430 @@
+{
+  "text": "Hi, Sarah. What are you doing now? Hi, Bob. I'm looking at customer data to find patterns. We're trying to understand what our customers like and what they buy, but we're not having any luck at the moment. Interesting. I'm making pictures with our data for our reports. We think it may help people understand them better. I'm using some tools to help me. Pictures can be great to explain things. We're not using pictures, but it's definitely fun to work with data like this.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.74,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 0.82,
+      "finishTime": 1.1,
+      "word": "Sarah."
+    },
+    {
+      "startTime": 1.44,
+      "finishTime": 1.6,
+      "word": "What"
+    },
+    {
+      "startTime": 1.6,
+      "finishTime": 1.76,
+      "word": "are"
+    },
+    {
+      "startTime": 1.76,
+      "finishTime": 1.88,
+      "word": "you"
+    },
+    {
+      "startTime": 1.88,
+      "finishTime": 2.06,
+      "word": "doing"
+    },
+    {
+      "startTime": 2.06,
+      "finishTime": 2.64,
+      "word": "now?"
+    },
+    {
+      "startTime": 3.52,
+      "finishTime": 3.7,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 3.7,
+      "finishTime": 3.98,
+      "word": "Bob."
+    },
+    {
+      "startTime": 4.16,
+      "finishTime": 4.34,
+      "word": "I'm"
+    },
+    {
+      "startTime": 4.34,
+      "finishTime": 4.58,
+      "word": "looking"
+    },
+    {
+      "startTime": 4.58,
+      "finishTime": 4.84,
+      "word": "at"
+    },
+    {
+      "startTime": 4.84,
+      "finishTime": 5.12,
+      "word": "customer"
+    },
+    {
+      "startTime": 5.12,
+      "finishTime": 5.4,
+      "word": "data"
+    },
+    {
+      "startTime": 5.4,
+      "finishTime": 5.64,
+      "word": "to"
+    },
+    {
+      "startTime": 5.64,
+      "finishTime": 5.88,
+      "word": "find"
+    },
+    {
+      "startTime": 5.88,
+      "finishTime": 6.44,
+      "word": "patterns."
+    },
+    {
+      "startTime": 6.88,
+      "finishTime": 7.06,
+      "word": "We're"
+    },
+    {
+      "startTime": 7.06,
+      "finishTime": 7.3,
+      "word": "trying"
+    },
+    {
+      "startTime": 7.3,
+      "finishTime": 7.56,
+      "word": "to"
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 7.9,
+      "word": "understand"
+    },
+    {
+      "startTime": 7.9,
+      "finishTime": 8.12,
+      "word": "what"
+    },
+    {
+      "startTime": 8.12,
+      "finishTime": 8.4,
+      "word": "our"
+    },
+    {
+      "startTime": 8.4,
+      "finishTime": 8.68,
+      "word": "customers"
+    },
+    {
+      "startTime": 8.68,
+      "finishTime": 9.06,
+      "word": "like"
+    },
+    {
+      "startTime": 9.06,
+      "finishTime": 9.36,
+      "word": "and"
+    },
+    {
+      "startTime": 9.36,
+      "finishTime": 9.5,
+      "word": "what"
+    },
+    {
+      "startTime": 9.5,
+      "finishTime": 9.72,
+      "word": "they"
+    },
+    {
+      "startTime": 9.72,
+      "finishTime": 10.04,
+      "word": "buy,"
+    },
+    {
+      "startTime": 10.04,
+      "finishTime": 10.3,
+      "word": "but"
+    },
+    {
+      "startTime": 10.3,
+      "finishTime": 10.46,
+      "word": "we're"
+    },
+    {
+      "startTime": 10.46,
+      "finishTime": 10.6,
+      "word": "not"
+    },
+    {
+      "startTime": 10.6,
+      "finishTime": 10.76,
+      "word": "having"
+    },
+    {
+      "startTime": 10.76,
+      "finishTime": 10.94,
+      "word": "any"
+    },
+    {
+      "startTime": 10.94,
+      "finishTime": 11.08,
+      "word": "luck"
+    },
+    {
+      "startTime": 11.08,
+      "finishTime": 11.24,
+      "word": "at"
+    },
+    {
+      "startTime": 11.24,
+      "finishTime": 11.38,
+      "word": "the"
+    },
+    {
+      "startTime": 11.38,
+      "finishTime": 11.74,
+      "word": "moment."
+    },
+    {
+      "startTime": 12.519999999999996,
+      "finishTime": 13,
+      "word": "Interesting."
+    },
+    {
+      "startTime": 13.4,
+      "finishTime": 13.7,
+      "word": "I'm"
+    },
+    {
+      "startTime": 13.7,
+      "finishTime": 13.98,
+      "word": "making"
+    },
+    {
+      "startTime": 13.98,
+      "finishTime": 14.38,
+      "word": "pictures"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 14.68,
+      "word": "with"
+    },
+    {
+      "startTime": 14.68,
+      "finishTime": 14.88,
+      "word": "our"
+    },
+    {
+      "startTime": 14.88,
+      "finishTime": 15.16,
+      "word": "data"
+    },
+    {
+      "startTime": 15.16,
+      "finishTime": 15.56,
+      "word": "for"
+    },
+    {
+      "startTime": 15.56,
+      "finishTime": 15.8,
+      "word": "our"
+    },
+    {
+      "startTime": 15.8,
+      "finishTime": 16.24,
+      "word": "reports."
+    },
+    {
+      "startTime": 16.8,
+      "finishTime": 17,
+      "word": "We"
+    },
+    {
+      "startTime": 17,
+      "finishTime": 17.12,
+      "word": "think"
+    },
+    {
+      "startTime": 17.12,
+      "finishTime": 17.3,
+      "word": "it"
+    },
+    {
+      "startTime": 17.3,
+      "finishTime": 17.44,
+      "word": "may"
+    },
+    {
+      "startTime": 17.44,
+      "finishTime": 17.58,
+      "word": "help"
+    },
+    {
+      "startTime": 17.58,
+      "finishTime": 17.94,
+      "word": "people"
+    },
+    {
+      "startTime": 17.94,
+      "finishTime": 18.4,
+      "word": "understand"
+    },
+    {
+      "startTime": 18.4,
+      "finishTime": 18.58,
+      "word": "them"
+    },
+    {
+      "startTime": 18.58,
+      "finishTime": 18.88,
+      "word": "better."
+    },
+    {
+      "startTime": 19.22,
+      "finishTime": 19.52,
+      "word": "I'm"
+    },
+    {
+      "startTime": 19.52,
+      "finishTime": 19.78,
+      "word": "using"
+    },
+    {
+      "startTime": 19.78,
+      "finishTime": 20.14,
+      "word": "some"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.6,
+      "word": "tools"
+    },
+    {
+      "startTime": 20.6,
+      "finishTime": 20.88,
+      "word": "to"
+    },
+    {
+      "startTime": 20.88,
+      "finishTime": 21.02,
+      "word": "help"
+    },
+    {
+      "startTime": 21.02,
+      "finishTime": 21.86,
+      "word": "me."
+    },
+    {
+      "startTime": 22.32,
+      "finishTime": 22.48,
+      "word": "Pictures"
+    },
+    {
+      "startTime": 22.48,
+      "finishTime": 22.7,
+      "word": "can"
+    },
+    {
+      "startTime": 22.7,
+      "finishTime": 22.86,
+      "word": "be"
+    },
+    {
+      "startTime": 22.86,
+      "finishTime": 23.08,
+      "word": "great"
+    },
+    {
+      "startTime": 23.08,
+      "finishTime": 23.32,
+      "word": "to"
+    },
+    {
+      "startTime": 23.32,
+      "finishTime": 23.56,
+      "word": "explain"
+    },
+    {
+      "startTime": 23.56,
+      "finishTime": 24,
+      "word": "things."
+    },
+    {
+      "startTime": 24.74,
+      "finishTime": 24.92,
+      "word": "We're"
+    },
+    {
+      "startTime": 24.92,
+      "finishTime": 25.1,
+      "word": "not"
+    },
+    {
+      "startTime": 25.1,
+      "finishTime": 25.34,
+      "word": "using"
+    },
+    {
+      "startTime": 25.34,
+      "finishTime": 25.72,
+      "word": "pictures,"
+    },
+    {
+      "startTime": 25.72,
+      "finishTime": 25.92,
+      "word": "but"
+    },
+    {
+      "startTime": 25.92,
+      "finishTime": 26.2,
+      "word": "it's"
+    },
+    {
+      "startTime": 26.2,
+      "finishTime": 26.52,
+      "word": "definitely"
+    },
+    {
+      "startTime": 26.52,
+      "finishTime": 26.74,
+      "word": "fun"
+    },
+    {
+      "startTime": 26.74,
+      "finishTime": 26.92,
+      "word": "to"
+    },
+    {
+      "startTime": 26.92,
+      "finishTime": 27.02,
+      "word": "work"
+    },
+    {
+      "startTime": 27.02,
+      "finishTime": 27.22,
+      "word": "with"
+    },
+    {
+      "startTime": 27.22,
+      "finishTime": 27.38,
+      "word": "data"
+    },
+    {
+      "startTime": 27.38,
+      "finishTime": 27.62,
+      "word": "like"
+    },
+    {
+      "startTime": 27.62,
+      "finishTime": 28.02,
+      "word": "this."
+    }
+  ]
+}

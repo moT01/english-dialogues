@@ -1,0 +1,410 @@
+{
+  "text": "Hey James, what's your cybersecurity project about? Hi Sophie, I'm checking our network for problems. We want to be safe from hackers. I'm using special tools to see where we might have problems, and then I have to fix them. That's important work. I'm helping our team learn how to stay safe online. We're taking some lessons and practicing what to do if someone tries to steal our identity. That's great, Sophie. The two of us are doing some important work.",
+  "words": [
+    {
+      "startTime": 0.5599999999999998,
+      "finishTime": 1.04,
+      "word": "Hey"
+    },
+    {
+      "startTime": 1.04,
+      "finishTime": 1.4,
+      "word": "James,"
+    },
+    {
+      "startTime": 1.56,
+      "finishTime": 1.8,
+      "word": "what's"
+    },
+    {
+      "startTime": 1.8,
+      "finishTime": 1.96,
+      "word": "your"
+    },
+    {
+      "startTime": 1.96,
+      "finishTime": 2.52,
+      "word": "cybersecurity"
+    },
+    {
+      "startTime": 2.52,
+      "finishTime": 2.94,
+      "word": "project"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.28,
+      "word": "about?"
+    },
+    {
+      "startTime": 3.94,
+      "finishTime": 4.18,
+      "word": "Hi"
+    },
+    {
+      "startTime": 4.18,
+      "finishTime": 4.44,
+      "word": "Sophie,"
+    },
+    {
+      "startTime": 4.78,
+      "finishTime": 4.96,
+      "word": "I'm"
+    },
+    {
+      "startTime": 4.96,
+      "finishTime": 5.24,
+      "word": "checking"
+    },
+    {
+      "startTime": 5.24,
+      "finishTime": 5.46,
+      "word": "our"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.72,
+      "word": "network"
+    },
+    {
+      "startTime": 5.72,
+      "finishTime": 5.98,
+      "word": "for"
+    },
+    {
+      "startTime": 5.98,
+      "finishTime": 6.38,
+      "word": "problems."
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 6.96,
+      "word": "We"
+    },
+    {
+      "startTime": 6.96,
+      "finishTime": 7.12,
+      "word": "want"
+    },
+    {
+      "startTime": 7.12,
+      "finishTime": 7.26,
+      "word": "to"
+    },
+    {
+      "startTime": 7.26,
+      "finishTime": 7.48,
+      "word": "be"
+    },
+    {
+      "startTime": 7.48,
+      "finishTime": 7.72,
+      "word": "safe"
+    },
+    {
+      "startTime": 7.72,
+      "finishTime": 7.96,
+      "word": "from"
+    },
+    {
+      "startTime": 7.96,
+      "finishTime": 8.42,
+      "word": "hackers."
+    },
+    {
+      "startTime": 8.76,
+      "finishTime": 8.98,
+      "word": "I'm"
+    },
+    {
+      "startTime": 8.98,
+      "finishTime": 9.32,
+      "word": "using"
+    },
+    {
+      "startTime": 9.32,
+      "finishTime": 9.72,
+      "word": "special"
+    },
+    {
+      "startTime": 9.72,
+      "finishTime": 10.12,
+      "word": "tools"
+    },
+    {
+      "startTime": 10.12,
+      "finishTime": 10.36,
+      "word": "to"
+    },
+    {
+      "startTime": 10.36,
+      "finishTime": 10.5,
+      "word": "see"
+    },
+    {
+      "startTime": 10.5,
+      "finishTime": 10.72,
+      "word": "where"
+    },
+    {
+      "startTime": 10.72,
+      "finishTime": 10.9,
+      "word": "we"
+    },
+    {
+      "startTime": 10.9,
+      "finishTime": 11.08,
+      "word": "might"
+    },
+    {
+      "startTime": 11.08,
+      "finishTime": 11.32,
+      "word": "have"
+    },
+    {
+      "startTime": 11.32,
+      "finishTime": 11.76,
+      "word": "problems,"
+    },
+    {
+      "startTime": 11.92,
+      "finishTime": 12.18,
+      "word": "and"
+    },
+    {
+      "startTime": 12.18,
+      "finishTime": 12.34,
+      "word": "then"
+    },
+    {
+      "startTime": 12.34,
+      "finishTime": 12.5,
+      "word": "I"
+    },
+    {
+      "startTime": 12.5,
+      "finishTime": 12.62,
+      "word": "have"
+    },
+    {
+      "startTime": 12.62,
+      "finishTime": 12.78,
+      "word": "to"
+    },
+    {
+      "startTime": 12.78,
+      "finishTime": 12.96,
+      "word": "fix"
+    },
+    {
+      "startTime": 12.96,
+      "finishTime": 13.4,
+      "word": "them."
+    },
+    {
+      "startTime": 13.92,
+      "finishTime": 14.34,
+      "word": "That's"
+    },
+    {
+      "startTime": 14.34,
+      "finishTime": 14.56,
+      "word": "important"
+    },
+    {
+      "startTime": 14.56,
+      "finishTime": 14.92,
+      "word": "work."
+    },
+    {
+      "startTime": 15.2,
+      "finishTime": 15.42,
+      "word": "I'm"
+    },
+    {
+      "startTime": 15.42,
+      "finishTime": 15.66,
+      "word": "helping"
+    },
+    {
+      "startTime": 15.66,
+      "finishTime": 15.86,
+      "word": "our"
+    },
+    {
+      "startTime": 15.86,
+      "finishTime": 16.06,
+      "word": "team"
+    },
+    {
+      "startTime": 16.06,
+      "finishTime": 16.26,
+      "word": "learn"
+    },
+    {
+      "startTime": 16.26,
+      "finishTime": 16.42,
+      "word": "how"
+    },
+    {
+      "startTime": 16.42,
+      "finishTime": 16.58,
+      "word": "to"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.7,
+      "word": "stay"
+    },
+    {
+      "startTime": 16.7,
+      "finishTime": 16.9,
+      "word": "safe"
+    },
+    {
+      "startTime": 16.9,
+      "finishTime": 17.34,
+      "word": "online."
+    },
+    {
+      "startTime": 18,
+      "finishTime": 18.22,
+      "word": "We're"
+    },
+    {
+      "startTime": 18.22,
+      "finishTime": 18.4,
+      "word": "taking"
+    },
+    {
+      "startTime": 18.4,
+      "finishTime": 18.64,
+      "word": "some"
+    },
+    {
+      "startTime": 18.64,
+      "finishTime": 18.98,
+      "word": "lessons"
+    },
+    {
+      "startTime": 18.98,
+      "finishTime": 19.26,
+      "word": "and"
+    },
+    {
+      "startTime": 19.26,
+      "finishTime": 19.58,
+      "word": "practicing"
+    },
+    {
+      "startTime": 19.58,
+      "finishTime": 19.82,
+      "word": "what"
+    },
+    {
+      "startTime": 19.82,
+      "finishTime": 20,
+      "word": "to"
+    },
+    {
+      "startTime": 20,
+      "finishTime": 20.14,
+      "word": "do"
+    },
+    {
+      "startTime": 20.14,
+      "finishTime": 20.28,
+      "word": "if"
+    },
+    {
+      "startTime": 20.28,
+      "finishTime": 20.54,
+      "word": "someone"
+    },
+    {
+      "startTime": 20.54,
+      "finishTime": 20.8,
+      "word": "tries"
+    },
+    {
+      "startTime": 20.8,
+      "finishTime": 21.04,
+      "word": "to"
+    },
+    {
+      "startTime": 21.04,
+      "finishTime": 21.14,
+      "word": "steal"
+    },
+    {
+      "startTime": 21.14,
+      "finishTime": 21.42,
+      "word": "our"
+    },
+    {
+      "startTime": 21.42,
+      "finishTime": 21.74,
+      "word": "identity."
+    },
+    {
+      "startTime": 22.34,
+      "finishTime": 22.7,
+      "word": "That's"
+    },
+    {
+      "startTime": 22.7,
+      "finishTime": 22.9,
+      "word": "great,"
+    },
+    {
+      "startTime": 22.92,
+      "finishTime": 23.3,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 23.54,
+      "finishTime": 23.68,
+      "word": "The"
+    },
+    {
+      "startTime": 23.68,
+      "finishTime": 23.84,
+      "word": "two"
+    },
+    {
+      "startTime": 23.84,
+      "finishTime": 23.98,
+      "word": "of"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.1,
+      "word": "us"
+    },
+    {
+      "startTime": 24.1,
+      "finishTime": 24.28,
+      "word": "are"
+    },
+    {
+      "startTime": 24.28,
+      "finishTime": 24.42,
+      "word": "doing"
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.66,
+      "word": "some"
+    },
+    {
+      "startTime": 24.66,
+      "finishTime": 25.02,
+      "word": "important"
+    },
+    {
+      "startTime": 25.02,
+      "finishTime": 25.46,
+      "word": "work."
+    }
+  ]
+}

@@ -1,0 +1,1075 @@
+{
+  "text": "Hi, Tom, you look a bit down these days. Is everything okay? Hey, Alice. Yeah, I feel a bit demotivated. One thing that really gets to me is working long hours without any breaks. It's exhausting and it feels like I'm constantly running without knowing where I'm going. I totally get that, Tom. Working overtime all the time can be draining. Personally, I hate dealing with office politics. It's frustrating when people are constantly trying to beat each other instead of working together as a team. You're right, Alice. Dealing with office politics is never fun. Another thing that gets to me is having too many meetings. Sometimes it feels like we're meeting for no reason and it's hard to find time to actually work on projects. I hear you, Tom. Sitting in meetings for hours can be discouraging. For me, what really annoys me is having to do a bunch of repetitive tasks without any variation. It feels like I'm wasting my skills and creativity. That does sound frustrating, Alice. Repeating the same tasks over and over can be demotivating. Thanks for listening, by the way. It feels good to talk about these things. Of course, Tom. We all have our moments of demotivation and it's good to share and support each other.",
+  "words": [
+    {
+      "startTime": 0.9799999999999995,
+      "finishTime": 1.54,
+      "word": "Hi,"
+    },
+    {
+      "startTime": 1.54,
+      "finishTime": 1.86,
+      "word": "Tom,"
+    },
+    {
+      "startTime": 1.94,
+      "finishTime": 2.16,
+      "word": "you"
+    },
+    {
+      "startTime": 2.16,
+      "finishTime": 2.3,
+      "word": "look"
+    },
+    {
+      "startTime": 2.3,
+      "finishTime": 2.42,
+      "word": "a"
+    },
+    {
+      "startTime": 2.42,
+      "finishTime": 2.54,
+      "word": "bit"
+    },
+    {
+      "startTime": 2.54,
+      "finishTime": 2.78,
+      "word": "down"
+    },
+    {
+      "startTime": 2.78,
+      "finishTime": 3.08,
+      "word": "these"
+    },
+    {
+      "startTime": 3.08,
+      "finishTime": 3.44,
+      "word": "days."
+    },
+    {
+      "startTime": 3.72,
+      "finishTime": 3.8,
+      "word": "Is"
+    },
+    {
+      "startTime": 3.8,
+      "finishTime": 4.04,
+      "word": "everything"
+    },
+    {
+      "startTime": 4.04,
+      "finishTime": 4.58,
+      "word": "okay?"
+    },
+    {
+      "startTime": 5.3,
+      "finishTime": 5.54,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 5.64,
+      "finishTime": 5.9,
+      "word": "Alice."
+    },
+    {
+      "startTime": 6.34,
+      "finishTime": 6.72,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 7.04,
+      "word": "I"
+    },
+    {
+      "startTime": 7.04,
+      "finishTime": 7.26,
+      "word": "feel"
+    },
+    {
+      "startTime": 7.26,
+      "finishTime": 7.42,
+      "word": "a"
+    },
+    {
+      "startTime": 7.42,
+      "finishTime": 7.66,
+      "word": "bit"
+    },
+    {
+      "startTime": 7.66,
+      "finishTime": 8.48,
+      "word": "demotivated."
+    },
+    {
+      "startTime": 8.84,
+      "finishTime": 9.08,
+      "word": "One"
+    },
+    {
+      "startTime": 9.08,
+      "finishTime": 9.22,
+      "word": "thing"
+    },
+    {
+      "startTime": 9.22,
+      "finishTime": 9.38,
+      "word": "that"
+    },
+    {
+      "startTime": 9.38,
+      "finishTime": 9.68,
+      "word": "really"
+    },
+    {
+      "startTime": 9.68,
+      "finishTime": 9.94,
+      "word": "gets"
+    },
+    {
+      "startTime": 9.94,
+      "finishTime": 10.14,
+      "word": "to"
+    },
+    {
+      "startTime": 10.14,
+      "finishTime": 10.46,
+      "word": "me"
+    },
+    {
+      "startTime": 10.46,
+      "finishTime": 10.76,
+      "word": "is"
+    },
+    {
+      "startTime": 10.76,
+      "finishTime": 11.08,
+      "word": "working"
+    },
+    {
+      "startTime": 11.08,
+      "finishTime": 11.38,
+      "word": "long"
+    },
+    {
+      "startTime": 11.38,
+      "finishTime": 11.68,
+      "word": "hours"
+    },
+    {
+      "startTime": 11.68,
+      "finishTime": 12,
+      "word": "without"
+    },
+    {
+      "startTime": 12,
+      "finishTime": 12.3,
+      "word": "any"
+    },
+    {
+      "startTime": 12.3,
+      "finishTime": 12.6,
+      "word": "breaks."
+    },
+    {
+      "startTime": 12.82,
+      "finishTime": 13.2,
+      "word": "It's"
+    },
+    {
+      "startTime": 13.2,
+      "finishTime": 13.7,
+      "word": "exhausting"
+    },
+    {
+      "startTime": 13.7,
+      "finishTime": 14.2,
+      "word": "and"
+    },
+    {
+      "startTime": 14.2,
+      "finishTime": 14.38,
+      "word": "it"
+    },
+    {
+      "startTime": 14.38,
+      "finishTime": 14.52,
+      "word": "feels"
+    },
+    {
+      "startTime": 14.52,
+      "finishTime": 14.72,
+      "word": "like"
+    },
+    {
+      "startTime": 14.72,
+      "finishTime": 14.94,
+      "word": "I'm"
+    },
+    {
+      "startTime": 14.94,
+      "finishTime": 15.34,
+      "word": "constantly"
+    },
+    {
+      "startTime": 15.34,
+      "finishTime": 15.72,
+      "word": "running"
+    },
+    {
+      "startTime": 15.72,
+      "finishTime": 16.04,
+      "word": "without"
+    },
+    {
+      "startTime": 16.04,
+      "finishTime": 16.36,
+      "word": "knowing"
+    },
+    {
+      "startTime": 16.36,
+      "finishTime": 16.58,
+      "word": "where"
+    },
+    {
+      "startTime": 16.58,
+      "finishTime": 16.76,
+      "word": "I'm"
+    },
+    {
+      "startTime": 16.76,
+      "finishTime": 17.12,
+      "word": "going."
+    },
+    {
+      "startTime": 17.9,
+      "finishTime": 18.02,
+      "word": "I"
+    },
+    {
+      "startTime": 18.02,
+      "finishTime": 18.34,
+      "word": "totally"
+    },
+    {
+      "startTime": 18.34,
+      "finishTime": 18.54,
+      "word": "get"
+    },
+    {
+      "startTime": 18.54,
+      "finishTime": 18.84,
+      "word": "that,"
+    },
+    {
+      "startTime": 18.84,
+      "finishTime": 19.18,
+      "word": "Tom."
+    },
+    {
+      "startTime": 19.64,
+      "finishTime": 19.98,
+      "word": "Working"
+    },
+    {
+      "startTime": 19.98,
+      "finishTime": 20.3,
+      "word": "overtime"
+    },
+    {
+      "startTime": 20.3,
+      "finishTime": 20.54,
+      "word": "all"
+    },
+    {
+      "startTime": 20.54,
+      "finishTime": 20.72,
+      "word": "the"
+    },
+    {
+      "startTime": 20.72,
+      "finishTime": 20.88,
+      "word": "time"
+    },
+    {
+      "startTime": 20.88,
+      "finishTime": 21.06,
+      "word": "can"
+    },
+    {
+      "startTime": 21.06,
+      "finishTime": 21.32,
+      "word": "be"
+    },
+    {
+      "startTime": 21.32,
+      "finishTime": 21.72,
+      "word": "draining."
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.82,
+      "word": "Personally,"
+    },
+    {
+      "startTime": 22.82,
+      "finishTime": 23.14,
+      "word": "I"
+    },
+    {
+      "startTime": 23.14,
+      "finishTime": 23.38,
+      "word": "hate"
+    },
+    {
+      "startTime": 23.38,
+      "finishTime": 23.66,
+      "word": "dealing"
+    },
+    {
+      "startTime": 23.66,
+      "finishTime": 23.94,
+      "word": "with"
+    },
+    {
+      "startTime": 23.94,
+      "finishTime": 24.18,
+      "word": "office"
+    },
+    {
+      "startTime": 24.18,
+      "finishTime": 24.78,
+      "word": "politics."
+    },
+    {
+      "startTime": 25.22,
+      "finishTime": 25.5,
+      "word": "It's"
+    },
+    {
+      "startTime": 25.5,
+      "finishTime": 25.86,
+      "word": "frustrating"
+    },
+    {
+      "startTime": 25.86,
+      "finishTime": 26.02,
+      "word": "when"
+    },
+    {
+      "startTime": 26.02,
+      "finishTime": 26.24,
+      "word": "people"
+    },
+    {
+      "startTime": 26.24,
+      "finishTime": 26.46,
+      "word": "are"
+    },
+    {
+      "startTime": 26.46,
+      "finishTime": 26.8,
+      "word": "constantly"
+    },
+    {
+      "startTime": 26.8,
+      "finishTime": 27.08,
+      "word": "trying"
+    },
+    {
+      "startTime": 27.08,
+      "finishTime": 27.28,
+      "word": "to"
+    },
+    {
+      "startTime": 27.28,
+      "finishTime": 27.4,
+      "word": "beat"
+    },
+    {
+      "startTime": 27.4,
+      "finishTime": 27.66,
+      "word": "each"
+    },
+    {
+      "startTime": 27.66,
+      "finishTime": 27.88,
+      "word": "other"
+    },
+    {
+      "startTime": 27.88,
+      "finishTime": 28.14,
+      "word": "instead"
+    },
+    {
+      "startTime": 28.14,
+      "finishTime": 28.3,
+      "word": "of"
+    },
+    {
+      "startTime": 28.3,
+      "finishTime": 28.52,
+      "word": "working"
+    },
+    {
+      "startTime": 28.52,
+      "finishTime": 28.84,
+      "word": "together"
+    },
+    {
+      "startTime": 28.84,
+      "finishTime": 29.04,
+      "word": "as"
+    },
+    {
+      "startTime": 29.04,
+      "finishTime": 29.2,
+      "word": "a"
+    },
+    {
+      "startTime": 29.2,
+      "finishTime": 29.58,
+      "word": "team."
+    },
+    {
+      "startTime": 30.28,
+      "finishTime": 30.42,
+      "word": "You're"
+    },
+    {
+      "startTime": 30.42,
+      "finishTime": 30.68,
+      "word": "right,"
+    },
+    {
+      "startTime": 30.68,
+      "finishTime": 31.08,
+      "word": "Alice."
+    },
+    {
+      "startTime": 31.24,
+      "finishTime": 31.62,
+      "word": "Dealing"
+    },
+    {
+      "startTime": 31.62,
+      "finishTime": 31.94,
+      "word": "with"
+    },
+    {
+      "startTime": 31.94,
+      "finishTime": 32.28,
+      "word": "office"
+    },
+    {
+      "startTime": 32.28,
+      "finishTime": 32.74,
+      "word": "politics"
+    },
+    {
+      "startTime": 32.74,
+      "finishTime": 33.1,
+      "word": "is"
+    },
+    {
+      "startTime": 33.1,
+      "finishTime": 33.32,
+      "word": "never"
+    },
+    {
+      "startTime": 33.32,
+      "finishTime": 33.66,
+      "word": "fun."
+    },
+    {
+      "startTime": 34,
+      "finishTime": 34.36,
+      "word": "Another"
+    },
+    {
+      "startTime": 34.36,
+      "finishTime": 34.7,
+      "word": "thing"
+    },
+    {
+      "startTime": 34.7,
+      "finishTime": 34.92,
+      "word": "that"
+    },
+    {
+      "startTime": 34.92,
+      "finishTime": 35.12,
+      "word": "gets"
+    },
+    {
+      "startTime": 35.12,
+      "finishTime": 35.32,
+      "word": "to"
+    },
+    {
+      "startTime": 35.32,
+      "finishTime": 35.62,
+      "word": "me"
+    },
+    {
+      "startTime": 35.62,
+      "finishTime": 35.86,
+      "word": "is"
+    },
+    {
+      "startTime": 35.86,
+      "finishTime": 36.18,
+      "word": "having"
+    },
+    {
+      "startTime": 36.18,
+      "finishTime": 36.74,
+      "word": "too"
+    },
+    {
+      "startTime": 36.74,
+      "finishTime": 37.02,
+      "word": "many"
+    },
+    {
+      "startTime": 37.02,
+      "finishTime": 37.44,
+      "word": "meetings."
+    },
+    {
+      "startTime": 37.96000000000001,
+      "finishTime": 38.480000000000004,
+      "word": "Sometimes"
+    },
+    {
+      "startTime": 38.480000000000004,
+      "finishTime": 39,
+      "word": "it"
+    },
+    {
+      "startTime": 39,
+      "finishTime": 39.26,
+      "word": "feels"
+    },
+    {
+      "startTime": 39.26,
+      "finishTime": 39.48,
+      "word": "like"
+    },
+    {
+      "startTime": 39.48,
+      "finishTime": 39.66,
+      "word": "we're"
+    },
+    {
+      "startTime": 39.66,
+      "finishTime": 39.82,
+      "word": "meeting"
+    },
+    {
+      "startTime": 39.82,
+      "finishTime": 40.02,
+      "word": "for"
+    },
+    {
+      "startTime": 40.02,
+      "finishTime": 40.3,
+      "word": "no"
+    },
+    {
+      "startTime": 40.3,
+      "finishTime": 40.68,
+      "word": "reason"
+    },
+    {
+      "startTime": 40.68,
+      "finishTime": 41.02,
+      "word": "and"
+    },
+    {
+      "startTime": 41.02,
+      "finishTime": 41.22,
+      "word": "it's"
+    },
+    {
+      "startTime": 41.22,
+      "finishTime": 41.34,
+      "word": "hard"
+    },
+    {
+      "startTime": 41.34,
+      "finishTime": 41.56,
+      "word": "to"
+    },
+    {
+      "startTime": 41.56,
+      "finishTime": 41.72,
+      "word": "find"
+    },
+    {
+      "startTime": 41.72,
+      "finishTime": 41.9,
+      "word": "time"
+    },
+    {
+      "startTime": 41.9,
+      "finishTime": 42.14,
+      "word": "to"
+    },
+    {
+      "startTime": 42.14,
+      "finishTime": 42.36,
+      "word": "actually"
+    },
+    {
+      "startTime": 42.36,
+      "finishTime": 42.6,
+      "word": "work"
+    },
+    {
+      "startTime": 42.6,
+      "finishTime": 42.86,
+      "word": "on"
+    },
+    {
+      "startTime": 42.86,
+      "finishTime": 43.36,
+      "word": "projects."
+    },
+    {
+      "startTime": 44.06,
+      "finishTime": 44.14,
+      "word": "I"
+    },
+    {
+      "startTime": 44.14,
+      "finishTime": 44.34,
+      "word": "hear"
+    },
+    {
+      "startTime": 44.34,
+      "finishTime": 44.54,
+      "word": "you,"
+    },
+    {
+      "startTime": 44.58,
+      "finishTime": 44.84,
+      "word": "Tom."
+    },
+    {
+      "startTime": 45.12,
+      "finishTime": 45.36,
+      "word": "Sitting"
+    },
+    {
+      "startTime": 45.36,
+      "finishTime": 45.56,
+      "word": "in"
+    },
+    {
+      "startTime": 45.56,
+      "finishTime": 45.8,
+      "word": "meetings"
+    },
+    {
+      "startTime": 45.8,
+      "finishTime": 46.06,
+      "word": "for"
+    },
+    {
+      "startTime": 46.06,
+      "finishTime": 46.34,
+      "word": "hours"
+    },
+    {
+      "startTime": 46.34,
+      "finishTime": 46.52,
+      "word": "can"
+    },
+    {
+      "startTime": 46.52,
+      "finishTime": 46.76,
+      "word": "be"
+    },
+    {
+      "startTime": 46.76,
+      "finishTime": 47.32,
+      "word": "discouraging."
+    },
+    {
+      "startTime": 47.96,
+      "finishTime": 48.14,
+      "word": "For"
+    },
+    {
+      "startTime": 48.14,
+      "finishTime": 48.48,
+      "word": "me,"
+    },
+    {
+      "startTime": 48.48,
+      "finishTime": 48.7,
+      "word": "what"
+    },
+    {
+      "startTime": 48.7,
+      "finishTime": 49,
+      "word": "really"
+    },
+    {
+      "startTime": 49,
+      "finishTime": 49.26,
+      "word": "annoys"
+    },
+    {
+      "startTime": 49.26,
+      "finishTime": 49.48,
+      "word": "me"
+    },
+    {
+      "startTime": 49.48,
+      "finishTime": 49.6,
+      "word": "is"
+    },
+    {
+      "startTime": 49.6,
+      "finishTime": 49.8,
+      "word": "having"
+    },
+    {
+      "startTime": 49.8,
+      "finishTime": 49.96,
+      "word": "to"
+    },
+    {
+      "startTime": 49.96,
+      "finishTime": 50.06,
+      "word": "do"
+    },
+    {
+      "startTime": 50.06,
+      "finishTime": 50.24,
+      "word": "a"
+    },
+    {
+      "startTime": 50.24,
+      "finishTime": 50.4,
+      "word": "bunch"
+    },
+    {
+      "startTime": 50.4,
+      "finishTime": 50.6,
+      "word": "of"
+    },
+    {
+      "startTime": 50.6,
+      "finishTime": 51.04,
+      "word": "repetitive"
+    },
+    {
+      "startTime": 51.04,
+      "finishTime": 51.58,
+      "word": "tasks"
+    },
+    {
+      "startTime": 51.58,
+      "finishTime": 51.96,
+      "word": "without"
+    },
+    {
+      "startTime": 51.96,
+      "finishTime": 52.28,
+      "word": "any"
+    },
+    {
+      "startTime": 52.28,
+      "finishTime": 52.78,
+      "word": "variation."
+    },
+    {
+      "startTime": 53.44,
+      "finishTime": 53.56,
+      "word": "It"
+    },
+    {
+      "startTime": 53.56,
+      "finishTime": 53.68,
+      "word": "feels"
+    },
+    {
+      "startTime": 53.68,
+      "finishTime": 53.86,
+      "word": "like"
+    },
+    {
+      "startTime": 53.86,
+      "finishTime": 54.02,
+      "word": "I'm"
+    },
+    {
+      "startTime": 54.02,
+      "finishTime": 54.28,
+      "word": "wasting"
+    },
+    {
+      "startTime": 54.28,
+      "finishTime": 54.58,
+      "word": "my"
+    },
+    {
+      "startTime": 54.58,
+      "finishTime": 54.82,
+      "word": "skills"
+    },
+    {
+      "startTime": 54.82,
+      "finishTime": 55.1,
+      "word": "and"
+    },
+    {
+      "startTime": 55.1,
+      "finishTime": 55.58,
+      "word": "creativity."
+    },
+    {
+      "startTime": 56.06,
+      "finishTime": 56.28,
+      "word": "That"
+    },
+    {
+      "startTime": 56.28,
+      "finishTime": 56.62,
+      "word": "does"
+    },
+    {
+      "startTime": 56.62,
+      "finishTime": 56.92,
+      "word": "sound"
+    },
+    {
+      "startTime": 56.92,
+      "finishTime": 57.48,
+      "word": "frustrating,"
+    },
+    {
+      "startTime": 57.8,
+      "finishTime": 58,
+      "word": "Alice."
+    },
+    {
+      "startTime": 58.62,
+      "finishTime": 59,
+      "word": "Repeating"
+    },
+    {
+      "startTime": 59,
+      "finishTime": 59.16,
+      "word": "the"
+    },
+    {
+      "startTime": 59.16,
+      "finishTime": 59.44,
+      "word": "same"
+    },
+    {
+      "startTime": 59.44,
+      "finishTime": 59.82,
+      "word": "tasks"
+    },
+    {
+      "startTime": 59.82,
+      "finishTime": 60.26,
+      "word": "over"
+    },
+    {
+      "startTime": 60.26,
+      "finishTime": 60.42,
+      "word": "and"
+    },
+    {
+      "startTime": 60.42,
+      "finishTime": 60.62,
+      "word": "over"
+    },
+    {
+      "startTime": 60.62,
+      "finishTime": 60.84,
+      "word": "can"
+    },
+    {
+      "startTime": 60.84,
+      "finishTime": 61.04,
+      "word": "be"
+    },
+    {
+      "startTime": 61.04,
+      "finishTime": 61.78,
+      "word": "demotivating."
+    },
+    {
+      "startTime": 62.2,
+      "finishTime": 62.4,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 62.4,
+      "finishTime": 62.62,
+      "word": "for"
+    },
+    {
+      "startTime": 62.62,
+      "finishTime": 62.9,
+      "word": "listening,"
+    },
+    {
+      "startTime": 63.08,
+      "finishTime": 63.16,
+      "word": "by"
+    },
+    {
+      "startTime": 63.16,
+      "finishTime": 63.32,
+      "word": "the"
+    },
+    {
+      "startTime": 63.32,
+      "finishTime": 63.5,
+      "word": "way."
+    },
+    {
+      "startTime": 63.8,
+      "finishTime": 63.88,
+      "word": "It"
+    },
+    {
+      "startTime": 63.88,
+      "finishTime": 64.12,
+      "word": "feels"
+    },
+    {
+      "startTime": 64.12,
+      "finishTime": 64.3,
+      "word": "good"
+    },
+    {
+      "startTime": 64.3,
+      "finishTime": 64.52,
+      "word": "to"
+    },
+    {
+      "startTime": 64.52,
+      "finishTime": 64.66,
+      "word": "talk"
+    },
+    {
+      "startTime": 64.66,
+      "finishTime": 64.86,
+      "word": "about"
+    },
+    {
+      "startTime": 64.86,
+      "finishTime": 65.08,
+      "word": "these"
+    },
+    {
+      "startTime": 65.08,
+      "finishTime": 65.38,
+      "word": "things."
+    },
+    {
+      "startTime": 65.78,
+      "finishTime": 65.9,
+      "word": "Of"
+    },
+    {
+      "startTime": 65.9,
+      "finishTime": 66.14,
+      "word": "course,"
+    },
+    {
+      "startTime": 66.28,
+      "finishTime": 66.4,
+      "word": "Tom."
+    },
+    {
+      "startTime": 66.7,
+      "finishTime": 66.8,
+      "word": "We"
+    },
+    {
+      "startTime": 66.8,
+      "finishTime": 66.98,
+      "word": "all"
+    },
+    {
+      "startTime": 66.98,
+      "finishTime": 67.14,
+      "word": "have"
+    },
+    {
+      "startTime": 67.14,
+      "finishTime": 67.3,
+      "word": "our"
+    },
+    {
+      "startTime": 67.3,
+      "finishTime": 67.56,
+      "word": "moments"
+    },
+    {
+      "startTime": 67.56,
+      "finishTime": 67.8,
+      "word": "of"
+    },
+    {
+      "startTime": 67.8,
+      "finishTime": 68.46,
+      "word": "demotivation"
+    },
+    {
+      "startTime": 68.46,
+      "finishTime": 68.66,
+      "word": "and"
+    },
+    {
+      "startTime": 68.66,
+      "finishTime": 68.86,
+      "word": "it's"
+    },
+    {
+      "startTime": 68.86,
+      "finishTime": 68.92,
+      "word": "good"
+    },
+    {
+      "startTime": 68.92,
+      "finishTime": 69.16,
+      "word": "to"
+    },
+    {
+      "startTime": 69.16,
+      "finishTime": 69.34,
+      "word": "share"
+    },
+    {
+      "startTime": 69.34,
+      "finishTime": 69.56,
+      "word": "and"
+    },
+    {
+      "startTime": 69.56,
+      "finishTime": 69.76,
+      "word": "support"
+    },
+    {
+      "startTime": 69.76,
+      "finishTime": 69.96,
+      "word": "each"
+    },
+    {
+      "startTime": 69.96,
+      "finishTime": 70.3,
+      "word": "other."
+    }
+  ]
+}

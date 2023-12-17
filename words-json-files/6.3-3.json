@@ -1,0 +1,470 @@
+{
+  "text": "Brian, I've encountered an issue in the code, and I can't quite pinpoint what's causing it. I may need a second pair of eyes to help me out. No problem, Sophie. I can definitely work on that with you. Let's start by understanding the symptoms of the issue. I've noticed that the issue may occur when we handle large data sets. It could be a performance bottleneck, but I should confirm it. Understood. We can investigate this together, and by the end of it, we should have a clearer picture of what's happening.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.74,
+      "word": "Brian,"
+    },
+    {
+      "startTime": 0.84,
+      "finishTime": 1.12,
+      "word": "I've"
+    },
+    {
+      "startTime": 1.12,
+      "finishTime": 1.4,
+      "word": "encountered"
+    },
+    {
+      "startTime": 1.4,
+      "finishTime": 1.64,
+      "word": "an"
+    },
+    {
+      "startTime": 1.64,
+      "finishTime": 1.86,
+      "word": "issue"
+    },
+    {
+      "startTime": 1.86,
+      "finishTime": 2.04,
+      "word": "in"
+    },
+    {
+      "startTime": 2.04,
+      "finishTime": 2.2,
+      "word": "the"
+    },
+    {
+      "startTime": 2.2,
+      "finishTime": 2.42,
+      "word": "code,"
+    },
+    {
+      "startTime": 2.68,
+      "finishTime": 2.84,
+      "word": "and"
+    },
+    {
+      "startTime": 2.84,
+      "finishTime": 2.94,
+      "word": "I"
+    },
+    {
+      "startTime": 2.94,
+      "finishTime": 3.26,
+      "word": "can't"
+    },
+    {
+      "startTime": 3.26,
+      "finishTime": 3.56,
+      "word": "quite"
+    },
+    {
+      "startTime": 3.56,
+      "finishTime": 4,
+      "word": "pinpoint"
+    },
+    {
+      "startTime": 4,
+      "finishTime": 4.38,
+      "word": "what's"
+    },
+    {
+      "startTime": 4.38,
+      "finishTime": 4.6,
+      "word": "causing"
+    },
+    {
+      "startTime": 4.6,
+      "finishTime": 4.92,
+      "word": "it."
+    },
+    {
+      "startTime": 5.22,
+      "finishTime": 5.46,
+      "word": "I"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.62,
+      "word": "may"
+    },
+    {
+      "startTime": 5.62,
+      "finishTime": 5.8,
+      "word": "need"
+    },
+    {
+      "startTime": 5.8,
+      "finishTime": 5.94,
+      "word": "a"
+    },
+    {
+      "startTime": 5.94,
+      "finishTime": 6.12,
+      "word": "second"
+    },
+    {
+      "startTime": 6.12,
+      "finishTime": 6.32,
+      "word": "pair"
+    },
+    {
+      "startTime": 6.32,
+      "finishTime": 6.48,
+      "word": "of"
+    },
+    {
+      "startTime": 6.48,
+      "finishTime": 6.72,
+      "word": "eyes"
+    },
+    {
+      "startTime": 6.72,
+      "finishTime": 6.9,
+      "word": "to"
+    },
+    {
+      "startTime": 6.9,
+      "finishTime": 7.08,
+      "word": "help"
+    },
+    {
+      "startTime": 7.08,
+      "finishTime": 7.26,
+      "word": "me"
+    },
+    {
+      "startTime": 7.26,
+      "finishTime": 7.6,
+      "word": "out."
+    },
+    {
+      "startTime": 7.98,
+      "finishTime": 8.18,
+      "word": "No"
+    },
+    {
+      "startTime": 8.18,
+      "finishTime": 8.5,
+      "word": "problem,"
+    },
+    {
+      "startTime": 8.52,
+      "finishTime": 8.84,
+      "word": "Sophie."
+    },
+    {
+      "startTime": 9.04,
+      "finishTime": 9.26,
+      "word": "I"
+    },
+    {
+      "startTime": 9.26,
+      "finishTime": 9.46,
+      "word": "can"
+    },
+    {
+      "startTime": 9.46,
+      "finishTime": 9.82,
+      "word": "definitely"
+    },
+    {
+      "startTime": 9.82,
+      "finishTime": 10.1,
+      "word": "work"
+    },
+    {
+      "startTime": 10.1,
+      "finishTime": 10.26,
+      "word": "on"
+    },
+    {
+      "startTime": 10.26,
+      "finishTime": 10.34,
+      "word": "that"
+    },
+    {
+      "startTime": 10.34,
+      "finishTime": 10.56,
+      "word": "with"
+    },
+    {
+      "startTime": 10.56,
+      "finishTime": 10.76,
+      "word": "you."
+    },
+    {
+      "startTime": 10.86,
+      "finishTime": 11.12,
+      "word": "Let's"
+    },
+    {
+      "startTime": 11.12,
+      "finishTime": 11.34,
+      "word": "start"
+    },
+    {
+      "startTime": 11.34,
+      "finishTime": 11.54,
+      "word": "by"
+    },
+    {
+      "startTime": 11.54,
+      "finishTime": 11.98,
+      "word": "understanding"
+    },
+    {
+      "startTime": 11.98,
+      "finishTime": 12.26,
+      "word": "the"
+    },
+    {
+      "startTime": 12.26,
+      "finishTime": 12.62,
+      "word": "symptoms"
+    },
+    {
+      "startTime": 12.62,
+      "finishTime": 12.86,
+      "word": "of"
+    },
+    {
+      "startTime": 12.86,
+      "finishTime": 13.02,
+      "word": "the"
+    },
+    {
+      "startTime": 13.02,
+      "finishTime": 13.26,
+      "word": "issue."
+    },
+    {
+      "startTime": 14.08,
+      "finishTime": 14.32,
+      "word": "I've"
+    },
+    {
+      "startTime": 14.32,
+      "finishTime": 14.56,
+      "word": "noticed"
+    },
+    {
+      "startTime": 14.56,
+      "finishTime": 14.76,
+      "word": "that"
+    },
+    {
+      "startTime": 14.76,
+      "finishTime": 14.96,
+      "word": "the"
+    },
+    {
+      "startTime": 14.96,
+      "finishTime": 15.1,
+      "word": "issue"
+    },
+    {
+      "startTime": 15.1,
+      "finishTime": 15.46,
+      "word": "may"
+    },
+    {
+      "startTime": 15.46,
+      "finishTime": 15.76,
+      "word": "occur"
+    },
+    {
+      "startTime": 15.76,
+      "finishTime": 15.92,
+      "word": "when"
+    },
+    {
+      "startTime": 15.92,
+      "finishTime": 16.08,
+      "word": "we"
+    },
+    {
+      "startTime": 16.08,
+      "finishTime": 16.36,
+      "word": "handle"
+    },
+    {
+      "startTime": 16.36,
+      "finishTime": 16.78,
+      "word": "large"
+    },
+    {
+      "startTime": 16.78,
+      "finishTime": 17.12,
+      "word": "data"
+    },
+    {
+      "startTime": 17.12,
+      "finishTime": 17.44,
+      "word": "sets."
+    },
+    {
+      "startTime": 17.92,
+      "finishTime": 18.04,
+      "word": "It"
+    },
+    {
+      "startTime": 18.04,
+      "finishTime": 18.16,
+      "word": "could"
+    },
+    {
+      "startTime": 18.16,
+      "finishTime": 18.32,
+      "word": "be"
+    },
+    {
+      "startTime": 18.32,
+      "finishTime": 18.54,
+      "word": "a"
+    },
+    {
+      "startTime": 18.54,
+      "finishTime": 18.92,
+      "word": "performance"
+    },
+    {
+      "startTime": 18.92,
+      "finishTime": 19.42,
+      "word": "bottleneck,"
+    },
+    {
+      "startTime": 19.42,
+      "finishTime": 19.56,
+      "word": "but"
+    },
+    {
+      "startTime": 19.56,
+      "finishTime": 19.68,
+      "word": "I"
+    },
+    {
+      "startTime": 19.68,
+      "finishTime": 19.86,
+      "word": "should"
+    },
+    {
+      "startTime": 19.86,
+      "finishTime": 20.16,
+      "word": "confirm"
+    },
+    {
+      "startTime": 20.16,
+      "finishTime": 20.54,
+      "word": "it."
+    },
+    {
+      "startTime": 20.94,
+      "finishTime": 21.36,
+      "word": "Understood."
+    },
+    {
+      "startTime": 21.64,
+      "finishTime": 21.78,
+      "word": "We"
+    },
+    {
+      "startTime": 21.78,
+      "finishTime": 22.02,
+      "word": "can"
+    },
+    {
+      "startTime": 22.02,
+      "finishTime": 22.46,
+      "word": "investigate"
+    },
+    {
+      "startTime": 22.46,
+      "finishTime": 22.7,
+      "word": "this"
+    },
+    {
+      "startTime": 22.7,
+      "finishTime": 23.08,
+      "word": "together,"
+    },
+    {
+      "startTime": 23.16,
+      "finishTime": 23.5,
+      "word": "and"
+    },
+    {
+      "startTime": 23.5,
+      "finishTime": 23.72,
+      "word": "by"
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 23.86,
+      "word": "the"
+    },
+    {
+      "startTime": 23.86,
+      "finishTime": 23.98,
+      "word": "end"
+    },
+    {
+      "startTime": 23.98,
+      "finishTime": 24.06,
+      "word": "of"
+    },
+    {
+      "startTime": 24.06,
+      "finishTime": 24.22,
+      "word": "it,"
+    },
+    {
+      "startTime": 24.34,
+      "finishTime": 24.42,
+      "word": "we"
+    },
+    {
+      "startTime": 24.42,
+      "finishTime": 24.62,
+      "word": "should"
+    },
+    {
+      "startTime": 24.62,
+      "finishTime": 24.86,
+      "word": "have"
+    },
+    {
+      "startTime": 24.86,
+      "finishTime": 25.02,
+      "word": "a"
+    },
+    {
+      "startTime": 25.02,
+      "finishTime": 25.2,
+      "word": "clearer"
+    },
+    {
+      "startTime": 25.2,
+      "finishTime": 25.56,
+      "word": "picture"
+    },
+    {
+      "startTime": 25.56,
+      "finishTime": 25.68,
+      "word": "of"
+    },
+    {
+      "startTime": 25.68,
+      "finishTime": 26.06,
+      "word": "what's"
+    },
+    {
+      "startTime": 26.06,
+      "finishTime": 26.28,
+      "word": "happening."
+    }
+  ]
+}

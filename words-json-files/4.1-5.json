@@ -1,0 +1,1065 @@
+{
+  "text": "Hey, Sophie, what motivates you to work on open source software projects in your free time? Well, I love contributing to open source projects. I really like the sense of community and collaboration. It's incredible how people from around the world come together to create something amazing. Yeah, I checked out some open source projects, but I admit that I have problems with the amount of time it can take to contribute. Sometimes it can be so time consuming. I understand, Tom. It can be a commitment, but I can't stand seeing this great software being private. Open source is all about transparency and accessibility, and that's something I truly believe in. Yeah, transparency is a strong motivator for many developers. For me, I like the idea of practicing my skills and getting recognition for my contributions. It's a fantastic way to show what you're capable of. Also, when software becomes obsolete because it's no longer maintained, there isn't much you can do to save it. With open source, there's always a chance for continuous improvement. That's true. The sustainability of open source projects is something I'm growing to appreciate more. Thanks for sharing your motivations. I think I'll see if I can find a project to dedicate some spare time to.",
+  "words": [
+    {
+      "startTime": 0,
+      "finishTime": 0.8,
+      "word": "Hey,"
+    },
+    {
+      "startTime": 1,
+      "finishTime": 1.34,
+      "word": "Sophie,"
+    },
+    {
+      "startTime": 1.84,
+      "finishTime": 2.1,
+      "word": "what"
+    },
+    {
+      "startTime": 2.1,
+      "finishTime": 2.56,
+      "word": "motivates"
+    },
+    {
+      "startTime": 2.56,
+      "finishTime": 2.8,
+      "word": "you"
+    },
+    {
+      "startTime": 2.8,
+      "finishTime": 2.96,
+      "word": "to"
+    },
+    {
+      "startTime": 2.96,
+      "finishTime": 3.12,
+      "word": "work"
+    },
+    {
+      "startTime": 3.12,
+      "finishTime": 3.44,
+      "word": "on"
+    },
+    {
+      "startTime": 3.44,
+      "finishTime": 3.74,
+      "word": "open"
+    },
+    {
+      "startTime": 3.74,
+      "finishTime": 4,
+      "word": "source"
+    },
+    {
+      "startTime": 4,
+      "finishTime": 4.44,
+      "word": "software"
+    },
+    {
+      "startTime": 4.44,
+      "finishTime": 4.88,
+      "word": "projects"
+    },
+    {
+      "startTime": 4.88,
+      "finishTime": 5.08,
+      "word": "in"
+    },
+    {
+      "startTime": 5.08,
+      "finishTime": 5.24,
+      "word": "your"
+    },
+    {
+      "startTime": 5.24,
+      "finishTime": 5.46,
+      "word": "free"
+    },
+    {
+      "startTime": 5.46,
+      "finishTime": 5.92,
+      "word": "time?"
+    },
+    {
+      "startTime": 6.86,
+      "finishTime": 7.12,
+      "word": "Well,"
+    },
+    {
+      "startTime": 7.18,
+      "finishTime": 7.32,
+      "word": "I"
+    },
+    {
+      "startTime": 7.32,
+      "finishTime": 7.56,
+      "word": "love"
+    },
+    {
+      "startTime": 7.56,
+      "finishTime": 8.04,
+      "word": "contributing"
+    },
+    {
+      "startTime": 8.04,
+      "finishTime": 8.28,
+      "word": "to"
+    },
+    {
+      "startTime": 8.28,
+      "finishTime": 8.44,
+      "word": "open"
+    },
+    {
+      "startTime": 8.44,
+      "finishTime": 8.68,
+      "word": "source"
+    },
+    {
+      "startTime": 8.68,
+      "finishTime": 9.22,
+      "word": "projects."
+    },
+    {
+      "startTime": 9.54,
+      "finishTime": 9.78,
+      "word": "I"
+    },
+    {
+      "startTime": 9.78,
+      "finishTime": 10.02,
+      "word": "really"
+    },
+    {
+      "startTime": 10.02,
+      "finishTime": 10.18,
+      "word": "like"
+    },
+    {
+      "startTime": 10.18,
+      "finishTime": 10.38,
+      "word": "the"
+    },
+    {
+      "startTime": 10.38,
+      "finishTime": 10.54,
+      "word": "sense"
+    },
+    {
+      "startTime": 10.54,
+      "finishTime": 10.78,
+      "word": "of"
+    },
+    {
+      "startTime": 10.78,
+      "finishTime": 11.2,
+      "word": "community"
+    },
+    {
+      "startTime": 11.2,
+      "finishTime": 11.52,
+      "word": "and"
+    },
+    {
+      "startTime": 11.52,
+      "finishTime": 12.08,
+      "word": "collaboration."
+    },
+    {
+      "startTime": 12.5,
+      "finishTime": 12.72,
+      "word": "It's"
+    },
+    {
+      "startTime": 12.72,
+      "finishTime": 13.04,
+      "word": "incredible"
+    },
+    {
+      "startTime": 13.04,
+      "finishTime": 13.22,
+      "word": "how"
+    },
+    {
+      "startTime": 13.22,
+      "finishTime": 13.5,
+      "word": "people"
+    },
+    {
+      "startTime": 13.5,
+      "finishTime": 13.72,
+      "word": "from"
+    },
+    {
+      "startTime": 13.72,
+      "finishTime": 13.98,
+      "word": "around"
+    },
+    {
+      "startTime": 13.98,
+      "finishTime": 14.2,
+      "word": "the"
+    },
+    {
+      "startTime": 14.2,
+      "finishTime": 14.44,
+      "word": "world"
+    },
+    {
+      "startTime": 14.44,
+      "finishTime": 14.72,
+      "word": "come"
+    },
+    {
+      "startTime": 14.72,
+      "finishTime": 15.14,
+      "word": "together"
+    },
+    {
+      "startTime": 15.14,
+      "finishTime": 15.4,
+      "word": "to"
+    },
+    {
+      "startTime": 15.4,
+      "finishTime": 15.64,
+      "word": "create"
+    },
+    {
+      "startTime": 15.64,
+      "finishTime": 15.94,
+      "word": "something"
+    },
+    {
+      "startTime": 15.94,
+      "finishTime": 16.48,
+      "word": "amazing."
+    },
+    {
+      "startTime": 17.26,
+      "finishTime": 17.62,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 17.62,
+      "finishTime": 17.92,
+      "word": "I"
+    },
+    {
+      "startTime": 17.92,
+      "finishTime": 18.1,
+      "word": "checked"
+    },
+    {
+      "startTime": 18.1,
+      "finishTime": 18.28,
+      "word": "out"
+    },
+    {
+      "startTime": 18.28,
+      "finishTime": 18.54,
+      "word": "some"
+    },
+    {
+      "startTime": 18.54,
+      "finishTime": 18.78,
+      "word": "open"
+    },
+    {
+      "startTime": 18.78,
+      "finishTime": 19.02,
+      "word": "source"
+    },
+    {
+      "startTime": 19.02,
+      "finishTime": 19.46,
+      "word": "projects,"
+    },
+    {
+      "startTime": 19.5,
+      "finishTime": 19.74,
+      "word": "but"
+    },
+    {
+      "startTime": 19.74,
+      "finishTime": 20.02,
+      "word": "I"
+    },
+    {
+      "startTime": 20.02,
+      "finishTime": 20.18,
+      "word": "admit"
+    },
+    {
+      "startTime": 20.18,
+      "finishTime": 20.4,
+      "word": "that"
+    },
+    {
+      "startTime": 20.4,
+      "finishTime": 20.52,
+      "word": "I"
+    },
+    {
+      "startTime": 20.52,
+      "finishTime": 20.74,
+      "word": "have"
+    },
+    {
+      "startTime": 20.74,
+      "finishTime": 21.04,
+      "word": "problems"
+    },
+    {
+      "startTime": 21.04,
+      "finishTime": 21.3,
+      "word": "with"
+    },
+    {
+      "startTime": 21.3,
+      "finishTime": 21.44,
+      "word": "the"
+    },
+    {
+      "startTime": 21.44,
+      "finishTime": 21.6,
+      "word": "amount"
+    },
+    {
+      "startTime": 21.6,
+      "finishTime": 21.86,
+      "word": "of"
+    },
+    {
+      "startTime": 21.86,
+      "finishTime": 22.12,
+      "word": "time"
+    },
+    {
+      "startTime": 22.12,
+      "finishTime": 22.34,
+      "word": "it"
+    },
+    {
+      "startTime": 22.34,
+      "finishTime": 22.48,
+      "word": "can"
+    },
+    {
+      "startTime": 22.48,
+      "finishTime": 22.68,
+      "word": "take"
+    },
+    {
+      "startTime": 22.68,
+      "finishTime": 22.92,
+      "word": "to"
+    },
+    {
+      "startTime": 22.92,
+      "finishTime": 23.34,
+      "word": "contribute."
+    },
+    {
+      "startTime": 23.72,
+      "finishTime": 24.24,
+      "word": "Sometimes"
+    },
+    {
+      "startTime": 24.24,
+      "finishTime": 24.62,
+      "word": "it"
+    },
+    {
+      "startTime": 24.62,
+      "finishTime": 24.78,
+      "word": "can"
+    },
+    {
+      "startTime": 24.78,
+      "finishTime": 25,
+      "word": "be"
+    },
+    {
+      "startTime": 25,
+      "finishTime": 25.38,
+      "word": "so"
+    },
+    {
+      "startTime": 25.38,
+      "finishTime": 25.7,
+      "word": "time"
+    },
+    {
+      "startTime": 25.7,
+      "finishTime": 26.16,
+      "word": "consuming."
+    },
+    {
+      "startTime": 26.16,
+      "finishTime": 26.8,
+      "word": "I"
+    },
+    {
+      "startTime": 26.8,
+      "finishTime": 27.28,
+      "word": "understand,"
+    },
+    {
+      "startTime": 27.5,
+      "finishTime": 27.64,
+      "word": "Tom."
+    },
+    {
+      "startTime": 27.88,
+      "finishTime": 27.9,
+      "word": "It"
+    },
+    {
+      "startTime": 27.9,
+      "finishTime": 28.08,
+      "word": "can"
+    },
+    {
+      "startTime": 28.08,
+      "finishTime": 28.26,
+      "word": "be"
+    },
+    {
+      "startTime": 28.26,
+      "finishTime": 28.4,
+      "word": "a"
+    },
+    {
+      "startTime": 28.4,
+      "finishTime": 28.72,
+      "word": "commitment,"
+    },
+    {
+      "startTime": 29.18,
+      "finishTime": 29.3,
+      "word": "but"
+    },
+    {
+      "startTime": 29.3,
+      "finishTime": 29.42,
+      "word": "I"
+    },
+    {
+      "startTime": 29.42,
+      "finishTime": 29.66,
+      "word": "can't"
+    },
+    {
+      "startTime": 29.66,
+      "finishTime": 30.06,
+      "word": "stand"
+    },
+    {
+      "startTime": 30.06,
+      "finishTime": 30.4,
+      "word": "seeing"
+    },
+    {
+      "startTime": 30.4,
+      "finishTime": 30.64,
+      "word": "this"
+    },
+    {
+      "startTime": 30.64,
+      "finishTime": 30.96,
+      "word": "great"
+    },
+    {
+      "startTime": 30.96,
+      "finishTime": 31.38,
+      "word": "software"
+    },
+    {
+      "startTime": 31.38,
+      "finishTime": 31.68,
+      "word": "being"
+    },
+    {
+      "startTime": 31.68,
+      "finishTime": 32.32,
+      "word": "private."
+    },
+    {
+      "startTime": 32.72,
+      "finishTime": 32.92,
+      "word": "Open"
+    },
+    {
+      "startTime": 32.92,
+      "finishTime": 33.16,
+      "word": "source"
+    },
+    {
+      "startTime": 33.16,
+      "finishTime": 33.34,
+      "word": "is"
+    },
+    {
+      "startTime": 33.34,
+      "finishTime": 33.56,
+      "word": "all"
+    },
+    {
+      "startTime": 33.56,
+      "finishTime": 33.86,
+      "word": "about"
+    },
+    {
+      "startTime": 33.86,
+      "finishTime": 34.62,
+      "word": "transparency"
+    },
+    {
+      "startTime": 34.62,
+      "finishTime": 34.98,
+      "word": "and"
+    },
+    {
+      "startTime": 34.98,
+      "finishTime": 35.5,
+      "word": "accessibility,"
+    },
+    {
+      "startTime": 35.5,
+      "finishTime": 35.84,
+      "word": "and"
+    },
+    {
+      "startTime": 35.84,
+      "finishTime": 36.04,
+      "word": "that's"
+    },
+    {
+      "startTime": 36.04,
+      "finishTime": 36.24,
+      "word": "something"
+    },
+    {
+      "startTime": 36.24,
+      "finishTime": 36.44,
+      "word": "I"
+    },
+    {
+      "startTime": 36.44,
+      "finishTime": 36.66,
+      "word": "truly"
+    },
+    {
+      "startTime": 36.66,
+      "finishTime": 36.92,
+      "word": "believe"
+    },
+    {
+      "startTime": 36.92,
+      "finishTime": 37.46,
+      "word": "in."
+    },
+    {
+      "startTime": 38.02,
+      "finishTime": 38.18,
+      "word": "Yeah,"
+    },
+    {
+      "startTime": 38.56,
+      "finishTime": 38.92,
+      "word": "transparency"
+    },
+    {
+      "startTime": 38.92,
+      "finishTime": 39.28,
+      "word": "is"
+    },
+    {
+      "startTime": 39.28,
+      "finishTime": 39.46,
+      "word": "a"
+    },
+    {
+      "startTime": 39.46,
+      "finishTime": 39.76,
+      "word": "strong"
+    },
+    {
+      "startTime": 39.76,
+      "finishTime": 40.26,
+      "word": "motivator"
+    },
+    {
+      "startTime": 40.26,
+      "finishTime": 40.46,
+      "word": "for"
+    },
+    {
+      "startTime": 40.46,
+      "finishTime": 40.7,
+      "word": "many"
+    },
+    {
+      "startTime": 40.7,
+      "finishTime": 41.24,
+      "word": "developers."
+    },
+    {
+      "startTime": 41.7,
+      "finishTime": 41.86,
+      "word": "For"
+    },
+    {
+      "startTime": 41.86,
+      "finishTime": 42.2,
+      "word": "me,"
+    },
+    {
+      "startTime": 42.56,
+      "finishTime": 42.68,
+      "word": "I"
+    },
+    {
+      "startTime": 42.68,
+      "finishTime": 42.88,
+      "word": "like"
+    },
+    {
+      "startTime": 42.88,
+      "finishTime": 43.1,
+      "word": "the"
+    },
+    {
+      "startTime": 43.1,
+      "finishTime": 43.42,
+      "word": "idea"
+    },
+    {
+      "startTime": 43.42,
+      "finishTime": 43.7,
+      "word": "of"
+    },
+    {
+      "startTime": 43.7,
+      "finishTime": 44.04,
+      "word": "practicing"
+    },
+    {
+      "startTime": 44.04,
+      "finishTime": 44.36,
+      "word": "my"
+    },
+    {
+      "startTime": 44.36,
+      "finishTime": 44.66,
+      "word": "skills"
+    },
+    {
+      "startTime": 44.66,
+      "finishTime": 45.02,
+      "word": "and"
+    },
+    {
+      "startTime": 45.02,
+      "finishTime": 45.32,
+      "word": "getting"
+    },
+    {
+      "startTime": 45.32,
+      "finishTime": 45.92,
+      "word": "recognition"
+    },
+    {
+      "startTime": 45.92,
+      "finishTime": 46.2,
+      "word": "for"
+    },
+    {
+      "startTime": 46.2,
+      "finishTime": 46.5,
+      "word": "my"
+    },
+    {
+      "startTime": 46.5,
+      "finishTime": 47.02,
+      "word": "contributions."
+    },
+    {
+      "startTime": 47.54,
+      "finishTime": 47.82,
+      "word": "It's"
+    },
+    {
+      "startTime": 47.82,
+      "finishTime": 47.94,
+      "word": "a"
+    },
+    {
+      "startTime": 47.94,
+      "finishTime": 48.5,
+      "word": "fantastic"
+    },
+    {
+      "startTime": 48.5,
+      "finishTime": 48.88,
+      "word": "way"
+    },
+    {
+      "startTime": 48.88,
+      "finishTime": 49.14,
+      "word": "to"
+    },
+    {
+      "startTime": 49.14,
+      "finishTime": 49.24,
+      "word": "show"
+    },
+    {
+      "startTime": 49.24,
+      "finishTime": 49.4,
+      "word": "what"
+    },
+    {
+      "startTime": 49.4,
+      "finishTime": 49.62,
+      "word": "you're"
+    },
+    {
+      "startTime": 49.62,
+      "finishTime": 49.98,
+      "word": "capable"
+    },
+    {
+      "startTime": 49.98,
+      "finishTime": 50.44,
+      "word": "of."
+    },
+    {
+      "startTime": 51.419999999999995,
+      "finishTime": 51.94,
+      "word": "Also,"
+    },
+    {
+      "startTime": 52.02,
+      "finishTime": 52.22,
+      "word": "when"
+    },
+    {
+      "startTime": 52.22,
+      "finishTime": 52.54,
+      "word": "software"
+    },
+    {
+      "startTime": 52.54,
+      "finishTime": 52.96,
+      "word": "becomes"
+    },
+    {
+      "startTime": 52.96,
+      "finishTime": 53.46,
+      "word": "obsolete"
+    },
+    {
+      "startTime": 53.46,
+      "finishTime": 53.74,
+      "word": "because"
+    },
+    {
+      "startTime": 53.74,
+      "finishTime": 53.98,
+      "word": "it's"
+    },
+    {
+      "startTime": 53.98,
+      "finishTime": 54.14,
+      "word": "no"
+    },
+    {
+      "startTime": 54.14,
+      "finishTime": 54.38,
+      "word": "longer"
+    },
+    {
+      "startTime": 54.38,
+      "finishTime": 55.02,
+      "word": "maintained,"
+    },
+    {
+      "startTime": 55.46,
+      "finishTime": 55.5,
+      "word": "there"
+    },
+    {
+      "startTime": 55.5,
+      "finishTime": 55.74,
+      "word": "isn't"
+    },
+    {
+      "startTime": 55.74,
+      "finishTime": 55.94,
+      "word": "much"
+    },
+    {
+      "startTime": 55.94,
+      "finishTime": 56.06,
+      "word": "you"
+    },
+    {
+      "startTime": 56.06,
+      "finishTime": 56.22,
+      "word": "can"
+    },
+    {
+      "startTime": 56.22,
+      "finishTime": 56.34,
+      "word": "do"
+    },
+    {
+      "startTime": 56.34,
+      "finishTime": 56.52,
+      "word": "to"
+    },
+    {
+      "startTime": 56.52,
+      "finishTime": 56.68,
+      "word": "save"
+    },
+    {
+      "startTime": 56.68,
+      "finishTime": 57.06,
+      "word": "it."
+    },
+    {
+      "startTime": 57.44,
+      "finishTime": 57.7,
+      "word": "With"
+    },
+    {
+      "startTime": 57.7,
+      "finishTime": 57.98,
+      "word": "open"
+    },
+    {
+      "startTime": 57.98,
+      "finishTime": 58.36,
+      "word": "source,"
+    },
+    {
+      "startTime": 58.54,
+      "finishTime": 58.66,
+      "word": "there's"
+    },
+    {
+      "startTime": 58.66,
+      "finishTime": 58.92,
+      "word": "always"
+    },
+    {
+      "startTime": 58.92,
+      "finishTime": 59.12,
+      "word": "a"
+    },
+    {
+      "startTime": 59.12,
+      "finishTime": 59.3,
+      "word": "chance"
+    },
+    {
+      "startTime": 59.3,
+      "finishTime": 59.58,
+      "word": "for"
+    },
+    {
+      "startTime": 59.58,
+      "finishTime": 59.92,
+      "word": "continuous"
+    },
+    {
+      "startTime": 59.92,
+      "finishTime": 60.44,
+      "word": "improvement."
+    },
+    {
+      "startTime": 61.24,
+      "finishTime": 61.58,
+      "word": "That's"
+    },
+    {
+      "startTime": 61.58,
+      "finishTime": 61.86,
+      "word": "true."
+    },
+    {
+      "startTime": 62.24,
+      "finishTime": 62.5,
+      "word": "The"
+    },
+    {
+      "startTime": 62.5,
+      "finishTime": 63.06,
+      "word": "sustainability"
+    },
+    {
+      "startTime": 63.06,
+      "finishTime": 63.36,
+      "word": "of"
+    },
+    {
+      "startTime": 63.36,
+      "finishTime": 63.58,
+      "word": "open"
+    },
+    {
+      "startTime": 63.58,
+      "finishTime": 63.86,
+      "word": "source"
+    },
+    {
+      "startTime": 63.86,
+      "finishTime": 64.26,
+      "word": "projects"
+    },
+    {
+      "startTime": 64.26,
+      "finishTime": 64.6,
+      "word": "is"
+    },
+    {
+      "startTime": 64.6,
+      "finishTime": 64.86,
+      "word": "something"
+    },
+    {
+      "startTime": 64.86,
+      "finishTime": 65.18,
+      "word": "I'm"
+    },
+    {
+      "startTime": 65.18,
+      "finishTime": 65.44,
+      "word": "growing"
+    },
+    {
+      "startTime": 65.44,
+      "finishTime": 65.78,
+      "word": "to"
+    },
+    {
+      "startTime": 65.78,
+      "finishTime": 66.12,
+      "word": "appreciate"
+    },
+    {
+      "startTime": 66.12,
+      "finishTime": 66.52,
+      "word": "more."
+    },
+    {
+      "startTime": 66.88,
+      "finishTime": 67.08,
+      "word": "Thanks"
+    },
+    {
+      "startTime": 67.08,
+      "finishTime": 67.32,
+      "word": "for"
+    },
+    {
+      "startTime": 67.32,
+      "finishTime": 67.46,
+      "word": "sharing"
+    },
+    {
+      "startTime": 67.46,
+      "finishTime": 67.7,
+      "word": "your"
+    },
+    {
+      "startTime": 67.7,
+      "finishTime": 68.18,
+      "word": "motivations."
+    },
+    {
+      "startTime": 68.8,
+      "finishTime": 68.94,
+      "word": "I"
+    },
+    {
+      "startTime": 68.94,
+      "finishTime": 69.12,
+      "word": "think"
+    },
+    {
+      "startTime": 69.12,
+      "finishTime": 69.34,
+      "word": "I'll"
+    },
+    {
+      "startTime": 69.34,
+      "finishTime": 69.5,
+      "word": "see"
+    },
+    {
+      "startTime": 69.5,
+      "finishTime": 69.68,
+      "word": "if"
+    },
+    {
+      "startTime": 69.68,
+      "finishTime": 69.8,
+      "word": "I"
+    },
+    {
+      "startTime": 69.8,
+      "finishTime": 70,
+      "word": "can"
+    },
+    {
+      "startTime": 70,
+      "finishTime": 70.18,
+      "word": "find"
+    },
+    {
+      "startTime": 70.18,
+      "finishTime": 70.46,
+      "word": "a"
+    },
+    {
+      "startTime": 70.46,
+      "finishTime": 70.72,
+      "word": "project"
+    },
+    {
+      "startTime": 70.72,
+      "finishTime": 71.04,
+      "word": "to"
+    },
+    {
+      "startTime": 71.04,
+      "finishTime": 71.38,
+      "word": "dedicate"
+    },
+    {
+      "startTime": 71.38,
+      "finishTime": 71.68,
+      "word": "some"
+    },
+    {
+      "startTime": 71.68,
+      "finishTime": 71.88,
+      "word": "spare"
+    },
+    {
+      "startTime": 71.88,
+      "finishTime": 72.14,
+      "word": "time"
+    },
+    {
+      "startTime": 72.14,
+      "finishTime": 72.48,
+      "word": "to."
+    }
+  ]
+}
